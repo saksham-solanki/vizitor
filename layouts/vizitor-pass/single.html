@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+<div class="container pagebanneres">
+    <h1 class="center-content ">Vizitor PASS</h1>
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <img src="/images/vizitor/pass/header.png" alt="header">
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <h2>Effortless Check-in Solution</h2>
+            <p>Vizitor PASS is a mobile app for employees of the organizations using Vizitor, a visitor management system. With this Android/iOS application in their pocket, employees can easily manage their visitors in just a few clicks!</p>
+
+            <div class=" mt-3">
+                {{range .Site.Params.apps}}
+                <a href="{{.url}}" target="_blank"><img class="btn-app phonetop-btn" style="    width: 30%;" src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                {{end}}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container pagesection">
+    <h2 class="center-content ">A perfect Companion for Your Employees</h2>
+    <div class="center-content border-line"></div>
+    <p class="center-content">If you have a visitor at the front desk, the Vizitor PASS app will help your employees make visitor’s check-in easy.</p>
+
+
+    <div class="row mt-5">
+        <div class="col-md-4 col-sm-4 col-xs-12">
+            <h4>Quick Check-In</h4>
+            <p>QR code-based unique digital ID in Vizitor PASS app enables you to check-in faster.</p>
+
+            <h4>Real-time Access Control</h4>
+            <p>Vizitor PASS makes it simple to check your visitor’s history. And it also helps you track all your visitor records.</p>
+
+            <h4>Send and Receive Invitees</h4>
+            <p>When you can send and receive invites right from your phone, you’ll need less admin assistance and can manage more on your own.</p>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+            <img src="/images/vizitor/pass/image.png" alt="image">
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+            <h4>Instant Push Notifications</h4>
+            <p>Vizitor notifies the hosts through Email, SMS, and Mobile App notification on the arrival of their visitors.</p>
+
+            <h4>Approve/ Disapprove Visitors</h4>
+            <p>The host can approve/ disapprove their visitor with a customized message.</p>
+        </div>
+    </div>
+</div>
+
+<div class="container center-content pagesection">
+    <h2>A better way to Check-in </h2>
+    <div class="center-content border-line"></div>
+    <br>
+    <p>The employees/host can create and send invites from the application to the visitors whom they want to invite to their office. The list of recent invitations sent and the previous invitations sent to the visitors can be viewed with accurate date and
+        time, whether visitors would attend/decline the request or they have arrived.</p>
+    <p>Get to know how it works? Read our <a href="/help" rel="canonical"><b>help</b></a> section</p>
+</div>
+
+
+
+<!-- Interested in Knowing more features start -->
+
+
+<div>{{- partial "upgrade.html" . -}}</div>
+{{end}}

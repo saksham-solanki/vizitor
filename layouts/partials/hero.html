@@ -1,0 +1,30 @@
+ {{if .IsHome }}
+<!-- Hero Section -->
+<div id="hero" class="mainbanner">
+    <div class="container-fluid ">
+        <div class="text-center">
+            <h1><span class="text-type-animation">Streamline your <span class="Digitize">Frontdesk</span> and <br> Keep your <span class="txt-rotate Digitize" data-period="1500" data-rotate='[ "Office ", "Salons ", "School ", "Hospitals "]'></span>
+                <br class="brdisplay">
+                <span class="Digitize"> Safe</span>
+                </span>
+            </h1>
+            <p>Improve the visitor registration experience with our Touchless <br> visitor management system.</p>
+            <form id="homeForm">
+                <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email" required>
+                <input class="btn-try-free" type="submit" value="Try for free">
+            </form>
+            <p class="no-credit mt-3 nocredit">* No credit card required</p>
+            <div class="manbineroverflow">
+                <img class="heromanbiner" src="/images/vizitor/vizitor.webp" alt="vizitor" />
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-4 pb-5">
+        {{range .Site.Params.apps}}
+        <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
+        {{end}}
+    </div>
+</div>
+<div class="clearfix"></div>
+{{end}}

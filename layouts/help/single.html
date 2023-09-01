@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="blog-single-page">
+    <div class="innerpage">
+        <div class="innertopcontainer">
+            <div class="container">
+                <a href="/help" style="color: #687888; font-size: 18px;" class="hvr-icon-wobble-horizontal">
+                    <i class="fa fa-arrow-left hvr-icon"></i> back
+                </a>
+                <h1 class="mb3">{{.Title}}</h1>
+                <div class="row my-5">
+                    <div class="col-md-6 ">
+                        <div>
+                            {{ if .Params.authorsImage }}<img class="authors-img" src="{{ .Params.authorsImage }}" alt="{{ .Title }}" />{{ end }}
+                        </div>
+                        <p>
+                            {{ range .Param "authors" }} {{ . }} {{ end }}
+                        </p>
+                    </div>
+                    <div class="col-md-6 ">
+                        <div class="blog-icon-pages" style="text-align: end;">
+                            <a href="https://twitter.com/vizitorapp" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="https://www.facebook.com/vizitorapp/" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="https://www.instagram.com/vizitorapp/?hl=en" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/28998047/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                {{ if .Params.image }}<img class="blogs-img-head" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+            </div>
+        </div>
+    </div>
+    <section class="container innercontentarea pt-5">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="mw6 center ph3 pv4">
+                    <div class="d-flex justify-content-between">
+                        <div class="d-flex flex-row align-items-center">
+                            <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+                        </div>
+                        <div class="badge">
+                            <p>Read in {{ .ReadingTime }} minutes</p>
+                        </div>
+                    </div>
+                    <div class="cms mw6">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 ">
+                {{- partial "form-get-a-free-trial.html" . -}}
+            </div>
+        </div>
+    </section>
+</div>
+{{ end }}

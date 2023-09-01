@@ -1,0 +1,113 @@
+{{ define "main" }}
+<section>
+    <div class="container-fluid">
+        <div class="row phone-row-refer align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 p-0">
+                <img src="/images/vizitor/refer-and-earn/banner-header.png" class="refwr-img" alt="banner-header" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 productimgs">
+                <div class=" refer-sec">
+                    <h1 class="desk table-font">Let’s Switch to Digital Check-ins Together!</h1>
+                    <p class="Digitize"><b>Refer, Share & Earn more Free Months of Trial!</b></p>
+                </div>
+                <div class=" mb-5">
+                    {{range .Site.Params.apps}}
+                    <a href="{{.url}}" target="_blank"><img class="btn-app phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                    {{end}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section-top">
+    <div class="container">
+        <div>
+            <h2 class="center-content desk font-sizeh3">Refer & Earn</h2>
+            <p class="desk help-p center-content">Earn One Month Free Subscription by Introducing Vizitor to your<br>Friends.</p>
+        </div>
+        <div class="row cardindex">
+            <div class="col-md-4 col-sm-4 col-xs-12 share-refer-card top_textipad top-textp center-content">
+                <div class="center-content mb-3">
+                    <img src="/images/vizitor/refer-and-earn/log-in.png" class="pricingimg2 cardimg" alt="log-in" />
+                </div>
+                <h6>
+                    LOG-IN
+                </h6>
+                <p>Log-in & Click on refer a friend tab on dashboard</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 share-refer-card top_textipad top-textp center-content">
+                <div class="center-content mb-3">
+                    <img src="/images/vizitor/refer-and-earn/invite.png" class="pricingimg2 imgtop-text cardimg" alt="invite" />
+                </div>
+                <h6 class="htop-tex">
+                    INVITE
+                </h6>
+                <p>Copy the given referral code with your friends or invite through emailing a friend</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 share-refer-card top_textipad top-textp center-content">
+                <div class="center-content mb-3">
+                    <img src="/images/vizitor/refer-and-earn/earn.png" class="pricingimg2 cardimg" alt="earn" />
+                </div>
+                <h6>
+                    EARN
+                </h6>
+                <p>Earn 1 month equivalent to the friend you refer!</p>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div>
+            <h2 class="center-content desk font-sizeh3">Share & Earn</h2>
+            <p class="desk help-p center-content">Earn One Month Free Subscription by Sharing on Social Media</p>
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <h3 class="desk help-p">Steps for Share & Earn</h3>
+            <p class="desk"><span class="Digitize" style="font-size: 20px;">Step 1 :</span> <b style="font-size: 20px;">Log-in & Click on refer a friend tab on dashboard</b></p>
+            <p class="desk"><span class="Digitize" style="font-size: 20px;">Step 2 :</span> <b style="font-size: 20px;">Copy the given referral code and share on social media platforms</b></p>
+            <p class="desk"><span class="Digitize" style="font-size: 20px;">Step 3 :</span> <b style="font-size: 20px;">Get a one month subscription for every 5 friends you refer</b></p>
+            <p class="desk"><span class="Digitize" style="font-size: 20px;">Step 4 :</span> <b style="font-size: 20px;">Email the shared links with us</b></p>
+        </div>
+    </div>
+</section>
+<div class="container my-5">
+    <div class="center-content">
+        <a rel="canonical" href="https://www.facebook.com/sharer/sharer.php?u=https://www.vizitorapp.com/" target="_blank">
+            <img src="/images/vizitor/refer-and-earn/fb.png" alt="fb" class="share-refer-icon" />
+        </a>
+
+        <a rel="canonical" href="https://twitter.com/share?text=Vizitor%20services%20Free%20amid%20Coronavirus%20outbreak&url=https://www.vizitorapp.com/" target="_blank">
+            <img src="/images/vizitor/refer-and-earn/twitter.png" alt="twitter" class="share-refer-icon" />
+        </a>
+
+        <a rel="canonical" href="https://www.linkedin.com/company/28998047/" target="_blank">
+            <img src="/images/vizitor/refer-and-earn/linkdin.png" alt="linkendin" class="share-refer-icon" />
+        </a>
+
+        <!-- <a rel="canonical" href="https://www.instagram.com/vizitorapp/?hl=en" target="_blank">
+                  <img src="/images/vizitor/refer-and-earn/insta.png?webp" type="image/webp"  alt="instagram image" class="share-refer-icon" />
+              </a> -->
+    </div>
+</div>
+<section class="section-top" style="background-color: #d0e5ff;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 4%;">
+                <h3 class="desk font-sizeh3"> Refer.Share.Earn</h3>
+                <p class="desk" style="font-size: 18px;">Refer your friend and<br>Earn 1 Month <b>FREE</b> Subscription</p>
+                <!-- <p class="desk ">Earn 1 Month FREE Subscription</p> -->
+                <br>
+                <img src="/images/vizitor/refer-and-earn/banner-badge.png" alt="banner-badge" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <img src="/images/vizitor/refer-and-earn/footer-banner-illustration.png" alt="footer-banner-illustration" />
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<div>{{- partial "upgrade.html" . -}}</div>
+{{end}}

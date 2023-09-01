@@ -1,0 +1,47 @@
+baseURL = "https://www.vizitorapp.com" # base url update
+languageCode = "en-us"
+title = "World #NO. 1 Visitor Management System | Check-in Software | Vizitor"
+
+############################## navigation ###############################
+[menu]
+
+  
+[params]
+logo = "/images/vizitor/logo.png"
+
+[[params.apps]]
+title = "googlePlay"
+url = "https://play.google.com/store/apps/details?id=com.vizitor.app"
+image= "/images/vizitor/playstore.svg"
+
+[[params.apps]]
+title = "IOSapp"
+url = "https://apps.apple.com/us/app/vizitor/id1408560525?ls=1"
+image= "/images/vizitor/appstore.svg"
+
+[[params.appsbtn]]
+title = "googlePlay"
+url = "https://play.google.com/store/apps/details?id=com.vizitor.app"
+image= "/images/vizitor/playstore-footer.svg"
+
+[[params.appsbtn]]
+title = "IOSapp"
+url = "https://apps.apple.com/us/app/vizitor/id1408560525?ls=1"
+image= "/images/vizitor/appstore-footer.svg"
+
+
+uglyURLs = true
+  
+enableRobotsTXT = true
+  
+ 
+
+
+
+
+
+
+
+
+
+

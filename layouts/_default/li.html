@@ -1,0 +1,15 @@
+<div class="card-deck">
+    <a href="{{ .RelPermalink }}">
+        <div class="card" style="background: #FCFCFC;border-radius: 20px;">
+            {{ if .Params.image }}<img class="card-img-top" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+            <div class="card-body">
+                <p maxlength="50" class="card-text-blog titleclear">{{ .Title }} </p>
+                <p class="card-text">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+                <p maxlength="100" class="card-text descriptionclear">{{ .Description }} </p>
+                <br>
+                <a class="blog-btn-arrow " href="{{ .RelPermalink }}" style="color: #ED5C18;">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon"></a>
+            </div>
+        </div>
+    </a>
+
+</div>

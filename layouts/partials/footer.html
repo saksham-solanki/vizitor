@@ -1,0 +1,130 @@
+<!-- Footer Section -->
+<footer class="footer">
+    <div class="container">
+        <div class="row ">
+            <div class="col-lg-5 col-md-6 col-12 ">
+                <div class="row">
+                    <div class="col-md-11 col-12">
+                        <h2>Ready to get started?</h2>
+                        <p style="font-family:Sofia-Pro-Regular ;">Vizitor is accessible on both the platforms (Android & iOS)</p>
+
+                        <form id="footerForm">
+                            <input type="email" class="email-input" id="emailfooter" name="emailfooter" placeholder="Enter your email" required>
+                            <input class="btn-try-free footer-btn-try" type="submit" value="Try for free">
+                        </form>
+                        <div class="mt-3">
+                            <div style="float: left;">
+                                <p style="font-family:Sofia-Pro-Regular ;">Follow us on </p>
+
+                            </div>
+
+                            <div class="social" style="padding: 5px 0px 0px 11px;">
+                                <a href="https://twitter.com/vizitorapp" class="twitter"><img src="/images/vizitor/Twitter.svg" alt="Screenshot" /></a>
+                                <a href="https://www.facebook.com/vizitorapp/" class="facebook"><img src="/images/vizitor/facebook.svg" alt="Screenshot" /></a>
+                                <a href="https://www.instagram.com/vizitorapp/?hl=en" class="instagram"><img src="/images/vizitor/instagram.svg" alt="Screenshot" /></a>
+                                <a href="https://www.linkedin.com/company/28998047/" class="linkedin"><img src="/images/vizitor/linkedin.svg" alt="Screenshot" /></a>
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+
+                        <div class=" mb-4">
+                            {{range .Site.Params.appsbtn}}
+                            <a href="{{.url}}" target="_blank"><img class="btn-app-footer btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                            {{end}}
+                        </div>
+
+                        <div class="mt-4">
+                            <a target="_blank" href="https://www.goodfirms.co/software/vizitor">
+                                <img src="/images/vizitor/Screenshot.png" alt="Screenshot" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-1 col-12">
+                        <div class="footer-line"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-7 col-md-6 col-12 ">
+                <div class="row">
+                    <div class="col-md-3 col-6">
+                        <p>COMPANY</p>
+                        <ul>
+                            <li><a href="/about">About us</a></li>
+                            <li><a href="/features">Features</a></li>
+                            <li><a href="/pricing">Pricing</a></li>
+                            <li><a href="/contact">Contact us</a></li>
+                            <li><a href="/visitor-promotion-marketing">Promotion</a></li>
+                            <li><a href="/disclaimer">Disclaimer</a></li>
+
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3 col-6">
+                        <p>RESOURCES</p>
+                        <ul>
+                            <li><a href="/terms">Terms of use</a></li>
+                            <li><a href="/privacy">Privacy Policy</a></li>
+                            <li><a href="/faq">FAQ</a></li>
+                            <li><a href="/blog">Blog</a></li>
+                            <li><a href="/help">Help</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3 col-6">
+                        <p>PRODUCTS</p>
+                        <ul>
+                            <li><a href="/visitor-management">Visitor management</a></li>
+                            <li><a href="/best-visitor-management-system-in-india">Visitors</a></li>
+
+                            <li><a href="/touchless-attendance-management-system/">Attendance</a></li>
+                            <li><a href="/delivery-management-system/">Deliveries </a></li>
+                            <li><a href="/smart-queue-management-system">Queue </a></li>
+
+
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3 col-6">
+                        <p>SOLUTIONS</p>
+                        <ul>
+
+                            <li><a href="/touchless-visitor-management-system/">Touchless sign-in</a></li>
+                            <li><a href="/visitor-badge-management-system">Visitor Badges</a></li>
+                            <li><a href="/visitor-analytics"> Dashboard</a></li>
+                            <li><a href="/contact-tracing"> COVID-19</a></li>
+                            <li><a href="/visitor-feedback"> Feedback</a></li>
+                            <li><a href="/visitor-security"> Security</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-6 col-6">
+                        <p>CONTACT US</p>
+                        <ul>
+
+                            <li><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hello@vizitorapp.com" target="_">Email : hello@vizitorapp.com</a></li>
+                            <li><a href="tel:+91-7302582799">India : +91-7302582799</a></li>
+                            <li><a href="tel:+1 (416)-639-2651">Canada : +1-416-639-2651</a></li>
+                            <li><a href="tel:+1 (416)-639-2651">US : +1-416-639-2651</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="mt-5 mb-3" style="border: 1px solid #4F657B;"></div>
+        <div class="row ">
+            <div class="col-md-12 ">
+                <p style="font-family:Sofia-Pro-Regular ;">© Copyright {{ now.Format "2006" }} Vizitor All rights reserved</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+{{- partial "script.html" . -}}
+
+
+</body>
+
+</html>

@@ -1,0 +1,98 @@
+{{ define "main" }}
+
+<section class="integration-slack">
+    <div class="container mainbanneres">
+        <div class="col-md-12 col-sm-12 col-xs-12 ">
+            <div>
+                <!-- <img src="/images/vizitor/slack/slack-img.png" class="slack-img-h" alt="slack-img" /> -->
+                <h1>Slack Integration With Vizitor</h1>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <h2 class="mt-4">Slack Integration</h2>
+
+                <p>Slack is essentially an online collaboration system for your whole company, designed to replace email as your primary method of communication and sharing. It allows workspaces to organize communications by channels for group discussions
+                    and allows for private messages to share information, files, and more all in one place.</p>
+
+                <h2 class="mt-4">About Vizitor</h2>
+
+                <p>Streamline your Front desk. By making the check-in shift from messy paperwork to an organized digital framework.</p>
+                <p><span class="Digitize help-dot">&#8226;</span> Digital Check-ins</p>
+                <p><span class="Digitize help-dot">&#8226;</span> Security of Data and Workplace </p>
+                <p><span class="Digitize help-dot">&#8226;</span> Saves Time, Paper and Trees </p>
+
+                <h2 class="mt-4">Vizitor+Slack= Digital Office Reception</h2>
+
+                <p>With the Vizitor + Slack integration, you will be notified every time a visitor checks-in instantly as direct messages within Slack.</p>
+                <p><span class="Digitize help-dot">&#8226;</span> Get instant notification when your visitors arrive.</p>
+                <p><span class="Digitize help-dot">&#8226;</span> Approve or disapprove visitors using Slack.</p>
+                <p><span class="Digitize help-dot">&#8226;</span> Create a platform for communication and be informed in the one go.</p>
+                <p><span class="Digitize help-dot">&#8226;</span> Saves the visitors time of keep waiting.</p>
+
+                <h2 class="mt-4"> Set up the Integration</h2>
+
+                <p>Setting up the Slack integration into a Vizitor account is easy. Just follow these quick steps:</p>
+                <p>1. Sign into your Vizitor account </p>
+                <p>2. Go to Settings> App settings</p>
+                <p>3. Under App settings, click on the "Slack" button to activate. The button is pictured below. </p>
+
+                <div class="mt-4">
+                    <img src="/images/vizitor/slack/dev-vizitorapp.png" alt="dev-vizitorapp" />
+                </div>
+
+                <div>
+                    <p>4. Click Add to Slack and follow the prompts to install the vizitor Slack app to your team</p>
+                    <p>5. Click on the allow button for permission to access your account</p>
+                </div>
+
+                <div class="mt-4">
+                    <img src="/images/vizitor/slack/slack.png" alt="slack" />
+                </div>
+
+                <div>
+                    <p>6. Your slack has been installed and now start getting notifications on Slack! </p>
+                </div>
+
+            </div>
+            <div class="col-lg-1 "></div>
+            <div class="col-lg-5 box center-content">
+                <h3>Request a Demo</h3>
+                <div class="contactform">
+
+                    <form id="contactForm">
+                        <div class="row">
+                            <div class="col-md-12 mb-4">
+                                <input type="text" class="form-control" id="name" placeholder="Full Name" required>
+                            </div>
+
+                            <div class="col-md-12 mb-4">
+                                <input type="email" class="form-control" id="email" placeholder="Email" required>
+                            </div>
+
+                            <div class="col-md-12 mb-4">
+                                <input type="number" class="form-control" id="phoneNumber" placeholder="Phone number" required>
+                            </div>
+
+                            <div class="col-md-12 mb-4">
+                                <textarea type="text" class="form-control" placeholder="Integration slack" id="message" required></textarea>
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-12 mt-4 text-center">
+                                <button type="submit" value="Submit Now">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div>{{- partial "upgrade.html" . -}}</div>
+{{end}}

@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="container pagebanneres">
+    <div class="row ">
+        <div class="col-md-6 col-sm-6 col-xs-12 ">
+            <h1 class="desk">
+                Visitor
+                <span class="Digitize">Badge</span> Management System
+            </h1>
+            <p>We at Vizitor know and understand what it means to manage large number of guests. It is difficult to identify each and every Guest present inside your office which may lead to breach in the security of your premises. Someone who is completely
+                unknown can also enter without any authentication at the front desk.</p>
+            <p>Vizitor allows you to print visitor badges instantly. As the visitor enter their details, Vizitor will input all the information and print visitor badges which include custom fields such as host name, company name etc. This will help hosts
+                to identify the particular visitors easily and also helps to manage them without any confusion</p>
+            <div class="bannerbtn mt-4">
+                <a href="/signup" class="btn-arrow">Get Started</a>
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12 custom-header-col">
+            <div>
+                <img src="/images/vizitor/badge-management-system/vms-badge-header.png" alt="vms-badge-header">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container pagesection">
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <img src="/images/vizitor/badge-management-system/vms--badge2.png" alt="vms--badge2">
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12 custom-header-photo">
+            <h6>Badge Printing</h6>
+            <p>Vizitor automatically prints detailed visitor badges when guests sign-in. High quality visitors badges are printed instantly to identify them in your organisation premises.</p>
+
+            <h6>Badge Pre Printing</h6>
+            <p>You can choose the option to preprint the badges for invited guests. It saves time and help to minimize your clients waiting hours.</p>
+
+            <h6>Badge Reprinting</h6>
+            <p>If you want to reprint a badge at any time, go to dashboard to do so. Gives your customers hassle free experience.</p>
+
+            <h6>Customizable Badges</h6>
+            <p>Customize your badges with multiple colour options, changeable fonts, badge orientation that gives custom friendly user experience.</p>
+
+            <h6>Sign NDA’s</h6>
+            <p>Make visitors sign documents upon check-in. Signed NDAs/ security protocols etc available via dashboard. To sign NDAs so they don’t disclose critical information.</p>
+        </div>
+    </div>
+</div>
+
+<div>{{- partial "upgrade.html" . -}}</div>
+{{end}}

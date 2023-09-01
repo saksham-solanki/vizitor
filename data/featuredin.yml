@@ -1,0 +1,19 @@
+
+items:
+  - brand: 
+    image: /images/vizitor/featured-in/logo-yourstory.svg
+    link: https://yourstory.com/2020/01/indian-startups-equity-free-grants-y-combinator
+  - brand: 
+    image: /images/vizitor/featured-in/mint-logo.svg
+    link: https://www.livemint.com/brand-post/vizitor-is-helping-businesses-operate-post-lockdown-11592305232351.html
+  # - brand: 
+  #   image: /images/vizitor/featured-in/starter-story-logo.svg
+  #   link: https://www.starterstory.com/visitor-management-system
+  - brand: 
+    image: /images/vizitor/featured-in/Inc42-logo.png
+    link: https://inc42.com/buzz/four-indian-startups-from-y-combinators-startup-school-bag-15k-funding/
+  - brand: 
+    image: /images/vizitor/featured-in/dailyhunt.svg
+    link: https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/funding+galore+indian+startup+funding+of+the+week+29+october+03+november-newsid-100711560
+    
+  

@@ -1,0 +1,48 @@
+<div class="blogs-form blog-tab">
+    <div class="container mt-1  clients-blog ">
+        <div class=" contactform ">
+            <div class="text-center">
+                <h5>Book a Demo Now!</h5>
+            </div>
+            <form id="blogForm">
+                <div class="row mt-4">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="name" placeholder="Full Name">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-1">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <select class="countrySelect custom-select browser-default" id="country" name="country">
+                                {{range .Site.Data.countryCode}}
+                                <option value="{{.unicode}} - {{.name}}">{{.emoji}} {{.name}} ({{.unicode}})</option>
+                                {{end}}
+                            </select>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-12 singnup-valu signup-input-ph singup-code">
+                        <div class="form-group">
+                            <label for="message">code</label>
+                            <input class="form-control" id="code" required value="+91">
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="form-group">
+                            <input type="number" class="form-control" name="phoneNumber" id="phoneNumber" placeholder="Phone number" required>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-1">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <button type="submit" style="padding: 14px 20px;" value="Submit Now">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

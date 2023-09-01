@@ -1,0 +1,77 @@
+{{ define "main" }}
+<div id="locations" class="mainbanneres">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <h1 class="paint"> The Solution Hub: Your Go To Guide for All Things Vizitor</h1>
+                <p> Welcome to The Solution Hub, where we provide helpful tips, tricks, and tutorials to make your experience with Vizitorapp as smooth as possible.
+                </p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <img src="/images/vizitor/blog-banner.svg" alt="blog-banner" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-4 mb-4 ">
+    <div class="row ">
+        <div class="col-sm-9 ">
+            <!-- <p class="elementor-heading-title "><b>Help center</b></p> -->
+            <h3>Help Centre</h3>
+        </div>
+        <div class="col-sm-3 blog-search">
+            {{ partial "search-form.html" . }}
+        </div>
+    </div>
+    <div class="row" id="showresults">
+        {{ range (.Paginator 1000).Pages.ByPublishDate.Reverse }}
+        <div class="col-lg-4 col-md-6 col-12 phone-fast mt-4 filter {{range .Params.categories}}{{.}} {{end}}">
+            <div>
+                {{ .Render "li"}}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script type="">
+    window.store = { // You can specify your blog section only: {{ range where .Pages.ByPublishDate.Reverse "Section" "blog" }} // For all pages in your site, use "range .Site.Pages" // You can use any unique identifier here "{{ .Permalink }}": { // You can
+    customize your searchable fields using any .Page parameters "title": "{{ .Title }}", "url": "{{ .Permalink }}", "image": "{{ .Params.image }}", "date": '{{ .Date | time.Format "Mon Jan 2 2006" }}', "Description": "{{ .Description }}" }, {{ end }}
+    } function displayResults (results, store) { const searchResults = document.getElementById('showresults'); if (results.length) { let resultList = ''; // Iterate and build result list elements for (const key in store) { for (const n in results) { if(store[key].title
+    == results[n].ref){ const item = store[key]; resultList += '
+    <div class="col-lg-4 col-md-6 col-12 phone-fast mt-4 filter '+item.categories+'">' resultList += '
+        <div class="grids blog-shadow">
+            <div style="background: #FCFCFC;border-radius: 20px;">' resultList += '<a href="'+item.url+'" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">'
+			    resultList += '<img class="card-img-top" loading="lazy" src="'+item.image+'" alt="'+item.title+'" />'
+			    resultList += '<div style="padding: 15px 15px 15px 15px;">'
+			    resultList += '<h4 class="mt-2 f3 b lh-title mb1 primary">'+item.title+'</h4>'
+			    resultList += '<p class="mt-2 mid-gray lh-title mb2">'+item.date+'</p>'
+			    resultList += '<p class="mt-2 mb0">'+item.Description+'</p><br>'
+			    resultList += '<a class="blog-btn-arrow" href="'+item.url+'" style="color: #ED5C18;" >Read more <img src="/images/vizitor/Icon.svg" alt="Icon"></a></div>
+            </a>
+        </div>
+    </div>
+    </div>'; } } } searchResults.innerHTML = resultList; } else { searchResults.innerHTML = '
+    <div class="noresult">No results found.</div>' } } function showSearchResults(){ const query = document.getElementById('search-input').value; // const params = new URLSearchParams(window.location.search); // const query = params.get('query'); // Perform a search if there
+    is a query if (query) { // Retain the search input in the form when displaying results const idx = lunr(function () { this.ref('title') this.field('title') for (const key in window.store) { this.add({ title: window.store[key].title, url:window.store[key].url
+    }) } }) // Perform the search let results = ''; results = idx.search(query+'*'); if(results.length == 0){ results = idx.search(query); } // Update the list with results displayResults(results, window.store) }else{ const searchResults = document.getElementById('showresults');
+    let resultList = ''; // Iterate and build result list elements for (const key in store) { const item = store[key]; resultList += '
+    <div class="col-lg-4 col-md-6 col-12 phone-fast mt-4 filter '+item.categories+'">' resultList += '
+        <div class="grids blog-shadow">
+            <div style="background: #FCFCFC;border-radius: 20px;">' resultList += '<a href="'+item.url+'" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">'
+			    resultList += '<img class="card-img-top" loading="lazy" src="'+item.image+'" alt="'+item.title+'" />'
+			    resultList += '<div style="padding: 15px 15px 15px 15px;">'
+			    resultList += '<h4 class="mt-2 f3 b lh-title mb1 primary">'+item.title+'</h4>'
+			    resultList += '<p class="mt-2 mid-gray lh-title mb2">'+item.date+'</p>'
+			    resultList += '<p class="mt-2 mb0">'+item.Description+'</p><br>'
+			    resultList += '<a class="blog-btn-arrow" href="'+item.url+'" style="color: #ED5C18;" >Read more <img src="/images/vizitor/Icon.svg" alt="Icon"></a></div>
+            </a>
+        </div>
+    </div>
+    </div>'; } searchResults.innerHTML = resultList; } }
+
+</script>
+{{end}}

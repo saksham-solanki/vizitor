@@ -1,0 +1,36 @@
+{{ define "main" }}
+<section>
+    <div class="container mainbanneres">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 top-margin">
+                <h1 class="center-content features-welcome desk">How it works?</h1>
+                <p>Vizitor, the visitor management system is designed with a vision to eliminate all the problems faced by the companies while taking their visitor's enteries on registers.Vizitor aims to digitize the entire check-in process, from visitor
+                    logs to collecting their feedback and reviews. It is an automated mechanism for keeping an update and records of visitors without any third person being involved in between.</p>
+                <div class="mt-5">
+                    <p class><b><span>&#8226;</span> Vizitor Installation</b></p>
+                    <p>Vizitor can be installed on your device either on an iPad or on an Android device which can be placed at the front desk of your office.</p>
+                    <p><b><span>&#8226;</span> Check-in flow</b></p>
+                    <p>The moment visitor taps the check-in button, under your company's logo, the visitor check-in flow gets started. The visitor enters their detail in the check-in forum set up by admin. The check-in flow includes steps like NDA signature,
+                        Photo capture, and OTP verification.</p>
+                    <p><b><span>&#8226;</span> Host notification</b></p>
+                    <p>The moment visitor hits the submit button notification is sent to the host on their mobile phone along with visitor's detail.</p>
+                    <p><b><span>&#8226;</span> Feedback</b></p>
+                    <p>The visitor on their check-out can rate their visiting experience, along with feedbacks.</p>
+
+                    <img class="my-5" src="/images/vizitor/how-it-work.png" alt="how-it-work">
+
+                    <h6>What if it is the visitor's second visit to your office? </h6>
+                    <p>The visitor doesn't need to enter their detail again. There will be one step check-in. Vizitor will automatically recognize the visitor, the moment mobile number is filled. On OTP verification, the welcome screen with the visitor's
+                        name is displayed.</p>
+                    <br>
+                    <h6>What if pre-invitation is sent to the visitor?</h6>
+                    <p>The invitee can quickly check-in by clicking on the check-in button adjacent to their name in invitee list.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<div>{{- partial "upgrade.html" . -}}</div>
+{{end}}

@@ -1,0 +1,1666 @@
+<!-- Optional JavaScript -->
+<script src="/js/jquery.js"></script>
+<script src="/js/jqueryui.js"></script>
+<script src="/js/bootstrap.js"></script>
+<script src="/js/master.js" lazyload></script>
+
+<script lazyload>
+    window.addEventListener('scroll', () => {
+        setTimeout(() => {
+            var subscribersSiteId = '9ee9ff55-22a4-4a7c-b992-819d02118d73';
+        }, 1000);
+    }, {
+        once: true
+    });
+</script>
+
+<script lazyload>
+    $(".newbtn").click(function() {
+        if ($(this).data("closedAll")) {
+            $(".howitworkssection .collapse").collapse("show");
+        } else {
+            $(".howitworkssection .collapse").collapse("hide");
+        }
+
+        // save last state
+        $(this).data("closedAll", !$(this).data("closedAll"));
+    });
+
+    // init with all closed
+    $(".newbtn").data("closedAll", true);
+</script>
+
+<script lazyload>
+    $(function() {
+        $("#tabs").tabs({
+            show: {
+                // effect: "blind",
+                // direction: "right",
+                duration: 300
+            }
+        });
+        $("#accordion").accordion();
+
+        var btn = $('#accordion li a');
+        var wrapper = $('#accordion li');
+
+        $(btn).on('click', function() {
+            $(btn).removeClass('active');
+            $(btn).parent().find('.addon').removeClass('fadein');
+
+            $(this).addClass('active');
+            $(this).parent().find('.addon').addClass('fadein');
+        });
+    });
+</script>
+
+
+
+<script lazyload>
+    $(function() {
+        $("#tabs1").tabs({
+            show: {
+                duration: 300
+            }
+        });
+        $("#accordion1").accordion();
+
+        var btn = $('#accordion1 li a');
+        var wrapper = $('#accordion1 li');
+
+        $(btn).on('click', function() {
+            $(btn).removeClass('active');
+            $(btn).parent().find('.addon').removeClass('fadein');
+
+            $(this).addClass('active');
+            $(this).parent().find('.addon').addClass('fadein');
+        });
+    });
+</script>
+
+<script lazyload>
+    $(function() {
+        $("#tabs2").tabs({
+            show: {
+                // direction: "left",
+                duration: 300
+            }
+        });
+        $("#accordion2").accordion();
+
+        var btn = $('#accordion2 li a');
+        var wrapper = $('#accordion2 li');
+
+        $(btn).on('click', function() {
+            $(btn).removeClass('active');
+            $(btn).parent().find('.addon').removeClass('fadein');
+
+            $(this).addClass('active');
+            $(this).parent().find('.addon').addClass('fadein');
+        });
+    });
+</script>
+
+<script lazyload>
+    $(function() {
+        $("#tabs3").tabs({
+            show: {
+                // direction: "left",
+                duration: 300
+            }
+        });
+        $("#accordion3").accordion();
+
+        var btn = $('#accordion3 li a');
+        var wrapper = $('#accordion3 li');
+
+        $(btn).on('click', function() {
+            $(btn).removeClass('active');
+            $(btn).parent().find('.addon').removeClass('fadein');
+
+            $(this).addClass('active');
+            $(this).parent().find('.addon').addClass('fadein');
+        });
+    });
+</script>
+
+
+<script lazyload>
+    let header = document.getElementById("myDIV");
+    let btns = null; // Declare btns variable with an initial value
+
+    if (header) {
+        btns = header.getElementsByClassName("btn");
+    }
+
+    for (let i = 0; btns && i < btns.length; i++) {
+        btns[i].addEventListener("click", function() {
+            var current = document.getElementsByClassName("active");
+            current[0].className = current[0].className.replace(" active", "");
+            this.className += " active";
+        });
+    }
+</script>
+
+<!-- functionality of click event of pricing -->
+
+<script lazyload>
+    // JavaScript for the pricing page
+
+    let prices = {
+        // monthly pricing for the different plans
+
+        monthly: {
+            inr: ['Rs.1,500 ', "Rs.3,000 "],
+            usd: ["$35 ", "$70 "],
+            eur: ["€35 ", "€70 "],
+            gbp: ["£35 ", "£70 "]
+
+        },
+        // yearly pricing for the different plans
+
+        yearly: {
+            inr: ["Rs.1,200 ", "Rs.2,400 "],
+            usd: ["$28 ", "$56 "],
+            eur: ["€28 ", "€56 "],
+            gbp: ["£28 ", "£56 "]
+        },
+
+
+    }
+
+
+    function testOne() {
+        document.querySelector(".switch").click();
+        console.log(document.getElementById("toggle").checked)
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        let yearlyToggle = document.querySelector(".yearlytoggle");
+        let monthlyToggle = document.querySelector(".monthlyToggle");
+
+        if (yearlyToggle) {
+            yearlyToggle.onclick = testOne;
+        }
+
+        if (monthlyToggle) {
+            monthlyToggle.onclick = testOne;
+        }
+
+        // Rest of your code...
+    });
+
+    // set pricing
+    function setPricing(currency = 'inr', plan = 'monthly') {
+        let basicPrice = 0,
+            premiumPrice = 0;
+        dayType = "";
+        if (plan == 'monthly') {
+            dayType = "per month*";
+            BilledType = "Billed monthly"
+            switch (currency) {
+                case 'inr':
+                    basicPrice = prices.monthly.inr[0];
+                    premiumPrice = prices.monthly.inr[1];
+                    break;
+                case 'usd':
+                    basicPrice = prices.monthly.usd[0];
+                    premiumPrice = prices.monthly.usd[1];
+                    break;
+                case 'eur':
+                    basicPrice = prices.monthly.eur[0];
+                    premiumPrice = prices.monthly.eur[1];
+                    break;
+                case 'gbp':
+                    basicPrice = prices.monthly.gbp[0];
+                    premiumPrice = prices.monthly.gbp[1];
+                    break;
+            }
+        } else if (plan == 'yearly') {
+            dayType = "per month*";
+            BilledType = "Billed yearly"
+            switch (currency) {
+                case 'inr':
+                    basicPrice = prices.yearly.inr[0];
+                    premiumPrice = prices.yearly.inr[1];
+                    break;
+                case 'usd':
+                    basicPrice = prices.yearly.usd[0];
+                    premiumPrice = prices.yearly.usd[1];
+                    break;
+                case 'eur':
+                    basicPrice = prices.yearly.eur[0];
+                    premiumPrice = prices.yearly.eur[1];
+                    break;
+                case 'gbp':
+                    basicPrice = prices.yearly.gbp[0];
+                    premiumPrice = prices.yearly.gbp[1];
+                    break;
+            }
+        }
+        updatePricing(basicPrice, premiumPrice, dayType, BilledType);
+    }
+    // Set the initial pricing to annual and INR
+    let currentCurrency = 'inr';
+    let currentPlan = 'yearly';
+
+    function checkToggle(element) {
+        // console.log('Agreement changed to ' + element.checked);
+        if (element.checked) {
+            currentPlan = 'yearly';
+            setPricing(currentCurrency, currentPlan);
+            // Remove the active class from the other button and add it to this button
+            document.getElementById('monthly-btn').classList.remove('active');
+            // this.classList.add('active');
+        } else {
+            currentPlan = 'monthly';
+            setPricing(currentCurrency, currentPlan);
+            // Remove the active class from the other button and add it to this button
+            document.getElementById('yearly-btn').classList.remove('active');
+            // this.classList.add('active');
+        }
+    }
+
+    // Update the pricing on the page
+    function updatePricing(basicPrice, premiumPrice, dayType, BilledType) {
+
+        let startPriceElement = document.getElementById('start-price');
+        if (startPriceElement) {
+            startPriceElement.innerText = basicPrice;
+        }
+
+        let premiumPriceElement = document.getElementById('premium-price');
+        if (premiumPriceElement) {
+            premiumPriceElement.innerText = premiumPrice;
+        }
+
+        let dayTypeElement = document.getElementById('day-type');
+        if (dayTypeElement) {
+            dayTypeElement.innerText = dayType;
+        }
+
+        let dayTypePremiumElement = document.getElementById('day-type-premium');
+        if (dayTypePremiumElement) {
+            dayTypePremiumElement.innerText = dayType;
+        }
+
+        let dayMonthlyElement = document.getElementById('day-monthly');
+        if (dayMonthlyElement) {
+            dayMonthlyElement.innerText = BilledType;
+        }
+
+        let dayAnnuallyElement = document.getElementById('day-annually');
+        if (dayAnnuallyElement) {
+            dayAnnuallyElement.innerText = BilledType;
+        }
+    }
+
+    // Toggle the pricing between yearly and monthly
+    document.addEventListener("DOMContentLoaded", function() {
+
+        let yearlyButton = document.getElementById('yearly-btn');
+        let monthlyButton = document.getElementById('monthly-btn');
+        let inrButton = document.getElementById('inr-btn');
+        let usdButton = document.getElementById('usd-btn');
+        let eurButton = document.getElementById('eur-btn');
+        let gbpButton = document.getElementById('gbp-btn');
+
+
+        // Toggle the currency between INR and USD EUR GBP
+        if (yearlyButton) {
+            yearlyButton.addEventListener('click', function() {
+                currentPlan = 'yearly';
+                setPricing(currentCurrency, currentPlan);
+                // Remove the active class from the other button and add it to this button
+                let monthlyButton = document.getElementById('monthly-btn');
+                if (monthlyButton) {
+                    monthlyButton.classList.remove('active');
+                }
+                this.classList.add('active');
+            });
+        }
+
+        if (monthlyButton) {
+            monthlyButton.addEventListener('click', function() {
+                currentPlan = 'monthly';
+                setPricing(currentCurrency, currentPlan);
+                // Remove the active class from the other button and add it to this button
+                let yearlyButton = document.getElementById('yearly-btn');
+                if (yearlyButton) {
+                    yearlyButton.classList.remove('active');
+                }
+                this.classList.add('active');
+            });
+        }
+
+        if (inrButton) {
+            inrButton.addEventListener('click', function() {
+                currentCurrency = 'inr';
+                setPricing(currentCurrency, currentPlan);
+                // Remove the active class from the other button and add it to this button
+                document.getElementById('usd-btn').classList.remove('active');
+                this.classList.add('active');
+                // currentCurrency = usdPrices;
+            });
+        }
+        if (usdButton) {
+            usdButton.addEventListener('click', function() {
+                currentCurrency = 'usd';
+                setPricing(currentCurrency, currentPlan);
+                // Remove the active class from the other button and add it to this button
+                document.getElementById('inr-btn').classList.remove('active');
+                this.classList.add('active');
+            });
+
+        }
+
+        if (eurButton) {
+            eurButton.addEventListener('click', function() {
+                currentCurrency = 'eur';
+                setPricing(currentCurrency, currentPlan);
+                // Remove the active class from the other button and add it to this button
+                document.getElementById('inr-btn').classList.remove('active');
+                this.classList.add('active');
+            });
+
+        }
+
+        if (gbpButton) {
+            gbpButton.addEventListener('click', function() {
+                currentCurrency = 'gbp';
+                setPricing(currentCurrency, currentPlan);
+                // Remove the active class from the other button and add it to this button
+                document.getElementById('inr-btn').classList.remove('active');
+                this.classList.add('active');
+            });
+
+        }
+
+        setPricing(currentCurrency, currentPlan);
+    })
+</script>
+
+
+<!-- --------------------------contact Form api---------------------------------------- -->
+<script lazyload>
+    $(function() {
+        $("#contactForm").on("submit", function(event) {
+
+            event.preventDefault();
+
+            var countryCode = $("#country").val().split('-')[0].trim();
+            var phoneNumber = $("#phoneNumber").val();
+
+            // Check if the selected country is India
+            if (countryCode === "+91" && phoneNumber.length > 10) {
+                toastr.error("Phone number should not exceed 10 digits.");
+                return;
+            }
+
+            var data = {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                phoneNumber: $("#country").val().split('-')[0].trim() + $("#phoneNumber").val(),
+                country: $("#country").val().split('-')[1].trim(),
+                message: $("#message").val(),
+            }
+            var contactForm = JSON.stringify(data)
+            console.log("----data11----", data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/contact",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: contactForm,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    $('input[name=name]').val("")
+                    $('input[name=phoneNumber]').val("")
+                    $('textarea[name=message]').val("")
+                    if (d) {
+                        console.log("dddd--ddd---dd", d)
+                        toastr.success(d.message);
+                        window.location = "/contact-submitted";
+                    }
+                },
+                error: function(e) {
+                    console.log("eeee--eee---eee", e)
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+
+
+
+
+<!-- -------------------------------country Name api------------------------------------------------------ -->
+
+
+<script lazyload>
+    document.addEventListener('DOMContentLoaded', () => {
+        const changeSelected = (e) => {
+            let countryName = e.target.value.split("-")[1].replace(/^\s+|\s+$/gm, '');
+            let countryCode = e.target.value.split("-")[0];
+            document.getElementById("code").setAttribute("value", countryCode);
+        };
+
+        const countrySelect = document.querySelector('.countrySelect');
+        if (countrySelect) {
+            countrySelect.addEventListener('click', changeSelected);
+        }
+    });
+</script>
+
+
+
+<!-- -------------------------------------------------get plans------------------------------------------------------------- -->
+
+
+<!-- -------------------------------------------------signup api ------------------------------------------------------------- -->
+
+<script lazyload>
+    $(function() {
+        $("#signupForm").on("submit", function(event) {
+            event.preventDefault();
+
+            var countryCode = $("#country").val().split('-')[0].trim();
+            var phoneNumber = $("#phoneNumber").val();
+
+            // Check if the selected country is India
+            if (countryCode === "+91" && phoneNumber.length > 10) {
+                toastr.error("Phone number should not exceed 10 digits.");
+                return;
+            }
+
+            var data = {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                adminName: $("#adminName").val(),
+                phoneNumber: $("#country").val().split('-')[0].trim() + $("#phoneNumber").val(),
+                // phoneNumber: $("#phoneNumber").val(),
+                // code: $("#code").val(),
+                password: $("#password").val(),
+                companyType: $("#companyType").val(),
+                country: $("#country").val().split('-')[1].trim(),
+                hearAbout: $("#hearAbout").val(),
+                planId: $("#planId").val(),
+            }
+
+
+            var signupForm = JSON.stringify(data)
+            console.log("signupForm-----", signupForm);
+            console.log($("#country").val().split('-')[0].trim());
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/registration",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: signupForm,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    $('input[name=name]').val("")
+                    $('input[name=phoneNumber]').val("")
+                    $('input[name=adminName]').val("")
+                    $('input[name=password]').val("")
+                    $('input[name=companyType]').val("")
+                    $('input[name=hearAbout]').val("")
+                    $('input[name=country]').val("")
+                    if (d) {
+                        console.log("dddd--ddd---dd", d)
+                        toastr.success(d.message);
+                        window.location = "/thank-you";
+                    }
+                },
+                error: function(e) {
+                    console.log("eeee--eee---eee", e)
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+
+
+<!-- --------------------------home Form api---------------------------------------- -->
+<script lazyload>
+    $(function() {
+        $("#homeForm").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                // email: email,
+                email: $("#email").val(),
+                page: "Home_vizitorapp",
+            }
+            var homeForm = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: homeForm,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+
+<!-- ------------------------iPad and Android based-------------------------------- -->
+<script lazyload>
+    $(function() {
+        $("#iPadAndroid").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "iPad and Android based",
+            }
+            var iPadAndroid = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: iPadAndroid,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------Touchless Visitor Management System-------------------------------- -->
+<script lazyload>
+    $(function() {
+        $("#touchlessVMS").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "touchless_VMS",
+            }
+            var touchlessVMS = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: touchlessVMS,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ----------------------------visitormanagement---------------------------------------- -->
+
+<script lazyload>
+    $(function() {
+        $("#visitormanagement").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "visitor_management",
+            }
+            var visitormanagement = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: visitormanagement,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ----------------------------webBasedVMS---------------------------------------- -->
+
+<script lazyload>
+    $(function() {
+        $("#webBasedVMS").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "Web_Based_VMS",
+            }
+            var webBasedVMS = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: webBasedVMS,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ----------------------------required---------------------------------------- -->
+<script lazyload>
+    $(function() {
+        $("#required").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "VMS_in_India",
+            }
+            var required = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: required,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ----------------------------Free_VMS---------------------------------------- -->
+<script lazyload>
+    $(function() {
+        $("#FreeVMS").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "Free_VMS",
+            }
+            var FreeVMS = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: FreeVMS,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------green-business-initiative-------------------------------------- -->
+<script>
+    $(function() {
+        $("#greenBI").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "Green Business Initiative",
+            }
+            var greenBI = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: greenBI,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------footerForm-------------------------------------- -->
+<script>
+    $(function() {
+        $("#footerForm").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#emailfooter").val(),
+                page: "footer Form",
+            }
+            console.log("email---footer", data)
+            var footerForm = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: footerForm,
+                success: function(d) {
+                    $('input[name=emailfooter]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------getStartedForm-------------------------------------- -->
+<script>
+    $(function() {
+        $("#getStartedForm").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#emailgetStarted").val(),
+                page: "Home Get Started",
+            }
+            var getStartedForm = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: getStartedForm,
+                success: function(d) {
+                    $('input[name=emailgetStarted]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------benefitsCompany-------------------------------------- -->
+<script>
+    $(function() {
+        $("#benefitsCompany").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#emailbenefitsCompany").val(),
+                page: "Home Benefits Company",
+            }
+            var benefitsCompany = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: benefitsCompany,
+                success: function(d) {
+                    $('input[name=emailbenefitsCompany]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------best visitor management system in india-------------------------------------- -->
+<!-- 1 -->
+
+<script>
+    $(function() {
+        $("#BVMSinIndia").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "BVMIndia",
+            }
+            var BVMSinIndia = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: BVMSinIndia,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- 2 -->
+
+<script>
+    $(function() {
+        $("#BVMdigitalVMSwork").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#emaildigital").val(),
+                page: "BVMIndia digital work",
+            }
+            var BVMdigitalVMSwork = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: BVMdigitalVMSwork,
+                success: function(d) {
+                    $('input[name=emaildigital]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- 3 -->
+
+<script>
+    $(function() {
+        $("#VizitorPass").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#emailVizitorPass").val(),
+                page: "BVMIndia Vizitor Pass",
+            }
+            var VizitorPass = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: VizitorPass,
+                success: function(d) {
+                    $('input[name=emailVizitorPass]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------contact-Tracing-------------------------------------- -->
+<script>
+    $(function() {
+        $("#contactTracing").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "Contact Tracing Application",
+            }
+            var contactTracing = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: contactTracing,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------VisitorCovidScreening-------------------------------------- -->
+<script>
+    $(function() {
+        $("#VisitorCovidScreening").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "Visitor CovidS creening",
+            }
+            var VisitorCovidScreening = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: VisitorCovidScreening,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+<!-- ------------------------------attendance-------------------------------------- -->
+<script>
+    $(function() {
+        $("#attendanceForm").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "attendance ",
+            }
+            var attendanceForm = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: attendanceForm,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- --------------------------blog Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#blogForm").on("submit", function(event) {
+            event.preventDefault();
+            var message = window.location.href;
+            // alert(loc)
+            var data = {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                phoneNumber: $("#phoneNumber").val(),
+                message: window.location.href,
+            }
+            console.log("data---", data)
+            var blogForm = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/contact",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: blogForm,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    $('input[name=name]').val("")
+                    $('input[name=phoneNumber]').val("")
+                    if (d) {
+                        console.log("dddd--ddd---dd", d)
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    console.log("eeee--eee---eee", e)
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- --------------------------deliveryMS Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#deliveryMS").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "deliveryMS ",
+            }
+            var deliveryMS = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: deliveryMS,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- --------------------------vms Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#vms").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "vms",
+            }
+            var vms = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: vms,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+<!-- --------------------------workflowvms Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#workflowvms").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "vms",
+            }
+            var workflowvms = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: workflowvms,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+<!-- --------------------------QMSworkflow Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#QMSworkflow").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "QueueMS",
+            }
+            var QMSworkflow = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: QMSworkflow,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+<!-- --------------------------featuresApi Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#featuresApi").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "features",
+            }
+            var featuresApi = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: featuresApi,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+
+
+<!-- --------------------------mailroom Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#mailroom").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "Mailroom",
+            }
+            var mailroom = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: mailroom,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- --------------------------entryMS Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#entryMS").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "EntryMS",
+            }
+            var entryMS = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: entryMS,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+<!-- --------------------------entryMS-Workflow Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#entryMsWorkflow").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                email: $("#email").val(),
+                page: "entryMs Workflow",
+            }
+            var entryMsWorkflow = JSON.stringify(data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/subscribe",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: entryMsWorkflow,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+
+<!-- --------------------------demoForm Form api---------------------------------------- -->
+<script>
+    $(function() {
+        $("#demoForm").on("submit", function(event) {
+            event.preventDefault();
+
+            var countryCode = $("#country").val().split('-')[0].trim();
+            var phoneNumber = $("#phoneNumber").val();
+
+            // Check if the selected country is India
+            if (countryCode === "+91" && phoneNumber.length > 10) {
+                toastr.error("Phone number should not exceed 10 digits.");
+                return;
+            }
+
+            var data = {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                phoneNumber: $("#country").val().split('-')[0].trim() + $("#phoneNumber").val(),
+                country: $("#country").val().split('-')[1].trim(),
+                message: $("#message").val(),
+            }
+            var demoForm = JSON.stringify(data)
+            console.log("----data----", data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/contact",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: demoForm,
+                success: function(d) {
+                    $('input[name=email]').val("")
+                    $('input[name=name]').val("")
+                    $('input[name=phoneNumber]').val("")
+                    $('textarea[name=message]').val("")
+                    if (d) {
+                        console.log("dddd--ddd---dd", d)
+                        toastr.success(d.message);
+                        window.location = "/demo-requested";
+                    }
+                },
+                error: function(e) {
+                    console.log("eeee--eee---eee", e)
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script>
+
+<!-- ------------------------------------------------------------------ -->
+
+<!-- Twitter -->
+<script>
+    $(".shareTwitter").click(function() {
+        console.log("click", window.location.href)
+        window.open("https://twitter.com/intent/tweet?url=" + window.location.href, '_blank');
+    });
+
+    // $(".copyLink").click(function() {
+    //     getTwitterUrl = 'https://twitter.com/intent/tweet?url='
+    //     getRouteLocation = window.location.href;
+    //     navigator.clipboard.writeText(`${getTwitterUrl}${getRouteLocation}`);
+    // });
+</script>
+<!-- facebook -->
+<script>
+    $(".sharefacebook").click(function() {
+        console.log("click", window.location.href)
+        window.open("https://www.facebook.com/sharer/sharer.php?u=" + window.location.href, '_blank');
+    });
+
+    // $(".copyLink").click(function() {
+    //     getTwitterUrl = 'https://www.facebook.com/sharer/sharer.php?u='
+    //     getRouteLocation = window.location.href;
+    //     navigator.clipboard.writeText(`${getTwitterUrl}${getRouteLocation}`);
+    // });
+</script>
+<!-- linkedin -->
+<script>
+    $(".sharelinkedin").click(function() {
+        console.log("click", window.location.href)
+        window.open("https://www.linkedin.com/shareArticle?mini=true&url=" + window.location.href, '_blank');
+    });
+
+    // $(".copyLink").click(function() {
+    //     getTwitterUrl = 'https://twitter.com/intent/tweet?url='
+    //     getRouteLocation = window.location.href;
+    //     navigator.clipboard.writeText(`${getTwitterUrl}${getRouteLocation}`);
+    // });
+</script>
+<!-- Whatsapp -->
+<script>
+    $(".sharewhatsapp").click(function() {
+        console.log("click", window.location.href)
+        window.open("https://wa.me/?text=Awesome%20Blog%20" + window.location.href, );
+    });
+
+    // $(".copyLink").click(function() {
+    //     getTwitterUrl = 'https://twitter.com/intent/tweet?url='
+    //     getRouteLocation = window.location.href;
+    //     navigator.clipboard.writeText(`${getTwitterUrl}${getRouteLocation}`);
+    // });
+</script>
+
+<!-- =============================================== -->
+<script>
+    var TxtRotate = function(el, toRotate, period) {
+        this.toRotate = toRotate;
+        this.el = el;
+        this.loopNum = 0;
+        this.period = parseInt(period, 100) || 1000;
+        this.txt = '';
+        this.tick();
+        this.isDeleting = false;
+    };
+
+    TxtRotate.prototype.tick = function() {
+        var i = this.loopNum % this.toRotate.length;
+        var fullTxt = this.toRotate[i];
+
+        if (this.isDeleting) {
+            this.txt = fullTxt.substring(0, this.txt.length - 1);
+        } else {
+            this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+
+        this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
+
+        var that = this;
+        var delta = 150 - Math.random() * 100;
+
+        if (this.isDeleting) {
+            delta /= 2;
+        }
+
+        if (!this.isDeleting && this.txt === fullTxt) {
+            delta = this.period;
+            this.isDeleting = true;
+        } else if (this.isDeleting && this.txt === '') {
+            this.isDeleting = false;
+            this.loopNum++;
+            delta = 500;
+        }
+
+        setTimeout(function() {
+            that.tick();
+        }, delta);
+    };
+
+    window.onload = function() {
+        var elements = document.getElementsByClassName('txt-rotate');
+        for (var i = 0; i < elements.length; i++) {
+            var toRotate = elements[i].getAttribute('data-rotate');
+            var period = elements[i].getAttribute('data-period');
+            if (toRotate) {
+                new TxtRotate(elements[i], JSON.parse(toRotate), period);
+            }
+        }
+        // INJECT CSS
+        var css = document.createElement("style");
+        css.type = "text/css";
+        css.innerHTML = ".txt-rotate > .wrap { border-right: 3px solid #ED5C18 }";
+        document.body.appendChild(css);
+    };
+</script>
+
+
+<script>
+    $(document).ready(function() {
+
+        $('.titleclear').each(function(f) {
+
+            var newstr = $(this).text().substring(0, 45) + "...";
+            $(this).text(newstr);
+
+        });
+    })
+</script>
+
+<script>
+    $(document).ready(function() {
+
+        $('.descriptionclear').each(function(f) {
+
+            var newstr = $(this).text().substring(0, 100) + "...";
+            $(this).text(newstr);
+
+        });
+    })
+</script>
+
+<script>
+    $('.slide-toggle').on("click", function() {
+        $('.slide-toggle img').toggleClass('arrowdown arrowup');
+        $('.read-more').toggleClass('show hide ');
+        $('.headerbottombardiv').toggleClass('show ');
+
+    });
+</script>
+
+
+<script>
+    var getSelectedPlan = window.location.href.split('=')[1];
+    $(function() {
+        let List = "";
+        if (getSelectedPlan === 'starter') {
+            List = "<option value='61d5613a8d6a714e368e9728' selected>STARTER</option><option value='61d5613a8d6a714e368e9734'>PREMIUM</option>";
+        } else if (getSelectedPlan === 'premium') {
+            List = "<option value='61d5613a8d6a714e368e9728'>STARTER</option><option value='61d5613a8d6a714e368e9734' selected>PREMIUM</option>";
+        } else {
+            List = "<option disabled >Choose One Plan</option><option value='61d5613a8d6a714e368e9728'>STARTER</option><option selected value='61d5613a8d6a714e368e9734'>PREMIUM</option>";
+        }
+
+        const planIdElement = document.getElementById("planId");
+        if (planIdElement) {
+            planIdElement.innerHTML = List;
+        }
+    });
+</script>
+
+
+
+
+<!-- <script async src="https://tag.clearbitscripts.com/v1/pk_d083efd6c023c769119e5b95ecd34ca0/tags.js" referrerpolicy="strict-origin-when-cross-origin"></script> -->
+
+<!-- ---------------# tag------------ -->
+<script>
+    $(window).on('hashchange', function(e) {
+        history.replaceState("", document.title, e.originalEvent.oldURL);
+    });
+</script>
+
+<!-- ------------------------------------------------------- -->

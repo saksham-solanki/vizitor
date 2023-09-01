@@ -1,0 +1,224 @@
+items:  
+  - question: "What is visitor management software?"
+    answer: "Visitor management software is an application that helps with managing visitors digitally for businesses, offices, schools, co-working, and just about any building which receives guests on-premises. A Visitor Management Software makes sure that all data entered into it is stored safely and securely and can be accessed anywhere at any-time."
+  - question: "Does your softare Multi-language?"
+    answer: "Yes, Vizitor support Multi-Language and is available in every language your require."
+  - question: "How Do I Setup Vizitor?"
+    answer: "In order to get started with vizitor you will first need to download our app to your device. Once you download the app then you will need to follow steps in your dashboard. Our repersentative will be there to help you with getting started."
+  - question: "How to see employee dropdown list?"
+    answer: "To see the employee dropdown list in form Host field has to be enabled by going to Sign in form(Setting) and The last field of the app setting in configuration Enable Host Search must be disabled in Settings."
+  - question: "How to download the employee list?"
+    answer: "If we want to download the employee dropdown list please click on top-right export csv in employee."
+  - question: "How to enable host notificatons?"
+    answer: "Enable Host Notification Required within the app settings in the (settings) configuration."
+  - question: "How to enable/disable search host?"
+    answer: "The last field of the app setting in configuration Enable Host Search must be enable/disabled in Settings."
+  - question: "How to  renew the plan?"
+    answer: "<strong>Kindly follow the steps below for the Vizitor plans renewal:-</strong><strong>Step 1.</strong><p> Login on https://dashboard.vizitorapp.com/#/login with your registered email & password.</p><strong>Step 2.</strong><p> Click on profile & fill billing details select online payment.</p><strong>Step 3.</strong><p>Click on general in the profile section then click on renew plan. </p><strong>Step 4.</strong><p>Select the plan, period & proceed the payment by online payment methods. </p><strong>Step 5.</strong><p> Then once the payment is done you get the invoice on your registered email & your subscription is activated.</p>"
+  - question: "How to pair a device with code?"
+    answer: "<p>If you are getting difficulty to link your device through scanning.
+            Please go for next alternate and follow these instructions.</p> <strong>Step 1.</strong><p>Login to your Vizitor dashboard</p> <strong>Step 2.</strong><p>Go to settings and navigate to devices.</p> <strong>Step 3.</strong><p> Click on the devices tab from the left menu.</p> <strong>Step 4.</strong><p>Click on click here then use the pairing code in the visitor app
+            </p> <strong>Step 5.</strong><p>Now open your mobile app and Long press on top vizitor icon.</p><strong>Step 6.</strong><p>Then, you have to enter generated code into the pairing code          field.
+            </p> "
+  - question: "How To Pair A Device With Vizitor?"
+    answer: "<p>We all know that keeping your employees and guests safe is the utmost top priority for a business. There are a few ways to get it done, starting with setting up Vizitor.</p>
+     <strong>Step 1.</strong><p>Log in to your vizitor dashboard and select the Device tab from the left panel.</p>
+     <strong>Step 2.</strong><p>Download and open the Vizitor application from Android / iOS device.</p>
+     <strong>Step 3.</strong><p>Click on a pair device from your mobile device.</p>
+     <strong>Step 4.</strong><p>Scan the QR code displayed on your web dashboard.</p>"
+  - question: "How To Signup With Vizitor ?"
+    answer: "
+    <p>It’s very easy to sign up with Vizitor, especially if you have an Android Tablet or iPad available with you along with an Email address and a phone number to authorise your account.</p> 
+    <p><strong>Steps to get started with Vizitor</strong></p>
+    <strong>Step 1.</strong><p>To get started with Vizitor, simply sign up for a 10 days trial.</p>
+    <strong>Step 2.</strong><p>Just complete the account setup by following the guided steps and confirm your account from your email.</p>
+    <strong>Step 3.</strong><p>Download the Vizitor Mobile App For iOS or Playstore.</p>
+    <strong>Step 4.</strong><p>Pair your mobile device with your account.</p>
+    <strong>Step 5.</strong><p>Depending on which plan you choose, you’re all ready to start with signing your visitors and employees into your workplace.</p>"
+  - question: "How to add a new employee?"
+    answer: "
+    <p>Employees are very crucial for every business and providing them easy accessibility to premises is even more crucial. Vizitor allows you to add your employees manually and adding them in Vizitor is very easy.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the Employee tab from the top panel.</p>
+    <strong>Step 3.</strong><p>Click on the Add Employee button and provide all the required details.</p>
+    <strong>Step 4.</strong><p>Once you have filled in all the details. You’ll get a success notification of employee added successfully and you’ll find the details in your dashboard</p>"
+  - question: "How to change language of Vizitor app?"
+    answer: "Vizitor is available in almost every language and changing a language is very easy with Vizitor.You can change the language of visitor app very easily, you can choose the language by clicking on the web icon shown on the right top."
+  - question: "How to do web check-in ?"
+    answer: "
+    <p>A front desk or reception is the most crucial and important area for any business. As the saying goes ” First Impression Is The Last Impression”. The first impression of your reception can dramatically change the behaviour of any user, If your reception is hitech and has already adapted a visitor management solution, your guests will be amazed by how much the process is streamlined and Vizitor not only let them check-in with their own mobile devices but also let them check-in by using the web check-in feature.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the Vizitor Log tab from the left panel.</p>
+    <strong>Step 3.</strong><p>Click on the web check-in tab and provide the mobile number of visitors.</p>
+    <strong>Step 4.</strong><p>Once you confirm the mobile number, Input the additional details like Name, Mobile Number (It will be prefilled), Email, Purpose of check-in and Host they are here for.</p>
+    <strong>Step 5.</strong><p>After clicking Next, the camera option will open ( Optional: This feature will only open if you have captured the visitor image as required).</p>
+    <strong>Step 6.</strong><p>If you have enabled the badge option the badge will show up on the screen which can be printed.</p>
+    <strong>Step 7.</strong><p>Once you skip or print the badge the dashboard will appear with the visitor checked-in to the system.</p>"
+  - question: "How to check visitor logs ?"
+    answer: "
+    <p>For businesses who receive 100s of guests daily, keeping a track of all the visitor logs can be very difficult if you are still using a paper base visitor log. However, if you are using a digital visitor management system keeping a track of your visitor can become very simple and you can even track the back dated visitor logs as we.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the Vizitor Log tab from the left panel.</p>
+    <strong>Step 3.</strong><p>Once in the Visitor Log you can do the following things.</p>
+    <p>1. View details of a visitor by clicking on the eye icon.</p>
+    <p>2. You can print a badge for them by clicking on the printer icon.</p>
+    <p>3. You can remove the visitor from the visitor log by clicking on the bin icon.</p>
+    <p>4.You can checkout a user manually by clicking on the arrow.</p>"
+  - question: "How To Enable Photo Capturing ?"
+    answer: "
+    <p>Having a digital visitor management system present at your front desk / reception is a blessing and having a photo capturing feature provides an extra layer of security to your organisation.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the settings tab from the top.</p>
+    <strong>Step 3.</strong><p>Click on the configuration from the left panel.</p>
+    <strong>Step 4.</strong><p>Click on the app setting  from top panel.</p>
+    <strong>Step 5.</strong><p>You can enable or disable the capture visitor photo option by toggling the button to required.</p>"
+  - question: "How to Customise Form ?"
+    answer: "
+    <p>A front desk/reception is one of the most important places for any business. As it gives out the first impression of your business to prospective clients and visitors. Having a digitally customised form will not only help you with streamlining the visitor data but will also help with shortening the waiting time.</p> 
+    <strong>Step 1.</strong><p>Login to your Visitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the settings tab from the top panel.</p>
+    <strong>Step 3.</strong><p>Click on the sign-in form tab from the left panel.</p>
+    <strong>Step 4.</strong><p>In order to add more fields simply click on the Add New Field option and select from text or drop down field.</p>
+    <strong>You can customise the whole form according to your need and can add as many fields as you want. But, we suggest to use only those fields which are uttermost required as this will shorten the fill time for your guests.</strong>"
+  - question: "How to Enable Healthcare Questionnaire In Vizitor?"
+    answer: "
+    <p>In this time of pandemic having a health care questionnaire is a must for your business. It not only helps you with keeping your employees and guests secure from the threat of virus but also gives your guests an extra comfort layer about your security measures.</p> 
+    <strong>Step 1.</strong><p>Login to your Visitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the settings tab from the top panel.</p>
+    <strong>Step 3.</strong><p>Click on the configuration tab from the left menu.</p>
+    <strong>Step 4.</strong><p>Click the Covid-19 Questionnaire tab from the top menu.</p>
+    <strong>Step 5.</strong><p>Change the status of “Covid-19 Questionnaire?” to be required by clicking the button in front.</p>
+    <strong>Once enabled, whenever someone checks-in via Vizitor they will be presented with some health related questions and if they select “Yes' ' to any of the questions they will be denied entry into premises.</strong>"
+  - question: "How To Add Location To Vizitor ?"
+    answer: "
+    <p>Adding a location to Vizitor is very simple. You can add as many locations you want to add but, that depends on the plan you have subscribed for. You can get a detailed understanding of how many locations are covered in each plan on our pricing page.</p> 
+    <strong>Step 1.</strong><p>To add a new location. Log in to your Vizitor Dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the setting from the top panel on your Dashboard.</p>
+    <strong>Step 3.</strong><p>Click on Locations from the left menu on your Dashboard.</p>
+    <strong>Step 4.</strong><p>Click on +create location button from the right-top on your dashboard.</p>
+    <strong>Step 5.</strong><p>Enter Location Name and Address of your new location.</p>"
+  - question: "How To Enable Badge Printing ?"
+    answer: "
+    <p>If you are a business that receives 100s of guests or visitors daily then keeping a track of them can be more easy by using a Visitor management system. You can put an extra layer of verification by printing the badges for people who check-in to your premises.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the settings tab from the top panel.</p>
+    <strong>Step 3.</strong><p>Click on the configuration tab from the left menu.</p>
+    <strong>Step 4.</strong><p>Click on the App setting tab from top.</p>
+    <strong>Step 5.</strong><p>You can enable or disable the badge printing option by toggling the button to required.</p>"
+  - question: "How To Add Your Business Logo To Vizitor ?"
+    answer: "
+    <p>Having a personalised front desk is one of the most important features for any business. Vizitor not only helps you in securing and streamlining your business but also helps you in giving a unique identity to your front desk as well.</p> 
+    <strong>Step 1.</strong><p>Log into your Vizitor Dashboard.</p>
+    <strong>Step 2.</strong><p>Go to the settings tab from the top panel.</p>
+    <strong>Step 3.</strong><p>Click on the branding tab from the left menu.</p>
+    <strong>Step 4.</strong><p>Click on the upload Image button.</p>
+    <strong>Step 5.</strong><p>Upload your business logo.</p>"
+  - question: "How to refer a friend?"
+    answer: "
+    <p>I will really appreciate it if you could refer vizitor to your friends, family and business partners.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on Refer a Friend tab from the left panel.</p>
+    <strong>Step 3.</strong><p>Once you are in the refer a friend section you can either invite your friend by typing their email address and clicking on the invite button or you share a personalised URL directly to them via a SMS or Email.</p>
+    <strong>Step 4.</strong><p>You can also click on Analytics to see which of your invitees has successfully signed up and what is their subscription status. In addition to that you can also check the email address that has already signed up with Vizitor.</p>"
+  - question: "How to send invite to a visitor?"
+    answer: "
+    <p>If we send a invite to a visitor Click on add invite button in invite in visitor Fill all the fields of pop up form and send invite to visitor.</p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the Invites tab from the left panel.</p>
+    <strong>Step 3.</strong><p>Click on the send invite button. After clicking a pop up form will open asking to input the mobile number of visitors you want to invite.</p>
+    <strong>Step 4.</strong><p>Once you fill out all the details just click on send and the invitation will be on its way to your visitor and the entry will start appearing in dashboard.</p>
+    <strong>Step 5.</strong><p>You can also view details by creating a View button under the invites tab.</p>"
+  - question: "How to add organizatin by Vizitor pass app?"
+    answer: "
+    <p>If you are getting difficulty to add organizatin by Vizitor pass app
+Click on add organization in setting inside profile, fill the location and send request After this, click on the Employee Association button in the employee of the dashboard and accept the request.</p>"
+  - question: "How to send invites in bulk?"
+    answer: "
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard</p>
+    <strong>Step 2.</strong><p>Click on the Invites tab from the left panel.</p>
+    <strong>Step 3.</strong><p>Once you click on the bulk invite an import wizard will open. Asking you to upload a csv file. You’ll need to make sure that the file matches the syntex.</p>"
+  - question: "How to pre-register visitors/employees?"
+    answer: "
+    <p></p> 
+    <strong>Step 1.</strong><p>Login to your Vizitor dashboard.</p>
+    <strong>Step 2.</strong><p>Click on the Invites tab from the left panel.</p>
+    <strong>Step 3.</strong><p>Once you are in the Invitees screen, click on Pre Appointment. The Pre Appointment URL will be copied.</p>
+    <strong>Step 4.</strong><p>You can send the URL either via SMS or Email to the person you want to pre-invite. Once the person opens the URL a Book Appointment form will be opened.</p>
+    <strong>Step 5.</strong><p>Once the invitee has successfully filled the form they will be shown a Booking Confirmation screen with their booking date and  time.</p>
+    <strong>Step 6.</strong><p>Once the booking is confirmed from the invitee end you will have the details available in your Vizitor dashboard. Along with an option to either approve or disapprove their booking.</p>"
+  - question: "Can I apply my branding"
+    answer: "Yes, you can completely customize vizitor as per your requirement. You can customize the welcome screen with your logo, key message etc."
+  - question: "Can Vizitor Print Customized Labels?"
+    answer: "Yes, Vizitor can easily print customized label/badge with your logo on them with the help of a printer. This feature can also be turned off based on our requirement."
+  - question: "Do you have a Mobile App?"
+    answer: "Yes, you can download Vizitor Pass for a complete access of your dashboard on your mobile phone."
+  - question: "Can I pair multiple device?"
+    answer: "Yes, multiple devices can be paired at a location to provide you access at multiple checkpoints in your building."
+  - question: "What notification would I get?"
+    answer: "With Vizitor, you will get a notifcation via SMS/Email/In-app Notification every time a guest or employee check-in or check-out from your premesis. You can also send customized notification in bulk in case of any emergency."
+  - question: "What if a visitor overstay?"
+    answer: "If a visitor overstay the alocated time host will get a notifcation. Then the host can either increase their meeting time or can check the visitor out manually"
+  - question: "How Does Contactless Check-In Work?"
+    answer: "Visitors can check-in with the help of their mobile phone by simply scanning a QR code and then filling out the details on their mobile itself without touching any other device."
+  - question: "How many users can check-in /check-out in a single day?"
+    answer: "With Vizitor, you can check-in/check-out unlimited number of visitors in a single day.(depends on plan)"
+  - question: "What is included in the free plan?"
+    answer: "Majority of feaures are available in free plan except Badge printing, SMS notifications, OTP, enterprise alerts and directory integrations. You can know more about it at our pricing page."
+  - question: "Can I pre-register my guests?"
+    answer: "Yes, with vizitor you can send a pre-registeration form to your guests to streamline and fasten their check-in process."
+  - question: "Can I download reports from Vizitor?"
+    answer: "Yes, Vizitor provides you with detailed realtime reports about your visitors including their visitor log, stay duration, whom they met etc."
+  - question: "Can I track a visitor?"
+    answer: "Yes, visitors can be tracked by authorized personall when badge or QR code is scanned to determine if the visitor is still inside your premesis or not."
+  - question: "Can Visitor Photos be Captured?"
+    answer: "Yes, with Vizitor you can capture visitor photos along with their ID as well."
+  - question: "Does visitors need to re-register?(mold)"
+    answer: "No, if a visitor has registered once they can simply check-in by providing their mobile number and email id"
+  - question: "Where is visitor data stored?"
+    answer: "Vizitor is a cloud based application and all the data is stored securely into our cloud database. Which you can access any time from your dashboard."
+  - question: "Can I intergrate third party apps like google calander etc.?"
+    answer: "Yes, third party application integration is possible with Vizitor."
+  - question: "How much does the basic package cost?"
+    answer: "The basic package is free for life time and provide you with 100 check-ins per month.(we have free, starter start fromm20$)"
+  - question: "What happens after my 10 days trial is over?"
+    answer: "Once your trial period is over, you can talk to one of our repersetative to move forward with your subscription else you will be downgraded to free plan."
+  - question: "How much 1000 check-in per month cost?"
+    answer: "If you need 1000 check-ins per month you can opt in for our premium package. It will cost you 40$/month. You can check about features included in our plans on our pricing page."
+  - question: "What payment options are available?"
+    answer: "We have different type of payment options available. You can either go for monthly payments or you can optin the annual package(with discounts). You can pay for subscription via your debit or credit card."
+  - question: "Which plan offers Email, SMS, Push and OTP notifications?"
+    answer: "Our premium plan offers all these notifications and starts just at 40$/month. You can checkout the features of every plan at pricing page."
+  - question: "Are all the locations included in your plans?"
+    answer: "Each plan has different set of locaitons included in our starter pack 1 location is included and in our premium pack 2 locations are included. If you require more locations you can go for our enterprise plan which will be completely customized for you."
+  - question: "When can we upgrade our plan?"
+    answer: "You can get your plan upgraded at any time."
+  - question: "Can we upgrade from premium to enterprise plan?"
+    answer: "Yes, upgrading from plan to another is very easy and can be done in just 10 minutes."
+  - question: "Can 1 plan work for my different offices?"
+    answer: "Yes, we do support multi location. You can just go with 1 plan for all your office locations with a single account and we will sync everything for you. start 1 pre 2 enter )"
+  - question: "Are SMS included in every plan?"
+    answer: "If you are in India then we have got the SMS part covered for you. But, if you are outside India their is an additional chage for SMS as per your country rates."
+  - question: "Is their any additional cost for installation etc.?"
+    answer: "No, their is not additional cost of installation or any thing. All you need to pay for is your subscription nothing else."
+  - question: "Can I install Vizitor on a tablet?"
+    answer: "Yes, currently we are supporting all the major brand Android tablets and iPad to get you started with"
+  - question: "Do I need any additional hardware to install vizitor?"
+    answer: "You can get started with vizitor with almost any tablet you have handy with you. All you need to do is download the Vizitor App and get register."
+  - question: "Can we print badges?"
+    answer: "Yes, Vizitor allows you to prin customized badges with your logo and branding over it."
+  - question: "Which printer does Vizitor support for badge printing?"
+    answer: "Currently, Vizitor supports Brothers Label Printer QL 720 NW"
+  - question: "Can the badges be customized?"
+    answer: "Yes, you can customize your badges with your logo and branding."
+  - question: "What hardware does your app support?"
+    answer: "Vizitor is available on both the Android(version 6+) and iOS(version 11+) platforms. You can use any tablet or iPad for starting out with our Visitor Management System at your reception."
+  
+
+
+
+
+
+
+         
+        
+        

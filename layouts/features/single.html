@@ -1,0 +1,860 @@
+{{ define "main" }}
+
+<div id="bvms2">
+    <div class="container mainbanneres">
+        <div class="row align-items-center ">
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <h1> <span class="Digitize">Vizitor Workplace Platform</span> Uniting People and Optimizing Spaces! </h1>
+                <p style="font-size: 25px;">Transform your workplace experience with Vizitor's all-in-one platform.</p>
+                <p>Discover the powerful features of Vizitor's all-in-one workplace platform to transform your visitor management and optimize your space.</p>
+                <div class="my-5">
+                    <form id="featuresApi">
+                        <input type="email" class="email-input" id="emaildigital" name="emaildigital" placeholder="Enter your email" required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <div class="text-center">
+                    <img src="/images/vizitor/vizitor-Dashborad.png" alt="Vizitor Dashborad">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">{{- partial "clients.html" . -}}</div>
+</div>
+
+<div id="cardfeatures" class="col-md-11 mx-auto ">
+    <div class=" headingsub">
+        <div class=" text-center ">
+            <p><span class="Digitize ">PRODUCTS</span></p>
+            <h3 class="chgh3">Effortlessly Manage Your Workplace with <br><span class="Digitize"> Vizitor's Comprehensive Suite of Tools</span></h3>
+        </div>
+    </div>
+
+    <div class="card-deck ">
+        <!-- ----- -->
+        <div class="card features-card text-center">
+            <div>
+                <h6 class="features-h6 Digitize">Perfect solution for <br>workplace needs</h6>
+                <hr>
+            </div>
+            <div class="card-body p-0">
+                <img src="/images/vizitor/Visitor-Management.svg" class="features-card-img" alt="Visitor-Management" />
+                <h5 class="card-title " style="font-size: 20px;">Visitor management </h5>
+                <p class="workplace-card-p ">Maximize workplace security, visitor experiences, and brand image.</p>
+            </div>
+            <div>
+                <a href="/best-visitor-management-system-in-india" class="card-footer p-0">
+                    <span class="know-more">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" /></span>
+                </a>
+                <span style="padding: 0px 8px;">|</span>
+                <a href="#bvms" class="card-footer p-0">
+                    <span class="know-more">Features <img style="width:25px;" src="/images/vizitor/down.png" /></span>
+                </a>
+            </div>
+
+        </div>
+        <!-- ----- -->
+        <div class="card features-card text-center">
+            <div>
+                <h6 class="features-h6 Digitize">Keeping track of <br>Employee’s attendance</h6>
+                <hr>
+            </div>
+            <div class="card-body p-0">
+                <img src="/images/vizitor/Attendance-management.svg" class="features-card-img" alt="Attendance-management" />
+
+                <h5 class="card-title " style="font-size: 20px;">Attendance Management </h5>
+                <p class="workplace-card-p">Ensure your workplace stays secure with employee control solutions.</p>
+            </div>
+
+            <div>
+                <a href="/touchless-attendance-management-system/" class="card-footer p-0">
+                    <span class="know-more">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" /></span>
+                </a>
+                <span style="padding: 0px 8px;">|</span>
+                <a href="#Ams" class="card-footer p-0">
+                    <span class="know-more">Features <img style="width:25px;" src="/images/vizitor/down.png" /></span>
+                </a>
+            </div>
+        </div>
+        <!-- ----- -->
+        <div class="card features-card text-center">
+            <div>
+                <h6 class="features-h6 Digitize">Reduce your <br>waiting time</h6>
+                <hr>
+            </div>
+            <div class="card-body p-0">
+                <img src="/images/vizitor/Shield-user.png" class="features-card-img" alt="Shield-user">
+                <h5 class="card-title " style="font-size: 20px;">Queue Management </h5>
+                <p class="workplace-card-p">Shorten wait times and improve your customers' waiting experience.</p>
+            </div>
+
+            <div>
+                <a href="/smart-queue-management-system" class="card-footer p-0">
+                    <span class="know-more">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" /></span>
+                </a>
+                <span style="padding: 0px 8px;">|</span>
+                <a href="#Qms" class="card-footer p-0">
+                    <span class="know-more">Features <img style="width:25px;" src="/images/vizitor/down.png" /></span>
+                </a>
+            </div>
+        </div>
+        <!-- ----- -->
+        <div class="card features-card text-center">
+            <div>
+                <h6 class="features-h6 Digitize">Efficient delivery at <br>your fingertips</h6>
+                <hr>
+            </div>
+            <div class="card-body p-0">
+                <img src="/images/vizitor/Deliveries-management.svg" class="features-card-img" alt="Deliveries-management" />
+                <h5 class="card-title " style="font-size: 20px;">Deliveries management</h5>
+                <p class="workplace-card-p">Streamline Your Delivery Operations and Ensure Prompt Package Pickups</p>
+            </div>
+
+            <div>
+                <a href="/delivery-management-system/" class="card-footer p-0">
+                    <span class="know-more">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" /></span>
+                </a>
+                <span style="padding: 0px 8px;">|</span>
+                <a href="#Dms" class="card-footer p-0">
+                    <span class="know-more">Features <img style="width:25px;" src="/images/vizitor/down.png" /></span>
+                </a>
+            </div>
+        </div>
+        <!-- ----- -->
+    </div>
+</div>
+<!-- -------1---- -->
+
+<div id="bvms">
+    <div class="container ">
+        <div class="text-center mb-5">
+            <h2>Efficient, Effective, and Essential<br> <span class="Digitize">The Features of Vizitor</span> </h2>
+        </div>
+        <div class="row vistor-card align-items-center" id="tabs2">
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="for-vt">
+                    <p><span class="Digitize ">FEATURES</span></p>
+                    <h3 class="features-slider">Collaborate smartly</h3>
+                    <p>Elevate your visitor experience with our smart collaboration-focused management system.</p>
+                    <h4>Key Features</h4>
+                </div>
+
+                <ul class="tab-slaider-Upgrade mt-4" id="accordion2">
+                    <li class="li-btm">
+                        <a class="step circle active " href="#touchless-Check-ins">
+                            <div>
+                                <img src="/images/vizitor/touchless-Check-ins-vizitor.svg" class="Features-img" alt="touchless-Check-ins">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Branding and Customization</span>
+                            </div>
+                        </a>
+                        <div class="addon fadein text " style="display: none;">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Display brand logo and welcome message</li>
+                                    <li>Customize badge design with required details</li>
+                                    <li>Adjust colors and design to fit your brand image</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="li-btm">
+                        <a href="#host-Notifications">
+                            <div>
+                                <img src="/images/vizitor/host-Notifications-vizitor.svg" class="Features-img" alt="host-Notifications">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Visitor Badges</span>
+                            </div>
+                        </a>
+                        <div class="addon ">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Customizable badges per visitor type</li>
+                                    <li>Preprint badges anytime</li>
+                                    <li>Create custom, color badges with your logo</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="li-btm">
+                        <a href="#send-Invites">
+                            <div>
+                                <img src="/images/vizitor/send-Invites-vizitor.svg" class="Features-img" alt="send-Invites">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Host Notifications</spanp>
+                        </div>
+                    </a>
+                    <div class="addon ">
+                        <div class="slide-text-phone">
+                            <ul style="list-style: disc;padding-inline-start: 15px;">
+                                <li>Receive notifications when visitors check-in</li>
+                                <li>Stay up-to-date on visitor traffic</li>
+                                <li>Facilitate communication and coordination</li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="li-btm">
+                    <a href="#badge-Printing">
+                        <div>
+                            <img src="/images/vizitor/badge-Printinges-vizitor.svg" class="Features-img" alt="badge-Printing">
+                            <span class="titleUpgrade headimg-Upgrade heading-title">Customizable Registration</span>
+                            </div>
+                        </a>
+                        <div class="addon ">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Customize registration process for business needs</li>
+                                    <li>Add custom fields to registration form</li>
+                                    <li>Require specific information as NDA agreement </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12 ">
+                <div class="text-center">
+                    <div id="touchless-Check-ins">
+                        <figure><img class="tab-card-img" src="/images/vizitor/Touchless-Check-ins.svg" alt="Touchless-Check-ins"></figure>
+                    </div>
+                    <div id="host-Notifications">
+                        <figure><img src="/images/vizitor/Badge-Printing.svg" alt="Badge-Printing"></figure>
+                    </div>
+                    <div id="send-Invites">
+                        <figure><img class="tab-card-img" src="/images/vizitor/Host-Notifications.svg" alt="Host-Notifications"></figure>
+                    </div>
+                    <div id="badge-Printing">
+                        <figure><img src="/images/vizitor/Send-Invites.svg" alt="Send-Invites"></figure>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- -------2---- -->
+<div id="bvms2">
+    <div class="container ">
+        <div class="row vistor-card align-items-center" id="tabs">
+
+
+            <div class="col-lg-6 col-md-6 col-12 ">
+                <div class="text-center">
+                    <div id="touchless-Check-ins">
+                        <figure><img class="tab-card-img" src="/images/vizitor/dashboard/features--dashboard.png" alt="Touchless-Check-ins"></figure>
+                    </div>
+                    <div id="host-Notifications">
+                        <figure><img class="tab-card-img" src="/images/vizitor/visitor-management/visitor-log.png" alt="Host-Notifications"></figure>
+                    </div>
+                    <div id="send-Invites">
+                        <figure><img src="/images/vizitor/visitor-management/graph.png" alt="Send-Invites"></figure>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="for-vt">
+                    <p><span class="Digitize ">FEATURES</span></p>
+                    <h3 class="features-slider">Boost your performance with analytics</h3>
+                    <p>Gain valuable insights and boost your performance with our powerful analytics tool.</p>
+                    <h4>Key Features</h4>
+                </div>
+
+                <ul class="tab-slaider-Upgrade mt-4" id="accordion">
+                    <li class="li-btm">
+                        <a class="step circle active " href="#touchless-Check-ins">
+                            <div>
+                                <img src="/images/vizitor/touchless-Check-ins-vizitor.svg" class="Features-img" alt="touchless-Check-ins">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Real-Time Analytics</span>
+                            </div>
+                        </a>
+                        <div class="addon fadein text " style="display: none;">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Monitor visitor traffic and patterns in real-time</li>
+                                    <li>Access comprehensive analytics and reports</li>
+                                    <li>Analyze data to identify trends and improvement</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="li-btm">
+                        <a href="#host-Notifications">
+                            <div>
+                                <img src="/images/vizitor/host-Notifications-vizitor.svg" class="Features-img" alt="host-Notifications">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Visitor Dashboard</span>
+                            </div>
+                        </a>
+                        <div class="addon ">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Real-time updates of your digital visitor log </li>
+                                    <li>Instant access to records for every visitor</li>
+                                    <li>Sign in VIP visitors directly from the dashboard.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="li-btm">
+                        <a href="#send-Invites">
+                            <div>
+                                <img src="/images/vizitor/send-Invites-vizitor.svg" class="Features-img" alt="send-Invites">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Comparing Data and Insights</span>
+                            </div>
+                        </a>
+                        <div class="addon ">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Vizitor provides data on customer footfall and behavior</li>
+                                    <li>Vizitor enables analysis of customer patterns</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- --------3--------- -->
+<div id="bvms">
+    <div class="container ">
+        <div class="row vistor-card align-items-center" id="tabs1">
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="for-vt">
+                    <p><span class="Digitize ">FEATURES</span></p>
+                    <h3 class="features-slider">Enhanced Security through Authorized Access</h3>
+                    <p>Ensure enhanced security and peace of mind with our authorized access system.</p>
+                    <h4>Key Features</h4>
+                </div>
+
+                <ul class="tab-slaider-Upgrade mt-4" id="accordion1">
+                    <li class="li-btm">
+                        <a class="step circle active " href="#touchless-Check-ins">
+                            <div>
+                                <img src="/images/vizitor/touchless-Check-ins-vizitor.svg" class="Features-img" alt="touchless-Check-ins">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Legal Documents</span>
+                            </div>
+                        </a>
+                        <div class="addon fadein text " style="display: none;">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Customizable legal documents to ensure protection</li>
+                                    <li>Option for visitors to sign documents before they arrive.</li>
+                                    <li>Automatically store and retrieve signed documents</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="li-btm">
+                        <a href="#host-Notifications">
+                            <div>
+                                <img src="/images/vizitor/host-Notifications-vizitor.svg" class="Features-img" alt="host-Notifications">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Notifications</span>
+                            </div>
+                        </a>
+                        <div class="addon ">
+                            <div class="slide-text-phone">
+                                <ul style="list-style: disc;padding-inline-start: 15px;">
+                                    <li>Automatic notifications to keep you informed</li>
+                                    <li>Option to notify employees about specific visitor arrivals</li>
+                                    <li>Security alerts for unwanted visitors attempting to sign in</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="li-btm">
+                        <a href="#send-Invites">
+                            <div>
+                                <img src="/images/vizitor/send-Invites-vizitor.svg" class="Features-img" alt="send-Invites">
+                                <span class="titleUpgrade headimg-Upgrade heading-title">Sign-Out</spanp>
+                        </div>
+                    </a>
+                    <div class="addon ">
+                        <div class="slide-text-phone">
+                            <ul style="list-style: disc;padding-inline-start: 15px;">
+                                <li>Provide a picture of who's on site</li>
+                                <li>Option for visitors to sign out using the dashboard</li>
+                                <li>Automatic sign-out for all visitors</li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                </ul>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12 ">
+                <div class="text-center">
+                    <div id="touchless-Check-ins">
+                        <figure><img class="tab-card-img" src="/images/vizitor/nda/NDA-BANNER.png" alt="Touchless-Check-ins"></figure>
+                    </div>
+                    <div id="host-Notifications">
+                        <figure><img class="tab-card-img" src="/images/vizitor/Host-Notifications.svg" alt="Host-Notifications"></figure>
+                    </div>
+                    <div id="send-Invites">
+                        <figure><img src="/images/vizitor/vms-capturing-photos/vms-features.png" alt="Send-Invites"></figure>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ---------4------- -->
+<div id="bvms2">
+    <div class="container ">
+        <div class="row vistor-card align-items-center" id="tabs3">
+
+            <div class="col-lg-6 col-md-6 col-12 ">
+                <div class="text-center">
+                    <div id="touchless-Check-ins">
+                        <figure><img src="/images/vizitor/vizitor-Dashborad.png" alt="Vizitor Dashborad"></figure>
+                    </div>
+                    <div id="host-Notifications">
+                        <figure><img class="tab-card-img" src="/images/vizitor/Touchless-Check-ins.svg" alt="Host-Notifications"></figure>
+                    </div>
+                    <div id="send-Invites">
+                        <figure><img src="/images/vizitor/free-visitor-management-system/banner-illustration.png" alt="banner-illustration"></figure>
+                    </div>
+                    <div id="badge-Printing">
+                        <figure><img src="/images/vizitor/pass/header.png" alt="Badge-Printing"></figure>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="for-vt">
+                    <p><span class="Digitize ">FEATURES</span></p>
+                                <h3 class="features-slider">Why we are different</h3>
+                                <p>Standing Out from the Crowd, The Unique Advantages of Implementing a Visitor Management System</p>
+                                <h4>Key Features</h4>
+                            </div>
+
+                            <ul class="tab-slaider-Upgrade mt-4" id="accordion3">
+                                <li class="li-btm">
+                                    <a class="step circle active " href="#touchless-Check-ins">
+                                        <div>
+                                            <img src="/images/vizitor/touchless-Check-ins-vizitor.svg" class="Features-img" alt="touchless-Check-ins">
+                                            <span class="titleUpgrade headimg-Upgrade heading-title">Efficient Visitor Management</span>
+                                        </div>
+                                    </a>
+                                    <div class="addon fadein text " style="display: none;">
+                                        <div class="slide-text-phone">
+                                            <ul style="list-style: disc;padding-inline-start: 15px;">
+                                                <li>Streamline check-in process</li>
+                                                <li>Save time with automated check-in</li>
+                                                <li>Manage visitor information securely</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="li-btm">
+                                    <a href="#host-Notifications">
+                                        <div>
+                                            <img src="/images/vizitor/host-Notifications-vizitor.svg" class="Features-img" alt="host-Notifications">
+                                            <span class="titleUpgrade headimg-Upgrade heading-title">Contactless Check-In</span>
+                                        </div>
+                                    </a>
+                                    <div class="addon ">
+                                        <div class="slide-text-phone">
+                                            <ul style="list-style: disc;padding-inline-start: 15px;">
+                                                <li>Provide visitors with contactless check-in </li>
+                                                <li>Allow visitors to check-in using their mobile</li>
+                                                <li>Reduce physical touchpoints & health risks</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="li-btm">
+                                    <a href="#send-Invites">
+                                        <div>
+                                            <img src="/images/vizitor/send-Invites-vizitor.svg" class="Features-img" alt="send-Invites">
+                                            <span class="titleUpgrade headimg-Upgrade heading-title">Value for Money</spanp>
+                        </div>
+                    </a>
+                    <div class="addon ">
+                        <div class="slide-text-phone">
+                            <ul style="list-style: disc;padding-inline-start: 15px;">
+                                <li>Easy to maintain visitor management</li>
+                                <li>Dedicated team of experts </li>
+                                <li>Reduce overall costs </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="li-btm">
+                    <a href="#badge-Printing">
+                        <div>
+                            <img src="/images/vizitor/badge-Printinges-vizitor.svg" class="Features-img" alt="badge-Printing">
+                            <span class="titleUpgrade headimg-Upgrade heading-title">Vizitor Pass App</span>
+                                        </div>
+                                    </a>
+                                    <div class="addon ">
+                                        <div class="slide-text-phone">
+                                            <ul style="list-style: disc;padding-inline-start: 15px;">
+                                                <li>Manage visitor details, invites, and more </li>
+                                                <li>Empower employees to manage visitors & administrators</li>
+                                                <li>Sign in faster when you visit other offices</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+
+                            </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Features bvms -->
+<div id="bvms">
+    <div class="container">
+        <div>
+            <h2><span class="Digitize">Best Visitor Management System Features</span></h2>
+            <p>Optimize Visitor Experience with Vizitor's Comprehensive Visitor Management Solution</p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Employee signin Attendance</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>QR code sign in</li>
+                    <li>Approve/disapprove visitors</li>
+                    <li>Send/receive invitee</li>
+                    <li>Add organization</li>
+                    <li>Reporting/Time Tracking</li>
+                    <li>Vizitor Pass App Support</li>
+                    <li>Employee Bulk upload</li>
+                    <li>Send pre-invites and bulk invites</li>
+
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Visitor Sign-In</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Web-based Check-in</li>
+                    <li>Capture Guest photos</li>
+                    <li>Create custom fields</li>
+                    <li>ID badge printing</li>
+                    <li>Welcome notification to visitors</li>
+                    <li>Multilingual Display</li>
+                    <li>QR/Touchless Check-in</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Health & Security Features</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>OTP authentication</li>
+                    <li>ID Verification</li>
+                    <li>Access Control</li>
+                    <li>NDA Sign</li>
+                    <li>Health Screening</li>
+                    <li>Contact Tracing</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Customization</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Custom branding</li>
+                    <li>Custom Fields</li>
+                    <li>Custom Workflow</li>
+                    <li>Customization Badges</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Check-in Features
+                </p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Touchless Check-in</li>
+                    <li>Web check-in</li>
+                    <li>Email & SMS Notifications</li>
+                    <li>Appointment</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Host management</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Host pre-registration</li>
+                    <li>Host Notification</li>
+                    <li>Host approval</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" />Third Party Integration Support</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Vizitor check-in app</li>
+                    <li>Vizitor Pass app</li>
+                    <li>Slack</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Reporting and Analytics </p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Access to all Visitor logs</li>
+                    <li>Sort, search, and export visitor logs</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Multi-location Support
+                </p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Multi-site management</li>
+                    <li>Global Support</li>
+                </ul>
+            </div>
+        </div>
+        <div class=" bannerbtn mt-4">
+            <a href="/best-visitor-management-system-in-india/" class="btn-arrow"> Read more</a>
+        </div>
+    </div>
+</div>
+<!-- Features Ams -->
+<div id="bvms2">
+    <div class="container" id="Ams">
+        <div>
+            <h2><span class="Digitize">Attendance Management System Features</span></h2>
+            <p>Streamline Employee Attendance with Vizitor's Digital Management System</p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Touchless Clock-In</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Mobile device check-in</li>
+                    <li>Hygienic and contactless</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Real-Time Monitoring</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Management dashboard</li>
+                    <li>Informed scheduling and safety decisions</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Secure Access Control</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Approved employee access only</li>
+                    <li>Intuitive access permissions management</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Capacity Management</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Limits on on-site employees</li>
+                    <li>Optimized space and social distancing</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Reporting & Analytics</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Real-time attendance data and insights</li>
+                    <li>Informed productivity and efficiency decisions</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+
+            </div>
+        </div>
+
+        <div class=" bannerbtn mt-4">
+            <a href="/touchless-attendance-management-system/" class="btn-arrow"> Read more</a>
+        </div>
+    </div>
+</div>
+
+<!-- Features Qms -->
+<div id="bvms">
+    <div class="container" id="Qms">
+        <div>
+            <h2><span class="Digitize">Queue management System Features</span></h2>
+            <p>Eliminate Wait Times with Vizitor's Intelligent Queue Management System</p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Department Creation</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Create multiple departments and assign employees to manage visitors</li>
+                    <li>Efficiently manage visitors by department</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Employee Department Update</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Easy update of employee departments</li>
+                    <li>Ensures up-to-date visitor management process</li>
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Token Generation</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Unique tokens generated with serial numbers by department</li>
+                    <li>Makes visitor tracking efficient</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Real-time Notifications</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Real-time notifications for visitor arrivals</li>
+                    <li>Employees in specific department receive notifications</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Visitor Request Acceptance</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Easy visitor request acceptance by department employees
+                    </li>
+                    <li>Notification removed from other employees in same department for efficiency</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" />Counter Details Notification</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Visitor receives notification with counter details upon acceptance</li>
+                    <li>Ensures smooth and hassle-free visitor experience
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Department Transfer</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Efficient transfer of visitors to correct department</li>
+                    <li>Ensures seamless experience for visitors and employees</li>
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" />Automatic Serial Number Reset</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Department serial number reset every night based on local time</li>
+                    <li>QMS system ready for new day of visitor management</li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Customizable Reporting</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Generate reports for visitor data, employee performance, and department statistics</li>
+                    <li>Customizable reporting tools provide valuable insights to optimize queue management system.
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+        <div class=" bannerbtn mt-4">
+            <a href="/smart-queue-management-system" class="btn-arrow"> Read more</a>
+        </div>
+    </div>
+</div>
+
+<!-- Features Dms -->
+<div id="bvms2">
+    <div class="container" id="Dms">
+        <div>
+            <h2><span class="Digitize">Delivery management System Features</span></h2>
+            <p>Efficiently Manage Deliveries with Vizitor's Customizable Delivery Management Tool</p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Recipient Identification</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>No extra hardware needed</li>
+                    <li>Simplified identification process</li>
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Digital Delivery Log</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Record arrival and retrieval</li>
+                    <li>Track packages awaiting pickup</li>
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Package Notifications</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Instant employee notifications</li>
+                    <li>Reduce delays and enhance management</li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Automatic Reminders</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Timely pickup reminders</li>
+                    <li>Prevent unclaimed packages</li>
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Delivery Analytics & Reports
+                </p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Data-driven insights
+                    </li>
+                    <li>Improve operations and scale mail process</li>
+
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <p class="digital-visitor display-flex"><img class="vmsFeatures" src="/images/vizitor/24px-check.svg" alt="24px-check" /> Web-Based Delivery Scanning</p>
+                <ul style="list-style: disc;padding-inline-start: 50px;color: #687888;">
+                    <li>Easy delivery addition and photo capture</li>
+                    <li>Streamlined web-based process</li>
+
+                </ul>
+            </div>
+        </div>
+
+        <div class=" bannerbtn mt-4">
+            <a href="/delivery-management-system/" class="btn-arrow"> Read more</a>
+        </div>
+    </div>
+</div>
+<!-- -------------------- -->
+<div class="Visitor-Management-System ">
+    <div class="container ">
+        <div class="row align-items-center">
+            <div class="col-md-7 col-sm-7 col-xs-12">
+                <h2 class="color-wht">Experience Visitor Management Solutions with a Demo</h2>
+                <p class="color-wht ">Are you looking for a visitor management solution that can enhance your customer's waiting experience and boost your business's productivity? Look no further than Vizitor's advance visitor management solutions. With our simple ticketing
+                    systems and customized customer journey platforms, we can seamlessly integrate with your business operations to deliver a seamless waiting experience for your customers. Book a demo with Vizitor today and experience the power of our
+                    visitor management solutions for yourself.
+                </p>
+                <div class="mt-5">
+                    <a href="/demo" class="btn-arrow bvms-white-btn">Book a demo</a>
+                    <a href="/signup" class="btn qms">Request a free trial</a>
+                </div>
+            </div>
+            <div class="col-md-5 col-sm-5 col-xs-12">
+                <img class="mb-5" src=" /images/vizitor/Experience.png" alt="Experience" style="border-radius: 20px;">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms2">
+    {{- partial "faq.html" . -}}
+</div>
+
+<!-- End -->
+
+
+{{end}}

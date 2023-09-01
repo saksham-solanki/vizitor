@@ -1,0 +1,46 @@
+backend:
+  name: git-gateway
+  branch: main 
+
+local_backend: true
+
+publish_mode: editorial_workflow
+media_folder: "static/images/blog"
+public_folder: "/images/blog"
+show_preview_links: false
+
+
+site_url: https://vizitor.netlify.app/
+
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string"}
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true}
+      - { label: "imageauthors", name: "authorsImage", widget: "image", required: false}
+      - { label: "authors", name: "authors", widget: "list", allow_add: true, default: [""], required: false }
+      - { label: "image", name: "image", widget: "image"}
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "help"
+    label: "Help"
+    folder: "content/help"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string"}
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true}
+      - { label: "imageauthors", name: "authorsImage", widget: "image", required: false}
+      - { label: "authors", name: "authors", widget: "list", allow_add: true, default: [""], required: false }
+      - { label: "image", name: "image", widget: "image"}
+      - { label: "Body", name: "body", widget: "markdown" }

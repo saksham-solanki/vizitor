@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div>
+    <!-- Faq Section -->
+    <div id="faqsection">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center topblocktxt">
+                    <span class="blocktxt">FAQ</span>
+                    <h1>Frequently Asked Questions</h1>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 offset-md-1">
+                    <div id="accordion" class="accordion faqaccordion">
+                        <div class="card mb-0">
+                            {{range $index, $elem := .Site.Data.faq55.items }}
+                            <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
+                                <a class="card-title">
+										{{.question}}
+									</a>
+                            </div>
+                            <div id="faq{{$index}}" class="card-body collapse clrmod" data-parent="#accordion">
+                                {{.answer | safeHTML}}
+                            </div>
+                            {{end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Faq Section Ends -->
+
+    {{end}}

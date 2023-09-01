@@ -1,0 +1,197 @@
+{{ define "main" }}
+<div class="container pagebanneres pb-5">
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-6 col-xs-12 ">
+            <h1 class="mb-4"><span style="color:#1F1A4C;">Secure Your Workplace </span> <br> With Touchless Check-ins</h1>
+            <img src="/images/vizitor/demo/secure-your-workplace.png" alt="secure-your-workplace" />
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class=" box">
+                <div class="contactform">
+                    <form id="demoForm">
+                        <div class="row">
+                            <div class="col-md-12 mb-4">
+                                <input type="text" class="form-control" id="name" placeholder="Full Name" required>
+                            </div>
+
+                            <div class="col-md-12 mb-4">
+                                <input type="email" class="form-control" id="email" placeholder="Email" required>
+                            </div>
+
+                            <!-- <div class="col-md-12 mb-4">
+
+                                <input type="number" class="form-control" id="phoneNumber" placeholder="Phone number" required>
+                            </div> -->
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <select class="countrySelect custom-select browser-default" id="country" name="country">
+                                            {{range .Site.Data.countryCode}}
+                                            <option value="{{.unicode}} - {{.name}}">{{.emoji}} {{.name}} ({{.unicode}})</option>
+                                            {{end}}
+                                        </select>
+                                </div>
+                                <div class="col-md-2 col-sm-2 col-xs-12 singnup-valu signup-input-ph singup-code">
+                                    <div class="form-group">
+                                        <label for="message">code</label>
+                                        <input class="form-control" id="code" required value="+91">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                        <input type="number" class="form-control" name="phoneNumber" id="phoneNumber" placeholder="Phone number" required>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12 mb-4">
+
+                                <textarea type="text" class="form-control" placeholder="message" id="message" required></textarea>
+                            </div>
+                        </div>
+                        <div class="row mb-5">
+                            <div class="col-md-12 mt-4 text-center">
+                                <button type="submit" value="Submit Now">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div style="background-color: #E2F1F7;" class="pb-5">
+    <div class="container pagesection ">
+        <div class="col-md-8 mx-auto center-content">
+            <h2 style="color:#1F1A4C;">Zero Cost & Zero Touch Platform</h2>
+            <p>Create an amazing impression with touchless check-ins every time a visitor comes into your premises. Greet your visitors with a customized touchless visitor flow based on your business.</p>
+            <div class="bannerbtn my-4">
+                <a href="/signup" class="btn-arrow">Get Started</a>
+            </div>
+            <img class="mb-5" src="/images/vizitor/demo/zero-touch-platform.png" alt="zero-touch-platform" />
+        </div>
+
+        <div class="row ">
+            <div class="card-deck">
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/scan.png" class="pricingimg2 cardimg" alt="scan">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Contact Tracing</h5>
+                        <p>Contact tracing help you know the status of your visitor's Accurate Time tracing and whom they met so it's easy to back trace in case of any virus exposure....</p>
+                        <a class="blog-btn-arrow " href="/contact-tracing" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/pre-registration.png" class="pricingimg2 cardimg" alt="pre-registration">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"> Pre Registration</h5>
+                        <p>Pre-Registration helps your guests to check-In quickly with a QR code and entirely touchless process which help secure your workplace....</p>
+                        <a class="blog-btn-arrow " href="/pre-registration" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/screening-visitors.png" class="pricingimg2 cardimg" alt="screening-visitors">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Screening Visitors</h5>
+                        <p>With Vizitor COVID Mode, youcan even screen your visitors with customized questionnaire and help you detects if they came from a contaminated....</p>
+                        <a class="blog-btn-arrow " href="/contact-tracing" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/instant-alerts.png" class="pricingimg2 cardimg" alt="instant-alerts">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Instant Alerts</h5>
+                        <p>Receive instant alerts when a guest arrives at your premises and even send visitor's details for verifying the access inside the workplace....</p>
+                        <a class="blog-btn-arrow " href="/instant-notification" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pagesection">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <img src="/images/vizitor/demo/touchless-attendance.png" alt="touchless-attendance">
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <h2 class="desk">Touchless Attendance</h2>
+                <p>Your employees can sign-in to work without touching anything with the help of ZERO-Touch attendance system. Having a touchless system helps you curb the spread of viruses in your workplace.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pagesection">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <h2 class="desk">Contactless Deliveries</h2>
+                <p>Make your deliveries safe and fast by having it delivered in a contactless manner. Employees can later on collect the delivery after few hours by just scanning a QR.</p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <img src="/images/vizitor/demo/contactless-deliveries.png" alt="contactless-deliveries">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="background-color: #F17A39;">
+    <div class="container pagesection pb-5">
+        <div class="text-center">
+            <h2 class="color-wht">New Features</h2>
+            <p class="color-wht">That will help you make your business operate securely</p>
+        </div>
+
+        <div class="row mt-5">
+            <div class="card-deck">
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/COVID-mode.png" class="pricingimg2 cardimg" alt="COVID-mode">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">COVID Mode</h5>
+                        <p>Multiple Covid-19 health Questionnaire with feature to find if user came from a contaminated zone....</p>
+                        <a class="blog-btn-arrow " href="https://www.vizitorapp.com/blog/stop-covid-19-with-contact-tracking/" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/live-occupancy-monitoring.png" class="pricingimg2 cardimg" alt="live-occupancy-monitoring" style="width: 51px;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Live Occupancy Monitoring</h5>
+                        <p>Help maintain a occupancy limit inside the workplace to prevent overcrowding with live alerts....</p>
+                        <a class="blog-btn-arrow " href="https://www.vizitorapp.com/blog/stop-covid-19-with-contact-tracking/" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+                <div class="card text-center card-shadow">
+                    <div class="mt-4">
+                        <img src="/images/vizitor/demo/geo-attendance.png" class="pricingimg2 cardimg" alt="geo-attendance">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Geo Attendance</h5>
+                        <p>Contact tracing help you know the status of your visitor's Accurate Time tracing and whom they met so it's easy to back trace in case of any virus......</p>
+                        <a class="blog-btn-arrow " href="https://www.vizitorapp.com/blog/stop-covid-19-with-contact-tracking/" style="color: #5A74C7;">Read more  <img src="/images/vizitor/bvm/read-more.svg" alt="read-more" /></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms2">
+    {{- partial "faq.html" . -}}
+</div>
+
+<div>{{- partial "upgrade.html" . -}}</div>
+{{end}}
