@@ -124,7 +124,7 @@ Whether it's addressing unexpected situations, managing visitor flow, or thwarti
 
 Explore **Waveband Communications's** collection of advanced two-way radio communication headsets to see how they can raise the bar on your security game [here.](https://www.wvbandcoms.com/collections/two-way-radio-headsets)
 
-## ade…
+## It’s time to upgrade…
 
 It’s time to upgrade to a reliable digital front desk and visitor management solution. It makes your establishment more productive and modernized.
 
