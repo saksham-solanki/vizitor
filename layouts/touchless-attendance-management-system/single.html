@@ -1,195 +1,390 @@
-{{ define "main" }}
-<div class="pagebanneres">
+{{ define "main" }}force
+<!----------------------------------------------------------------->
+<div class=" VisitorManagement-System-in-India">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <h1 class="paint"> Attendance Mastery with Vizitor: Revolutionizing the Way You Manage Your Workforce</h1>
-                <p>Ensure your workplace stays secure with Vizitor's innovative access control solution. Stay ahead and navigate through the crisis with our innovative solution.</p>
-                <div class="my-5">
+        <div class="row ">
+            <div class="col-md-6 col-sm-6 col-xs-12 pr-5 ">
+                <h1 class="paint "> <span class="Digitize">Digital Attendance Management System</span> Smart way to
+                    Track and Manage Attendence
+
+                </h1>
+                <p style="line-height: 30px;">Vizitor is a unique attendance management system that keeps tabs on
+                    employee attendance. It
+                    covers all aspects of time management, including recording work hours, handling holidays, setting
+                    shifts,approving leaves, and tracking employees with GPS.</p>
+                <div class="mt-5">
                     <form id="attendanceForm">
-                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email" required>
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
                         <input class="btn-try-free" type="submit" value="Try for free">
                     </form>
+                    <div class="mt-5 Try-free">
+                        {{range .Site.Params.apps}}
+                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                                src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                        {{end}}
+                    </div>
                 </div>
-
             </div>
-
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <img src="/images/vizitor/attendance/attendance-banneres.svg" alt="attendance-banneres" />
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center mt-5">
+                <img src="/images/vizitor/attendance/attendance-baner.svg" alt="attendance-banneres" />
             </div>
         </div>
     </div>
 </div>
+<!------------------------------------------------------------------->
+<div id="bvms" class="whychoose ">
+    <div class="col-md-11 mx-auto">
+        <div class="row ">
+            <div class="col-md-12 text-center">
+                <p class="why-p">HOW ATTENDANCE MANAGEMENT WORKS</p>
+                <h2 class="color-wht">Transform Attendance Management <br> for Enhanced Efficiency</h2>
+                <p class="why-p" style="line-height: 30px;">Vizitor makes it easy to keep track of employees' presence
+                    at work and <br>provides a
+                    user-friendly interface for employees to manage their time.</p>
+            </div>
+        </div>
+        <div class="text-center">
+            <img src="/images/vizitor/attendance/attendencemanagement.svg" alt="vizitor-secure" />
+        </div>
+        <div class=" text-center mt-3 mb-2">
+            <a href="/signup" class="btn-arrow bvms-white-btn">Get Started</a>
+        </div>
+    </div>
+</div>
+<!-------------------------------------------------------------------->
+<div class="pagesection">
+    <div class="container">
+        <div class="row  align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/attendance/QR-Attendence.svg" alt="snap">
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 bvmbest">
+                <p><span class="Digitize">QR BASED ATTENDANCE</span></p>
+                <h2 class="chgh5">Touchless Attendance With Vizitor's QR System</h2>
+                <p style="line-height: 30px;">Vizitor's employee management system stands as India's sole touchless
+                    platform offering QR-based attendance. By utilizing the GPS system, it assesses both your current
+                    location and the designated office location. Only when your location aligns with that of your office
+                    can you mark your attendance.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------------------------------------------------->
+<div class="pagesection">
+    <div class="container">
+        <div class="row  align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <p><span class="Digitize"> TIME TRACKING</span></p>
+                <h2 class="chgh5">Improve Your Employees'<br> Time Habits</h2>
+                <p style="line-height: 30px;">Tracking policies are crucial for shaping employee time habits. Admins can
+                    check total working hours, clock-in/out times, and view individual employee calendars. Employees can
+                    also check and track their own working hours.
+                </p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/attendance/TIME TRACKING.svg" alt="snap">
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------------------------------------------------->
+<div class="pagesection">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/attendance/leave approval image.svg" alt="snap">
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 bvmbest">
+                <p><span class="Digitize">LEAVE APPROVAL</span></p>
+                <h2 class="chgh5">Efficient and Personalized Leave Approval Workflows</h2>
+                <p style="line-height: 30px;">Give authority to specific individuals for approving time off requests and
+                    arranging replacements.
+                    Junior employees can ask their senior counterparts for time off. They can approve, reject, or leave
+                    the request pending. Customize the system to handle delays, receive notifications, and accommodate
+                    many approval stages.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-------------------------------------------------------------->
+<div class="pagesection">
+    <div style="background: #ED5C18; padding: 80px 0;">
+        <div class="container">
+            <div class="content ">
+                <div class="text-center">
+                    <h2 class="color-wht mt-5 pb-3">What is an Attendance Management System?</h2>
+                    <p class="color-wht text-center" style="line-height: 30px;">An attendance management system is a
+                        software that monitors and
+                        records the working hours of employees accurately. It keeps track of attendance, breaks, time
+                        off,clock in, and clock out data for each employee, ensuring error-free records. With such
+                        a system, employees can conveniently mark their time and attendance through a mobile app.
+                        The software automates the entire attendance management process, providing real-time data to the
+                        HR department for precise payroll calculations, ensuring that employees are compensated accurately for their time worked.
+                    </p>
+                    <div class=" text-center mt-5">
+                        <a href="/signup" class="btn-arrow attendence-white-btn">Try For Free</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!----------------------------------------------------------->
+<div class="pagesection">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <p><span class="Digitize">EASY SHIFT MANAGEMENT</span></p>
+                <h2 class="chgh5">Simplify Your Schedule with Effortless Shift Planning</h2>
+                <p style="line-height: 30px;">Vizitor's employee shift management simplifies the handling of various
+                    shift patterns in your
+                    company. It can manage both rotating and fixed shifts with customized options. The system
+                    efficiently handles round-the-clock 24/7 shifts and assigns them to employees as needed.
+                </p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/attendance/Easy-management.svg" alt="snap">
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------------------------------------------->
+<div class="pagesection">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/attendance/Employees Dashboard.svg " alt="snap">
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " >
+                <p><span class="Digitize">EMPLOYEES ANALYTICS DASHBOARD</span></p>
+                <h2 class="chgh5">Powerful Analytics For Executive and Employees</h2>
+                <p style="line-height: 30px;">Vizitor provides rich analytics and dashboards for employees and managers.
+                    It offers valuable
+                    information and insightful dashboards tailored to their specific needs. It's designed to serve the
+                    entire workforce. The admin can check employees' attendance performance. Employees can also check
+                    their own leave and working hours. It's designed to serve the entire workforce.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------------------------------------------------->
+<div class="pagesection">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <p><span class="Digitize">HOLIDAYS MANAGEMENT</span></p>
+                <h2 class="chgh5">Manage Holidays in Efficient<br> way</h2>
+                <p style="line-height: 30px;">Vizitor's employee management system efficiently handles holidays. Admins
+                    can add or delete holidays,
+                    while employees can view the holiday dashboard. Simplify your holiday management with the best
+                    attendance and holidays management system.
+                </p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/attendance/holiday-img.svg" alt="snap">
+            </div>
+        </div>
+    </div>
+</div>
+<!----------------------------------------------------->
+<!-- Tabs  -->
+<div class="container" id="bvms">
+    <div class="tile" id="tile-1">
+        <!-- Nav tabs -->
+        <h2 class="text-center my-5">Efficient Workforce Management: Attendance, <br>Leaves, Admin Control</h2>
+        <ul class="nav nav-tabs nav-justified " role="tablist">
+            <div class="slider"></div>
+            <li class="nav-item">
+                <a class="nav-link active" id="home-tabes" data-toggle="tab" href="#homees" role="tab"
+                    aria-controls="homees" aria-selected="true">
+                    <h3 class="color-h"> Employees Use</h3>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="profile-tabes" data-toggle="tab" href="#profilees" role="tab"
+                    aria-controls="profilees" aria-selected="false">
+                    <h3 class="color-h">Admin Use</h3>
+                </a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="homees" role="tabpanel" aria-labelledby="home-tabes">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h3 style="font-size: 35px;color: #3f4450; line-height: 46px;">Attendance and Leaves Made Simple
+                            for
+                            Employees</h3>
+                        <div class="row mt-4">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" style="width: 18px;" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Attendance Insight:</h4>
+                                <p style="line-height: 30px;">Dashboard displays check-in/out times, total working
+                                    hours, monthly
+                                    attendance logs, and shift tim.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" style="width: 18px;" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Comprehensive Dashboard:</h4>
+                                <p style="line-height: 30px;"> Attendance system shows total leaves, remote work days,
+                                    holidays,
+                                    leave requests and monthly overview graph.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" style="width: 18px;" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Leave Management:</h4>
+                                <p style="line-height: 30px;">Employees can apply for leave, selecting seniors from a
+                                    provided
+                                    list, and view leave history with status.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/attendance/empolyee-use.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="profilees" role="tabpanel" aria-labelledby="profile-tabes">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h3 style="font-size: 35px;color: #3f4450; line-height: 46px;">Attendance and Leaves Made Simple
+                            for
+                            Employees</h3>
+                        <div class="row mt-4">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Comprehensive Dashboard:</h4>
+                                <p style="line-height: 30px;">Dashboard displays check-in/out times, total working
+                                    hours, monthly
+                                    attendance logs, and shift tim.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Attendance Management:</h4>
+                                <p style="line-height: 30px;"> Admins can access the attendance log for presence and
+                                    absence tracking, with
+                                    available total working hours and a monthly calendar view.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Shift Scheduling:</h4>
+                                <p style="line-height: 30px;">Admin can schedule shifts according to preferences, and
+                                    manage shifts by adding,
+                                    deleting, updating, and sending alerts to employees.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/attendance/admin-use.png" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <a href="/signup" class="btn-arrow">Sign Up Now</a>
+        </div>
+    </div>
+</div>
+<!-- Tabs content -->
+<!--------------------------------------------------->
 <div class="pagesection" id="bvms2">
-    <div class="container ">
-        <h2 class="text-center">Maximize Your Team's Performance <br> with the Right Tool
+    <div class="container">
+        <h2 class="text-center mb-5">Effortless Attendance Tracking with<br>
+            <span class="Digitize"> Vizitor Pass App!</span>
         </h2>
         <div class="row mt-5">
             <div id="attendance" class="card-deck">
                 <div class="card">
-                    <img class="reliable-point" src="/images/vizitor/attendance/TouchlessClock-In.svg" alt="TouchlessClock-In">
-                    <div class="card-body">
-                        <h5 class="card-title">Touchless Clock-In</h5>
-                        <p class="card-text">Employees can check in and out of the workplace using their mobile device, eliminating the need for manual sign-in sheets.</p>
+                    <img class="reliable-points" src="/images/vizitor/attendance/Simplified-Attendance.svg"
+                        alt="TouchlessClock-In" width="100%">
+                    <div class="card-body" style="padding: 30px;">
+                        <h5 class="card-title text-center">Simplified Attendance</h5>
+                        <p class="card-text text-center" style="line-height: 30px;">Vizitor simplifies employee
+                            attendance with easy
+                            clock-in and clock-out through the QR code in Vizitor pass app, ensuring secure management.
+                        </p>
                     </div>
                 </div>
                 <div class="card">
-                    <img class="reliable-point" src="/images/vizitor/attendance/Real-Time-Monitoring.svg" alt="Real-Time-Monitoring">
-                    <div class="card-body">
-                        <h5 class="card-title">Real-Time Monitoring</h5>
-                        <p class="card-text">Managers can see who's on-site in real-time, allowing them to make informed decisions about scheduling and workplace safety.</p>
+                    <img class="reliable-points" src="/images/vizitor/attendance/Leave-Easy.svg"
+                        alt="Real-Time-Monitoring">
+                    <div class="card-body" style="padding: 30px;">
+                        <h5 class="card-title text-center">Leave Made Easy</h5>
+                        <p class="card-text text-center" style="line-height: 30px;">Employees can request leave, specify
+                            dates, add
+                            messages, and seek senior approval via a pop-up form, while also ,accessing their leave
+                            history.</p>
                     </div>
                 </div>
                 <div class="card">
-                    <img class="reliable-point" src="/images/vizitor/attendance/SecureAccessControl.svg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title">Secure Access Control</h5>
-                        <p class="card-text">Only approved employees can check in and access the workplace, ensuring compliance with safety and security regulations.</p>
+                    <img class="reliable-points" src="/images/vizitor/attendance/GPS-Enabled .svg" alt="">
+                    <div class="card-body" style="padding: 30px;">
+                        <h5 class="card-title text-center">GPS-Enabled Security</h5>
+                        <p class="card-text text-center" style="line-height: 30px;">GPS tracking is enabled to ensure
+                            attendance accuracy.
+                            Employees can check in only at designated locations for dependable QR-based
+                            attendance.</p>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mt-5">
-            <div id="attendance" class="card-deck">
-                <div class="card">
-                    <img class="reliable-point" src="/images/vizitor/attendance/Capacity-Management.svg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title">Capacity Management</h5>
-                        <p class="card-text">The Vizitor helps manage workplace capacity by setting limits on the number of employees who can be on-site at any given time.</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <img class="reliable-point" src="/images/vizitor/attendance/Reporting-and-Analytics.svg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title">Reporting and Analytics</h5>
-                        <p class="card-text">The Vizitor provides real-time data and analytics on employee attendance, enabling managers to make informed decisions about workplace productivity and efficiency.</p>
-                    </div>
-                </div>
-                <div class="card">
-
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="mainbanneres">
-    <div class="container ">
-        <div class="row align-items-center">
-            <div class="col-lg-5 col-md-6 col-12 ">
-                <h2>Simplify Your Attendance Processes with Innovative Solutions</h2>
-                <div class="bannerbtn mt-4">
-                    <a href="/signup" class="btn-arrow">Get Started</a>
-                </div>
-            </div>
-            <div class="col-lg-1 col-md-1 col-12"></div>
-            <div class="col-lg-6 col-md-6 col-12">
-                <div class="card-deck " id="Simplify">
-                    <div class="card">
-                        <img class="reliable-point" src="/images/vizitor/attendance/Increased-Productivity.svg" alt="Increased-Productivity">
-                        <div class="card-body">
-                            <h5 class="card-title">Increased Productivity</h5>
-                            <p class="card-text">An attendance management system streamlines the process of tracking employee attendance, reducing the amount of manual work and freeing up time for more important tasks. </p>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <img class="reliable-point" src="/images/vizitor/attendance/Improved-Accuracy.svg" alt="Improved Accuracy">
-                        <div class="card-body">
-                            <h5 class="card-title">Improved Accuracy</h5>
-                            <p class="card-text">The attendance management system accurately tracks employee attendance and provides accurate data for payroll and other HR processes.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="card-deck " id="Simplify">
-                    <div class="card">
-                        <img class="reliable-point" src="/images/vizitor/attendance/Better-Scheduling.svg" alt="Better Scheduling">
-                        <div class="card-body">
-                            <h5 class="card-title">Better Scheduling</h5>
-                            <p class="card-text">An attendance management system provides real-time information on employee availability and helps managers make informed decisions about scheduling. This can help to improve scheduling and reduce conflicts.</p>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <img class="reliable-point" src="/images/vizitor/attendance/Increased-Compliance.svg" alt="Increased Compliance">
-                        <div class="card-body">
-                            <h5 class="card-title">Increased Compliance</h5>
-                            <p class="card-text">An attendance management system helps organizations comply with legal requirements and labor laws by accurately tracking employee attendance and providing the necessary documentation.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-
-    </div>
-</div>
-
-<div id="Eco-friendly-Blogs">
-    <div class="container ">
-        <div class="center-content pb-5">
-            <h2> Blogs</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="card-deck">
-                    <a href="/blog/the-benefits-of-attendance-managemet-system-for-your-business-productivity/">
-                        <div class="card" style="background: #FCFCFC;border-radius: 20px;">
-                            <img class="card-img-top" src="/images/blog/image-39.png" alt="image-39" />
-                            <div class="card-body">
-                                <h5 maxlength="50" class="card-title titleclear">The benefits of Attendance managemet system for your business productivity!</h5>
-                                <p class="card-text">18 July 2022</p>
-                                <p maxlength="100" class="card-text mb-3 descriptionclear">Attendance management software is very essential to a company. Just like in the Real Estate company where I currently work, we moderate and monitor our employees to produce a great impact on our business. Attendance management
-                                    is somehow the same as a time clock, they both keep track of your employee’s working hours. </p>
-                                <a class="blog-btn-arrow " href="/blog/the-benefits-of-attendance-managemet-system-for-your-business-productivity/" style="color: #ED5C18;">Read more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                            </div>
-                        </div>
-                    </a>
-
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="card-deck">
-                    <a href="/blog/restart-after-lockdown-with-touchless-visitor-management-system">
-                        <div class="card" style="background: #FCFCFC;border-radius: 20px;">
-                            <img class="card-img-top" src="/images/blog/photo-1556741533-6e6a62bd8b49.jpg" alt="photo-1556741533-6e6a62bd8b49" />
-                            <div class="card-body">
-                                <h5 maxlength="50" class="card-title titleclear">Enhance the Workplace security with Touchless Visitor Management System</h5>
-                                <p class="card-text">May 19 2020</p>
-                                <p maxlength="100" class="card-text mb-3 descriptionclear">The spread of COVID-19 is having repercussions on businesses. Organizations are implementing new processes and technology aimed at ensuring the safety of their workplace. Organizations are working on Touchless technology
-                                    that provides seamless modern experiences and protects the workplaces from disease outbreaks. This Touchless technology implements on the visitor management system too.</p>
-                                <a class="blog-btn-arrow " href="/blog/restart-after-lockdown-with-touchless-visitor-management-system" style="color: #ED5C18;">Read more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                            </div>
-                        </div>
-                    </a>
-
-                </div>
-            </div>
-
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="card-deck">
-                    <a href="/blog/a-comprehensive-way-of-safety-in-the-workplace-2/">
-                        <div class="card" style="background: #FCFCFC;border-radius: 20px;">
-                            <img class="card-img-top" src="/images/blog/safety-blog.jpg" alt="safety-blog" />
-                            <div class="card-body">
-                                <h5 maxlength="50" class="card-title titleclear">A Comprehensive Way of Safety In The Workplace</h5>
-                                <p class="card-text">18 December 2019</p>
-                                <p maxlength="100" class="card-text mb-3 descriptionclear">Offices are considered to be most safe environment places. However, sometimes offices still have their fair share of workplace incidents and accidents due to a lack of a strong office safety culture.</p>
-                                <a class="blog-btn-arrow " href="/blog/a-comprehensive-way-of-safety-in-the-workplace-2/" style="color: #ED5C18;">Read more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                            </div>
-                        </div>
-                    </a>
-
-                </div>
-            </div>
-
         </div>
         <div class="text-center mt-4">
-            <a href="/blog" class="btn-arrow">All Blogs</a>
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.vizitor.pass "
+                class="btn-arrow">Download Now</a>
         </div>
+    </div>
+</div>
+<!----------------------------------------------------------->
+<div class="Visitor-Management-System " id="bvms">
+    <div class="container ">
+        <div class="center-content ">
+            <h2 class="color-wht mb-5"> Download Product Brochure</h2>
+            <p class="What-Visitor mb-4" style="line-height: 30px;">Experience the Power of Leading Attendance and HR
+                Software in India. Discover advanced features that streamline and <br> elevate business operations
+                effortlessly.
+                Simplify attendance tracking, optimize HR processes, and drive success<br>
+                with ease. Explore now and
+                revolutionize attendance management.</p>
+            <div class=" text-center mt-5">
+                <a target="_blank" href="/images/vizitor/attendance/Vizitor-sales-beochure.pdf" class="btn-arrow bvms-white-btn">Get Brochure</a>
+            </div>
+        </div>
+
     </div>
 </div>
 <div id="bvms2">
-    {{- partial "faq.html" . -}}
+    {{- partial "faqattendance.html" . -}}
 </div>
-<div>{{- partial "subscribesection.html" . -}}</div>
+<!-- <div>{{- partial "subscribesection.html" . -}}</div> -->
+
 {{end}}

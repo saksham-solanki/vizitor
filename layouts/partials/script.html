@@ -3,6 +3,7 @@
 <script src="/js/jqueryui.js"></script>
 <script src="/js/bootstrap.js"></script>
 <script src="/js/master.js" lazyload></script>
+<script src='{{ "/owlcarousel/owl.carousel.js" | absURL }}'></script>
 
 <script lazyload>
     window.addEventListener('scroll', () => {
@@ -15,7 +16,7 @@
 </script>
 
 <script lazyload>
-    $(".newbtn").click(function() {
+    $(".newbtn").click(function () {
         if ($(this).data("closedAll")) {
             $(".howitworkssection .collapse").collapse("show");
         } else {
@@ -31,7 +32,7 @@
 </script>
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs").tabs({
             show: {
                 // effect: "blind",
@@ -44,7 +45,7 @@
         var btn = $('#accordion li a');
         var wrapper = $('#accordion li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -57,7 +58,7 @@
 
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs1").tabs({
             show: {
                 duration: 300
@@ -68,7 +69,7 @@
         var btn = $('#accordion1 li a');
         var wrapper = $('#accordion1 li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -79,7 +80,7 @@
 </script>
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs2").tabs({
             show: {
                 // direction: "left",
@@ -91,7 +92,7 @@
         var btn = $('#accordion2 li a');
         var wrapper = $('#accordion2 li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -102,7 +103,7 @@
 </script>
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs3").tabs({
             show: {
                 // direction: "left",
@@ -114,7 +115,7 @@
         var btn = $('#accordion3 li a');
         var wrapper = $('#accordion3 li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -134,7 +135,7 @@
     }
 
     for (let i = 0; btns && i < btns.length; i++) {
-        btns[i].addEventListener("click", function() {
+        btns[i].addEventListener("click", function () {
             var current = document.getElementsByClassName("active");
             current[0].className = current[0].className.replace(" active", "");
             this.className += " active";
@@ -175,7 +176,7 @@
         console.log(document.getElementById("toggle").checked)
     }
 
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function () {
         let yearlyToggle = document.querySelector(".yearlytoggle");
         let monthlyToggle = document.querySelector(".monthlyToggle");
 
@@ -296,7 +297,7 @@
     }
 
     // Toggle the pricing between yearly and monthly
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function () {
 
         let yearlyButton = document.getElementById('yearly-btn');
         let monthlyButton = document.getElementById('monthly-btn');
@@ -308,7 +309,7 @@
 
         // Toggle the currency between INR and USD EUR GBP
         if (yearlyButton) {
-            yearlyButton.addEventListener('click', function() {
+            yearlyButton.addEventListener('click', function () {
                 currentPlan = 'yearly';
                 setPricing(currentCurrency, currentPlan);
                 // Remove the active class from the other button and add it to this button
@@ -321,7 +322,7 @@
         }
 
         if (monthlyButton) {
-            monthlyButton.addEventListener('click', function() {
+            monthlyButton.addEventListener('click', function () {
                 currentPlan = 'monthly';
                 setPricing(currentCurrency, currentPlan);
                 // Remove the active class from the other button and add it to this button
@@ -334,7 +335,7 @@
         }
 
         if (inrButton) {
-            inrButton.addEventListener('click', function() {
+            inrButton.addEventListener('click', function () {
                 currentCurrency = 'inr';
                 setPricing(currentCurrency, currentPlan);
                 // Remove the active class from the other button and add it to this button
@@ -344,7 +345,7 @@
             });
         }
         if (usdButton) {
-            usdButton.addEventListener('click', function() {
+            usdButton.addEventListener('click', function () {
                 currentCurrency = 'usd';
                 setPricing(currentCurrency, currentPlan);
                 // Remove the active class from the other button and add it to this button
@@ -355,7 +356,7 @@
         }
 
         if (eurButton) {
-            eurButton.addEventListener('click', function() {
+            eurButton.addEventListener('click', function () {
                 currentCurrency = 'eur';
                 setPricing(currentCurrency, currentPlan);
                 // Remove the active class from the other button and add it to this button
@@ -366,7 +367,7 @@
         }
 
         if (gbpButton) {
-            gbpButton.addEventListener('click', function() {
+            gbpButton.addEventListener('click', function () {
                 currentCurrency = 'gbp';
                 setPricing(currentCurrency, currentPlan);
                 // Remove the active class from the other button and add it to this button
@@ -383,8 +384,8 @@
 
 <!-- --------------------------contact Form api---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#contactForm").on("submit", function(event) {
+    $(function () {
+        $("#contactForm").on("submit", function (event) {
 
             event.preventDefault();
 
@@ -413,7 +414,7 @@
                 },
                 type: "post",
                 data: contactForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -424,7 +425,7 @@
                         window.location = "/contact-submitted";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -464,8 +465,8 @@
 <!-- -------------------------------------------------signup api ------------------------------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#signupForm").on("submit", function(event) {
+    $(function () {
+        $("#signupForm").on("submit", function (event) {
             event.preventDefault();
 
             var countryCode = $("#country").val().split('-')[0].trim();
@@ -502,7 +503,7 @@
                 },
                 type: "post",
                 data: signupForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -517,7 +518,7 @@
                         window.location = "/thank-you";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -531,8 +532,8 @@
 
 <!-- --------------------------home Form api---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#homeForm").on("submit", function(event) {
+    $(function () {
+        $("#homeForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -548,14 +549,14 @@
                 },
                 type: "post",
                 data: homeForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -567,8 +568,8 @@
 
 <!-- ------------------------iPad and Android based-------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#iPadAndroid").on("submit", function(event) {
+    $(function () {
+        $("#iPadAndroid").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -583,14 +584,14 @@
                 },
                 type: "post",
                 data: iPadAndroid,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -601,8 +602,8 @@
 
 <!-- ------------------------Touchless Visitor Management System-------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#touchlessVMS").on("submit", function(event) {
+    $(function () {
+        $("#touchlessVMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -617,14 +618,14 @@
                 },
                 type: "post",
                 data: touchlessVMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -636,8 +637,8 @@
 <!-- ----------------------------visitormanagement---------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#visitormanagement").on("submit", function(event) {
+    $(function () {
+        $("#visitormanagement").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -652,14 +653,14 @@
                 },
                 type: "post",
                 data: visitormanagement,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -671,8 +672,8 @@
 <!-- ----------------------------webBasedVMS---------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#webBasedVMS").on("submit", function(event) {
+    $(function () {
+        $("#webBasedVMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -687,14 +688,14 @@
                 },
                 type: "post",
                 data: webBasedVMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -705,8 +706,8 @@
 
 <!-- ----------------------------required---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#required").on("submit", function(event) {
+    $(function () {
+        $("#required").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -721,14 +722,14 @@
                 },
                 type: "post",
                 data: required,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -739,8 +740,8 @@
 
 <!-- ----------------------------Free_VMS---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#FreeVMS").on("submit", function(event) {
+    $(function () {
+        $("#FreeVMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -755,14 +756,14 @@
                 },
                 type: "post",
                 data: FreeVMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -773,8 +774,8 @@
 
 <!-- ------------------------------green-business-initiative-------------------------------------- -->
 <script>
-    $(function() {
-        $("#greenBI").on("submit", function(event) {
+    $(function () {
+        $("#greenBI").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -789,14 +790,14 @@
                 },
                 type: "post",
                 data: greenBI,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -807,8 +808,8 @@
 
 <!-- ------------------------------footerForm-------------------------------------- -->
 <script>
-    $(function() {
-        $("#footerForm").on("submit", function(event) {
+    $(function () {
+        $("#footerForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -824,14 +825,14 @@
                 },
                 type: "post",
                 data: footerForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailfooter]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -842,8 +843,8 @@
 
 <!-- ------------------------------getStartedForm-------------------------------------- -->
 <script>
-    $(function() {
-        $("#getStartedForm").on("submit", function(event) {
+    $(function () {
+        $("#getStartedForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -858,14 +859,14 @@
                 },
                 type: "post",
                 data: getStartedForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailgetStarted]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -876,8 +877,8 @@
 
 <!-- ------------------------------benefitsCompany-------------------------------------- -->
 <script>
-    $(function() {
-        $("#benefitsCompany").on("submit", function(event) {
+    $(function () {
+        $("#benefitsCompany").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -892,14 +893,14 @@
                 },
                 type: "post",
                 data: benefitsCompany,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailbenefitsCompany]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -912,8 +913,8 @@
 <!-- 1 -->
 
 <script>
-    $(function() {
-        $("#BVMSinIndia").on("submit", function(event) {
+    $(function () {
+        $("#BVMSinIndia").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -928,14 +929,14 @@
                 },
                 type: "post",
                 data: BVMSinIndia,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -947,8 +948,8 @@
 <!-- 2 -->
 
 <script>
-    $(function() {
-        $("#BVMdigitalVMSwork").on("submit", function(event) {
+    $(function () {
+        $("#BVMdigitalVMSwork").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -963,14 +964,14 @@
                 },
                 type: "post",
                 data: BVMdigitalVMSwork,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emaildigital]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -982,8 +983,8 @@
 <!-- 3 -->
 
 <script>
-    $(function() {
-        $("#VizitorPass").on("submit", function(event) {
+    $(function () {
+        $("#VizitorPass").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -998,14 +999,14 @@
                 },
                 type: "post",
                 data: VizitorPass,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailVizitorPass]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1016,8 +1017,8 @@
 
 <!-- ------------------------------contact-Tracing-------------------------------------- -->
 <script>
-    $(function() {
-        $("#contactTracing").on("submit", function(event) {
+    $(function () {
+        $("#contactTracing").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1032,14 +1033,14 @@
                 },
                 type: "post",
                 data: contactTracing,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1050,8 +1051,8 @@
 
 <!-- ------------------------------VisitorCovidScreening-------------------------------------- -->
 <script>
-    $(function() {
-        $("#VisitorCovidScreening").on("submit", function(event) {
+    $(function () {
+        $("#VisitorCovidScreening").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1066,14 +1067,14 @@
                 },
                 type: "post",
                 data: VisitorCovidScreening,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1083,8 +1084,8 @@
 </script>
 <!-- ------------------------------attendance-------------------------------------- -->
 <script>
-    $(function() {
-        $("#attendanceForm").on("submit", function(event) {
+    $(function () {
+        $("#attendanceForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1099,14 +1100,14 @@
                 },
                 type: "post",
                 data: attendanceForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1117,8 +1118,8 @@
 
 <!-- --------------------------blog Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#blogForm").on("submit", function(event) {
+    $(function () {
+        $("#blogForm").on("submit", function (event) {
             event.preventDefault();
             var message = window.location.href;
             // alert(loc)
@@ -1137,7 +1138,7 @@
                 },
                 type: "post",
                 data: blogForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -1147,7 +1148,7 @@
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -1159,8 +1160,8 @@
 
 <!-- --------------------------deliveryMS Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#deliveryMS").on("submit", function(event) {
+    $(function () {
+        $("#deliveryMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1175,14 +1176,14 @@
                 },
                 type: "post",
                 data: deliveryMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1193,8 +1194,8 @@
 
 <!-- --------------------------vms Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#vms").on("submit", function(event) {
+    $(function () {
+        $("#vms").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1209,14 +1210,14 @@
                 },
                 type: "post",
                 data: vms,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1226,8 +1227,8 @@
 </script>
 <!-- --------------------------workflowvms Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#workflowvms").on("submit", function(event) {
+    $(function () {
+        $("#workflowvms").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1242,14 +1243,14 @@
                 },
                 type: "post",
                 data: workflowvms,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1259,8 +1260,8 @@
 </script>
 <!-- --------------------------QMSworkflow Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#QMSworkflow").on("submit", function(event) {
+    $(function () {
+        $("#QMSworkflow").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1275,14 +1276,14 @@
                 },
                 type: "post",
                 data: QMSworkflow,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1292,8 +1293,8 @@
 </script>
 <!-- --------------------------featuresApi Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#featuresApi").on("submit", function(event) {
+    $(function () {
+        $("#featuresApi").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1308,14 +1309,14 @@
                 },
                 type: "post",
                 data: featuresApi,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1328,8 +1329,8 @@
 
 <!-- --------------------------mailroom Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#mailroom").on("submit", function(event) {
+    $(function () {
+        $("#mailroom").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1344,14 +1345,14 @@
                 },
                 type: "post",
                 data: mailroom,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1362,8 +1363,8 @@
 
 <!-- --------------------------entryMS Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#entryMS").on("submit", function(event) {
+    $(function () {
+        $("#entryMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1378,14 +1379,14 @@
                 },
                 type: "post",
                 data: entryMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1395,8 +1396,8 @@
 </script>
 <!-- --------------------------entryMS-Workflow Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#entryMsWorkflow").on("submit", function(event) {
+    $(function () {
+        $("#entryMsWorkflow").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1411,14 +1412,14 @@
                 },
                 type: "post",
                 data: entryMsWorkflow,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1430,8 +1431,8 @@
 
 <!-- --------------------------demoForm Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#demoForm").on("submit", function(event) {
+    $(function () {
+        $("#demoForm").on("submit", function (event) {
             event.preventDefault();
 
             var countryCode = $("#country").val().split('-')[0].trim();
@@ -1459,7 +1460,7 @@
                 },
                 type: "post",
                 data: demoForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -1470,7 +1471,7 @@
                         window.location = "/demo-requested";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -1484,7 +1485,7 @@
 
 <!-- Twitter -->
 <script>
-    $(".shareTwitter").click(function() {
+    $(".shareTwitter").click(function () {
         console.log("click", window.location.href)
         window.open("https://twitter.com/intent/tweet?url=" + window.location.href, '_blank');
     });
@@ -1497,7 +1498,7 @@
 </script>
 <!-- facebook -->
 <script>
-    $(".sharefacebook").click(function() {
+    $(".sharefacebook").click(function () {
         console.log("click", window.location.href)
         window.open("https://www.facebook.com/sharer/sharer.php?u=" + window.location.href, '_blank');
     });
@@ -1510,7 +1511,7 @@
 </script>
 <!-- linkedin -->
 <script>
-    $(".sharelinkedin").click(function() {
+    $(".sharelinkedin").click(function () {
         console.log("click", window.location.href)
         window.open("https://www.linkedin.com/shareArticle?mini=true&url=" + window.location.href, '_blank');
     });
@@ -1523,9 +1524,9 @@
 </script>
 <!-- Whatsapp -->
 <script>
-    $(".sharewhatsapp").click(function() {
+    $(".sharewhatsapp").click(function () {
         console.log("click", window.location.href)
-        window.open("https://wa.me/?text=Awesome%20Blog%20" + window.location.href, );
+        window.open("https://wa.me/?text=Awesome%20Blog%20" + window.location.href,);
     });
 
     // $(".copyLink").click(function() {
@@ -1537,7 +1538,7 @@
 
 <!-- =============================================== -->
 <script>
-    var TxtRotate = function(el, toRotate, period) {
+    var TxtRotate = function (el, toRotate, period) {
         this.toRotate = toRotate;
         this.el = el;
         this.loopNum = 0;
@@ -1547,7 +1548,7 @@
         this.isDeleting = false;
     };
 
-    TxtRotate.prototype.tick = function() {
+    TxtRotate.prototype.tick = function () {
         var i = this.loopNum % this.toRotate.length;
         var fullTxt = this.toRotate[i];
 
@@ -1575,12 +1576,12 @@
             delta = 500;
         }
 
-        setTimeout(function() {
+        setTimeout(function () {
             that.tick();
         }, delta);
     };
 
-    window.onload = function() {
+    window.onload = function () {
         var elements = document.getElementsByClassName('txt-rotate');
         for (var i = 0; i < elements.length; i++) {
             var toRotate = elements[i].getAttribute('data-rotate');
@@ -1599,9 +1600,9 @@
 
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
 
-        $('.titleclear').each(function(f) {
+        $('.titleclear').each(function (f) {
 
             var newstr = $(this).text().substring(0, 45) + "...";
             $(this).text(newstr);
@@ -1611,9 +1612,9 @@
 </script>
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
 
-        $('.descriptionclear').each(function(f) {
+        $('.descriptionclear').each(function (f) {
 
             var newstr = $(this).text().substring(0, 100) + "...";
             $(this).text(newstr);
@@ -1623,18 +1624,19 @@
 </script>
 
 <script>
-    $('.slide-toggle').on("click", function() {
+    $('.slide-toggle').on("click", function () {
         $('.slide-toggle img').toggleClass('arrowdown arrowup');
         $('.read-more').toggleClass('show hide ');
         $('.headerbottombardiv').toggleClass('show ');
-
     });
 </script>
 
 
+
+
 <script>
     var getSelectedPlan = window.location.href.split('=')[1];
-    $(function() {
+    $(function () {
         let List = "";
         if (getSelectedPlan === 'starter') {
             List = "<option value='61d5613a8d6a714e368e9728' selected>STARTER</option><option value='61d5613a8d6a714e368e9734'>PREMIUM</option>";
@@ -1658,9 +1660,116 @@
 
 <!-- ---------------# tag------------ -->
 <script>
-    $(window).on('hashchange', function(e) {
+    $(window).on('hashchange', function (e) {
         history.replaceState("", document.title, e.originalEvent.oldURL);
     });
 </script>
 
 <!-- ------------------------------------------------------- -->
+
+<script>
+    jQuery('#gallery').carousel({
+        interval: 5000
+    })
+
+    // Modify each slide to contain five columns of images
+    jQuery('#gallery.carousel .carousel-item').each(function () {
+        var minPerSlide = 4;
+        var next = jQuery(this).next();
+        if (!next.length) {
+            next = jQuery(this).siblings(':first');
+        }
+        next.children(':first-child').clone().appendTo(jQuery(this));
+
+        for (var i = 0; i < minPerSlide; i++) {
+            next = next.next();
+            if (!next.length) {
+                next = jQuery(this).siblings(':first');
+            }
+
+            next.children(':first-child').clone().appendTo(jQuery(this));
+        }
+    });
+    // Initialize carousel
+    jQuery(".carousel-item:first-of-type").addClass("active");
+    jQuery(".carousel-indicators:first-child").addClass("active");
+</script>
+
+
+<!-- INTERVIEWER SCRIPT -->
+<script>
+    $('.carousel-main').owlCarousel({
+        loop: true,
+        autoplay: false,
+        autoplayTimeout: 10000,
+        margin: 10,
+        responsiveClass: true,
+        responsive: {
+            0: {
+                items: 2
+            },
+            768: {
+                items: 2
+            },
+            900: {
+                items: 3
+            },
+            1170: {
+                items: 4
+            }
+        }
+    });
+</script>
+<script>
+    $('.carousel-maines').owlCarousel({
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 10000,
+        margin: 10,
+        responsiveClass: true,
+        
+        responsive: {
+            0: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            900: {
+                items: 3
+            },
+            1170: {
+                items: 3
+            }
+        }
+    });
+</script>
+<!----------------------->
+<script>
+    $("#tile-1 .nav-tabs a").click(function() {
+        var position = $(this).parent().position();
+        var width = $(this).parent().width();
+        $("#tile-1 .slider").css({
+            "left": +position.left,
+            "width": width
+        });
+    });
+    var actWidth = $("#tile-1 .nav-tabs").find(".active").parent("li").width();
+    var actPosition = $("#tile-1 .nav-tabs .active").position();
+    $("#tile-1 .slider").css({
+        "left": +actPosition.left,
+        "width": actWidth
+    });
+</script>
+
+<!-- 
+<script>
+    $( document ).ready(function() {
+  	// content button toggle
+ 		$(".content-class").hide();
+  	$(".button-class").click( function(){
+	  		$(this).text( $(this).text() === " Challenges +" ? " Challenges -" : " Challenges +" );
+	  		$(".content-class").slideToggle(900);
+  	} );
+});
+</script> -->

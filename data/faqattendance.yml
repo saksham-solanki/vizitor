@@ -1,0 +1,22 @@
+items:  
+  - question: "What is an attendance management system? "
+    answer: "An attendance management system is a software tool designed to track and record the working hours, breaks, time off, clock-in, and clock-out details of employees. It ensures accurate and efficient management of attendance data."
+  - question: "How does an attendance management system work? "
+    answer: "The system allows employees to log their attendance through various methods such as QR based,, mobile app, or web-based portals. It automates the entire attendance recording process, eliminating the need for manual data entry, and provides real-time data to HR for payroll processing."
+  - question: "What are the benefits of using an attendance management system?"
+    answer: " <p><strong>Accuracy:</strong>  Eliminates manual errors and ensures precise recording of attendance data.</p>
+              <p><strong>Time-saving:</strong> Automates the attendance tracking process, saving HR personnel valuable time.</p>
+              <p><strong>Efficiency:</strong> Enables easy access to real-time attendance data for streamlined HR operations.</p>
+             <p><strong>Compliance:</strong> Helps businesses adhere to labor laws and regulatory requirements</p>
+             <p><strong>Improved Payroll:</strong> Facilitates accurate payroll calculation, preventing payment discrepancies.</p>"
+  - question: "Can employees mark attendance through a mobile app? "
+    answer: "Yes, in a good attendance management system, employees can mark their attendance conveniently using a Vizitor Pass app, making it easy to record their working hours on-the-go."
+  - question: " How does the system prevent errors in attendance records? "
+    answer: "The attendance management system relies on automated data entry, reducing the chances of human errors in recording attendance, breaks, and other related details."
+  - question: "Is data privacy ensured in an attendance management system?  "
+    answer: "Yes, reputable attendance management systems prioritize data security and privacy. They implement measures such as encryption and access controls to safeguard sensitive employee information."
+  - question: " Can the system handle leave management as well?  "
+    answer: "Yes, some attendance management systems come with built-in leave management modules, making it easier for employees to request time off, and for HR to manage and approve leave requests."
+  - question: "Is the attendance data accessible for employees and HR in real-time?  "
+    answer: "Yes, a good attendance management system provides real-time access to attendance data for both employees and the HR department, enabling transparency and efficient decision-making."
+  

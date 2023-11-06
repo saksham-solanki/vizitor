@@ -1,225 +1,369 @@
 {{ define "main" }}
-<div>
-    <div class="container VisitorManagement-System-in-India">
-        <div class="row align-items-center">
-
-            <div class="col-md-6 col-sm-6 col-xs-12 ">
-                <h1>Best <span class="Digitize">Visitor Management System</span> in India </h1>
-                <div>
-                    <p>With our visitor management system, you can improve the visitor registration experience and ensure a safe workplace for your employees, visitors, and contractors</p>
-                    <div class="mt-5">
-                        <form id="BVMSinIndia">
-                            <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email" required>
-                            <input class="btn-try-free" type="submit" value="Try for free">
-                        </form>
-                    </div>
-
-
-                    <p class="no-credit Try-free mt-4">* No credit card required</p>
-                    <div class="mt-4 Try-free mb-4">
-                        {{range .Site.Params.apps}}
-                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
-                        {{end}}
-                    </div>
+<div class="container VisitorManagement-System-in-India">
+    <div class="row ">
+        <div class="col-md-6 col-sm-6 col-xs-12 ">
+            <h1>Best <span class="Digitize">Visitor Management System</span> in India </h1>
+            <div>
+                <p class="para_heading">With our touchless visitor management
+                    system, you can improve the visitor registration experience and ensure a safe workplace for your
+                    employees, visitors, and contractors.</p>
+                <div class="mt-5">
+                    <form id="BVMSinIndia">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                </div>
+                <p class="no-credit Try-free mt-4">* No credit card required</p>
+                <div class="mt-4 Try-free mb-4">
+                    {{range .Site.Params.apps}}
+                    <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                            src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                    {{end}}
                 </div>
             </div>
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <img src="/images/vizitor/bvm/best-visitor-management-system-in-india.svg" alt="best-visitor-management-system-in-india" />
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <img src="/images/vizitor/bvm/best-visitor-management-system-in-india.svg"
+                alt="best-visitor-management-system-in-india" />
+        </div>
+    </div>
+</div>
+<div class="container-fluid">{{- partial "clients.html" . -}}</div>
+<!-- -----------------4------------ -->
+<!-- BEGIN necessary stuff and things for the JQuery to work its magic on: -->
+<div class="proj">
+    <div class="article-head">
+        <div class="container">
+            <div class="text-center mb-4">
+                <h4 class="color-wht chgh4 ">What is a Visitor Sign-in System and Why is it Needed ?</h4>
+                <p class="color-wht mb-5" style="line-height: 30px;">A visitor sign-in system is a digital solution that
+                    tracks and manages visitors to your office. Digital Visitor management system can also increase
+                    efficiency by automating the sign-in process, saving time for staff and visitors. It replaces
+                    traditional paper sign-in sheets, which can be inefficient, insecure, and difficult to manage.
+                    It can help to improve security, increase efficiency, create a better visitor experience, and
+                    improve compliance.
+                </p>
+            </div>
+            <div class=" text-center mt-3 mb-2">
+                <a href="/signup" class="btn-arrow bvms-white-btn">Try For Free</a>
             </div>
         </div>
     </div>
-    <div class="container-fluid">{{- partial "clients.html" . -}}</div>
-    <!-- ----------------------------- -->
-    <div class="Visitor-Management-System eeswp_section_two">
-        <div class="container ">
-            <div class="center-content ">
+</div>
+<!-- END necessary stuff and things -->
 
-                <h2 class="color-wht mb-5">What is a Visitor Management System?</h2>
-                <p class="What-Visitor mb-4">A Visitor Management System enhances security by tracking everyone entering your office. It ensures accurate records and enhanced security for a wide range of visitors. Anyone who is not a regular full-time employee falls under the category
-                    of visitors. A visitor management system utilizes technology to track and check these visitors. If you're curious about the pricing of visitor management software. Please take a look at our available pricing options.</p>
-
-                <div class=" text-center mt-5">
-                    <a href="/signup" class="btn-arrow bvms-white-btn">Try for free</a>
+<!---------------------------------------------->
+<div id="bvms">
+    <div class="container">
+        <h4 class="text-center bvms-size">Challenges of Using Traditional Visitor Sign-In Sheets</h4>
+        <p class="text-center para_heading my-3">These challenges can make it difficult to manage visitors effectively
+            and securely.</p>
+        <div class="row mt-5">
+            <div class="col-md-3 col-sm-3 col-xs-12 text-center mt-5">
+                <div class="img_challenges">
+                    <img src="/images/vizitor/bvm/chal-1-img.svg" alt="challenge-1-img">
                 </div>
+                <div class="img_hero">
+                    <img src="/images/vizitor/bvm/icon 1.svg" alt="icon-img">
+                </div>
+                <h5 class="vizitor-pass-h5 mt-3"> Illegible handwriting</h5>
+                <p class="para_heading">Can you read the handwriting of every person on the sheet? </p>
             </div>
-            <!-- <div class="pattern-shape">
-                <img src="https://www.iofficecorp.com/wp-content/uploads/2022/04/lines-dots.png" alt="lines-dots">
-            </div> -->
-            <!-- <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <h2 class="color-wht mb-5">What is a Visitor Management System?</h2>
-                    <p class="color-wht mb-4">The visitor management system is the process of digitally tracking and managing visitors who enter your workplace. Welcome visitors while protecting people, property, and ideas. Top visitor management systems are tools that help organizations
-                        in developing or implementing visitor management policies. </p>
+            <div class="col-md-3 col-sm-3 col-xs-12 text-center mt-5">
+                <!-- <div class=" text-center"> -->
+                <h5 class="vizitor-pass-h5 mt-3"> Difficulty keeping records</h5>
+                <p class="para_heading">Is it easy for you to keep and organize records from <br>the sign-in
+                    sheet?</p>
+                <div class="img_challenges">
+                    <img src="/images/vizitor/bvm/chal-img-2.svg" alt="challenge-2-img">
+                </div>
+                <div class="img_hero">
+                    <img src="/images/vizitor/bvm/icon  2.svg" alt="icon-img">
+                </div>
 
-                    <p class="color-wht"> As businesses recognise the value of visitors management system, many are moving away from the paper and pen sign-in sheet and toward a digital visitor management system that allows them to do much more. Some organizations require
-                        only the visitor's name, while others require badges, legal documents, employee escorts, and other security measures.</p>
-                    <p class="color-wht">A digital system utilized by companies, best visitor management software enables the registration and monitoring of every individual visiting their premises. The comprehensive visitor experience is enhanced through the system's effectiveness,
-                        security measures, and personalized features.
-                    </p>
+                <!-- </div> -->
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 text-center mt-5">
+                <div class="img_challenges">
+                    <img src="/images/vizitor/bvm/chal-3-img.svg" alt="challenge-3-img">
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="row card-deck mt-5">
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">QR Based Check-In</span>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Visitor Badge Printing</pspan>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row card-deck mt-5">
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Access Control Integration</span>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Customizable Visitor Forms</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row card-deck mt-5">
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Real-time Notifications</span>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Visitor Photo Capture</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row card-deck mt-5">
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Visitor History Tracking</span>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-12 card card-border-color">
-                            <div class="card-body">
-                                <span class="card-text text-color">Self-Service Kiosk</span>
-                            </div>
-                        </div>
-                    </div>
+                <div class="img_hero">
+                    <img src="/images/vizitor/bvm/icon  3.svg" alt="icon-img">
                 </div>
-            </div> -->
+                <h5 class="vizitor-pass-h5 mt-3"> Inaccuracy of information</h5>
+                <p class="para_heading">How can you be sure if the information entered is <br>correct or not?</p>
+
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 text-center mt-5">
+                <h5 class="vizitor-pass-h5 mt-3">Inaccurate sign-in/out times</h5>
+                <p class="para_heading">Can you trust that the sign-in and sign-out times recorded <br> are
+                    accurate?</p>
+                <div class="img_challenges">
+                    <img src="/images/vizitor/bvm/chal-4-img.svg" alt="challenge-4-img">
+                </div>
+                <div class="img_hero">
+                    <img src="/images/vizitor/bvm/icon  4.svg" alt="icon-img">
+                </div>
+
+            </div>
         </div>
     </div>
+</div>
+<!---------------------------------------------->
 
-    <!-- ----------------------------------------- -->
+<div id="bvms">
+    <div class="container ">
+        <div class="text-center">
+            <h3 class="bvms-size"> Our Solution</span></h3>
+            <p class="para_heading">A visitor management system is a smart choice for any<br> workspace, enhancing
+                security, efficiency, and
+                visitor experience.</p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/zero-hardware-img.svg" alt="qrcode-f" />
+                    <h5 class="vizitor-pass-h5 mt-3">Zero Hardware</h5>
+                    <p class="vizitor-pass-h5-p "> No hardware needed, quick adoption. Easy to set up, your team
+                        will be up and running in no time.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/low-cost.svg" alt="pen-underline-fill" />
+                    <h5 class="vizitor-pass-h5 mt-3">Low Cost</h5>
+                    <p class="vizitor-pass-h5-p">Competitive pricing, fits your budget. Save money on expensive hardware
+                        and software costs.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/super-app-img.svg" alt="pen-underline-fill" />
+                    <h5 class="vizitor-pass-h5 mt-3">Super App</h5>
+                    <p class="vizitor-pass-h5-p">Access your visitor management system on any device, anywhere, with
+                        iOS, Android, and web support.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row visitorpass-row">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/Easy-use-img.svg" alt="envelope-fill" />
+                    <h5 class="vizitor-pass-h5 mt-3">Easy to Use</h5>
+                    <p class="vizitor-pass-h5-p"> Setup takes 5 minutes. Intuitive interface makes it easy
+                        for everyone to use, from visitors to staff. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/occuping-training.svg" alt="exclamation" />
+                    <h5 class="vizitor-pass-h5 mt-3">Occupancy Tracking</h5>
+                    <p class="vizitor-pass-h5-p">Real-time occupancy tracking and visitor analytics. Gain valuable
+                        insights into your visitor traffic. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/multi-language-img.svg" alt="exclamation" />
+                    <h5 class="vizitor-pass-h5 mt-3">Multi-language</h5>
+                    <p class="vizitor-pass-h5-p ">Flexible visitor check-in with multi-language support. Welcome
+                        visitors in their own language.</p>
+                </div>
+            </div>
+        </div>
+        <div class="text-center bannerbtn mt-5">
+            <a target="_blank" href="/signup" class="btn-arrow">Get Started</a>
+        </div>
+    </div>
+</div>
+<!---------------------------------------------->
+<div class="Visitor-Management-System eeswp_section_two">
+    <div class="container ">
+        <div class="center-content ">
+            <h2 class="color-wht mb-4">What is a Visitor Management System?</h2>
+            <p class="color-wht" style="line-height: 30px;">A visitor management system (VMS) is a software program that
+                helps businesses keep
+                track of who comes and goes. It can be used to collect visitor information, such as name, contact
+                information, and the purpose of their visit. It can also generate badges for visitors and send
+                notifications to employees when visitors arrive. VMSs can also be used to create reports on visitor
+                traffic and identify security risks.</p>
 
-    <div id="bvms" class="container ">
+
+            <p class="color-wht" style="line-height: 30px;">A visitor management system is a digital way to sign in
+                visitors. It's like a virtual receptionist that
+                helps you keep track of who is coming and going from your building. VMSs can also help you improve
+                security and customer service.
+            </p>
+        </div>
+        <div class=" text-center mt-5">
+            <a href="/visitor-management-system/" class="btn-arrow bvms-white-btn">Learn More</a>
+        </div>
+    </div>
+</div>
+<!---------------------------------------------->
+
+<div id="bvms">
+    <div class="container">
+        <div class="center-content pb-5">
+            <!-- <p><span class="Digitize"> Comparison</span></p> -->
+            <h4 class="bvms-size">Why <span class="Digitize"> Digital VMS</span> Better Than Traditional System?
+            </h4>
+        </div>
+        <div class="card-deck">
+            <div id="traditional" class="col-lg-5 col-12 card">
+                <div class="center-content">
+                    <img src="/images/vizitor/bvm/Digital-VMS11.svg" alt="Digital-VMS11" />
+                    <div class="line-digital-check-ins"></div>
+                </div>
+                <div class="card-body" style=" background-color: #fef9f4;">
+                    <h5><span><img src="/images/vizitor/bvm/red.svg" alt="red" /></span> Digital Check-Ins</h5>
+                    <p>It allows the guests to do contactless check-in
+                        eliminating the
+                        paperwork.</p>
+                    <h5><span><img src="/images/vizitor/bvm/red.svg" alt="red" /></span>Safe and Secure</h5>
+                    <p>Only the concerned authority can access visitor data.</p>
+                    <h5><span><img src="/images/vizitor/bvm/red.svg" alt="red" /></span> OTP Authentication</h5>
+                    <p>OTP authentication based check-in</p>
+                    <h5><span><img src="/images/vizitor/bvm/red.svg" alt="red" /></span> Notifications</h5>
+                    <p>Notifies host via SMS/email</p>
+                    <h5><span><img src="/images/vizitor/bvm/red.svg" alt="red" /></span> Offline Synchronization</h5>
+                    <p>Data sync even without internet connectivity.</p>
+                </div>
+            </div>
+            <div class="col-lg-2 col-12"></div>
+            <div id="traditional2" class="col-lg-5  col-12 card Manual-top">
+                <div class=" Manual-Check-ins">
+                    <div class="text-right">
+                        <img src="/images/vizitor/bvm/Digital-VMS21.svg" alt="Digital-VMS21" />
+                    </div>
+                </div>
+                <div class="card-body" style=" background-color: #fef9f4;">
+                    <h5> <span><img src="/images/vizitor/bvm/gre.svg" alt="red" /></span> Manual Check-Ins</h5>
+                    <p>Check-in is on paper and pen-based logbooks.</p>
+                    <h5> <span><img src="/images/vizitor/bvm/gre.svg" alt="red" /></span> Non-confidential</h5>
+                    <p>Visitor entry system becomes a public document that any visitor can seek
+                        through</p>
+                    <h5> <span><img src="/images/vizitor/bvm/gre.svg" alt="red" /></span> No Identity Verification</h5>
+                    <p>A manual process cannot authenticate the visitor's mobile number.</p>
+                    <h5> <span><img src="/images/vizitor/bvm/gre.svg" alt="red" /></span> Complex Process</h5>
+                    <p>Informing the host on the visitor’s arrival.</p>
+                    <h5> <span><img src="/images/vizitor/bvm/gre.svg" alt="red" /></span> No Offline Synchronization
+                    </h5>
+                    <p>They rely entirely on physical logbooks.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------------------------------->
+<div id="bvms2">
+    <div class="container ">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
                 <!-- <p><span class="Digitize"> Features</span></p> -->
-                <h3 class="bvms-size">Touchless visitor check-in</h3>
-                <ul>
-                    <li> <span>Visitors use their smartphones for themselves check-ins without the help of any third person.</span> </li>
-                    <li> <span>Instead of using a tablet to allow visitors to check-in on their own.</span></li>
-                    <li> <span>This will limit the potential spread of the virus when visitors use their hands to tap the screen.</span></li>
-                </ul>
+                <h3 class="bvms-size">Touchless Visitor Check-in</h3>
+                <ul id="bvmsli">
+                    <li> <span>
 
-                <div class="bannerbtn Try-free mb-3 bvmsbtn-learn">
-                    <p><a href="/touchless-visitor-management-system" class="btn-arrow">Know more</a></p>
+                            Visitors can check in using a QR code on their mobile phones, eliminating the need for
+                            physical contact.</span> </li>
+                    <li> <span>Streamlines the visitor check-in process, making it faster and more efficient.</span>
+                    </li>
+                    <li> <span>Visitors can check in quickly and easily without waiting in line or interacting with
+                            reception staff.</span></li>
+                </ul>
+                <div class="bannerbtn Try-free bvmsbtnn-learn mt-4">
+                    <p><a href="/touchless-visitor-management-system" class="btn-arrow">Learn More</a></p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                <img src="/images/vizitor/bvm/hardrock-cafe.svg" alt="hardrock-cafe" />
-
+                <img src="/images/vizitor/bvm/touchless-visitor-img.svg" alt="hardrock-cafe" />
             </div>
         </div>
     </div>
-
-    <!-- -------------------------------------------- -->
-    <div id="bvms2">
-        <div class="container ">
-            <div class="row align-items-center">
-                <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                    <img class="mb-5" src="/images/vizitor/bvm/Nda-form.svg" alt="Nda-form" />
+</div>
+<!-- --------------------------------------------->
+<div id="bvms">
+    <div class="container ">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img class="mb-5" src="/images/vizitor/bvm/agreement-img.svg" alt="Nda-form" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <!-- <p><span class="Digitize"> Features</span></p> -->
+                <h3 class="bvms-size">Send Agreements in Advance</h3>
+                <ul>
+                    <li><span> Visitors can sign an NDA form electronically, before they are granted access to your
+                            facility.</span></li>
+                    <li><span>This feature helps to protect your confidential information and intellectual property.
+                        </span></li>
+                    <li><span>You can customize the NDA form to meet your specific needs, and you can track who has
+                            signed it and when.</span></li>
+                </ul>
+                <div class="bannerbtn Try-free bvmsbtnn-learn mt-4">
+                    <a href="/visitor-management-nda" class="btn-arrow">Learn More</a>
                 </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
-                    <!-- <p><span class="Digitize"> Features</span></p> -->
-                    <h3 class="bvms-size">Send agreements in advance</h3>
-                    <ul>
-                        <li><span>Before your guest arrives, be safe. The company can send invitations to visitors with attached NDAs to sign in advance, or other agreements that might include health and safety precautions.</span></li>
-                        <li><span>Visitors will receive and sign agreements in advance to avoid signing any agreements by hand once they arrive at your workplace.</span></li>
-                    </ul>
-
-                    <div class="bannerbtn Try-free bvmsbtn-learn">
-                        <a href="/visitor-management-nda" class="btn-arrow">Know more</a>
-                    </div>
-
-                </div>
-
-
             </div>
         </div>
     </div>
-    <!-- --------------------------------------------------- -->
-
-
-    <div id="bvms" class="container ">
+</div>
+<!-- --------------------------------------------------- -->
+<div id="bvms2">
+    <div class="container ">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <!-- <p><span class="Digitize"> Features</span></p> -->
                 <h3 class="bvms-size">Digital Visitor Badges</h3>
                 <ul id="bvmsli">
-                    <li><span>Go Touchless with assigning digital visitor badges to your visitors.</span></li>
-                    <li><span>Visitor badges give visitors an identity in your workplace, which creates a pleasant experience for your visitors.</span></li>
-                    <li><span>When visitors check in, their badge can print instantly, which they will then grab without having assistance from your front desk team.</span></li>
-                    <li><span>They assist to spot who the visitors are within a workplace and supply vital information about the visitor.</span></li>
+                    <li><span> Digital badges are more secure and tamper-proof than traditional paper badges.</span>
+                    </li>
+                    <li><span>Visitors can receive a digital badge on their mobile phones, which they can display to
+                            verify their identity.</span></li>
+                    <li><span>You can customize the digital badges to include your company branding and any other
+                            relevant information.</span></li>
                 </ul>
-                <div class="bannerbtn Try-free mb-3 bvmsbtn-learn">
-                    <a href="/visitor-badge-management-system" class="btn-arrow">Know more</a>
+                <div class="bannerbtn Try-free  bvmsbtnn-learn mt-4">
+                    <a href="/visitor-badge-management-system" class="btn-arrow">Learn More</a>
                 </div>
 
             </div>
 
             <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                <img src="/images/vizitor/bvm/Digital-Visitor-Badges.svg" alt="Digital-Visitor-Badges" />
+                <img src="/images/vizitor/bvm/Digital-img.svg" alt="Digital-Visitor-Badges" />
 
             </div>
         </div>
     </div>
-
-    <!-- -------------------------------------------- -->
-    <div id="bvms2">
-        <div class="container ">
-            <div class="row align-items-center">
-                <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                    <img class="mb-5" src="/images/vizitor/bvm/Advanced-pre-invitation.svg" alt="Advanced-pre-invitation" />
+</div>
+<!-- -------------------------------------------- -->
+<div id="bvms">
+    <div class="container ">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img class="mb-5" src="/images/vizitor/bvm/Advanced-pre-img.svg" alt="Advanced-pre-invitation" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <!-- <p><span class="Digitize"> Features</span></p> -->
+                <h3 class="bvms-size">Advanced Pre-Invitation</h3>
+                <ul id="bvmsli">
+                    <li><span> You can pre-invite visitors and send them a QR code or link to check in online.
+                        </span></li>
+                    <li><span>This feature helps to streamline the visitor check-in process and save everyone
+                            time.</span></li>
+                    <li><span>You can also use this feature to collect information from visitors in advance, such as
+                            their name, contact information, and reason for visit. </span></li>
+                </ul>
+                <div class="bannerbtn Try-free bvmsbtnn-learn mt-4">
+                    <a href="/pre-registration" class="btn-arrow">Learn More</a>
                 </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <!-- <p><span class="Digitize"> Features</span></p> -->
-                    <h3 class="bvms-size">Advanced pre-invitation</h3>
-                    <ul id="bvmsli">
-                        <li><span>Touchless sign-in process assigns hierarchical pre-invitation rights to employees.</span></li>
-                        <li><span>Sending pre-invitations can assist you let in just those visitors whom you've got invited.</span></li>
-                        <li><span>Sending invites to the guest will allow them to avoid contact at the reception. The visitor can simply scan their invite code and check-in.</span></li>
-                    </ul>
-
-
-                    <div class="bannerbtn Try-free bvmsbtn-learn">
-                        <a href="/pre-registration" class="btn-arrow">Know more</a>
-                    </div>
-
-                </div>
-
-
             </div>
         </div>
     </div>
-    <!-- ----------------------------------------- -->
-
-
-    <div id="bvms" class="container ">
+</div>
+<!-- ----------------------------------------- -->
+<div id="bvms2">
+    <div class="container ">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <!-- <p><span class="Digitize"> Features</span></p> -->
@@ -227,1103 +371,649 @@
                 <h3 class="bvms-size">Alert Employees</h3>
                 <!-- <p class="bvms-p">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p> -->
                 <ul id="bvmsli">
-                    <li><span>The Touchless check-in system sends notifications to the worker when any visitor comes up to satisfy them and alerts them by sending the small print of the guest to make them aware and take necessary precautionary steps.</span></li>
-                    <li><span>The Touchless visitor management system allows the worker to approve or disapprove the entry of any visitor on the premises.</span></li>
+                    <li><span> You can send alerts to employees when their visitors arrive, so that they can meet them
+                            at the reception desk.</span></li>
+                    <li><span>This feature helps to create a more welcoming and professional experience for
+                            visitors.</span></li>
+                    <li><span>You can also use this feature to track employee movements and ensure that visitors are
+                            accompanied at all times. </span></li>
                 </ul>
-
-                <div class="bannerbtn Try-free mb-3 bvmsbtn-learn">
+                <div class="bannerbtn Try-free bvmsbtnn-learn my-4">
                     <a href="/instant-notification" class="btn-arrow">Know more</a>
                 </div>
-
             </div>
-
             <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                <img src="/images/vizitor/bvm/Alert-Employees.svg" alt="Alert-Employees" />
+                <img src="/images/vizitor/bvm/Alert-img.svg" alt="Alert-Employees" />
 
             </div>
         </div>
     </div>
+</div>
+<!-- ----------------------------------- -->
+<div class="container" id="bvms">
+    <div class="tile" id="tile-1">
+        <!-- Nav tabs -->
+        <h2 class="text-center mb-5">Visitor Management Systems Benefits</h2>
+        <ul class="nav nav-tabs nav-justified mt-5 mb-4" role="tablist">
+            <div class="slider"></div>
+            <li class="nav-item">
+                <a class="nav-link active" id="home-tabes" data-toggle="tab" href="#productivity" role="tab"
+                    aria-controls="homees" aria-selected="true">
+                    <h3 class="color-h">Office Productivity </h3>
+                </a>
 
-    <!-- ----------------------------------- -->
-
-    <!-- <div class="Touchless-technology technology-tb">
-        <div class="container">
-            <div class="center-content ">
-                <p><span class="color-wht"> Touchless visitor management</span></p>
-                <h4 class="color-wht mb-5 bvms-size">The Need of Touchless visitor management solution!</h4>
-                <p class="Touchless-technology-p mb-5">Touchless technology provides protection and safety to the workplaces. It also provides a seamless modern experience to the workplace. With a Touchless visitor management system, visitors can pre-register on their smartphone before their
-                    arrival, visitor screening, check-in with a visitor management system QR code; can meet their host in no time; and record the last details of the visitor experience.</p>
-                <div class=" text-center mt-5">
-                    <a href="/signup" class="btn-arrow bvms-color-btn">Try for free</a>
-                </div>
-            </div>
-
-        </div>
-    </div> -->
-
-    <!-- -------------------------------------------- -->
-
-    <div id="bvms" class="container ">
-        <div class="row align-items-center">
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <!-- <p><span class="Digitize"> How vizitor works!</span></p> -->
-                <h3 class="mb-5 bvms-size">How do digital <span class="Digitize">visitor management systems</span> work?
-                </h3>
-                <!-- --1-- -->
-                <div>
-                    <div class="right-btn">
-                        <div>
-                            <img src="/images/vizitor/bvm/1.svg" alt="1" />
-                        </div>
-                        <div>
-                            <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/Line.svg" alt="Line" />
-                        </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="profile-tabes" data-toggle="tab" href="#security" role="tab"
+                    aria-controls="profilees" aria-selected="false">
+                    <h3 class="color-h">Office Security</h3>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="profile-tabes" data-toggle="tab" href="#Brand" role="tab"
+                    aria-controls="profilees" aria-selected="false">
+                    <h3 class="color-h">Brand Image</h3>
+                </a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="productivity" role="tabpanel" aria-labelledby="home-tabes">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h3 class="chgh5">Sign-In Sheets:<span class="Digitize"> Office Productivity
+                                Challenges</span></h3>
+                        <p class="para_heading">Imagine a bustling office where visitors come and go. The <a
+                                href="/blog/traditional-sign-in-sheets-vs-visitor-management-systems-hidden-dangers/"
+                                style="color: #ed5c18;"> sign-in sheet</a> poses
+                            significant productivity challenges. Picture this: a visitor arrives, picks up a pen,
+                            and starts filling out their inftraditionalormation on the sheet.</p>
+                        <p class="para_heading">Meanwhile, the noise and movement distract nearby employees,
+                            interrupting their workflow.
+                            The receptionist becomes overwhelmed and struggles to handle other essential tasks.</p>
+                        <p class="para_heading">The top productivity challenges with sign-in sheets include:</p>
+                        <ul id="bvmsli">
+                            <li><span>Interruptions and distractions for employees due to the sign-in
+                                    process.</span></li>
+                            <li><span>Overburdened receptionist, leading to limited availability for other
+                                    responsibilities.</span></li>
+                            <li><span>Time-consuming manual process for visitors, causing delays.</span></li>
+                            <li><span>Security risks associated with visible visitor information.</span></li>
+                        </ul>
                     </div>
-                    <div>
-                        <p class="digital-visitor display-flex">A visitor check-in on a tablet</p>
-                        <p class="display-flex clients-p"> When a visitor arrives, they enter their name and <br> required details.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <!-- --2-- -->
-                <div>
-                    <div class="right-btn">
-                        <div>
-                            <img src="/images/vizitor/bvm/2.svg" alt="1" />
-                        </div>
-                        <div>
-                            <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/Line.svg" alt="Line" />
-                        </div>
-                    </div>
-                    <div>
-                        <p class="digital-visitor display-flex">Capture a photo and digitally sign documents.</p>
-                        <p class="display-flex clients-p"> After fulfilling the details the visitor has to capture their photo and e-signature on legal documents for check-in purposes.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <!-- --3-- -->
-                <div>
-                    <div class="right-btn">
-                        <div>
-                            <img src="/images/vizitor/bvm/3.svg" alt="1" />
-                        </div>
-                        <div>
-                            <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/Line.svg" alt="Line" />
-                        </div>
-                    </div>
-                    <div>
-                        <p class="digital-visitor display-flex">Digital Badges</p>
-                        <p class="display-flex clients-p"> Digital badges generated with the details provided by the visitor, the reason for their visit. Digital badge also contains a visitor image.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <!-- --4-- -->
-                <div>
-                    <div class="right-btn">
-                        <div>
-                            <img src="/images/vizitor/bvm/4.svg" alt="1" />
-                        </div>
-                        <div>
-                            <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/Line.svg" alt="Line" />
-                        </div>
-                    </div>
-                    <div>
-                        <p class="digital-visitor display-flex">The employee gets notified about their visitor</p>
-                        <p class="display-flex clients-p">The visitor management system automatically alerts the employee that their visitor has arrived.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <!-- --5-- -->
-                <div>
-                    <div class="right-btn">
-                        <div>
-                            <img src="/images/vizitor/bvm/5.svg" alt="1" />
-                        </div>
-
-                    </div>
-                    <div>
-                        <p class="digital-visitor display-flex">Submit feedback & check-out</p>
-                        <p class="display-flex clients-p" style="margin-left: 45px;"> After all, when the visit is over for the visitor, they can simply check-out of the building with a single tap on the check-out button that will automatically note down their check-out time and will ask them for their feedback.
-                        </p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <!-- ---- -->
-
-            </div>
-            <div class="col-md-6 col-sm-6 col-xs-12 ">
-                <img class="center-content" src="/images/vizitor/bvm/digital-visitor-managemen.svg" alt="digital-visitor-managemen" />
-                <div class="center-content">
-                    <div class="my-5">
-                        <form id="BVMdigitalVMSwork">
-                            <input type="email" class="email-input" id="emaildigital" name="emaildigital" placeholder="Enter your email" required>
-                            <input class="btn-try-free" type="submit" value="Try for free">
-                        </form>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- -------------------------------------- -->
-    <div id="Vizitor-PASS">
-        <div class="container">
-            <div class="saypb">
-                <!-- <p class="text-center"><span class="vizitors-pass "> Vizitor Pass app</span></p> -->
-                <h4 class="vizitor-pass-h2 bvms-size">Say Hello To <span class="vizitors-pass">Vizitor PASS</span> </h4>
-                <p class="vizitor-pass-p ">With Vizitor PASS mobile app for Android and iOS, you have a companion for employees and<br> Visitors to sync in at all times. A powerful visitor management app to allow your employees to manage their <br>visitors by saving each other's
-                    time.
-                </p>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/Quick-Check-In.svg" alt="Quick-Check-In" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Quick Check-In</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Vizitor's active occupancy monitoring allows you to manage your employees' attendance in a contactless manner.</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/qrcode.svg" alt="qrcode" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Optimize Space Utilization through VMS Analytics</h5>
-                        <p class="vizitor-pass-h5-p display-flex">QR code-based unique digital ID in the visitor PASS app enables you to check-in faster.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row visitorpass-row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/Notifications.svg" alt="Notifications" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Instant Push Notifications</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Visitor pass software notifies the hosts through Email, SMS and Mobile App notification on the arrival of their visitors.</p>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/Invite-Guests.svg" alt="Invite-Guests" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Invite Guests & Manage Visitor Access</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Effectively monitor workplace traffic across locations, send invites, authorize visit requests, customize and schedule visitor reports.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="my-5 text-center">
-                <form id="VizitorPass">
-                    <input type="email" class="email-input" style="border: 2px solid #00A850;" id="emailVizitorPass" name="emailVizitorPass" placeholder="Enter you email..." required>
-                    <input class="btn-try-free" style="background: #00A850;" type="submit" value="Try for free">
-                </form>
-            </div>
-        </div>
-    </div>
-    <!-- ------------------------------------------------ -->
-    <div id="Download-Vizitor-Pass">
-        <div class="container ">
-            <div class="center-content pb-5">
-                <!-- <p><span class="color-wht"> Vizior App</span></p> -->
-                <h4 class="color-wht bvms-size">Download the Vizitor Pass mobile <br> app for Android!</h4>
-            </div>
-            <div class="row ">
-                <div class="col-md-1 col-sm-1 col-xs-12"></div>
-                <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
-                    <p class="step center-content">STEP</p>
-                    <div>
-                        <div class="clients-h2 center-content">
-                            <img src="/images/vizitor/bvm/d1.svg" alt="d1" />
-                        </div>
-                    </div>
-                    <p class="step-p center-content">Scan the QR code</p>
-                    <div class="center-content">
-                        <img src="/images/vizitor/bvm/Scan-QR-code.svg" alt="Scan-QR-code" />
-                    </div>
-                    <p class="step-p center-content">Scan QR code to download VizitorPass app</p>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
-                    <p class="step center-content">STEP</p>
-                    <div>
-                        <div class="clients-h2 center-content">
-                            <img src="/images/vizitor/bvm/d2.svg" alt="d2" />
-                        </div>
-                    </div>
-                    <p class="step-p center-content">When your device is finished reading and identifying the QR code.</p>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
-                    <p class="step center-content">STEP</p>
-                    <div>
-                        <div class="clients-h2 center-content">
-                            <img src="/images/vizitor/bvm/d3.svg" alt="d3" />
-                        </div>
-                    </div>
-                    <p class="step-p center-content">Then select the open browser.</p>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
-                    <p class="step center-content">STEP</p>
-                    <div>
-                        <div class="clients-h2 center-content">
-                            <img src="/images/vizitor/bvm/d4.svg" alt="d4" />
-                        </div>
-                    </div>
-                    <p class="step-p center-content">You'll be the forwarded to the Vizitor Pass App in the play store.</p>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
-                    <p class="step center-content">STEP</p>
-                    <div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
                         <div class="center-content">
-                            <img src="/images/vizitor/bvm/d5.svg" alt="d5" />
+                            <img src="/images/vizitor/bvm/office-productivity.svg" alt="Digital-VMS11" />
                         </div>
                     </div>
-                    <p class="step-p center-content">Now, just click on the install.</p>
                 </div>
-                <div class="col-md-1 col-sm-1 col-xs-12"></div>
+                <div class="row align-items-center mt-5">
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/bvm/boosting-img.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+
+                        <h3 class="chgh5">Digital Visitor Management Systems: <span class="Digitize">Boosting Office
+                                Productivity</span></h3>
+                        <p class="para_heading">Your receptionist can contribute a lot to the success of your <a
+                                href="/blog/maximize-your-productivity-expert-tips-for-optimal-office-performance/"
+                                style="color: #ed5c18;">business productivity.</a> But
+                            not if they’re stuck at their desk all day. By welcoming and checking in your office
+                            visitors, a visitor management system frees your receptionist to work on other things.
+                            Guaranteed both you and your receptionist will be happier for it.</p>
+                        <ul id="bvmsli">
+                            <li><span>Streamline check-in process, eliminating manual sign-in sheets and reducing
+                                    delays.</span></li>
+                            <li><span>Automate check-in, saving time for visitors and staff with instant
+                                    badge.</span></li>
+                            <li><span>Cut interruptions, allowing employees to focus uninterrupted on their
+                                    tasks.</span></li>
+                            <li><span>Empower receptionists by freeing them from constant monitoring. And, enabling
+                                    them to handle important tasks.</span></li>
+                            <li><span>Enhance security, visitor tracking, and reduced risk of unauthorized access or
+                                    breaches.</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="security" role="tabpanel" aria-labelledby="profile-tabes">
+                <div class="row align-items-center mt-5">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h3 class="chgh5">Visitor Privacy: <span class="Digitize">Information Security
+                                Concerns</span></h3>
+                        <p class="para_heading"> <a
+                                href="https://www.securitymagazine.com/articles/86650-common-types-of-unauthorized-access-and-how-to-combat-them"
+                                style="color: #ed5c18;">Customer privacy</a> is crucial, but a visible visitor log can
+                            pose risks. In industries like legal and financial services, privacy is vital. Implementing
+                            a visitor management addresses these concerns and ensures data protection. In office, a
+                            competitor posing as a client to gain unauthorized access by sign in on a traditional
+                            system. Realizing the vulnerability, the office implemented a visitor management system.
+                            This required digital check-ins, photo verification, and restricted access control. This
+                            enhanced security measure ensured that only <a
+                                href="https://www.securitymagazine.com/articles/86650-common-types-of-unauthorized-access-and-how-to-combat-them"
+                                style="color: #ed5c18;"> authorized individuals </a> enter the premises.
+                        </p>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/bvm/visitor-privacy.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center mt-5">
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/bvm/illustration.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 mt-5">
+                        <h2 class="chgh5">Emergency <span class="Digitize">Evacuation Planning</span></h2>
+                        <p class="para_heading">Emergency situations can arise, posing risks to everyone in the office.
+                            To ensure safety, it is crucial to have an effective <a
+                                href="https://www.ehs.washington.edu/about/latest-news/plan-emergency-evacuations-hybrid-work-environment"
+                                style="color: #ed5c18;"> emergency evacuation plan.</a> While regulatory
+                            requirements focus on employee safety. Many insurance providers also expect emergency
+                            plans to encompass visitors. By implementing a visitor management system, you can track
+                            who is present in office. Consult relevant guidelines and resources to plan for
+                            workplace emergencies and evacuations .</p>
+                    </div>
+                </div>
+                <div class="row align-items-center mt-5">
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <h2 class="chgh5">Regulatory compliance</h2>
+                        <p class="para_heading"><a
+                                href="/blog/compliance-and-data-privacy-the-role-of-visitor-management-in-meeting-regulations/"
+                                style="color: #ed5c18;"> Regulatory compliance</a> is a top security challenge in
+                            visitor management systems. It means following the rules to keep sensitive information safe
+                            and avoid penalties. In healthcare, patient privacy is crucial, so visitor systems must meet
+                            rules and regulations. A survey found that <a
+                                href="https://cio.economictimes.indiatimes.com/news/cloud-computing/healthcare-organizations-deem-data-security-compliance-as-leading-factors-in-hybrid-cloud-adoption/76994756"
+                                style="color: #ed5c18;"> 68% of organizations worry about compliance.</a> With
+                            a visitor management system, companies protect data build and stay on the side of the law.
+                            <a href="https://www.vizitorapp.com/blog/protecting-your-ip-with-visitor-management-systems/"
+                                style="color: #ed5c18;"> Customize the NDA </a> as per your guidance.
+                        </p>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/bvm/Regulatory-img.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="Brand" role="tabpanel" aria-labelledby="profile-tabes">
+                <div class="row align-items-center mt-5">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h2 class="chgh5">Company’s First Impression</h2>
+                        <p class="para_heading">Imagine you're at a big event, going from booth to booth. As you
+                            approach one booth,
+                            you're greeted by a cool, high-tech check-in system. It's like something out of a sci-fi
+                            movie!</p>
+                        <p class="para_heading"> You can enter your details, and within seconds, a <a
+                                href="https://www.vizitorapp.com/blog/the-need-for-visitor-badges-for-more-security/"
+                                style="color: #ed5c18;">personalized badge</a>
+                            for you. The system
+                            even gives you clear directions to find the right person to talk to.</p>
+
+                        <p class="para_heading"> But then, you come across another booth where things are a bit chaotic.
+                            They're still
+                            using sign-in sheets. And you find yourself fumbling for a pen and waiting for someone
+                            to help you. It's not the smoothest experience, and it leaves you with a not-so-great
+                            impression.</p>
+
+                        <p class="para_heading"> That's where a digital visitor management system comes in. With a
+                            modern check-in
+                            process, it shows that your company is up-to-date with technology.</p>
+
+                        <p class="para_heading"> It's all about creating a positive image, showing professionalism, and
+                            for lasting
+                            impressions. So, if you want to make a great <a
+                                href="https://www.psychologicalscience.org/observer/how-many-seconds-to-a-first-impression"
+                                style="color: #ed5c18;">first impression</a> and stand out from the
+                            crowd, a visitor management system is the way to go!
+                        </p>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/bvm/company-img.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center mt-5">
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/bvm/axio.svg" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h2 class="chgh5">Building the right brand
+                            image</h2>
+                        <p class="para_heading">Brand image is important because it impacts your company's success. A
+                            digital visitor
+                            management system can enhance your brand image. Research shows that customers are more
+                            likely to buy from companies they view. </p>
+
+                        <p class="para_heading">You can't control brand image, but you can shape it through your
+                            choices. </p>
+
+                        <p> The technology you use in your office also affects your brand image. Many customers say
+                            that a visitor management system improves their company's brand value. That's why many
+                            companies choose to use such a system. </p>
+
+                        <p class="para_heading">You walk into the company's office, and they ask you to write your name
+                            on a paper
+                            sign-in sheet. You might question their tech-savviness. This is one reason why companies
+                            like HardRock, Snapdeal, and Retina Centre use Vizitor for iPad. They want to reinforce
+                            their image as technology leaders. </p>
+
+                        <p class="para_heading"> One of our clients, Dhiren from Hard Rock Cafe, says that Vizitor
+                            provides unique IDs
+                            for each guest. Also, making it easy to track their details and check-in/check-out
+                            times. </p>
+
+                        <p class="para_heading"> Want to customize your brand image? Implementing a visitor management
+                            system is the way
+                            to go. </p>
+                        <p class="para_heading"> Customize your brand image with a visitor management system. It leaves
+                            a lasting
+                            impression, saves time and improves security. </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    <!-- --------------------------------------------- -->
-    <div id="Survey-Analysis">
-        <div class="container">
-            <div class="center-content pb-5">
-                <!-- <p><span class="Digitize"> Survey Analysis</span></p> -->
-                <h4 class="bvms-size">Visitor management system <br><span class="Digitize">2023 Survey Analysis</span> </h4>
-                <p>A 2017 VMS research surveyed key stakeholders to identify trends and evaluate<br> the impact of technology on visitor management.
-                </p>
+</div>
+<!----------------------------------------->
+
+<div class="Touchless-technology technology-tb">
+    <div class="container">
+        <div class="center-content ">
+            <h4 class="color-wht  bvms-size">The Need Of Touchless Visitor Management Solution!</h4>
+            <p class="Touchless-technology-p ">Visitor management solutions can help to improve security by tracking who
+                is entering and exiting your building. Visitor management solutions can streamline the visitor check-in
+                process and
+                reduce the workload on reception staff, freeing them up to focus on other tasks. Finally, visitor
+                management solutions can help to create a more positive and professional visitor experience by greeting
+                visitors promptly and efficiently, and by making them feel more secure knowing that their entry is being
+                tracked and their safety is being prioritized.</p>
+            <div class=" text-center mt-5">
+                <a href="/signup" class="btn-arrow bvms-color-btn">Learn More</a>
             </div>
-            <div class="row mt-5">
-                <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
-                    <p class="Survey-Analysis-p mb-5">82%</p>
-                    <p class="center-content">Increase in Operational Efficiency</p>
+        </div>
+
+    </div>
+</div>
+<!---------------------------------------------- -->
+<div id="bvms" class="container ">
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <!-- <p><span class="Digitize"> How vizitor works!</span></p> -->
+            <h3 class="mb-5 bvms-size">How Do Digital <span class="Digitize">Visitor Management Systems</span> Work?
+            </h3>
+            <!-- --1-- -->
+            <div>
+                <div class="right-btn">
+                    <div>
+                        <img src="/images/vizitor/bvm/1.svg" alt="1" />
+                    </div>
+                    <div>
+                        <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/line0.svg" alt="Line" />
+                    </div>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
-                    <p class="Survey-Analysis-p mb-5">82%</p>
-                    <p class="center-content">Safer Working Environment
+                <div>
+                    <p class="digital-visitor display-flex">Digital Check-in</p>
+                    <p class="display-flex clients-p"> Visitor enters name and details on tablet.</p>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <!-- --2-- -->
+            <div>
+                <div class="right-btn">
+                    <div>
+                        <img src="/images/vizitor/bvm/2.svg" alt="1" />
+                    </div>
+                    <div>
+                        <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/line0.svg" alt="Line" />
+                    </div>
+                </div>
+                <div>
+                    <p class="digital-visitor display-flex"> Capture photo and sign documents.</p>
+                    <p class="display-flex clients-p"> Visitor has photo taken and e-signs documents.</p>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <!-- --3-- -->
+            <div>
+                <div class="right-btn">
+                    <div>
+                        <img src="/images/vizitor/bvm/3.svg" alt="1" />
+                    </div>
+                    <div>
+                        <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/line0.svg" alt="Line" />
+                    </div>
+                </div>
+                <div>
+                    <p class="digital-visitor display-flex">Receive digital badge</p>
+                    <p class="display-flex clients-p">Visitor receives digital badge with details.</p>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <!-- --4-- -->
+            <div>
+                <div class="right-btn">
+                    <div>
+                        <img src="/images/vizitor/bvm/4.svg" alt="1" />
+                    </div>
+                    <div>
+                        <img style="margin: 10px 0px 0px 15px;" src="/images/vizitor/bvm/line0.svg" alt="Line" />
+                    </div>
+                </div>
+                <div>
+                    <p class="digital-visitor display-flex">Host is notified</p>
+                    <p class="display-flex clients-p">System alerts host that visitor has arrived.</p>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <!-- --5-- -->
+            <div>
+                <div class="right-btn">
+                    <div>
+                        <img src="/images/vizitor/bvm/5.svg" alt="1" />
+                    </div>
+                </div>
+                <div>
+                    <p class="digital-visitor display-flex">Check out and provide feedback</p>
+                    <p class="display-flex clients-p" style="margin-left: 45px;"> Visitor checks out and provides
+                        feedback.
                     </p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
-                    <p class="Survey-Analysis-p mb-5">84%</p>
-                    <p class="center-content">More Valuable Data Insights</p>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
-                    <p class="Survey-Analysis-p mb-5">53%</p>
-                    <p class="center-content">Impressed with VMS Greeting</p>
-                </div>
             </div>
-        </div>
-    </div>
-    <!-- --------------------------------------------- -->
-    <div id="bvms2">
-        <div class="container">
-            <div class="center-content pb-5">
-                <!-- <p><span class="Digitize"> Comparison</span></p> -->
-                <h4 class="bvms-size">Why <span class="Digitize"> Digital VMS</span> better than traditional system?</h4>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-6 col-sm-6 col-xs-12 ">
-                    <div class="center-content">
-                        <img src="/images/vizitor/bvm/Digital-VMS11.svg" alt="Digital-VMS11" />
-                        <div class="line-digital-check-ins"></div>
-                    </div>
-                    <div class="Digital-Visitor" style="height:auto">
-                        <div class="row mt-4">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/red.svg" alt="red" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Digital-card-text">Digital Check-ins</h5>
-                                <p class="color-r">Check-in is made on paper and It allows the guests to do contactless check-in digitally eliminating the paperwork.</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/red.svg" alt="red" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Digital-card-text">Safe and Secure</h5>
-                                <p class="color-r">Visitor’s data can be accessed only by the concerned authority</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/red.svg" alt="red" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Digital-card-text">OTP Authentication</h5>
-                                <p class="color-r">OTP authentication based check-in</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/red.svg" alt="red" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Digital-card-text">Notifications</h5>
-                                <p class="color-r">Easily notifies host via SMS/email</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
-                    <div class=" Manual-Check-ins">
-                        <div class="text-right">
-                            <img src="/images/vizitor/bvm/Digital-VMS21.svg" alt="Digital-VMS21" />
-                        </div>
-                    </div>
-                    <div class="Traditional-card" style="height:auto">
-                        <div class="row mt-4">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Traditional-card-text">Manual Check-ins</h5>
-                                <p>Check-in is made on paper and pen-based logbooks.</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Traditional-card-text">Non-confidential</h5>
-                                <p>Visitor entry system becomes a public document that any visitor can seek through</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Traditional-card-text">No identity verification</h5>
-                                <p>Visitor’s mobile number can not be authenticated in a manual process</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-2 col-2 text-right">
-                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
-                            </div>
-                            <div class="col-md-10 col-10">
-                                <h5 class="Traditional-card-text">Complex Process</h5>
-                                <p>Verbally informing the host on the visitor’s arrival.<br><br></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div>
-        </div>
-    </div>
-    <!-- --------------------------------------------- -->
-    <!-- <div id="Benefits">
-        <div class="container ">
-            <div class="center-content pb-5">
-                <h4 class="bvms-size"> <span>Value adding Visitor 
-                    <br>Management System Benefits</span> </h4>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-
-                    <p class="Benefits-hd"><span><img src="/images/vizitor/bvm/Wallet.svg" alt="Wallet" /></span> Cost Effective Solution</p>
-                    <ul id="Benefitsli">
-                        <li>Vizitor cuts down the cost and pain of data maintenance</li>
-                        <li>People should use a visitor management Solution for different kinds of purposes because these softwares are specifically developed to help out people in maintaining everything properly and effectively.</li>
-                        <li>The visitor management system can be used by people for different kinds of services.</li>
-                    </ul>
-                </div>
-
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-
-                    <p class="Benefits-hd"><span><img src="/images/vizitor/bvm/Improve-Your-Efficiency.svg" alt="Improve-Your-Efficiency" /></span> Improve Your Efficiency</p>
-                    <ul id="Benefitsli">
-                        <li>Vizitor does not only help in data tracking/management but also provides you better control over unwanted Visitors.</li>
-                        <li>The visitor management system also helps in improving the efficiency of the Check-in / Check out process</li>
-                        <li>It helps you get a quick and detailed visitor verification instantly.</li>
-                    </ul>
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-
-                    <p class="Benefits-hd"><span><img src="/images/vizitor/bvm/Shield-user.svg" alt="Shield-user" /></span> Office Security</p>
-                    <ul id="Benefitsli">
-                        <li><span>The visitor management system helps in addressing issues such as information security, visitor privacy, emergency evacuation plans, and regulatory compliance.</li>
-                        <li><span>Digital databases with visitor sign-in help in meeting these regulations quickly and efficiently.</li>
-                        <li><span>Having records of all visitor check-ins and check-outs allows security personnel to see if the building is empty before closing up for the night or at the end of each shift</li>
-                    </ul>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-
-                    <p class="Benefits-hd"><span><img src="/images/vizitor/bvm/Timer.svg" alt="Timer" /></span> Office productivity</p>
-                            <ul id="Benefitsli">
-                                <li>Your receptionist's productivity suffers when she is confined to her desk all day.</li>
-                                <li>By welcoming and checking in visitors to your office, a visitor management system frees up your receptionist's time.</li>
-                                <li>A digital visitor management system can help you increase office productivity by reducing waiting time and increasing productivity.
-                                </li>
-                            </ul>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="row">
-                        <div class="col-md-1 col-2 p-0" style="text-align: end;">
-                            <img src="/images/vizitor/bvm/Brand.svg" alt="Brand" />
-                        </div>
-                        <div class="col-md-11 col-10">
-                            <p class="Benefits-hd">Brand Image</p>
-                            <p class="Benefits-p display-flex"><img class="dot-back-r" style="padding-bottom: 50px;" src="/images/vizitor/bvm/dot-b.svg" alt="dot-b" /> Vizitor as a visitor management system installed helps you in having a modernized reception which further enhances company
-                                branding.
-                            </p>
-                            <p class="Benefits-p display-flex"><img class="dot-back-r" style="padding-bottom: 25px;" src="/images/vizitor/bvm/dot-b.svg" alt="dot-b" /> It allows the authorities to personalize interface design with welcome messages and brand logos on upfront.</p>
-                            <p class="Benefits-p display-flex"><img class="dot-back-r" style="padding-bottom: 25px;" src="/images/vizitor/bvm/dot-b.svg" alt="dot-b" /> This improves the overall customer experience and gives out the opportunity to enhance your brand image.</p>
-                        </div>
-                    </div>
-                    <p class="Benefits-hd"><span><img src="/images/vizitor/bvm/Brand.svg" alt="Brand" /></span> Brand Image</p>
-                    <ul id="Benefitsli">
-                        <li>Vizitor as the best visitor management app installed helps you in having a modernized reception which further enhances company branding.
-                        </li>
-                        <li>It allows the authorities to personalize interface design with welcome messages and brand logos on upfront.</li>
-                        <li>This improves the overall customer experience and gives out the opportunity to enhance your brand image.</li>
-                    </ul>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-
-                    <p class="Benefits-hd"><span><img src="/images/vizitor/bvm/regulations.svg" alt="regulations" /></span> Meet up your compliance regulations</p>
-                    <ul id="Benefitsli">
-                        <li> All the information entered in the system is secure with Vizitor's reception management system.</li>
-                        <li>This methodology is way higher than having the secretary manually maintain a record book and should bear a large quantity of physical information to search out the desired info.</li>
-                        <li>Vizitor authenticates each detail filled in by the visitor and keeps this information secure.</li>
-
-                    </ul>
-                </div>
-            </div>
-
+            <div class="clearfix"></div>
+            <!-- ---- -->
 
         </div>
-    </div> -->
-    <!-- ----------------------------------- -->
-
-    <!-- <div class="vizitor-commit technology-tb">
-        <div class="container">
-            <div class="center-content ">
-                <h4 class="color-wht greenbs">Green Business Initiative</h4>
-                <p class="GreenBusiness-p">Vizitor is pledge to commit for the protection and prevention of the environment. Green Business Initiative is a change <br> towards making a greener planet. The idea behind this is to encourage organizations to begin its “go green” process
-                    to implement the use of a paperless working operation. Another, we promote Tree Plantation Drive that aims at planting a tree for every customer.</p>
-            </div>
-
-        </div>
-    </div> -->
-
-    <!-- -------------------------------------------- -->
-
-
-
-    <!-- <div id="Eco-friendly-Blogs">
-        <div class="container ">
-            <div class="center-content pb-5">
-                <h3 class="vizitors-pass chgh3"> Eco-friendly Blogs</h3>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="card-deck">
-                        <a aria-label="Know more" href="/blog/make-your-school-eco-friendly/">
-                            <div class="card" style="background: #F1FFF7;;border-radius: 20px;">
-                                <img class="card-img-top" src="/images/blog/image-162.png" alt="image-162" />
-                                <div class="card-body">
-                                    <h2 maxlength="50" class="card-title titleclear chgh2">Make your School Eco-Friendly!</h2>
-                                    <p class="card-text">March 24 2021</p>
-                                    <p class="card-text mb-3 descriptionclear">To make the school Eco-friendly, green living should be a part of school by considering the environment in everything you do. </p>
-                                    <a class="blog-btn-arrow " aria-label="Know more" href="/blog/make-your-school-eco-friendly/" style="color: #ED5C18;">Know more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="card-deck">
-                        <a aria-label="Know more" href="/blog/3-eco-friendly-cost-saving-tips-for-your-office/">
-                            <div class="card" style="background: #F1FFF7;;border-radius: 20px;">
-                                <img class="card-img-top" src="/images/blog/image-196.png" alt="blog1" />
-                                <div class="card-body">
-                                    <h2 maxlength="50" class="card-title titleclear chgh2">3 Eco-friendly Cost Saving Tips for your Office!</h2>
-                                    <p class="card-text">15 January 2021</p>
-                                    <p maxlength="100" class="card-text mb-3 descriptionclear">Organizations are always searching for ways to minimize the unnecessary expenses. With saving the costs when they also improve the company’s brand image and streamline operations then this thing would be great.</p>
-                                    <a class="blog-btn-arrow " aria-label="Know more" href="/blog/3-eco-friendly-cost-saving-tips-for-your-office/" style="color: #ED5C18;">Know more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="card-deck">
-                        <a aria-label="Know more" href="/blog/tips-to-celebrate-the-eco-friendly-christmas/">
-                            <div class="card" style="background: #F1FFF7;;border-radius: 20px;">
-                                <img class="card-img-top" src="/images/blog/celebrate.jpg" alt="celebrate" />
-                                <div class="card-body">
-                                    <h2 maxlength="50" class="card-title titleclear chgh2">Tips to Celebrate the Eco-friendly Christmas!</h2>
-                                    <p class="card-text">24 December 2020</p>
-                                    <p maxlength="100" class="card-text mb-3 descriptionclear">This year Christmas might look a little different. But it’s still possible to have a wonderful festive season. Due to the Covid-19, we have faced many problems. </p>
-                                    <a class="blog-btn-arrow " aria-label="Know more" href="/blog/tips-to-celebrate-the-eco-friendly-christmas/" style="color: #ED5C18;">Know more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- -------------------------------------- -->
-    <div id="bvms2">
-        <div class="container">
-            <!-- <p class="text-center"><span class="Digitize"> Features </span></p> -->
-            <h4 class="text-center bvms-size">Most Valuable Features of a Visitor <br>Management System!
-            </h4>
-            <p class="vizitor-pass-p ">Make your check-in process easier with smart and automated features.</p>
-            <div class="row mt-5">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/qrcode-f.svg" alt="qrcode-f" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Contact less check-in</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Vizitor provides the facility of contactless check-in by providing your Visitors a QR code that can help them check-in without any hassle.</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/pen-underline-fill.svg" alt="pen-underline-fill" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Digital Document Signing- NDA’s</h5>
-                        <p class="vizitor-pass-h5-p display-flex">If a legal document is required to enter premises, no visitor will be able to sign in without providing their signature.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row visitorpass-row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/envelope-fill.svg" alt="envelope-fill" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Pre-registration</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Sending pre-invites to the guest will allow them to avoid contact at the reception. The visitor can simply scan their invite code and check-in Send automatic SMS/ Email invitations to your guests.</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/exclamation.svg" alt="exclamation" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Alerts</h5>
-                        <p class="vizitor-pass-h5-p display-flex">The Touchless check-in system sends notifications to the worker when any visitor comes up to satisfy them and alerts them by sending the small print of the guest to form them aware and take necessary precautionary steps.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row visitorpass-row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/identification.svg" alt="identification" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Badge printing</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Get your personalized badges are printed instantly for more security and identification within office premises.</p>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/clipboard-list.svg" alt="clipboard-list" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Visitor Insights and Detailed Reports</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Capturing visitors’ data with the help of best visitor management software takes place without human intervention anymore</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row visitorpass-row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/Notifications-f.svg" alt="Notifications-f" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Host Notification</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Once the visitor checks-in, the host is notified of the arrival. It also notifies your employees on their visitor's arrival.</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/translate.svg" alt="translate" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Multi-lingual</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Best visitor management app is a Multi-lingual software so the visitors can translate the software into different languages based on their choices</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row visitorpass-row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/r.svg" alt="r" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Approve/Disapprove visitors</h5>
-                        <p class="vizitor-pass-h5-p display-flex">The employees acting as the host can approve and disapprove of the visitors coming to the organization.</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="icon-btn">
-                        <img src="/images/vizitor/bvm/pencil-alt.svg" alt="pencil-alt" />
-                    </div>
-                    <div>
-                        <h5 class="vizitor-pass-h5 display-flex">Customized Form</h5>
-                        <p class="vizitor-pass-h5-p display-flex">Create your own custom fields and questions for your visitors checking-in. The information that you wish to take from your visitors can be customized entirely.</p>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!-- ------------------------------------------------ -->
-    <!-- <div class="Visitor-Management-System ">
-        <div class="container">
-            <div class="center-content ">
-                <h4 class="color-wht mb-5 chgh4">What's up coming in the next decades?</h4>
-                <p class="What-Visitor mb-5" style="font-size: 25px;">For global organizations, the security of their workplace, data, and visitors is an issue that is increasing rapidly. As we live during a time of emerging security threats that force us to go beyond the basics logbooks to digital visitor
-                    management applications. There are indeed many reasons why an organization needs to integrate security into their everyday operations for more advanced protection.
-                </p>
-            </div>
-
-        </div>
-    </div> -->
-    <!-- ----------------------------------------- -->
-    <!-- <div id="bvms2">
-        <div class="container ">
-            <div class="text-center">
-                <h3 class="bvms-size"> Protect Your Employees with <br><span class="Digitize"> Vizitor's Security Protocols</span></h3>
-                <p>Vizitor provides a range of benefits to businesses, including enhanced security protocols to protect your employees. <br>Here are some of the ways Vizitor can help safeguard your workplace.</p>
-            </div>
-            <div class="row card-deck mt-5">
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Digital Registration</p>
-                        <p class="card-text">All visitors register digitally for increased security</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Mobile Check-in</p>
-                        <p class="card-text">Guests check-in via their mobile devices for contactless entry.</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Host Notifications</p>
-                        <p class="card-text">Hosts are notified of guest arrivals for efficient greeting</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Check-Out</p>
-                        <p class="card-text">Guests must check-out to ensure accurate visitor traffic records.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row card-deck mt-5">
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Analytics Reports</p>
-                        <p class="card-text">Visitor trend reports help identify potential security risks.</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Approve/Disapprove Visitors</p>
-                        <p class="card-text">Hosts can approve and disapprove visitors before arrival.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Invite Feature</p>
-                        <p class="card-text">Digital invitations ensure timely and prepared guest arrivals.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12 card">
-                    <div class="card-body">
-                        <p class="digital-visitor display-flex" style="color: #ED5C18;">
-                            Touchless Attendance</p>
-                        <p class="card-text">QR-based attendance minimizes virus transmission.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center bannerbtn mt-4">
-                <a target="_blank" href="/blog/signing-in-has-never-been-easier-the-benefits-of-visitor-sign-in-system" class="btn-arrow">Know more</a>
-            </div>
-        </div>
-    </div> -->
-    <!-- ----------------------------------------- -->
-    <!-- <div id="bvms">
-        <div class="container ">
+        <div class="col-md-6 col-sm-6 col-xs-12 ">
+            <img class="center-content" src="/images/vizitor/bvm/veolia.svg" alt="digital-visitor-managemen" />
             <div class="center-content">
-                <h2>Stay Ahead of Compliance Regulations with vizitor's Advanced Security Capabilities</h2>
-                <p>Vizitor is a comprehensive solution for meeting complex compliance needs related to visitor management. It enables companies to maintain meticulous visitor logs, which is a requirement for many major regulations.</p>
-            </div>
-            <div class="row align-items-center mt-5">
-                <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
-                    <h3 class="bvms-size">Secure Visitor Access Control</h3>
-                    <p>Maintaining secure visitor access control is essential to protect your organization from potential security breaches. </p>
-                    <ul>
-                        <li><span><b>Verify Every Visitor's Identity:</b>
-                            <br>With digital registration and instant identity verification, you can be sure that every visitor's ID matches their photo, reducing the risk of security breaches.</span></li>
-                        <li><span><b>Deny Access for Unwanted Visitors:</b>
-                            <br>Use Vizitor's appointment-only policy to ensure that only authorized visitors are allowed access to your facilities, helping to keep your building safe and secure.</span></li>
-                    </ul>
-                    <div class="bannerbtn Try-free mb-3 bvmsbtn-learn">
-                        <a href="/blog/workplace-security-and-access-control-with-vizitor/" class="btn-arrow">Know more</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                    <img src="/images/vizitor/restaurant/security.png" alt="security" />
-
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- ----------------------------------------- -->
-    <!-- <div id="bvms2">
-        <div class="container ">
-            <div class="row align-items-center">
-                <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                    <img src="/images/vizitor/nda/NDA-BANNER.png" alt="NDA-BANNER" />
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
-                    <h3 class="bvms-size">Compliance with Data Privacy Regulations</h3>
-                    <p>Ensuring adherence to global privacy regulations, such as GDPR, to protect the privacy of individuals' data.</p>
-                    <ul>
-                        <li><span><b>Confirm consent to data collection:</b>
-                            <br>Vizitor ensures compliance with regulations like GDPR by obtaining explicit consent from visitors before collecting their personal information. This helps protect their privacy and ensures that their data is used only for
-                            the intended purpose.</span></li>
-                        <li><span><b>Delete data upon request:</b>
-                            <br>Under GDPR, individuals have the right to request that their data be deleted. Vizitor makes it easy for companies to comply with these requests by allowing them to instantly delete visitor data or anonymize it upon request.
-                        </span></li>
-                    </ul>
-                    <div class="bannerbtn Try-free mb-3 bvmsbtn-learn">
-                        <a href="/blog/compliance-and-data-privacy-the-role-of-visitor-management-in-meeting-regulations/" class="btn-arrow">Know more</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- ----------------------------------------- -->
-    <!-- <div id="bvms">
-        <div class="container ">
-            <div class="row align-items-center">
-                <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
-
-                    <h3 class="bvms-size">Effortlessly Collect Signatures with Vizitor</h3>
-                    <p>Vizitor makes it easy to collect required signatures from visitors during the sign-in process, saving time and ensuring compliance.</p>
-                    <ul>
-                        <li><span><b>Paperless Signing:</b>
-                            <br>Vizitor offers paperless document signing with just a fingertip on the iPad, allowing guests to sign legal documents, site policies and more quickly and easily.</span></li>
-                        <li><span><b>Efficient Storage and Retrieval:</b>
-                            <br>Vizitor stores every signed document and allows easy integration with preferred file sharing platforms, ensuring that important documents are always accessible and securely stored.</span></li>
-                        <li><span><b>Customizable for Compliance Needs:</b> <br>With Vizitor's flexibility, you can customize documents to meet any compliance needs, making it simple to collect signatures for a range of policies and regulations.</span></li>
-                    </ul>
-
-                    <div class="bannerbtn Try-free mb-3 bvmsbtn-learn">
-                        <a href="/visitor-management-nda" class="btn-arrow">Know more</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 center-content">
-                    <img src="/images/vizitor/nda/NDA-screen.png" alt="NDA-screen" />
-
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- ----------------------------- -->
-    <div class="Visitor-Management-System ">
-        <div class="container ">
-
-            <div class="center-content pb-5">
-                <h2 class="color-wht mb-5"> Amazing Stats </h2>
-                <p class="color-wht">Key Statistics and insights of vizitor</p>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-4 col-sm-4 col-xs-12 vms-line">
-                    <p class="vms-p mb-5">84</p>
-                    <p class="What-Visitor center-content">Number of companies using Vizitor globally</p>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12 vms-line">
-                    <p class="vms-p mb-5">213,785</p>
-                    <p class="What-Visitor center-content">Total visitors who have checked in with Vizitor
-                    </p>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12 ">
-                    <p class="vms-p mb-5">12</p>
-                    <p class="What-Visitor center-content"> Number of countries where Vizitor is currently active</p>
+                <div class="my-5">
+                    <form id="BVMdigitalVMSwork">
+                        <input type="email" class="email-input" id="emaildigital" name="emaildigital"
+                            placeholder="Enter your email" required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
                 </div>
             </div>
 
         </div>
     </div>
-
-
-    <div class="casestudies">
-        <div class="container">
-            <div class="row mt-5 align-items-center">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <img class="mb-5" src="/images/vizitor/bvm/snap.svg" alt="snap">
+</div>
+<!-- -------------------------------------- -->
+<div id="Vizitor-PASS">
+    <div class="container">
+        <div class="saypb">
+            <!-- <p class="text-center"><span class="vizitors-pass "> Vizitor Pass app</span></p> -->
+            <h4 class="vizitor-pass-h2 bvms-size">Say Hello To <span class="vizitors-pass">Vizitor PASS</span> </h4>
+            <p class="vizitor-pass-p ">A powerful visitor management mobile app for employees and visitors to sync in at
+                all times.
+            </p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/Quick-Check-In.svg" alt="Quick-Check-In" />
+                    <h5 class="vizitor-pass-h5 mt-3">Quick Check-In</h5>
+                    <p class="vizitor-pass-h5-p">A unique digital ID in the Vizitor PASS app enables you to check-in
+                        faster. </p>
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <p><span class="Digitize">TESTIMONIALS</span></p>
-                    <h2 class="chgh5">Efficient and Secure: Vizitor's Digital Solution Enhances Visitor Management for Snapdeal</h2>
-                    <p>Vizitor has enabled Snapdeal to create a safer and more efficient workplace, while improving the overall visitor experience
-                    </p>
-                    <p><b>Manish</b></p>
-                    <p><b>IT Manager, Snapdeal</b></p>
-                    <br>
-                    <!-- <a class="blog-btn-arrow " aria-label="Sign up for free" href="/signup" style="color: #ED5C18;">Sign up for free  <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon"></a> -->
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/qrcode.svg" alt="qrcode" />
+                    <h5 class="vizitor-pass-h5 mt-3">Real-time Access Control</h5>
+                    <p class="vizitor-pass-h5-p">Vizitor PASS makes it simple to check your visitor's history and track
+                        all your visitor records. </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/Notifications.svg" alt="Notifications" />
+                    <h5 class="vizitor-pass-h5 mt-3">Send and Receive Invitees</h5>
+                    <p class="vizitor-pass-h5-p">Send and receive invites right from your phone, reducing the need for
+                        admin assistance. </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/invite-guest.svg" alt="Notifications" />
+                    <h5 class="vizitor-pass-h5 mt-3">Instant Push Notifications</h5>
+                    <p class="vizitor-pass-h5-p">Vizitor notifies hosts of visitor arrivals through email, SMS, and
+                        mobile app notifications. </p>
+                </div>
+            </div>
+        </div>
+        <div class="my-5 text-center">
+            <form id="VizitorPass">
+                <input type="email" class="email-input" style="border: 2px solid #00A850;" id="emailVizitorPass"
+                    name="emailVizitorPass" placeholder="Enter you email..." required>
+                <input class="btn-try-free" style="background: #00A850;" type="submit" value="Try for free">
+            </form>
+        </div>
+        <div class="mt-4 Try-free mb-4 text-center">
+            {{range .Site.Params.appsbtn}}
+            <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn" src="{{.image  | absURL}}"
+                    alt="{{.title}}"></a>
+            {{end}}
+        </div>
+    </div>
+</div>
+<!-- ------------------------------------------------ -->
+<div id="Download-Vizitor-Pass">
+    <div class="container -fluid ">
+        <div class="center-content pb-5">
+            <!-- <p><span class="color-wht"> Vizior App</span></p> -->
+            <h4 class="color-wht bvms-size">Download the Vizitor Pass Mobile <br> App For Android!</h4>
+        </div>
+        <div class="row ">
+            <div class="col-md-1 col-sm-1 col-xs-12"></div>
+            <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
+                <p class="step center-content">STEP</p>
+                <div>
+                    <div class="clients-h2 center-content">
+                        <img src="/images/vizitor/bvm/d1.svg" alt="d1" />
+                    </div>
+                </div>
+                <p class="step-p center-content mt-3">Scan the QR code</p>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
+                <p class="step center-content">STEP</p>
+                <div>
+                    <div class="clients-h2 center-content">
+                        <img src="/images/vizitor/bvm/step2.svg" alt="d2" />
+                    </div>
+                </div>
+                <p class="step-p center-content mt-3"> Select the open browser.
+                </p>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
+                <p class="step center-content">STEP</p>
+                <div>
+                    <div class="clients-h2 center-content">
+                        <img src="/images/vizitor/bvm/d3.svg" alt="d3" />
+                    </div>
+                </div>
+                <p class="step-p center-content mt-3">Tap on the Vizitor Pass App in the Play Store.</p>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
+                <p class="step center-content">STEP</p>
+                <div>
+                    <div class="clients-h2 center-content">
+                        <img src="/images/vizitor/bvm/d4.svg" alt="d4" />
+                    </div>
+                </div>
+                <p class="step-p center-content mt-3"> Tap on the Install button.
+                </p>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-12 step-pd">
+                <p class="step center-content">STEP</p>
+                <div>
+                    <div class="center-content">
+                        <img src="/images/vizitor/bvm/d5.svg" alt="d5" />
+                    </div>
+                </div>
+                <p class="step-p center-content mt-3">Now, just click on the install.</p>
+            </div>
+            <div class="col-md-1 col-sm-1 col-xs-12"></div>
+        </div>
+    </div>
+    <div class="center-content mt-5">
+        <img src="/images/vizitor/bvm/Scan-QR-code.svg" alt="Scan-QR-code" />
+        <p class="step-p center-content mt-4">Wait for the app to download and install.</p>
+    </div>
+</div>
+<!-- --------------------------------------------- -->
+<div id="Survey-Analysis">
+    <div class="container">
+        <div class="center-content pb-5">
+            <!-- <p><span class="Digitize"> Survey Analysis</span></p> -->
+            <h4 class="bvms-size">Visitor Management System <br><span class="Digitize">2023 Survey Analysis</span>
+            </h4>
+            <p>A 2017 VMS research surveyed key stakeholders to identify trends and evaluate<br> the impact of
+                technology on visitor management.
+            </p>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
+                <p class="Survey-Analysis-p mb-5">82%</p>
+                <p class="center-content">Increase in Operational Efficiency</p>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
+                <p class="Survey-Analysis-p mb-5">82%</p>
+                <p class="center-content">Safer Working Environment
+                </p>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
+                <p class="Survey-Analysis-p mb-5">84%</p>
+                <p class="center-content">More Valuable Data Insights</p>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 Survey-Analysis-line">
+                <p class="Survey-Analysis-p mb-5">53%</p>
+                <p class="center-content">Impressed with VMS Greeting</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- -------------------------------------- -->
+<div id="bvms2">
+    <div class="container">
+        <!-- <p class="text-center"><span class="Digitize"> Features </span></p> -->
+        <h4 class="text-center bvms-size">Most Valuable Features of a Visitor <br>Management System!
+        </h4>
+        <p class="vizitor-pass-p">Make your check-in process easier with smart and automated features.</p>
+        <div class="row ">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/contact-check.svg" alt="qrcode-f" />
+                    <h5 class="vizitor-pass-h5 mt-3">Contact less check-in</h5>
+                    <p class="para_heading">Vizitor provides the facility of contactless check-in
+                        by providing your Visitors a QR code that can help them check-in without any hassle.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/digital-img.svg" alt="pen-underline-fill" />
+                    <h5 class="vizitor-pass-h5 mt-3">Digital Document Signing- NDA’s</h5>
+                    <p class="para_heading">If a legal document is required to enter premises, no
+                        visitor will be able to sign in without providing their signature.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/pre-img.svg" alt="envelope-fill" />
+                    <h5 class="vizitor-pass-h5 mt-3">Pre-registration</h5>
+                    <p sclass="para_heading"> VMS allows organizations to send digital
+                        invitations to visitors in advance of their arrival, so visitors can pre-register and be
+                        screened.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row visitorpass-row">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/analytics-icon.svg" alt="exclamation" />
+                    <h5 class="vizitor-pass-h5 mt-3">Analytics and reporting</h5>
+                    <p class="para_heading">It provides insights into visitor volume, visit times, and purposes. It
+                        allows users to export data easily.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/identification.svg" alt="identification" />
+                    <h5 class="vizitor-pass-h5 mt-3">Badge printing</h5>
+                    <p class="para_heading">Get your personalized badges are printed instantly for
+                        more security and identification within office premises.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/host-img.svg" alt="exclamation" />
+                    <h5 class="vizitor-pass-h5 mt-3">Host Notification </h5>
+                    <p class="para_heading">VMS automatically sends notification to host employee when visitor checks
+                        in. Improves visitor experience and streamlines check-in process.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row visitorpass-row">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/print-icon.svg" alt="identification" />
+                    <h5 class="vizitor-pass-h5 mt-3">Visitor photos</h5>
+                    <p class="para_heading">
+                        Have visitors take a photo so their host can recognize them and greet them warmly and
+                        confidently.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/approve icon-img.png" alt="clipboard-list" />
+                    <h5 class="vizitor-pass-h5 mt-3">Approve/Disapprove visitors</h5>
+                    <p class="para_heading">The employees acting as the host can approve and disapprove of the
+                        visitors coming to the organization.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/customized-form.svg" alt="clipboard-list" />
+                    <h5 class="vizitor-pass-h5 mt-3">Customized Form</h5>
+                    <p class="para_heading">Create your own custom fields.It allows users to customize the information
+                        they collect from visitors during check-in. </p>
                 </div>
             </div>
         </div>
     </div>
-    <!-- ----------------------------------------- -->
-
-    <!-- ----------------------------------------- -->
-    <div id="bvms2">
-        <div class="container ">
-            <div class="text-center">
-                <!-- <p><span class="Digitize"> Importance </span></p> -->
-                <h3 class="bvms-size"> Why Choose <span class="Digitize"> Vizitor?</span></h3>
-                <p></p>
-            </div>
-            <div class="row card-deck mt-5 text-center">
-                <div class="col-md-4 col-sm-4 col-xs-12 card">
-                    <div class="card-body">
-                        <img class="bvm-icon-vizitor" src="/images/vizitor/bvm/Zero-Hardware.svg" alt="Zero-Hardware" />
-                        <p class="digital-visitor " style="color: #ED5C18;">
-                            Zero Hardware</p>
-                        <p class="card-text">Zero Hardware setup helps in quick adoption</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12 card">
-                    <div class="card-body">
-                        <img class="bvm-icon-vizitor" style="background: #d1e7e2; border-radius: 20px; padding: 10px;" src="/images/vizitor/bvm/Low-Cost.svg" alt="Low-Cost" />
-                        <p class="digital-visitor " style="color: #ED5C18;">
-                            Low Cost</p>
-                        <p class="card-text">Competitive pricing that fits in your budget</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12 card">
-                    <div class="card-body">
-                        <img class="bvm-icon-vizitor" src="/images/vizitor/bvm/Super-APP.svg" alt="Super-APP" />
-                        <p class="digital-visitor " style="color: #ED5C18;">
-                            Super APP</p>
-                        <p class="card-text">Multi-Platform support iOS, Android & Web</p>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row card-deck mt-5 text-center">
-                <div class="col-md-4 col-sm-4 col-xs-12 card">
-                    <div class="card-body">
-                        <img class="bvm-icon-vizitor" style="background: #d1e7e2; border-radius: 20px; padding: 10px;" src="/images/vizitor/bvm/easy.svg" alt="easy" />
-                        <p class="digital-visitor " style="color: #ED5C18;">
-                            Easy to Use</p>
-                        <p class="card-text">Easy to use and takes 5-min to setup (zero staff-training required)
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12 card">
-                    <div class="card-body">
-                        <img class="bvm-icon-vizitor" src="/images/vizitor/bvm/Occupancy-Tracking.svg" alt="Occupancy-Tracking" />
-                        <p class="digital-visitor " style="color: #ED5C18;">
-                            Occupancy Tracking</p>
-                        <p class="card-text">Visitor Analytics like real-time occupancy tracking etc, will improve visitor experience and enhance security</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12 card">
-                    <div class="card-body">
-                        <img class="bvm-icon-vizitor" style="background: #d1e7e2; border-radius: 20px; padding: 10px;" src="/images/vizitor/bvm/multiling.svg" alt="multiling" />
-                        <p class="digital-visitor " style="color: #ED5C18;">
-                            Multi-language</p>
-                        <p class="card-text">multi-language support that makes your visitor check-in experience flexible.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center bannerbtn mt-4">
-                <a target="_blank" href="/signup" class="btn-arrow"> Know more</a>
-            </div>
+</div>
+<!-- ------------------------------------------------ -->
+<div class="Visitor-Management-System ">
+    <div class="container ">
+        <div class="center-content pb-5">
+            <h2 class="color-wht mb-5">What's up Coming in the Next Decades?</h2>
+            <p class="color-wht" style="line-height: 30px;">For global organizations, the security of their workplace,
+                data, and visitors is an
+                issue that is increasing rapidly. As we live during a time of emerging security threats that force
+                us to go beyond the basics logbooks to digital visitor management applications. There are indeed
+                many reasons why an organization needs to integrate security into their everyday operations for more
+                advanced protection.
+            </p>
+        </div>
+        <div class=" text-center mt-3 mb-2">
+            <a href="/signup" class="btn-arrow bvms-white-btn">Try For Free</a>
         </div>
     </div>
-    <!-- ---------------------------------------------------- -->
-    <div id="Eco-friendly-Blogs">
-        <div class="container ">
-            <div class="center-content pb-5">
-                <h2> Blogs</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="card-deck">
-                        <a aria-label="Know more" href="/blog/ultimate-guide-to-visitor-management-system-2023/">
-                            <div class="card" style="background: #FCFCFC;border-radius: 20px;">
-                                <img class="card-img-top" src="/images/blog/17mar23.svg" alt="17mar23" />
-                                <div class="card-body">
-                                    <h2 maxlength="50" class="card-title titleclear chgh2">Ultimate guide to Visitor Management System 2023</h2>
-                                    <p class="card-text">17 March 2023</p>
-                                    <p maxlength="100" class="card-text mb-3 descriptionclear">The 2020 global pandemic has had a wide ranging adverse impact on corporate businesses. Still the post pandemic situation has raised a bar for visitor management in corporate premises in 2023.</p>
-                                    <a class="blog-btn-arrow " aria-label="Know more" href="/blog/ultimate-guide-to-visitor-management-system-2023/" style="color: #ED5C18;">Know more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="card-deck">
-                        <a aria-label="Know more" href="/blog/qr-based-visitor-management-system-for-footfall-prediction-in-tourism">
-                            <div class="card" style="background: #FCFCFC;border-radius: 20px;">
-                                <img class="card-img-top" src="/images/blog/tourism_industry.svg" alt="tourism_industry" />
-                                <div class="card-body">
-                                    <h2 maxlength="50" class="card-title titleclear chgh2">QR based Visitor Management System software for Footfall prediction in Tourism</h2>
-                                    <p class="card-text">15 March 2023</p>
-                                    <p maxlength="100" class="card-text mb-3 descriptionclear">Nobody can deny the fact that Modern technology has given rise to digitization and transformation. The transformative impact of Artificial Intelligence on our society and businesses is far-reaching and is continuously
-                                        progressing in diverse areas in the modern world.</p>
-                                    <a class="blog-btn-arrow " aria-label="Know more" href="/blog/qr-based-visitor-management-system-for-footfall-prediction-in-tourism" style="color: #ED5C18;">Know more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="card-deck">
-                        <a aria-label="Know more" href="/blog/how-can-a-visitor-management-system-improve-security/">
-                            <div class="card" style="background: #FCFCFC;border-radius: 20px;">
-                                <img class="card-img-top" src="/images/blog/management.svg" alt="management" />
-                                <div class="card-body">
-                                    <h2 maxlength="50" class="card-title titleclear chgh2">How Can a Visitors Management System Improve Security?</h2>
-                                    <p class="card-text">28 February 2023</p>
-                                    <p maxlength="100" class="card-text mb-3 descriptionclear">A visitor management system, such as the one provided by vizitor, ensures that every visitor is counted. Every visitor is either invited by the company or accompanied by an employee, or is properly verified at the entrance
-                                        with appropriate identification documents.</p>
-                                    <a class="blog-btn-arrow " aria-label="Know more" href="/blog/how-can-a-visitor-management-system-improve-security/" style="color: #ED5C18;">Know more  <img src="/images/vizitor/Icon.svg" alt="Icon"></a>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-
-            </div>
-            <div class="text-center mt-4">
-                <a href="/blog" class="btn-arrow">All Blogs</a>
-            </div>
-        </div>
-    </div>
-    <!-- ----------------------------------------------------------- -->
-    <div class="mb-5">{{- partial "Industries.html" . -}}</div>
-    <div id="bvms2">
-        <div class="container">
-            <div class="text-center">
-                <p><span class="Digitize"> FAQ </span></p>
-                <h3 class="bvms-size"> Do you still have inquiries regarding
-                    <br> <span class="Digitize"> visitor management systems?</span></h3>
-                <p></p>
-            </div>
-            <div class="row ">
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>What is visitor management software?</h3>
-                    <p> Best Visitor management software is an application designed to assist in the digital management of visitors for various types of establishments, including businesses, offices, schools, and co-working spaces. It ensures that all visitor
-                        data entered into the system is securely stored and can be accessed from anywhere at any time.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Does Workplace include visitor management?</h3>
-                    <p>Vizitor Workplace does not include built-in visitor management features. However, you can opt for the Vizitor Visitors Basic plan, which provides basic visitor check-in functionality at no cost. Alternatively, Vizitor offers other
-                        Visitors plans that cater to different workplace visitor requirements, allowing you to select the package that best suits your needs.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Can I create unique sign-in flows for different visitor types?</h3>
-                    <p>A top-tier visitor management solutions allows for customization. As each visitor type, such as candidates, business partners, or vendors, may require a different welcome approach, you can create tailored sign-in flows for each type
-                        using your best visitors management system. This can be standardized globally or customized for individual locations to ensure a smooth end-to-end experience for every visitor entering your workplace.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>How do top visitor management systems enhance the visitor experience?</h3>
-                    <p>Implementing a visitor management system software conveys a modern and technologically advanced image to guests, demonstrating that your company values their time, health, and safety. It creates a positive first impression and a warm
-                        welcome for every visitor. With a digital visitor management system, guests no longer have to wait, and their hosts can confidently greet them upon arrival.</p>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Which companies utilize visitor management systems?</h3>
-                    <p>Visitor management systems are used by companies of various sizes and across different industries. Whether it's a small office with occasional visitors or a global enterprise with a high volume of visitors, companies from manufacturing
-                        facilities with strict regulations to tech companies prioritizing guest experience can benefit from a visitor management system for office. These systems are adaptable and scalable to meet the specific needs of each business.</p>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>How can a visitor management system modernize our operations?</h3>
-                    <p>By implementing a digital visitor management system, your operations will transition from traditional and manual methods to a sleek, modern, and automated process. It automates tedious tasks typically performed by the front desk or
-                        security team during the visitor management process. Additionally, it streamlines paperwork by digitizing it into a single, easy sign-in flow. With a visitor management system, you eliminate the need for document scrambling and
-                        ensure visitors sign in upon arrival, resulting in a more efficient and streamlined visitor experience.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Will a visitor management system enhance our physical security?</h3>
-                    <p>Implementing a visitor management system can improve the overall physical security of your building. By requiring visitors to sign in, scan their ID, undergo screening against blocklists, and notifying relevant personnel of entry and
-                        exit, you enhance your security measures. Additionally, guest management software like Vizitor integrate with third-party watch lists, emergency alert software, and access control systems, giving you control over who is allowed
-                        onsite.
-                    </p>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Is a visitor management system customizable?</h3>
-                    <p>Vizitor's visitor management system offers flexibility and customization options. You can incorporate your company branding into the sign-in flow, tailor registration questions to gather specific information, and create distinct sign-in
-                        flows for different visitor types or locations. You can also leverage pre-built or customized integrations to seamlessly integrate Vizitor into your existing digital visitor management system workflows.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Can a visitor management system replace a sign-in app or pen and paper logbooks?</h3>
-                    <p>Unlike sign-in apps or manual logbooks, a visitor management system software offers a comprehensive digital solution. It covers all aspects of welcoming visitors, including inviting and screening them, granting building access, checking
-                        them in, notifying hosts, logging visit details, and more.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
-                    <h3>Why should my company utilize a visitor management system?</h3>
-                    <p>The best visitor management system enhances safety and security, streamlines front desk operations, and automates tasks related to greeting guests. It improves the visitor sign-in process, resulting in an enhanced overall visitor experience.</p>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-
-    <!-- ----------------------------------------- -->
+</div>
+<div id="bvms2">
+    {{- partial "faqbvms.html" . -}}
 </div>
 
 {{end}}

@@ -6,6 +6,13 @@ description: "Are you searching for the facility management system? Just try viz
 image: /images/blog/facility.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
+keywords:
+- facility management software features,
+- facilities management software features,
+- facility management features,
+- facilities management tools features,
+- facilities management features,
+
 ---
 
 The facility is the heart of every business. Every business wants to take care of their facility, right? So there is one way to take care of the facility that is the **Facility Management System**.
