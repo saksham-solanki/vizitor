@@ -1,0 +1,118 @@
+{{ define "main" }}
+<!--------------------->
+<div class=" VisitorManagement-System-in-India">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 pr-5 ">
+                <h1 class="paint "> <span class="Digitize">Equipment Booking </span> Software </h1>
+                <p style="line-height: 30px;">Use equipment booking software and make sure the right equipment is in the
+                    right hands at the right time.
+                </p>
+                <div class="mt-5">
+                    <form id="attendanceForm">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                    <div class="mt-5 Try-free">
+                        {{range .Site.Params.apps}}
+                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                                src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center mt-5">
+                <img src="/images/vizitor/attendance/attendance-baner.svg" alt="attendance-banneres" />
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------->
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">Eliminate confusion, Be transparent
+                </h3>
+                <p>Manage equipment without breaking a Sweat
+                </p>
+                <ul>
+                    <li><span> Need help with who has, when, and what equipment with them? The perfect solution is to
+                            incorporate a digital booking system.</span>
+                    </li>
+                    <li><span>Get an updated dashboard stating the equipment status and usage. Avoid hefty handwritten
+                            records, double bookings, and unnecessary conflicts.
+                        </span></li>
+                    <li><span>Employees can book equipment in advance with easy to use Vizitor smart pocket app.
+                        </span></li>
+                </ul>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------>
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">Be smart and reasonable with the digital booking system
+                </h3>
+                <ul>
+                    <li><span> With the booking system, be reasonable and upgrade your employees' work efficiency with
+                            the right equipment.
+                        </span></li>
+                    <li><span>With calculative decisions for your organization, you will benefit long term.
+                        </span></li>
+                    <li><span>Create a flexible, fair, and convenient workplace for everyone with the availability of
+                            the right resources. </span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!----------------------->
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">There's Always More With Vizitor </h3>
+                <p>Want to manage shared resources? We've got you covered!</p>
+                <ul>
+                    <li><span> Simplify employee bookings, reducing administrative workload with parking management
+                            software.</span> </li>
+                    <li><span>Efficiently reserve a range of workplace assets, from desks and vehicles to lockers and EV
+                            chargers.</span></li>
+                    <li><span>Gain comprehensive insights into workplace resource usage for effective future
+                            planning.</span></li>
+                </ul>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------------->
+<div id="bvms" style="background: #ED5C18; padding: 80px 0;">
+    <div class="container">
+        <div class="content ">
+            <div class="text-center">
+                <h2 class="color-wht mt-5 pb-3">Nearly 2000 workplaces are already making smarter decisions with
+                    Vizitor </h2>
+                <div class=" text-center mt-5">
+                    <a href="/signup" class="btn-arrow attendence-white-btn">Try For Free</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+{{end}}

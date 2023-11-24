@@ -1,0 +1,57 @@
+{{ define "main" }}
+<!--------------------->
+<div class=" VisitorManagement-System-in-India">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 pr-5 ">
+                <h1 class="paint "> <span class="Digitize"> Smart desk booking for </span> your workplace
+                </h1>
+                <p style="line-height: 30px;">Make it easy for your employees to find and book desks of their choice
+                </p>
+                <div class="mt-5">
+                    <form id="attendanceForm">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                    <div class="mt-5 Try-free">
+                        {{range .Site.Params.apps}}
+                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                                src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center mt-5">
+                <img src="/images/vizitor/attendance/attendance-baner.svg" alt="attendance-banneres" />
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------->
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">Save Time and find the right desk with Vizitor Pocket App
+                </h3>
+                <ul>Provide employees with time-saving smart tools to pre-plan their week and fulfill their requirements
+                    to work efficiently.
+                    Make regulations and limit parking access to specific individuals or departments </span>
+                    </li>
+                    <li><span>Use push notifications to acknowledge if admins have created or even changed the booking
+                            for various reasons. The booking software helps establish transparency among the employees
+                            and admins. </span></li>
+                    <li><span>The software helps employees view desk recommendations, which help them book their
+                            favorite once it's available or empty.
+                        </span></li>
+                </ul>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------------->
+{{end}}

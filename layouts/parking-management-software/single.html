@@ -1,0 +1,112 @@
+{{ define "main" }}
+<!--------------------->
+<div class=" VisitorManagement-System-in-India">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 pr-5 ">
+                <p span class="Digitize">Parking management software </p>
+                <h1 class="paint "> <span class="Digitize"> Save time with an easy car park </span> booking system
+                </h1>
+                <p style="line-height: 30px;">The fair and convenient way to book car parking spots at your organization.
+                </p>
+                <div class="mt-5">
+                    <form id="attendanceForm">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                    <div class="mt-5 Try-free">
+                        {{range .Site.Params.apps}}
+                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                                src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center mt-5">
+                <img src="/images/vizitor/attendance/attendance-baner.svg" alt="attendance-banneres" />
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------->
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">Automation is the future </h3>
+                <p>Still, admin staff are occupied with parking spot issues? Automate your way out using parking
+                    management software and manage car parking smartly.</p>
+                <ul>
+                    <li><span> Make regulations and limit parking access to specific individuals or departments. </span>
+                    </li>
+                    <li><span>Send reminders for check-ins to prevent valuable parking spaces from being
+                            underutilized.</span></li>
+                    <li><span>Allocate various features liek wheelchair accessibility according to the employee's
+                            needs.</span></li>
+                </ul>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+        </div>
+    </div>
+</div>
+<!------------------>
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">Start your day stress-free </h3>
+                <ul>
+                    <li><span> Promote advance booking of parking spaces to prevent any inconvenience. </span></li>
+                    <li><span>Efficiently reserve a range of workplace assets, from parking spaces and equipment to
+                            lockers and EV chargers. </span></li>
+                    <li><span>Gain comprehensive insights into workplace resource usage for effective future planning.
+                        </span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!----------------------->
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center mt-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="bvmsli">
+                <h3 class="bvms-size">There's always more with Vizitor </h3>
+                <p>Want to manage shared resources? We've got you covered!</p>
+                <ul>
+                    <li><span> Simplify employee bookings, reducing administrative workload with parking management
+                            software.</span> </li>
+                    <li><span>Efficiently reserve a range of workplace assets, from desks and vehicles to lockers and EV
+                            chargers.</span></li>
+                    <li><span>Gain comprehensive insights into workplace resource usage for effective future
+                            planning.</span></li>
+                </ul>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <img src="/images/vizitor/bvm/agreement-img.svg" alt="TouchlessQR" />
+            </div>
+        </div>
+    </div>
+</div>
+<!--------------------------->
+<div id="bvms" style="background: #ED5C18; padding: 80px 0;">
+    <div class="container">
+        <div class="content ">
+            <div class="text-center">
+                <h2 class="color-wht mt-5 pb-3">Nearly 2000 workplaces are already making smarter decisions with
+                    Vizitor </h2>
+                <div class=" text-center mt-5">
+                    <a href="/signup" class="btn-arrow attendence-white-btn">Try For Free</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{end}}
