@@ -1,0 +1,10 @@
+items:  
+  - question: "How does parking management software work? "
+    answer: "Parking management software facilitates the efficient organization and monitoring of parking spaces. Users can check availability, make reservations, and receive real-time updates on parking status. Many parking management systems offer integration capabilities with access control systems, providing a seamless entry and exit management solution."
+  - question: "How does the software handle visitor parking?"
+    answer: " The software often includes features for managing visitor parking, allowing users to reserve spaces for guests, or providing temporary access as needed. Real-time tracking is a key feature of parking management software, providing instant visibility into available and occupied parking spaces. "
+  - question: "Is the system compatible with different types of parking facilities?"
+    answer: " Yes, the parking management system is designed to be versatile and can be adapted for various parking facilities, including surface lots, garages, and even smart parking solutions."
+  - question: "Can the software help with parking enforcement? "
+    answer: "Yes, parking management systems often include tools for enforcement, such as license plate recognition, permit verification, and violation tracking."
+       

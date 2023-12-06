@@ -18,7 +18,6 @@ keywords:
 
 ---
 
-## 6 Robust Strategies to Create a Smart Workplace experience for employeesm
 
 In this competitive era, digitalization has helped individuals to be fast and efficient. The race to become the best is never-ending. So, you must understand the norms of benefiting from digital technology. Incorporating digital media into your office lives can impact the employee's lives. The employee's primary concern is the imbalanced work environment. Workplaces generally lack the proper system to manage desks, workspace, meeting rooms, and vehicles. Such situations create unnecessary hustle and difficulty.
 

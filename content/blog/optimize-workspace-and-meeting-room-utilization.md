@@ -19,7 +19,6 @@ keywords:
 - Project management solutions, 
 --- 
 
-## How to optimize workspace and meeting room utilization: A detailed guide
 
 Do you know? An average of around 11 million meetings happen daily in the US alone. The number can extend to a billion if we count the world population. But the question is that this number is insanely huge, so how do we manage all these meetings? The in-office or remote meetings are all a hefty task. Conducting those meetings requires proper space at a fixed time and location. The location within the premises must be available. This led to the demand for meeting rooms. 
 

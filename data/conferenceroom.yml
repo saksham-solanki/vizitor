@@ -1,0 +1,10 @@
+items:  
+  - question: "What is the purpose of the conference scheduling system? "
+    answer: "The primary purpose of a conference scheduling system is to streamline and optimize the intricate process of planning, organizing, and managing conferences. This digital platform is a central hub for efficiently scheduling sessions, coordinating events, and working speakers. It facilitates attendee registration, providing organizers with a centralized database for participant information.  "
+  - question: "How do you manage conference room booking?"
+    answer: " Managing conference rooms requires a systematic approach to streamline scheduling, utilization, and user experience. Implementing a conference booking system enables users to check availability, reserve time slots, and reduce scheduling conflicts. Clear booking policies should be established, outlining rules for reservations and cancellations."
+  - question: "What are the 4Ps of conferences?"
+    answer: " The 4Ps of conferences serve as a framework for successful planning and execution. First, the Purpose of the conference must be clearly defined, whether it's networking and knowledge. The second P, Participants, emphasizes identifying and understanding the target audience. The Program is the third P, focusing on developing a well-structured and engaging agenda. This involves careful planning of sessions, speaker selection, and including interactive elements. The final P, Place, consists in choosing a suitable location that aligns with the conference's size, theme, and logistical requirements. "
+  - question: "How do you run a conference with a conference scheduling system? "
+    answer: "Running a conference with a scheduling system involves a strategic and organized approach. You must access and navigate to the booking management section. Check the availability of conference rooms, ensuring they align with the event's size and requirements. Reserve the chosen rooms, specifying details such as session names, speakers, and any necessary equipment. Utilize the system to send invitations and track participant responses."
+       

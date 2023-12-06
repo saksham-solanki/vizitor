@@ -1,0 +1,12 @@
+items:  
+  - question: "How does equipment booking software work?"
+    answer: "Equipment booking software allows users to reserve and manage the usage of organizational assets. Users log in, check equipment availability, make reservations, and receive confirmation details. It provides real-time visibility into equipment availability, allowing users to make informed decisions about resource allocation."
+  - question: "What types of equipment can be managed with this software?"
+    answer: " Depending on organizational needs, equipment booking software is versatile and can manage various assets, including tools, vehicles, meeting rooms, and specialized equipment.
+The system also helps prevent scheduling conflicts by showing real-time availability. If conflicts arise, users are notified and guided to choose alternative times or resources. "
+  - question: "Can I track equipment maintenance schedules?"
+    answer: " Many equipment booking systems include features for scheduling and tracking routine maintenance tasks to ensure equipment is well-maintained and reliable. "
+  - question: "Is there a limit to the number of reservations I can make?"
+    answer: "This depends on the specific software and organizational policies. Some systems may have limits to prevent abuse, while others offer flexibility based on user roles. "
+  - question: "Can the software integrate with other organizational systems?"
+    answer: "Many equipment booking systems offer integration capabilities, allowing seamless connections with other software such as inventory management, accounting, or project management tools. "

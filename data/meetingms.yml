@@ -1,0 +1,10 @@
+items:  
+  - question: "What is a meeting room management system? "
+    answer: "A meeting room management system is a digital solution designed to streamline and optimize the scheduling and utilization of meeting spaces within an organization. It typically includes real-time room booking, automated check-ins, and viewing room availability. "
+  - question: "How do you manage meeting rooms?"
+    answer: " The meeting room management software help you manage your meeting spaces. This enhances efficiency by preventing double bookings, minimizing conflicts, and providing valuable insights into room usage patterns through analytics and reporting functionalities."
+  - question: "What are the 3 types of meeting setups?"
+    answer: " There are three primary types of meeting setups, each tailored to serve specific purposes. The traditional setup is characterized by attendees facing a speaker or presenter, making it suitable for lectures and presentations. In contrast, the boardroom setup, with a central table and chairs, is designed for smaller groups to foster discussion and collaboration. "
+  - question: "How do I create a meeting room booking system? "
+    answer: "Managing a meeting room booking system involves several key steps. First, assess your organization's needs and identify the essential features required. Then, select a suitable platform that considers scalability and integration with existing systems. Test the system thoroughly to ensure functionality and address any issues. Regularly update the room booking system based on feedback and evolving requirements to maintain an efficient and user-friendly meeting room booking solution."
+       

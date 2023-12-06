@@ -21,7 +21,6 @@ keywords:
 
 --- 
 
-## 4 Staples of creating flexible workplaces that work
 
 Uncomfortable workplaces are the primary reason that employees leave their jobs. Around 22% of office employees quit their jobs due to a lack of flexible workplaces. So it's essential to convert uncomfortable places to comfortable ones. This would help retain employees and give them a better experience. But the question arises: How to achieve a flexible workplace? The simple answer to combat such a situation is to invest in a flexible **room booking system.** Such systems help in efficiently auditing the workplace.
 

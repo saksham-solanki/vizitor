@@ -2,6 +2,7 @@
 title: "Attendance management system| Vizitor"
 description : "Vizitor offers a real-time attendance portal that boosts productivity by providing insights into employee productivity and clocked-in hour."
 keywords:
+- visitors app,
 - Attendance management system, 
 - visitor management system for attendance, 
 - attendance Visitor management system, 
@@ -24,7 +25,12 @@ keywords:
 - covid-19, 
 - coronavirus, 
 - coronavirusoutbreak, 
-- attendance management system
+- attendance management system,
+- the receptionist login,
+- visitors security,
+- reception for ipad, 
+- reception apps
+
 draft: false
 type: "attendance-management-system"
 

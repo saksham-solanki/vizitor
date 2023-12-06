@@ -1,0 +1,12 @@
+items:  
+  - question: "How can I book a vehicle through the office booking system?"
+    answer: "To book a vehicle, log in to the system, check vehicle availability, select the desired vehicle and time slot, and confirm your reservation."
+  - question: "Can I make recurring bookings for regular office trips?"
+    answer: "Yes, some systems allow users to make recurring bookings, simplifying the process for routine trips.Depending on availability, you may be able to extend your reservation through the system. Check for this option in the platform."
+  - question: "How is vehicle availability ensured during peak hours?"
+    answer: "The system is designed to show real-time availability, helping you choose a vehicle based on its availability during peak hours. Many vehicle booking systems like Vizitor provide usage tracking features, allowing you to review the history, including mileage, previous reservations, and purposes of use."
+  - question: "What if the reserved vehicle is not returned on time?"
+    answer: "The system may have automated alerts and notifications for overdue vehicles. It's essential to return the vehicle promptly to avoid any disruptions. Most systems have a feature to report issues or request maintenance for a vehicle directly through the platform."
+  - question: "How are vehicle expenses managed within the system?"
+    answer: "Some systems integrate with expense management tools, allowing users to record and track vehicle-related expenses for better financial accountability."
+  

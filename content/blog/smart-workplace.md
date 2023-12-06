@@ -24,7 +24,6 @@ keywords:
 
 ---
 
-## 5 valuable Tips for a Smart Workplace and ways to implement them
 
 Though the global pandemic is finally over, consequences haven’t left the sight. With business owners changing, the traditional norms have become a mandatory thing. While keeping up with drastic changes, there is a demand for workplace advancement. This includes modernized software that would alter traditional manual methods to  **smart workplace solutions.**
 

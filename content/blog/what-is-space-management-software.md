@@ -22,7 +22,7 @@ keywords:
 
 --- 
 
-## What makes space management software crucial for employees?
+
 
 With today’s dynamic work environment, it may feel like you dont need a proper system for space management. But look, whom we are fooling, ourselves right! 
 

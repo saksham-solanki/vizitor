@@ -167,7 +167,7 @@ h1,
 h2 {
     font-weight: 600;
     font-size: 48px;
-    line-height: 56px
+    line-height: 56px;
 }
 
 h3,
@@ -3175,7 +3175,7 @@ background-color: #fef9f4;
 
 .Survey-Analysis-p {
     font-weight: 800;
-    font-size: 70px;
+    font-size: 68px;
     line-height: 18px;
     text-align: center;
     color: #5a74c7
@@ -4161,6 +4161,22 @@ button:active {
     margin-top:44px;
 } */
 
+.spacebtn {
+    display: inline-block;
+    background: #fff;
+    color: #ed5c18 !important;
+    font-size: 16px;
+    border-radius: 6px;
+    font-weight: 400;
+    margin: 0;
+    position: relative;
+    padding: 10px 20px;
+    border: 1px solid #ed5c18;
+}
+
+.secure-workspace{
+    color: #ed5c18 !important;
+}
 /* --------------------------------------------------------------------------------------------------------------
                                                  media css 
 -------------------------------------------------------------------------------------------------------------- */
