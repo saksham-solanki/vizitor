@@ -2735,7 +2735,8 @@ label {
     padding: 4px 0 0
 }
 
-.card-img-top {
+.card-img-
+{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     height: 240px
@@ -2960,57 +2961,59 @@ label {
     margin-top: 225px
 }
 
-#traditional h5{
+#traditional h5 {
     font-family: Sofia Pro;
-font-size: 18px;
-font-weight: 700;
-line-height: 18px;
-letter-spacing: 0em;
-text-align: left;
-color: #ED5C18;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ED5C18;
 
 }
 
-#traditional .card-body{
+#traditional .card-body {
     padding: 40px 40px 40px 40px;
-background-color: #fef9f4;
+    background-color: #fef9f4;
 }
 
-#traditional p{
+#traditional p {
     padding-left: 40px;
-    }
+}
 
-    #traditional span{
-        padding-right: 15px;
-        }
+#traditional span {
+    padding-right: 15px;
+}
 
-        #traditional2 h5{
-            font-family: Sofia Pro;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 18px;
-        letter-spacing: 0em;
-        text-align: left;
-        color: #33475B;
-        
-        }
-        
-        #traditional2 .card-body{
-        padding: 40px 40px 40px 40px;
-        background-color: #fef9f4;
-        }
-        
-        #traditional2 p{
-            padding-left: 40px;
-            }
-        
-            #traditional2 span{
-                padding-right: 15px;
-                }
-.bvmbest{
+#traditional2 h5 {
+    font-family: Sofia Pro;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #33475B;
+
+}
+
+#traditional2 .card-body {
+    padding: 40px 40px 40px 40px;
+    background-color: #fef9f4;
+}
+
+#traditional2 p {
+    padding-left: 40px;
+}
+
+#traditional2 span {
+    padding-right: 15px;
+}
+
+.bvmbest {
     padding-left: 40px;
 
 }
+
 #bvmsli span,
 .right-btn {
     margin-top: -5px
@@ -3427,9 +3430,9 @@ background-color: #fef9f4;
     height: 45px
 }
 
-.authors-img{
+.authors-img {
     height: 45px;
- 
+
 }
 
 .blogs-pages {
@@ -4174,9 +4177,17 @@ button:active {
     border: 1px solid #ed5c18;
 }
 
-.secure-workspace{
+.secure-workspace {
     color: #ed5c18 !important;
 }
+
+.btnp{
+    background-color: #fff;
+    color: #ed5c18;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 /* --------------------------------------------------------------------------------------------------------------
                                                  media css 
 -------------------------------------------------------------------------------------------------------------- */
@@ -4346,7 +4357,7 @@ button:active {
 }
 
 @media only screen and (min-width:969px) and (max-width:1024px) {
-    
+
     .bsnav-sticky-slide .navbar-nav .nav-link {
         padding: 5px 8px
     }
@@ -4527,15 +4538,15 @@ button:active {
         margin-top: 10px
     }
 
-    #traditional2 .card-body{
+    #traditional2 .card-body {
         padding: 40px 10px 40px 10px;
         background-color: #fef9f4;
-        }
+    }
 
-        #traditional .card-body{
-            padding: 40px 10px 40px 10px;
-            background-color: #fef9f4;
-            }
+    #traditional .card-body {
+        padding: 40px 10px 40px 10px;
+        background-color: #fef9f4;
+    }
 
     .whatsapp_float {
         position: fixed;
@@ -5256,6 +5267,7 @@ button:active {
     .footer-btn-try {
         background: #425568 !important
     }
+
 }
 
 /* .col-md-3 {
@@ -5288,6 +5300,47 @@ body .no-padding {
     padding-left: 0;
     padding-right: 0;
 }
+
+.top-winners {
+    color: #ED5C18 !important;
+    font-weight: 500 !important;
+    line-height: 33px;
+    font-size: 23px;
+}
+
+.new-year-colr {
+    background-color: #5A74C7;
+    border-radius: 0px 14px 10px 180px;
+}
+
+.amazing-cls {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ffff;
+}
+
+.form-h {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 52px;
+    color: #ffff;
+}
+
+.new-visitor-colr {
+    color: #ED5C18;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.h4-new {
+    color: #fff;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 52px;
+}
+
 
 
 /* .about_img {

@@ -1,0 +1,824 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,">
+    <meta name="description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    <meta name="keywords" content="{{range .Params.keywords}}{{.}}{{end}}"> {{ with .Site.Params.author }}
+    <meta name="author" content="Gaurav Saini">{{ end }} {{ hugo.Generator }}
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+    <meta property="og:site_name" content="Vizitor - Visitor Management System" />
+    <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/visitor-baneer.png" />
+    <link rel="stylesheet" rel="preload" href="/css/others.css">
+    <link rel="stylesheet" rel="preload" href="/css/custom.css">
+    <link rel="shortcut icon" href="/images/vizitor/favicon.ico" type="image/x-icon">
+    <link rel='shortlink' href='https://www.vizitorapp.com/' />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta http-equiv="cache-control" content="max-age=3600, public">
+    <meta http-equiv="expires" content="Wed, 21 Oct 2023 07:28:00 GMT" lazyload>
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="article:modified_time" content="{{ now.Format " 2006-01-02T15:04:05-07:00 " }}" />
+    <link rel="stylesheet" href='{{ "/owlcarousel/owl.carousel.min.css" | absURL }}'>
+    <link rel="stylesheet" href='{{ "/owlcarousel/owl.theme.default.min.css" | absURL }}'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header class="bsnav bsnav-sticky bsnav-sticky-slide">
+        <!-- <div class="container-fluid header-covid-19-background">
+        <p class="header-covid-19">Vizitor 2.0 is - <a href="/blog/vizitor-v2-has-arrived-the-latest-version-of-visitor-management-is-going-to-live/" target="_blank" style="color: #fff !important;" rel="canonical"><b>Live</b></a></p>
+    </div> -->
+        <div style="background-color: #5A74C7;">
+            <div class="col-md-11 mx-auto">
+                <div>
+                    <div class="row">
+                        <div class="col-lg-12 " style="padding: 22px;">
+                            <nav class="navbar navbar-expand-lg navbar-light">
+                                <a class="navbar-brand" href="/"><img
+                                        src='/images/vizitor/new-year-campaign/vizitor-new-logo-img.svg' alt="logo"></a>
+                                <button class="navbar-toggler collapsed button-phone" type="button"
+                                    data-toggle="collapse" data-target="#navbarSupportedContent"
+                                    aria-controls="navbarSupportedContent" aria-expanded="false"
+                                    aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span></button>
+                                <div class="navbar-collapse main-menu-item collapse justify-content-end"
+                                    id="navbarSupportedContent">
+                                    <ul class="navbar-nav">
+                                        <li class="nav-item dropdown  product-dropdown" style="display: block;">
+                                            <a class="nav-link1 " href="#" role="button" data-toggle="dropdown"
+                                                aria-expanded="false">
+                                                Product<span class="arrow"></span>
+                                            </a>
+                                            <div class="dropdown-menu">
+                                                <a class="dropdown-item dropdown-menu-flex"
+                                                    href="/visitor-management-system/">
+                                                    <img src="/images/vizitor/Visitor-Manager.svg"
+                                                        alt="Visitor-Manager" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Visitor management
+                                                            system</h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Smart Visitor Tracking
+                                                        </p>
+                                                    </div>
+                                                </a>
+                                                <a class="dropdown-item dropdown-menu-flex"
+                                                    href="/delivery-management-system/">
+                                                    <img src="/images/vizitor/deliveries-manager.svg"
+                                                        alt="deliveries-manager" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Deliveries
+                                                            management
+                                                        </h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Efficient delivery
+                                                            management</p>
+                                                    </div>
+                                                </a>
+                                                <a class="dropdown-item dropdown-menu-flex"
+                                                    href="/attendance-management-system/">
+                                                    <img src="/images/vizitor/Attendance-manager.svg"
+                                                        alt="Attendance-manager" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Attendance
+                                                            management
+                                                        </h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Keeping track of
+                                                            attendance</p>
+                                                    </div>
+                                                </a>
+                                                <a class="dropdown-item dropdown-menu-flex"
+                                                    href="/space-management-software/">
+                                                    <img src="/images/vizitor/Attendance-manager.svg"
+                                                        alt="Attendance-manager" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Space management
+                                                        </h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">One-stop workspace
+                                                            management</p>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <!------------------------------------------->
+                                        <li class="nav-item dropdown  product-dropdown" style="display: block;">
+                                            <a class="nav-link1 " href="#" role="button" data-toggle="dropdown"
+                                                aria-expanded="false">
+                                                Resources<span class="arrow"></span>
+                                            </a>
+                                            <div class="dropdown-menu">
+                                                <a class="dropdown-item dropdown-menu-flex" href="/blog/">
+                                                    <img src="/images/vizitor/Blog.svg" alt="Blog" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Blog</h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Welcome to Vizitor
+                                                            Blogs
+                                                        </p>
+                                                    </div>
+                                                </a>
+
+                                                <a class="dropdown-item dropdown-menu-flex" href="/help/">
+                                                    <img src="/images/vizitor/help-center.svg" alt="help-center" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Help centre</h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Get Support from
+                                                            Vizitor
+                                                        </p>
+                                                    </div>
+                                                </a>
+                                                <a class="dropdown-item dropdown-menu-flex" href="/case-studies/">
+                                                    <img src="/images/vizitor/Case-Study.svg" alt="Case-Study" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Case studies</h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Powerful solutions</p>
+                                                    </div>
+                                                </a>
+                                                <a class="dropdown-item dropdown-menu-flex"
+                                                    href="/best-visitor-management-system-in-india/">
+                                                    <img src="/images/vizitor/Case-Study.svg" alt="Case-Study" />
+                                                    <div class="dropdown-menu-ml">
+                                                        <h6 style="font-family: Sofia-Pro-Semi-Bold;">Guide: Visitor
+                                                            management</h6>
+                                                        <p style="font-family:Sofia-Pro-Regular;">Optimize Your Visitor
+                                                            Experience</p>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item " style="display: block;">
+                                            <a class="nav-link1" rel=preload href="/pricing">Pricing </a>
+                                        </li>
+                                        <li class="nav-item " style="display: block;">
+                                            <a class="nav-link1" rel=preload href="/contact">Contact </a>
+                                        </li>
+                                    </ul>
+                                    <ul class="navbar-nav navbar-phone">
+                                        <li class="nav-item ">
+                                            <a class="nav-link1" rel=preload target="blank"
+                                                href="https://dashboard.vizitorapp.com/login">Login </a>
+                                        </li>
+                                        <li class="nav-item loginlast logphone">
+                                            <a class="nav-link d-inline-block free-cons" rel=preload href="/signup">Sign
+                                                up</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="navbar-collapse main-menu-item collapse justify-content-end navbar-dis">
+                                    <ul class="navbar-nav ">
+                                        <li class="nav-item mt-2 ">
+                                            <a class="nav-link1" rel=preload target="blank"
+                                                href="https://dashboard.vizitorapp.com/login">Login </a>
+                                        </li>
+                                        <li class="nav-item  ">
+                                            <a href="/signup" class="btn-arrow bvms-white-btn"> Sign up </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <a href="https://api.whatsapp.com/send?text=Hello! I'm looking for Thanks!&phone=+91 7302582799" target="_"
+        class="whatsapp_float"><img src="/images/vizitor/whatsapp.svg" alt="Screenshot" /> </a>
+    <!-- Header Section Ends -->
+    <!------------------------------------------------------------------------>
+    <div class="new-year-colr ">
+        <div id="unveil">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <h1 class="frontcolr"> <span class="newcolr">"New Year Contest:</span> Win a $2500 Front Desk
+                            Suite!”</span></h1>
+
+                        <p class="amazing-cls">Join our contest and you might just get the tools to make your front desk
+                            better than ever!</p>
+                        <p class="amazing-cls"> Share any post about vizitor management on linkedin and use
+                            #newyearcontest</p>
+                        <div class="mt-5">
+                            <a href="#RegistrationForm" class="btn-arrow bvms-white-btn">Participate Now!</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                        <img src="/images/vizitor/new-year-campaign/new-year-campaign.svg" alt="ronald-svg" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!----------------------------------->
+    <div id="bvms">
+        <div class="container ">
+            <div class="text-center">
+                
+                    <p><span class="Digitize">Here's Your Chance To Win</span></p>
+                    <h3 class="bvms-size">Exciting Prizes!</h3>
+               
+            </div>
+            <div class="row card-deck mt-5">
+                <div class="col-md-3 col-sm-3 col-xs-12 card about_card">
+                    <div class="card-body text-center chance-to-win">
+                        <h3>Grand Prize</h3>
+                        <p>(Top 10 Companies)</p>
+                        <img src="/images/vizitor/new-year-campaign/grand-prize.svg" alt="ronald-svg" />
+                        <p class="card-text">Win a complete Vizitor suite worth $2500, absolutely free!</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-12 card about_card">
+                    <div class="card-body text-center chance-to-win">
+                        <h3>Second Prize</h3>
+                        <p>(Next 10 Companies)</p>
+                        <img src="/images/vizitor/new-year-campaign/second-prize.svg" alt="ronald-svg" />
+                        <p class="card-text">Enjoy a 70% discount on the Vizitor suite.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-12 card about_card">
+                    <div class="card-body text-center chance-to-win">
+                        <h3>Third Prize</h3>
+                        <p>(Final 10 Companies)</p>
+                        <img src="/images/vizitor/new-year-campaign/third-prize.svg" alt="ronald-svg" />
+                        <p class="card-text">Secure a 50% discount on the Vizitor suite.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3 col-xs-12 card about_card">
+                    <div class="card-body text-center chance-to-win">
+                        <h3>Bonus Prize</h3>
+                        <p>(For All Companies)
+                        </p>
+                        <img src="/images/vizitor/new-year-campaign/bonus-prize.svg" alt="ronald-svg" />
+                        <p class="card-text">All participants will receive a 25% off discount code for the Vizitor
+                            suite.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <p class="top-winners mt-4 text-center">*The top 10 winners will be determined based on the number of likes,
+                engagement, and positive comments generated on their LinkedIn post.*</p>
+        </div>
+    </div>
+    <!------------------------------------------------------------------------->
+    <div id="bvms" style="background-color: #FDE4C6;">
+        <div class="container">
+            <div class="text-center">
+                <a href="">
+                    <h3 class="bvms-size">Claim the Vizitor Suite – Excellence in <br>
+                        FrontDesk Management Awaits!</span></h3>
+                </a>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-6 col-sm-6 my-3">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/one-img.svg" alt="1" />
+                        </div>
+                    </div>
+                    <div>
+                        <a href="/visitor-management-system">
+                            <h3 class="hovercolor">Visitor Management System</h3>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 my-3">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/two-img.svg" alt="2" />
+                        </div>
+                    </div>
+                    <div>
+                        <a href="/space-management-software">
+                            <h3 class="hovercolor">Space Management System</h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6 my-3">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/three-img.svg" alt="3" />
+                        </div>
+
+                    </div>
+                    <div>
+                        <a href="/attendance-management-system">
+                            <h3 class="hovercolor">Attendance Management System</h3>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 my-3">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/four--img.svg" alt="2" />
+                        </div>
+
+                    </div>
+                    <div>
+                        <a href="/delivery-management-system">
+                            <h3 class="hovercolor">Delivery Management System</h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row ">
+                <div class="col-md-6 col-sm-6 my-3">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/five-img.svg" alt="2" />
+                        </div>
+                    </div>
+                    <div>
+                        <a href="/meeting-room-management-system">
+                            <h3 class="hovercolor">Meeting Room Management System</h3>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 my-3">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/six-img.svg" alt="2" />
+                        </div>
+                    </div>
+                    <div>
+                        <a href="/smart-queue-management-system">
+                            <h3 class="hovercolor">Queue Management System</h3>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--------------------------------------------->
+    <div id="bvms" class="container ">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <img src="/images/vizitor/new-year-campaign/join-contest-img.svg" alt="ronald-svg" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 mt-4">
+                <h3 class="mb-5 bvms-size">How Join the Contest in <br> <span class="Digitize"> 4 Simple Steps! </span>
+                </h3>
+                <!-- --1-- -->
+                <div>
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/one-img.svg" alt="1" />
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Share this page</h3>
+                        <p style="display: flow-root;">Share any post<a href="https://docs.google.com/document/d/1ShzhK1OhrnzCMKRHqAgHyHH566GGOiH8AF2cBizZwdI/edit?usp=sharing
+                            "> <b style="color: #ED5C18 !important;">from the link</b></a>   on your linkedin.
+                        </p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <!-- --2-- -->
+                <div class="mt-4">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/two-img.svg" alt="2" />
+                        </div>
+
+                    </div>
+                    <div>
+                        <h3>Profile Power-Up</h3>
+                        <p class=" display-flex">Ensure your LinkedIn profile is set to public, so we can see your
+                            entry.
+                        </p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <!-- --3-- -->
+                <div class="mt-4">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/three-img.svg" alt="3" />
+                        </div>
+
+                    </div>
+                    <div>
+                        <h3>Link Up with Us</h3>
+                        <p style="display: flow-root;">Enter your LinkedIn profile URL in the  <a href="#RegistrationForm"> <b style="color: #ED5C18 !important;">form below</b></a> and claim your chance
+                            to win!
+                        </p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <!-----------4--------->
+                <div class="mt-4">
+                    <div class="right-btn">
+                        <div>
+                            <img src="/images/vizitor/new-year-campaign/four--img.svg" alt="2" />
+                        </div>
+
+                    </div>
+                    <div>
+                        <h3>Winners Announcement</h3>
+                        <p class=" display-flex">Top 10 winners with maximum likes and comments, Wins the Prize.
+                            Exciting offers for participants too!!
+                        </p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <p class="top-winners mt-5 text-center">*Winners are announced on 15th January, 2024*</p>
+    </div>
+    <!------------------------------->
+    <div id="bvms" style="background-color: #F9B99B;">
+        <div class="container details-right">
+            <h2 class=" text-center" style="font-size: 42px; font-weight: 700;color: #33475B;">Contest Details</h2>
+            <p class="text-center" style="line-height: 30px; font-weight: 400;font-size: 18px;color: #687888;">Your
+                Guide to Winning!
+            </p>
+            <div class="col-md-9 mx-auto mt-5">
+                <div class="card-deck ">
+                    <div class=" card" style="background-color: #FAE2D7">
+                        <div class="card-body pt-5 pb-5 pr-5 pl-5">
+                            <p> <span class="Digitize"> WHO CAN PLAY </span> </p>
+                            <h5> <span><img src="/images/vizitor/new-year-campaign/Eligibility-img.svg"
+                                        alt="image"></span> Eligibility </h5>
+                            <p class="mb-4 mt-4">Open to all companies and organizations seeking to streamline their
+                                front desk operations.</p>
+                        </div>
+                    </div>
+                    <div class="card" style="background-color: #F0E3FD;">
+                        <div class="card-body pt-5 pb-5 pr-5 pl-5">
+                            <p> <span class="Digitize"> MARK YOUR CALENDERS! </span> </p>
+                            <h5> <span><img src="/images/vizitor/new-year-campaign/duration-img.svg" alt="image"></span>
+                                Duration</h5>
+                            <p class=" mb-4 mt-4">Mark your calendars! The Vizitor New Year Contest kicks
+                                off on <span class="Digitize"> December 18th </span>and runs through <span
+                                    class="Digitize">January 13th.</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-------------------------------------------------------------------------->
+    <div id="bvms">
+        <div class="container "
+            style="background-color: #33475B; border-radius: 20px; padding-top: 50px;padding-bottom: 70px;padding-left: 50px;padding-right: 50px;">
+            <div class="row align-items-center">
+                <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                    <img src="/images/vizitor/new-year-campaign/contest-from-img.svg" alt="ronald-svg" />
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12 formc py-3 pl-5 pr-5" id="RegistrationForm">
+                    <h3 class="chgh3 mb-3" style="font-size: 35px;">Contest Registration form</h3>
+                    <div class="contactform">
+                        <form id="vizitorcontest"></form>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5">
+                <a href="/vizitor-contest/terms-and-conditions">
+                    <p class="amazing-cls text-center"> Terms And conditions
+                    </p>
+                </a>
+                <p class="text-center" style="color: #FFF; font-size: 16px; font-weight: 300;">Visit our website for
+                    more
+                    details on the Vizitor suite and its features: <a href="/signup"> <span class="Digitize"> Know More
+                        </span></a></p>
+            </div>
+        </div>
+    </div>
+    <!-------------------------------------------------------------------------->
+    <script lazyload>
+        {
+            image: "https://www.vizitorapp.com/images/vizitor/visitor-baneer.png";
+            url: "https://www.vizitorapp.com/";
+            type: "WebSite";
+            description: "Vizitor is a leading visitor management system that simplifies the check-in process foDiscover the best visitor management system that streamlines check-ins, enhances security, and improves the visitor experience. Find the perfect solution for your business with Vizitor's advanced features and seamless integration capabilities.r businesses. Streamline your visitor registration, improve security, and enhance the overall visitor experience.";
+            headline: "Streamline your Frontdesk and Keep your workplace Safe";
+            context: "http://schema.org"
+        }
+    </script>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+    <script>
+        hbspt.forms.create({
+            region: "na1",
+            portalId: "41552100",
+            target: '#vizitorcontest',
+            formId: "621c012f-0bf0-4b9f-bc16-e4d4db979af5"
+        });
+    </script>
+
+    <script>
+        function loadGTM() {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-N3CM643');
+        }
+
+        // Add an event listener to trigger the loading of the script
+        window.addEventListener('load', loadGTM);
+    </script>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3CM643" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <!-- Google tag (gtag.js) -->
+    <!-- Footer Section -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-5 col-md-6 col-12 ">
+                    <div class="row">
+                        <div class="col-md-11 col-12">
+                            <h2>Ready to get started?</h2>
+                            <p style="font-family:Sofia-Pro-Regular ;">Vizitor is accessible on both the platforms
+                                (Android & iOS)</p>
+
+                            <form id="footerForm">
+                                <input type="email" class="email-input" id="emailfooter" name="emailfooter"
+                                    placeholder="Enter your email" required>
+                                <input class="btn-try-free footer-btn-try" type="submit" value="Try for free">
+                            </form>
+                            <div class="mt-3">
+                                <div style="float: left;">
+                                    <p style="font-family:Sofia-Pro-Regular ;">Follow us on </p>
+
+                                </div>
+
+                                <div class="social" style="padding: 5px 0px 0px 11px;">
+                                    <a href="https://twitter.com/vizitorapp" class="twitter"><img
+                                            src="/images/vizitor/Twitter.svg" alt="Screenshot" /></a>
+                                    <a href="https://www.facebook.com/vizitorapp/" class="facebook"><img
+                                            src="/images/vizitor/facebook.svg" alt="Screenshot" /></a>
+                                    <a href="https://www.instagram.com/vizitorapp/?hl=en" class="instagram"><img
+                                            src="/images/vizitor/instagram.svg" alt="Screenshot" /></a>
+                                    <a href="https://www.linkedin.com/company/28998047/" class="linkedin"><img
+                                            src="/images/vizitor/linkedin.svg" alt="Screenshot" /></a>
+                                </div>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class=" mb-4">
+                                {{range .Site.Params.appsbtn}}
+                                <a href="{{.url}}" target="_blank"><img class="btn-app-footer btn-app-mg phonetop-btn"
+                                        src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                                {{end}}
+                            </div>
+
+                            <div class="mt-4">
+                                <a target="_blank" href="https://www.goodfirms.co/software/vizitor">
+                                    <img src="/images/vizitor/Screenshot.png" alt="Screenshot" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-1 col-12">
+                            <div class="footer-line"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-7 col-md-6 col-12 ">
+                    <div class="row">
+                        <div class="col-md-3 col-6">
+                            <p>COMPANY</p>
+                            <ul>
+                                <li><a href="/about">About us</a></li>
+                                <li><a href="/features">Features</a></li>
+                                <li><a href="/pricing">Pricing</a></li>
+                                <li><a href="/contact">Contact us</a></li>
+                                <li><a href="/visitor-promotion-marketing">Promotion</a></li>
+                                <li><a href="/disclaimer">Disclaimer</a></li>
+
+                            </ul>
+                        </div>
+
+                        <div class="col-md-3 col-6">
+                            <p>RESOURCES</p>
+                            <ul>
+                                <li><a href="/terms">Terms of use</a></li>
+                                <li><a href="/privacy">Privacy Policy</a></li>
+                                <li><a href="/faq">FAQ</a></li>
+                                <li><a href="/blog">Blog</a></li>
+                                <li><a href="/help">Help</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-md-3 col-6">
+                            <p>PRODUCTS</p>
+                            <ul>
+                                <li><a href="/visitor-management">Visitor management</a></li>
+                                <li><a href="/best-visitor-management-system-in-india">Visitors</a></li>
+
+                                <li><a href="/touchless-attendance-management-system/">Touchless attendance</a></li>
+                                <li><a href="/delivery-management-system/">Deliveries </a></li>
+                                <li><a href="/smart-queue-management-system">Queue </a></li>
+
+
+                            </ul>
+                        </div>
+
+                        <div class="col-md-3 col-6">
+                            <p>SOLUTIONS</p>
+                            <ul>
+
+                                <li><a href="/touchless-visitor-management-system/">Touchless sign-in</a></li>
+                                <li><a href="/visitor-badge-management-system">Visitor Badges</a></li>
+                                <li><a href="/visitor-analytics"> Dashboard</a></li>
+                                <li><a href="/contact-tracing"> COVID-19</a></li>
+                                <li><a href="/visitor-feedback"> Feedback</a></li>
+                                <li><a href="/visitor-security"> Security</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-md-6 col-6">
+                            <p>CONTACT US</p>
+                            <ul>
+
+                                <li><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hello@vizitorapp.com"
+                                        target="_">Email : hello@vizitorapp.com</a></li>
+                                <li><a href="tel:+91-7302582799">India : +91-7302582799</a></li>
+                                <li><a href="tel:+1 (416)-639-2651">Canada : +1-416-639-2651</a></li>
+                                <li><a href="tel:+1 (416)-639-2651">US : +1-416-639-2651</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5 mb-3" style="border: 1px solid #4F657B;"></div>
+            <div class="row ">
+                <div class="col-md-12 ">
+                    <p style="font-family:Sofia-Pro-Regular ;">© Copyright {{ now.Format "2006" }} Vizitor All rights
+                        reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    {{- partial "script.html" . -}}
+
+    <style>
+        .nav-link1 {
+            color: #FFF !important;
+            font-size: 16px !important;
+            font-weight: 500 !important;
+            padding: 5px 15px;
+            margin: 0;
+        }
+
+        .details-right {
+            background-image: url(/images/vizitor/new-year-campaign/backgound-new-img1.svg) !important;
+            background-size: contain !important;
+            background-repeat: no-repeat !important;
+        }
+
+        .submit-new-btn {
+            background-color: #FFF;
+            color: #33475B;
+            position: relative;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-weight: 400;
+            display: inline-block;
+
+        }
+
+
+
+
+
+
+        form .txt_field {
+            position: relative;
+            border-bottom: 2px solid #adadad;
+            margin: 30px 0;
+        }
+
+        .txt_field input {
+            width: 100%;
+            padding: 0 5px;
+            height: 40px;
+            font-size: 16px;
+            border: none;
+            background: none;
+            outline: none;
+        }
+
+        .txt_field label {
+            position: absolute;
+            top: 50%;
+            left: 5px;
+            color: #adadad;
+            transform: translateY(-50%);
+            font-size: 16px;
+            pointer-events: none;
+        }
+
+        /* .txt_field span::before {
+            content: '';
+            position: absolute;
+            top: 40px;
+            left: 0;
+            width: 0px;
+            height: 2px;
+            background: #2691d9;
+            transition: .5s;
+        } */
+
+        /* .txt_field input:focus~label,
+        .txt_field input:valid~label {
+            top: -5px;
+            color: #2691d9;
+        } */
+
+        .txt_field input:focus~span::before,
+        .txt_field input:Valid~span::before {
+            width: 100%;
+        }
+
+        .pass {
+            margin: -5px 0 20px 5px;
+            color: #a6a6a6;
+            cursor: pointer;
+        }
+
+        .pass:hover {
+            text-decoration: underline;
+        }
+
+        .chance-to-win {
+            box-shadow: 0px 0px 35px 0px #0B000014;
+            border-radius: 15px;
+        }
+
+        .about_card :hover {
+            background-color: #fef9f4;
+            transition: all .5s;
+
+        }
+
+        .hovercolor {
+            font-size: 26px;
+            font-weight: 600;
+            line-height: 52px;
+            color: #33475B;
+        }
+
+        .hovercolor:hover {
+            color: #ed5c18 !important;
+
+        }
+
+        .formc {
+            background-color: #fef9f4;
+            border-radius: 20px;
+        }
+
+        .newcolr {
+            color: #FCC670;
+            font-weight: 700;
+            font-size: 69px;
+            line-height: 79px;
+        }
+
+        .frontcolr {
+            color: #ffff;
+            font-weight: 700;
+            font-size: 69px;
+            line-height: 79px;
+        }
+
+
+        @media (max-width: 767px) {
+            img {
+                display: none;
+            }
+        }
+    </style>
+</body>
+
+</html>
+
+</body>
+
+</html>
