@@ -166,7 +166,7 @@
     <!-- Header Section Ends -->
     <!------------------------------------------------------------------------>
     <div class="new-year-colr ">
-        <div id="unveil">
+        <div id="vizitorcontesttop">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6 col-sm-6 col-xs-12 ">
@@ -407,7 +407,7 @@
     <!------------------------------->
     <div id="bvms" style="background-color: #F9B99B;">
         <div class="container details-right">
-            <h2 class=" text-center" style="font-size: 42px; font-weight: 700;color: #33475B;">Contest Details</h2>
+            <h2 class=" text-center contestdetails">Contest Details</h2>
             <p class="text-center" style="line-height: 30px; font-weight: 400;font-size: 18px;color: #687888;">Your Guide to Winning!
             </p>
             <div class="col-md-9 mx-auto mt-5">
@@ -439,8 +439,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-12 text-center">
                     <img src="/images/vizitor/new-year-campaign/contest-from-img.svg" alt="ronald-svg" />
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 formc py-3 pl-5 pr-5" id="RegistrationForm">
-                    <h3 class="chgh3 mb-3" style="font-size: 35px;">Contest Registration form</h3>
+                <div class="col-md-6 col-sm-6 col-xs-12 formc " id="RegistrationForm">
+                    <h3 class="chgh3 mb-3 contesttext">Contest Registration form</h3>
                     <div class="contactform">
                         <form id="vizitorcontest"></form>
                     </div>
@@ -635,6 +635,11 @@
     {{- partial "script.html" . -}}
 
     <style>
+        #vizitorcontesttop {
+            padding-top: 120px;
+            padding-bottom: 100px;
+        }
+        
         .nav-link1 {
             color: #FFF !important;
             font-size: 18px;
@@ -739,6 +744,7 @@
         .formc {
             background-color: #fef9f4;
             border-radius: 20px;
+            padding: 30px 30px;
         }
         
         .newcolr {
@@ -755,6 +761,16 @@
             line-height: 79px;
         }
         
+        .contestdetails {
+            font-size: 42px;
+            font-weight: 700;
+            color: #33475B;
+        }
+        
+        .contesttext {
+            font-size: 35px;
+        }
+        
         @media (max-width: 767px) {
             .details-right {
                 background-image: none;
@@ -764,6 +780,50 @@
             .navbar-nav {
                 background: transparent !important;
                 padding-top: 20px !important;
+            }
+            .frontcolr {
+                color: #ffff;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 48px;
+            }
+            .newcolr {
+                color: #FCC670;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 48px;
+            }
+            .top-winners {
+                color: #ED5C18 !important;
+                font-weight: 500 !important;
+                line-height: 23px;
+                font-size: 15px;
+            }
+            .hovercolor {
+                font-size: 20px;
+                font-weight: 600;
+                line-height: 30px;
+                color: #33475B;
+            }
+            .bvms-size,
+            .greenbs,
+            .vizitor-pass-h2,
+            h2 {
+                font-size: 25px;
+                line-height: 30px;
+            }
+            .contestdetails {
+                font-size: 35px;
+                font-weight: 700;
+                color: #33475B;
+            }
+            .formc {
+                background-color: #fef9f4;
+                border-radius: 20px;
+                padding: 25px 15px;
+            }
+            .contesttext {
+                font-size: 22px;
             }
         }
     </style>
