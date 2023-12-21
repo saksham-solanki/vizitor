@@ -3417,6 +3417,11 @@ label {
     border-radius: 10px
 }
 
+.card-img-top-blog{
+    width: 393px !important;
+    height: 250px !important;
+}
+
 #Simplify .reliable-point,
 #attendance .reliable-point,
 .authors-img {
