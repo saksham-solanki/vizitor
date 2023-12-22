@@ -28,8 +28,10 @@ The team members would love a well-organized, maintained, and structured workpla
 In the blog, we will be discussing how room booking systems help in workplace efficiency and will cover the following:
 
 . What do you understand by Workplace Efficiency?
+
 . Why is workplace efficiency important for offices?
-. 5 Simple strategies to increase **Workplace Efficiency**
+
+. 5 Simple strategies to increase Workplace Efficiency.
 
 
 ## What do you understand by Workplace Efficiency?
@@ -45,6 +47,9 @@ Efficient offices foster a positive working environment by reducing frustration 
 Workplace efficiency promotes employee satisfaction and engagement.  Sometimes, individuals can see the tangible results of their efforts and feel a sense of accomplishment. For businesses, improved customer satisfaction and swift adaptation are considered remarkable. 
 
 Moreover, an efficient workplace encourages innovation and positioning the organization for long-term success.
+
+
+[{{< figure src="/images/blog/increase-efficency.jpeg" >}}](/demo)
 
 
 ## 5 Simple strategies to increase Workplace Efficiency 
@@ -63,8 +68,11 @@ Leveraging technology is essential for workplace efficiency. Investing in room b
  
 
 . Hot desk booking solutions
+
 . Equipment booking Software
+
 . Vehicle Booking Software 
+
 . Parking Management Software
 
 ## Effective Communication Practices
@@ -90,10 +98,9 @@ Create offices where employees are motivated, engaged, and better equipped to co
 
 Implementing these strategies collectively creates a workplace environment where processes are optimized, and communication is clear. The effective strategy is to use room booking systems to increase overall efficiency.
 
-Vizitor is your friendly companion in providing the best technology to upgrade workplace efficiency. Our technical products include **room booking systems, meeting room booking systems,** and more. 
+[Vizitor](/) is your friendly companion in providing the best technology to upgrade workplace efficiency. Our technical products include **room booking systems, meeting room booking systems,** and more. 
 
 We believe in delivering quality, not a trade deal! Schedule your demo!  
 
 
-[{{< figure src="/images/blog/increase-efficency.jpeg" >}}](/demo)
 

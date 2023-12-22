@@ -25,8 +25,11 @@ But the problem arises: employers often need to understand employees' time sched
 In this blog, we will be discussing about basics of conference scheduling software, covering the topics:
 
 . Definition of Conference Scheduling Software 
+
 . Why should companies invest in Conference Scheduling Software?
+
 . What are the challenges faced by companies without a conference scheduling system? 
+
 . Benefits of Conference Scheduling System  
 
 
@@ -75,6 +78,9 @@ Without a centralized platform, information about the meeting schedule, speaker 
 Companies may need help optimizing conference room use and other resources. Underutilized or overbooked spaces are more likely without a system to track room availability and utilization.
 
 
+[{{< figure src="/images/blog/conference-2-img.jpeg" >}}](/demo)
+
+
 ## Benefits of Conference Scheduling System  
 
 After addressing the challenges, it's time to focus on the benefits of the conference scheduling system. It helps in achieving the following things:
@@ -109,7 +115,7 @@ Organizers can send real-time updates, announcements, and notifications to atten
 Some meeting scheduling software s include communication features like chat or messaging, fostering better interaction and networking among attendees and speakers.
 
 
-## **Time and Resource Savings:**
+##  Time and Resource Savings:
 
 **Automation of Tasks:**
 
@@ -124,8 +130,7 @@ All conference-related information, including schedules, speaker details, and ve
 Conference Scheduling Software often has robust analytics tools that provide insights into attendance patterns, popular sessions, and overall conference performance. Organizers can use this data to make informed decisions for future events.
 
 
-A conference scheduling system is needed to amplify the office space. The revolutionary system demands top-notch quality, which is possible only with Vizitor. We focus on developing our technology with great precision and care for you all! We believe in delivering quality but not a trade deal! Contact us. 
+A conference scheduling system is needed to amplify the office space. The revolutionary system demands top-notch quality, which is possible only with [Vizitor](/). We focus on developing our technology with great precision and care for you all! We believe in delivering quality but not a trade deal! Contact us. 
 
 
 
-[{{< figure src="/images/blog/conference-2-img.jpeg" >}}](/demo)
