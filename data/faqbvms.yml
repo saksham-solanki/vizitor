@@ -1,7 +1,6 @@
 items:  
   - question: "What is visitor management software? "
-    answer: "Visitor management software is a software solution that helps organizations manage the flow of visitors to their premises. It automates and digitizes the visitor registration and check-in process, verifies visitor identities, and issues digital badges with access permissions. Visitor management software can also help to generate reports on visitor activity and track visitor trends."
-  - question: "What is included in the free plan of visitor management solution? "
+    answer: "This software streamlines how organizations handle guests. It digitizes sign-in, verifies identities, and grants access permissions through digital badges. Plus, it tracks activity and visitor trends for valuable insights."
     answer: "The free plan of a visitor management solution typically includes basic features such as visitor registration, check-in/out, and badge printing. Some visitor management solutions also offer additional features in the free plan, such as visitor screening and reporting."
   - question: "How Does Contactless Check-In Work?"
     answer: " Contactless check-in allows visitors to register and check in without having to touch any physical surfaces. This can be done using a variety of methods, such as QR codes, Pre-invitation, or mobile apps."
