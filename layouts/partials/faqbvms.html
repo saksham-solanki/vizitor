@@ -7,7 +7,7 @@
                 <div class="faqcard mb-0">
                     {{range $index, $elem := .Site.Data.faqbvms.items }}
                     <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
-                        <a class="card-title">
+                        <a class="card-title" href="#faq{{$index}}">
                             <b>{{.question}}</b>
                         </a>
                     </div>

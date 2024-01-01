@@ -1,5 +1,5 @@
 ---
-title: Should You Invest in Visitor Management for 2023 and Beyond?
+title: Should You Invest in Visitor Management for 2024 and Beyond?
 date: 2023-10-16T09:21:36.000Z
 description: "We all know that a friendly welcome can make a big difference. It's not just about being polite; it can actually affect how well your company does."
 image: /images/blog/benefits-of-investing.jpg
