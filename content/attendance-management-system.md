@@ -1,6 +1,6 @@
 ---
 title: "Attendance management system| Vizitor"
-description : "Vizitor offers a real-time attendance portal that boosts productivity by providing insights into employee productivity and clocked-in hour."
+description : "What is attendance management system? How can you use Attendance or HR Management to track employees. Visit to know."
 keywords:
 - visitors app,
 - Attendance management system, 
