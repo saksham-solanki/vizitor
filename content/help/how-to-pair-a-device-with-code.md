@@ -2,7 +2,7 @@
 title: How to pair a device with code?
 date: 2022-10-01T10:00:30.000Z
 tags: user guide
-description: "Discover how to easily pair a device with Vizitor using a code for streamlined visitor management."
+description: "how to pair device with code? Complete guide to connect your with viztorapp using code. Get all details here."
 authors: ["Ankur Rana"]
 authorsImage: /images/authors/author.svg
 ---

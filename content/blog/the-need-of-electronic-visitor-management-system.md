@@ -1,7 +1,7 @@
 ---
 title: The need of Electronic visitor management system!
 date: 2021-12-08T06:13:31.000Z
-description: "An electronic visitor management system replaces all of your sign-in sheets into contact less visitor digital logbooks."
+description: "What is electronic visitor management? How can you use this reception software for your company? Visit page to viw more."
 image: /images/blog/electronic.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

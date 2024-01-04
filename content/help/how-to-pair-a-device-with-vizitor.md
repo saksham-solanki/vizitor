@@ -2,7 +2,7 @@
 title: How to pair a device with vizitor?
 date: 2022-10-12T03:00:30.000Z
 tags: user guide
-description: "Discover how to easily pair a device with Vizitor using a code for streamlined visitor management."
+description: "how to pair device with vizitor? Complete guide to connect your with viztorapp. Get all details here."
 authors: ["Ankur Rana"]
 authorsImage: /images/authors/author.svg
 ---

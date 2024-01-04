@@ -1,6 +1,6 @@
 ---
 title: "Touchless attendance management system| Vizitor"
-description : "Vizitor offers a real-time attendance portal that boosts productivity by providing insights into employee productivity and clocked-in hour."
+description : "What is touchless attendance management system? How can you use this software to mark attendace online. Visit to know more."
 keywords:
 - Touchless attendance management system, 
 - visitor management system for attendance, 

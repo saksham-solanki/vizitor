@@ -1,7 +1,7 @@
 ---
 title: "The Need of Electronic Visitor Management System"
 date: 2023-05-12T10:23:31.056Z
-description: "Upgrade your visitor sign-in process with an electronic visitor management system."
+description: "What is the need of electronic visitor management? How can you use this receptionist software for your company? Visit page to view more."
 image: /images/blog/electronicmain.webp
 authors: ["R.Saini"]
 authorsImage: /images/authors/author.svg

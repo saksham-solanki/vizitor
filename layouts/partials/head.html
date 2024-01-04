@@ -4,23 +4,26 @@
 <head>
     <meta charset="utf-8">
     <title>{{ .Title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1,">
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-    <meta name="keywords" content="{{range .Params.keywords}}{{.}}{{end}}"> {{ with .Site.Params.author }}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1,"> -->
+    <meta name="description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+     {{ with .Site.Params.author }}
     <meta name="author" content="Gaurav Saini">{{ end }} {{ hugo.Generator }}
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+    <meta property="og:description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
     <meta property="og:site_name" content="Vizitor - Visitor Management System" />
-    <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/visitor-baneer.png" />
+    <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/vizitor2.png" />
     <link rel="stylesheet" rel="preload" href="/css/others.css">
     <link rel="stylesheet" rel="preload" href="/css/custom.css">
     <link rel="shortcut icon" href="/images/vizitor/favicon.ico" type="image/x-icon">
     <link rel='shortlink' href='https://www.vizitorapp.com/' />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <link rel="canonical" href="{{ .Permalink }}">
-    <meta http-equiv="cache-control" content="max-age=3600, must-revalidate, public">
-    <!-- <meta http-equiv="expires" content="Wed, 21 Oct 2023 07:28:00 GMT" lazyload> -->
+    <meta http-equiv="Cache-Control" content="max-age=604800, must-revalidate, private">
+    <!-- <meta http-equiv="expires" content="Wed, 21 Oct 2024 07:28:00 GMT"> -->
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="article:modified_time" content="{{ now.Format " 2006-01-02T15:04:05-07:00 " }}" />
@@ -44,7 +47,7 @@
 
     <script>
         function loadGTM() {
-            (function(w, d, s, l, i) {
+            (function (w, d, s, l, i) {
                 w[l] = w[l] || [];
                 w[l].push({
                     'gtm.start': new Date().getTime(),
@@ -64,8 +67,8 @@
     </script>
 
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3CM643"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3CM643" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
 

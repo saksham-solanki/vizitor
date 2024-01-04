@@ -2,7 +2,7 @@
 title: How to manage app settings ?
 date: 2022-10-01T10:00:30.000Z
 tags: user guide
-description: " Discover how to effortlessly check and review visitor logs with Vizitor. Follow our step-by-step guide to access comprehensive visitor data and enhance security and tracking capabilities."
+description: " Know how to manage app settings. In this you will find information about setting about visitorapp which is a visitor management / reception managment software."
 authors: ["Ankur Rana"]
 authorsImage: /images/authors/author.svg
 ---

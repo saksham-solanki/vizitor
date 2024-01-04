@@ -2,7 +2,7 @@
 title: How to check visitor log ?
 date: 2022-10-03T10:00:30.000Z
 tags: user guide
-description: "Discover how to effortlessly check and review visitor logs with Vizitor. Follow our step-by-step guide to access comprehensive visitor data and enhance security and tracking capabilities. "
+description: "How can you check visitor log? Get detailed information about the sign in vizitorapp."
 authors: ["Ankur Rana"]
 authorsImage: /images/authors/author.svg
 ---

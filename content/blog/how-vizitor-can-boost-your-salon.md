@@ -2,7 +2,7 @@
 title: How Vizitor can boost your salon?
 date: 2020-08-27T09:08:16.000Z
 description: "There is a common scenario that occurs in every salon. As we know a salon doesn’t have a dedicated receptionist ."
-image : /images/blog/image-2.pngasian-young-woman-wearing-face-masks-protect-themselves-from-covid-19-during-hairdresser-using-hair-dryer-comb-black-hair-beauty-salon_73503-2086.jpg
+image : /images/blog/salons-img.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
 ---

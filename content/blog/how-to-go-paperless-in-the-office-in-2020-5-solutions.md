@@ -54,7 +54,6 @@ Now take notes digitally.
 - Use project management tools to track roadmaps and deliverables, and even allocate responsibilities across multiple devices and platforms.
 
 
-{{< figure src="/images/blog/image-325.png" >}}
 
 
 
