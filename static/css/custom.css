@@ -536,7 +536,8 @@ section {
     background-color: #fff;
     background-clip: padding-box;
     border: 1px solid #fff;
-    border-radius: .25rem
+    border-radius: .25rem;
+    margin-top: -5px;
 }
 
 .bsnav-sticky.bsnav-sticky-slide {
@@ -2066,7 +2067,7 @@ a:not([href]):not([tabindex]):hover {
     margin-left: 68px;
     letter-spacing: 0;
     font-size: 16px;
-    line-height: 137.02%;
+    line-height: 18px;
     color: #687888
 }
 
@@ -2118,7 +2119,7 @@ a:not([href]):not([tabindex]):hover {
     width: 100%;
     text-decoration: none;
     color: #292d34;
-    padding: 13px 5px;
+    padding: 20px 5px;
     z-index: 1;
     -webkit-transition: .3s;
     -moz-transition: .3s;
@@ -3417,7 +3418,7 @@ label {
     border-radius: 10px
 }
 
-.card-img-top-blog{
+.card-img-top-blog {
     width: 393px !important;
     height: 250px !important;
 }
