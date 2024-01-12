@@ -5223,3 +5223,7 @@ body .no-padding {
         display: block;
     }
 }
+
+.freetext {
+    font-size: 27px;
+}
