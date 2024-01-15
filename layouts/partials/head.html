@@ -6,14 +6,11 @@
     <title>{{ .Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1,"> -->
-    <meta name="description"
-        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-     {{ with .Site.Params.author }}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}"> {{ with .Site.Params.author }}
     <meta name="author" content="Gaurav Saini">{{ end }} {{ hugo.Generator }}
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:description"
-        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
     <meta property="og:site_name" content="Vizitor - Visitor Management System" />
     <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/vizitor2.png" />
     <link rel="stylesheet" rel="preload" href="/css/others.css">
@@ -30,11 +27,24 @@
     <link rel="stylesheet" href='{{ "/owlcarousel/owl.carousel.min.css" | absURL }}'>
     <link rel="stylesheet" href='{{ "/owlcarousel/owl.theme.default.min.css" | absURL }}'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Vizitor",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.5", // Replace with your actual rating
+                "reviewCount": "100" // Replace with the total number of reviews
+            },
+        }
+    </script>
 </head>
 
 <body>
 
-    <script lazyload>
+    <!-- <script lazyload>
         {
             image: "https://www.vizitorapp.com/images/vizitor/vizitor2.png";
             url: "https://www.vizitorapp.com/";
@@ -43,11 +53,11 @@
             headline: "Streamline your Frontdesk and Keep your workplace Safe";
             context: "http://schema.org"
         }
-    </script>
+    </script> -->
 
     <script>
         function loadGTM() {
-            (function (w, d, s, l, i) {
+            (function(w, d, s, l, i) {
                 w[l] = w[l] || [];
                 w[l].push({
                     'gtm.start': new Date().getTime(),
