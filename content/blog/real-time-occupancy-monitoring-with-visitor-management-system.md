@@ -31,4 +31,4 @@ Visitor service creates brand loyalty. If you want your visitors to return to yo
 
 The Visitor management system provides live Occupancy Monitoring in the workplace. [Visitor management software](https://www.vizitorapp.com/best-visitor-management-system-in-india) allows the workplace to accurately count and monitor the number of people in the workplace. Live Occupancy Monitoring feature reduces the spread of infection in the workplace and provides a high level of security to the visitors and employees. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

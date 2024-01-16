@@ -72,4 +72,4 @@ The Touchless check-in system sends notifications to the worker when any visitor
 
 This is the time to go touchless with the[ Touchless visitor management system](/) and reduce the spread of the virus. Vizitor is the best visitor management system in India. With the visitor management system you'll protect your workplace and provide fashionable experience to the workplace.Our [ Touchless check-in system](/) empowers your guests by allowing them to check-in through the comfort of their own personal device. This successively enables your security teams to make sure the adherence of a very Touchless and secure work environment.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

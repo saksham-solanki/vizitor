@@ -95,4 +95,4 @@ The pandemic has made it important for workplaces to enhance the hygiene level i
 
 **Let’s begin with a new change!**
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

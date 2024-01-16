@@ -40,4 +40,4 @@ Whether it's an office, co-working, school, hospital or any workplace - Vizitor 
 
 [Vizitor](https://www.vizitorapp.com/) is a smart V[isitor Management System](https://www.vizitorapp.com/visitor-management) that digitizes the entire check-in process at your workplace. Vizitor removes manual logbooks for check-ins which saves a lot of visitor's time and gives them a great experience. The platform allows organizations to manage who enter the premises and quickly take preventive measures during such emergencies.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

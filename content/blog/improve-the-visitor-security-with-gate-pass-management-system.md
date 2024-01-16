@@ -139,4 +139,4 @@ Altering the traditional ways of manual maintaining of records.
 
 Visitor gate pass management system provides a way to control, & track your organization’s visitor traffic effectively. It helps to prevent any unauthorized or unwanted person from entering the premises. The flexible architecture  Gate pass Software, like Vizitor, allows the organization to access the data they need directly. This system improves the security and productivity of the organization. If you want to know more about Vizitor, get in touch today.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

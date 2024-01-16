@@ -74,4 +74,4 @@ In [Coworker’s](http://www.coworker.com/) survey, space operators were asked t
 
 Lockdown 3.0 pays a new wave for some of the businesses to re-open their operation. But companies want rework on their location strategy and opt for coworking spaces. This creates a looming future for coworking spaces. Coworking offers more business and virtual services to satisfy the needs of the business community. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

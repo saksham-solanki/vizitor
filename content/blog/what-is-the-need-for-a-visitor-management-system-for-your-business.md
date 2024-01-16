@@ -52,4 +52,4 @@ Through with visitor management software, your reception staff can focus on thei
 
 Today's modern office should implement a visitor management system. Selecting the right one is important. In the meantime, you can have a quick look at our own **visitor management software –**[**Vizitor**](https://www.vizitorapp.com/), who has been an excellent in managing your visitors.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

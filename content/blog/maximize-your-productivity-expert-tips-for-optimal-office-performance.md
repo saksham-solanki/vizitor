@@ -169,4 +169,4 @@ Switch your businesses from traditional manual operational tasks towards digital
 Improvement in Productivity is crucial to bring better outcomes. and leads to better work management. So, try to improve your overall workforce productivity for better results using one of the most reliable solutions as Vizitor. It is a one-stop solution that streamlines your business operations while optimizing your office performance.
 Learn more about **[Vizitor](/)**.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

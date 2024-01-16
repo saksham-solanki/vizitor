@@ -57,4 +57,4 @@ The Vizitor 2.0 upgrade is broken up into 3 categories; a **pandemic-proof** and
 
 Throughout the upcoming weeks, there will be so much more information to come in regards to the Vizitor 2.0 upgrade. During the launch, Vizitor will be breaking down all of these new and improved system functionalities in much more detail to give users a full representation of the incredible new features and integrations included plus much more.**Upgrade Your system** now!!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

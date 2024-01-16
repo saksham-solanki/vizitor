@@ -137,4 +137,4 @@ It ensures to pre-register the visitors who are expected at the school premise. 
 
 The need for a [visitor management system in schools](/visitor-management-system-for-schools) is completely agreed since there is nothing more important than issues regarding school safety and security. A school, therefore, needs a VMS to cover safety, privacy, accuracy, and other similar aspects. Simply said, a high-quality visitor management system like Vizitor is a smart investment with many benefits  that can transform your school's security system  in several ways. VMS is an unavoidable asset in any educational institute.! Give your personnel and parents peace of mind by investing in software that streamlines the visitor process and keeps kids safe.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

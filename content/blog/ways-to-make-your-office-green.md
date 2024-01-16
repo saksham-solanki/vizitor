@@ -65,4 +65,4 @@ Going green is becoming an in-demand office design trend. Going green increases 
 
 These are some ways to make your office green. These ways will ensure you reduce your carbon footprint and save money in the long run. Going green is very beneficial for the workplaces. With this, you can enhance your brand with improved green standards, and reduced costs. With saving the environment, you can reap many benefits from the switch as well. It improves the efficiency and productivity of the workplace overall.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

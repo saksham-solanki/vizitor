@@ -67,4 +67,4 @@ With actionable visitor insights at your side, you can see patterns of the time 
 
 That’s it. It’s time to decide and we won’t hold you back. Selecting the best visitor management software for your business is a huge responsibility and we hope we’ve made it easier for you. In the meantime, you can have a quick look at our own **visitor management software – Vizitor**, who has been an excellent software in managing visitors.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

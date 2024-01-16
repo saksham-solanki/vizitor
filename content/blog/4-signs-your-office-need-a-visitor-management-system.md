@@ -110,4 +110,4 @@ How Digital Management System helps–
 If your organization is also facing these kinds of problems,then all these are significant signs that your organization needs a more versatile and friendly solution like Vizitor. The visitor management system that makes it easy to check in, simplest filling out forms and enables front desk staff to be conversational. With the **[Visitor Management System](/visitor-management-system/)**, visitors can immediately understand the company’s values.After implementing VIZITOR at your premises,you will soon realize how handy and easy the things become then. 
 Switch to Vizitor and make your premises more efficient.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

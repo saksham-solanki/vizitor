@@ -32,4 +32,4 @@ One of the main reasons to rent out a coworking space instead of an office space
 
 Coworking spaces are here to stay. The many benefits offered by these spaces means that they will only become more popular. People who work out of coworking spaces tend to thrive because of the sense of community of coworking spaces, the flexibility, the potential for innovation, learning and collaboration, the opportunity to build strong personal and professional relationships, and the spaces’ focus on great design and wellbeing.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

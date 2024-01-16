@@ -169,4 +169,4 @@ It's the time to end up with the conclusion that adopting a reliable and quality
 
 Go for Vizitor which offers you the security level you are wishing about. [Sign Up](/signup) for a free trial.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

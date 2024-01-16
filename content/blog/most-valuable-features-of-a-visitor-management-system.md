@@ -146,4 +146,4 @@ The Touchless visitor management system helps to secure the office from the COVI
 
 Today’s world security becomes the first security for every sector.Offices should implement a [visitor management system](https://www.vizitorapp.com/) for the security. Selecting the right one is important. The system should work well with low cost, easy to use, easy to find hardware, that can be quickly picked up at your local computer. Visitor management system provides a high level of security and enhances the productivity of the office.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

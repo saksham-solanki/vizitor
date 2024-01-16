@@ -142,4 +142,4 @@ effective than paying an actual person. It adds many benefits such as cost savin
 
 It’s clear  that automating reception tasks comes with a lot of perks and benefits. Of course, having an automated reception system sounds great.With the software that’s right for your office, the reception area can be even more efficient and smarter.Modern reception softwares allows for fast and secure self-check-in of visitors, customized greetings, instant host notifications, access control, streamlined evacuation, and improve business productivity.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

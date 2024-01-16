@@ -144,4 +144,4 @@ By leveraging these features,  [**visitor management software**](/best-visitor-m
 
 Safety and security are fundamental needs of schools in modern times. Students and teachers must feel safe to create an effective learning environment. And implementing a cloud-based Visitor Management System system like Vizitor is a crucial first step. Vizitor does not only help in data tracking/management but also provides you better control over unwanted Visitors. [**Vizitor**](/) does not only help in visitor tracking but also provides you better control over unwanted Visitors. Switch to Vizitor for a secure environment in your schools. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

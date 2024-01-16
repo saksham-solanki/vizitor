@@ -65,4 +65,4 @@ There are a number of ways you can follow to help stop the spread of germs in th
 7. If  your staff have a fever, cough and difficulty breathing then recommended them to stay home.
 8. Stay updated about COVID-19, and follow the advice given by your public health authority on how to protect yourself and your clients from COVID-19.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

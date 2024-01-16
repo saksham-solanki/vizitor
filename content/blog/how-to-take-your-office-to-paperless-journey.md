@@ -111,4 +111,4 @@ Depending on the industry you are working in, there may be a legal mandate about
 
 **"**[Sign up](https://www.vizitorapp.com/signup) with [vizitor](https://www.vizitorapp.com/) today and take it digital in just 10 minutes.**"**
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

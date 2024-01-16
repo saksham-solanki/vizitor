@@ -122,3 +122,4 @@ Hot desk booking demands the best technology. The software benefits the organiza
 
 We believe in providing quality over a trade deal. So try first! Schedule a demo with our experts. You will not be disappointed!
 
+[![save](/images/blog/premium-save.svg)](/demo)

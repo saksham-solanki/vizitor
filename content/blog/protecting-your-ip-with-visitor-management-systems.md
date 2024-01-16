@@ -125,4 +125,4 @@ Once the NDA has been signed, store a digital or physical copy of the signed agr
 
 Security of its employees  and valuable assets is the most important aspect in any organization. Implementing physical security and access control measures is an ongoing process. Visitor management will allow companies to prevent security breaches and meet compliance regulations. Try the [**vizitor**](/) to protect your assets and intellectual property at the workplace.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

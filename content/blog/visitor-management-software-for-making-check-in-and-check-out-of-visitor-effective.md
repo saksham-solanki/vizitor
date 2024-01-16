@@ -61,4 +61,4 @@ There are so many advantages of having visitor management technologies. Some of 
 
 There are so many purposes that are fulfilled by these systems. Some of them are already mentioned. This is how management systems help out people with their working.
 
- [{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+ [![save](/images/blog/premium-save.svg)](/demo)

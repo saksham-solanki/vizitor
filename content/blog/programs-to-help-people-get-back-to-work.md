@@ -45,4 +45,4 @@ Remind your staff of the opportunities they're missing out on. Although remote w
 
 Companies have invested a lot of time and money into their infrastructure to meet and surpass employee expectations. After the pandemic, we have to be more concerned about the safety of the employees. For the employees safety, it's your responsibility to establish a secure, flexible environment that encourages employees to return.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

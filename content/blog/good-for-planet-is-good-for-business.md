@@ -61,4 +61,4 @@ Showing the world that you care about who you do business with sends a positive 
 
 Vizitor is pledge to commit for the protection and prevention of environment. We embrace our responsibility to provide safe, secure workplace while doing our part to make to save environment**.**
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

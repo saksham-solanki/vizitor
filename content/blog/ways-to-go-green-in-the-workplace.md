@@ -78,4 +78,4 @@ Companies can go green with the green strategies . So here are some ways to go g
 
 Going green is very beneficial for businesses. With this, they can make a brand appear to be revolutionizing its industry with improved green standards, and reduced  costs. With saving the environment, businesses can reap many benefits from the switch as well. It improves the efficiency and productivity of the business overall.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

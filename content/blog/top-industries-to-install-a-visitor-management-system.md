@@ -35,4 +35,4 @@ Vizitor is a unique visitor management software and check-in application that no
 
 Even, corporate houses, airports and other industries are planning to install this easy system. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

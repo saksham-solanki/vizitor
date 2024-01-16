@@ -58,4 +58,4 @@ Now is a good time to make your entry to the green business world, if you havenâ
 
 Please follow us at[ https://www.vizitorapp.com/green-business-initiative](https://www.vizitorapp.com/green-business-initiative)
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

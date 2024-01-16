@@ -177,4 +177,4 @@ Vizitor gives you maximum control over who accesses your facility while complyin
 The visitor Management System simplifies the complexity related to several C-TPAT requirements. So an organization can focus on serving its international partners without concern.VMS provides the security to your company as C-TPAT.Investing in a reliable and fast Visitor Management Solution as Vizitor, will be one of the best choices to enhance your productivity as well as brand image among your competitive ones.Also it reduces your company’s liability and risk, while strengthening  your workplace security measures.
 Switch to Vizitor and be a leader!!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

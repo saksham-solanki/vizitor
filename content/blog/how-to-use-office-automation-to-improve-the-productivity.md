@@ -112,4 +112,4 @@ Early adoption of office automation technologies can provide a competitive advan
 Automation is no longer a future trend; technology is critical to success in today’s business world. Businesses that do not add automation will struggle to stay competitive. At some point in the near future, the gap between companies using automation and those sticking with manual processes will become wide. The extra money and time companies using automation save will quickly be evident in terms of quality as well as customer service.
 Want to automate and digitize your visitor management process, just simply switch to **[Vizitor](/)** and see the difference.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

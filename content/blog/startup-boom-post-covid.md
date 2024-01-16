@@ -104,4 +104,4 @@ Other than all this, we also revisited the SaaS Metrics which all the startups s
 
 I strongly feel all these simple steps if executed properly will put any startup ahead of their competitors. Everyone is facing the heat and seen revenues declining sharply, now it's not only about surviving COVID-19 but at the same time invest time intelligently on the areas which can be really productive. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

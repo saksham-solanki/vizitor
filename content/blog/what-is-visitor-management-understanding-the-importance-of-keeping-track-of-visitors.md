@@ -178,3 +178,5 @@ So, after considering the above mentioned benefits in mind, the importance of Vi
 
 Last but not the least, Digital Visitor Management Solutions contribute to smooth and hassle-free functioning of facilities. They serve as one of the most important security tools in ensuring safety in organizations. Hence, tracking visitors and guests  becomes more  vital in times of emergency.Almost every sector will benefit from having contact free check-ins and check-outs. Investing in a reliable and cost-effective solution can help meet various requirements at a central place. 
 For effective management of Visitors, try [Vizitor](/). 
+
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -121,4 +121,4 @@ Simply switch from a manual to an electronic visitor management system Vizitor.I
 Do you want to learn more about our Visitor Management System, just simply **[click here](/)**.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

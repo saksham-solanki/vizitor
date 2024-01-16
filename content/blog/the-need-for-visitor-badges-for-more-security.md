@@ -131,4 +131,4 @@ Vizitor is one of the most reliable solutions to enhance your security level usi
 If you’re interested in seeing how visitor badges can help with your office security, sign up for a free trial of vizitor.
 Get started with Vizitor today.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

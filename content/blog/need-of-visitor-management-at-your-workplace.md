@@ -46,4 +46,4 @@ When visitors arrive to your office, they are signed in using a tablet device(iO
 
 Therefore, a good visitor management software is able to ensure safety of the user’s premises and provide accurate information on the visitor's visits whenever required. These elegant modern visitor management solutions help in smooth management of visitors and their visits,  ensures data security and user’s safety as well thereby gaining popularity with each passing day.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

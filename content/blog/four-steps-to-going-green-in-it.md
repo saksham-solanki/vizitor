@@ -69,4 +69,4 @@ There's another tool called Greenhouse, that will analyze your pages and check o
 
 You can also check The [**Green Web App**](https://www.thegreenwebfoundation.org/) to check if your website is hosted on a server that runs on green energy or not. Unfortunately, not many of the hosting providers run on renewable energy. So if you scan your website it probably will end up in gray, which means that the green web app has not the relevant information about your hosting providers.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

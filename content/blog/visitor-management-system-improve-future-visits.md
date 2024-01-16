@@ -149,4 +149,4 @@ With our digital [**visitor management system**](/best-visitor-management-system
 So,future visits are no longer just a nice-to-have, but a must-have for modern enterprises' visitor management. From creating lasting impressions and collecting valuable data to fostering trust and loyalty, future visits are the key to unlocking success in today's competitive business landscape. Employ above  tips to streamline the check-in process for your guests and simplify administrative tasks for your staff, ultimately improving the overall visitor experience.
 So,implement our reliable [**visitor management system**](/visitor-management-system/) Vizitor to create a smooth and hassle-free check-in process. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

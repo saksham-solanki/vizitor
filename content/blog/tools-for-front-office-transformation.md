@@ -58,4 +58,4 @@ An online knowledge base is the body of questions, answers, documentation, best 
 
 To know more about the visit us at [https://www.vizitorapp.com/](https://www.vizitorapp.com/)
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

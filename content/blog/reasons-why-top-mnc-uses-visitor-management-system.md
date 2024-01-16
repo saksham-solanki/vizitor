@@ -60,4 +60,4 @@ Many organisations have ventured down the Digital Transformation route to avail 
 
 The [visitor management system](https://www.vizitorapp.com/) helps to improve the security of the organization.There are many ways a visitor management system can help make tracking, monitoring, and reporting processes faster and easier for utility companies. Vizitor does not only speeds up the whole check-in process, it also guarantees the safety of your guests and ensures the security of your premises.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -125,4 +125,4 @@ Track workplace analytics to learn which clients visit most often, which days of
 -
 Remember to continuously assess and adjust your client experience strategy based on feedback and data. Regularly seek input from clients and analyze workplace analytics to identify areas for improvement. By constantly striving for excellence in client experience, you can stay ahead of the competition and drive success for your business.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

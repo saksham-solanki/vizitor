@@ -116,4 +116,4 @@ It is clear that companies should employ a optimal visitor management solutions 
 
 So,go for a secure and best Visitor Management solution like Vizitor to make your facility compliant and efficient. [Vizitor](/) enhances workplace  security, ensure legal compliance, make management process seamless and much more.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

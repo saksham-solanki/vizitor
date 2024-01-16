@@ -43,4 +43,4 @@ By using a visitor management system, your check-in process allows for better da
 
 Managing a large number of visitors at the hospitals can be a challenging task. Further, they must keep a close eye on who is entering the facility and their reason for the visit. If the hospital management does not have a digital process in place for visitor management, it often causes inconvenience to the visitor. By adopting [Vizitor](https://www.vizitorapp.com/) for healthcare organisations has the ability to manage all the facilities, meet the compliance needs and ensure timely sign-in while simultaneously giving affordable costs.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

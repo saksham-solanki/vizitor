@@ -120,4 +120,4 @@ Corporate office security is no longer just about physical measures such as acce
 It is a top priority for organizations in the modern era, and visitor tracking has emerged as a powerful tool to enhance security measures. Embracing visitor tracking as part of the overall security strategy can help modern companies stay ahead of security threats and create a secure environment in their corporate offices.
 Don't leave your corporate office security to chance - unlock the power of visitor tracking and elevate your security measures to new heights!Just switch to [**Vizitor**](/) and revolutionize your visitor tracking process.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

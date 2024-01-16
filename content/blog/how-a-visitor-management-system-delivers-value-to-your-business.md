@@ -121,7 +121,7 @@ Replacing the paper-based visitor registration process with a digital visitor ma
 Switch to Vizitor to to enhance your office productivity and efficiency.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 
 
 

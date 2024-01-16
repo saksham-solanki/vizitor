@@ -57,4 +57,4 @@ Now there is no need to maintain traditional visitor log books at the front desk
 
 **Let's start the paperless and digital journey with the [free trial](https://www.vizitorapp.com/signup) of vizitor!**
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

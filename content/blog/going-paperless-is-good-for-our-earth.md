@@ -53,4 +53,4 @@ Yes you are reading right!! Paperless environment reduces the transport. When a 
 
 In conclusion, this is not just the use of paper that has a bad impact on the environment. Some of the other chemicals that are used for the paper are also harmful to our environment. Go paperless today and start a [free digital system trial ](https://www.vizitorapp.com/signup)or [learn more](https://www.vizitorapp.com/) about this system's advantages of going paperless.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -49,4 +49,4 @@ Staff is your best investment, because these people are the ones who are creatin
 
 To succeed the salon follows the best ways to grow your business. Eliminate the things that aren’t working. Provide the best services to the clients. But with this all thing you have to focus on the security of the visitors and staff. To avoid the spread of the virus, just implement the visitor management system to manage the clients in the digital way. T**o Secure your Salon from COVID-19**, [Click here](https://www.vizitorapp.com/blog/how-to-secure-your-saloon-from-covid-19/)!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

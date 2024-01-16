@@ -56,4 +56,4 @@ Finding a visitor management solution that meets all of those requirements sound
 
 The organization hasn’t yet experienced compliance issues or incidents due to an outdated visitor management system. Regardless, visitor management software is a safety and compliance requirement for any surveillance team. Visitor management needs to be more than a logbook. Rather, it should provide visibility, enable compliance, and facilitate communication with receptionist and security staff. Add a visitor management system to your compliance, risk, and incident management playbook to protect your business more effectively.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

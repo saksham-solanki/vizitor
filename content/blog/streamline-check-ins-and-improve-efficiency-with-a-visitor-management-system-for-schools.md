@@ -126,4 +126,4 @@ So, the Visitor Management System is one of the best and optimal solutions to en
 So, it is clearly concluded that the Visitor Management System helps the schools to deliver students a more effective and seamless academic experience while automating their day-to-day necessary operations. [Visitor Management System](/best-visitor-management-system-in-india) like Vizitor, is certainly a best, reliable, cost and time-effective solution to improve and enhance efficiency of schools and colleges. There is a crucial need to safeguard staff and students from [COVID](/visitor-covid-screening). The solution allow school facilities to do this with ease. 
 Go for Vizitor to implement the best Visitor Management system for Schools. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

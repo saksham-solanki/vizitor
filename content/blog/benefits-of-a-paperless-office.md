@@ -163,4 +163,4 @@ It's time for businesses to embrace the benefits of a paperless office and take 
 Just switch to **[Vizitor](/)** from your traditional paper-based system and make your premises more efficient and organized. 
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

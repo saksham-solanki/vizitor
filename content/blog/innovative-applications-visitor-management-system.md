@@ -164,4 +164,4 @@ Visitor Management Systems are traditionally used in lobby settings to manage an
 If you are planning to get a management system for your company premises, contact [**vizitor**](/).— an efficient visitor management system provider for service and reliable performance.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

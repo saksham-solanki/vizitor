@@ -65,4 +65,4 @@ To the safety of the workplaces, employees and visitors, you should oversee regu
 
 In conclusion, where organizations are uncertain with surrounding  COVID-19, so  you have to strive to  maintain healthy employee distancing. With this you can  implement the health and safety controls and adapt the work environment to the new norm. So start to transform your workplace safety with a [Touchless visitor management system](https://www.vizitorapp.com/).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

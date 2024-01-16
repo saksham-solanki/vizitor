@@ -41,4 +41,4 @@ Visitor management system for a co-working space is a software that automates th
 
 [Visitor management system](https://www.vizitorapp.com/) is a high-tech way to check in and manage visitors coming to your co-working space is a giant step to five-star service paving the way to prosperity, growth, and development. So are you still waiting to replace the paper-based manual system into the digital system? If you want to manage your visitors efficiently and enhance your productivity then go for digital with ****[Vizitor’s free trial!!](https://www.vizitorapp.com/signup)****
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

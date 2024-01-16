@@ -138,5 +138,5 @@ Undoubtedly, [**visitor management**](/best-visitor-management-system-in-india/)
 In today's world, sustainability has become a critical priority for businesses and organizations. By adopting sustainable practices, organizations can reduce their environmental impact, improve operational efficiency, enhance security, and promote positive social change.
 So, why wait? Join [**Vizitor**](/) in building a sustainable future today! Contact us to learn more about our Visitor Management System and how it can benefit your organization and contribute to a better tomorrow. Together, let's create a greener and more sustainable world for generations to come.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 

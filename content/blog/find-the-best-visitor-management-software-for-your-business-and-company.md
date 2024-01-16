@@ -43,4 +43,4 @@ The following steps are mentioned below, or the working of the visitor managemen
 
 This is how this visitor management systems work. Therefore, these systems are very much useful for maintaining details and should be used by people for different kind of purposes.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

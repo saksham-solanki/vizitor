@@ -69,4 +69,4 @@ It's always a good idea to support local businesses, especially those that are e
 
 Small changes can have a big impact on our planet when it comes to making it a better place. By incorporating some of these ideas into your workplace, you can foster a green workplace culture that will inspire your entire team.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

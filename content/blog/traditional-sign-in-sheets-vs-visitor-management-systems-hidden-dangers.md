@@ -173,4 +173,4 @@ A digital VMS, on the other hand, can be tailored to meet the unique requirement
 A visitor management system like Vizitor can overcome the hidden flaws and drawbacks of traditional sign-in sheets by providing accurate data, real-time tracking, data privacy, efficient check-in, and comprehensive reporting and analytics. Digital visitor management systems can be customized to fit the needs of any business. Vizitor is one of the best digital Visitor Management solutions to overcome the challenges of traditional sign-in methods to enhance security among enterprises.
 So, switch to [**Vizitor**](/) for a  secure workplace. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

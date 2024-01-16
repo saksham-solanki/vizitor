@@ -123,5 +123,5 @@ MNCs from various industries have successfully implemented [**visitor management
 
 To discover the potential benefits of [**Vizitor**](/) for your organization, feel free to contact us without delay.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 

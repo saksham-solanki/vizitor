@@ -77,4 +77,4 @@ Here are some questions that ask before making a final decision.
 
 Wrapping up all the above, you would want to use a [visitor management system](https://www.vizitorapp.com/) to make an impression on your customers, to streamline procedures at reception, and enhance security of the enterprise.[Visitor management system](https://www.vizitorapp.com/) featuring top-notch security, utmost compatibility with all services, apps, and programs you utilize, and alert system for each of your employees or co-working members. A high-tech way to check in and manage visitors to your co-working space is amazing service.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

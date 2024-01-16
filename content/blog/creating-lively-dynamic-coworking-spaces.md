@@ -50,4 +50,4 @@ A seamlessly functioning workspace – well maintained air-conditioning, ample p
 
 As the coworking industry continues to evolve and expand into new markets, the demand for shared office space shows no signs of slowing down. With so much on offer and that too at affordable price points, there is no reason why coworking spaces will not attract young and innovative minds. As a result, with each passing day, they are growing and rising in popularity all over the world!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

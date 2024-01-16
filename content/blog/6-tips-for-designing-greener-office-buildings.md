@@ -53,4 +53,4 @@ Before someone in your office hits that “print” button they need to make sur
 
 Before you try to make any major changes to take your office to the green side of business make sure that you are following all the safety regulations of your building. These regulations are there to ensure the safety of your building. Following the above mentioned points will ensure that your business has a reduced carbon footprint and will help you in saving money in the long run as well.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

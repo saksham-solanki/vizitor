@@ -19,4 +19,4 @@ authorsImage: /images/authors/author.svg
 
 *Hence adapting to modern visitor management solutions has become an important liability for young business owners and other organisations lacking security. It will automate your workspace entrance that will ultimately boost operational efficiency of the staff, impress the intruders and win their trust. Visitor management system is a one stop solution for all your office and workspace security needs. From welcoming the customer to tracking his whereabouts inside the premises leave it all on the Visitor management system. Installing one of the [best vistor management solutions](https://www.vizitorapp.com/) available instead of a staff person as a receptionist, is a feasible and cost efficient solution that will increase customer volume and increase revenues in every possible way.*
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

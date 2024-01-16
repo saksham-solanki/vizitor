@@ -201,4 +201,4 @@ Looking for a reliable Visitor Management System to go paperless and eco-friendl
 
 Learn more about Vizitor, Just [Click here](/).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

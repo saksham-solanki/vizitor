@@ -145,4 +145,4 @@ Hence, the Visitor Sign-in System is fully integrated with numerous benefits and
 Every facility whether small or large always looks ahead to innovative and potential solutions that add value to their business.At last,today's high-tech Visitor Management Solutions not only emphasize security, convenience, experience, and analytics, but also enhance your productivity and brand reputation.
 If you want to digitize your signing process, then go for Vizitor Sign Up.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

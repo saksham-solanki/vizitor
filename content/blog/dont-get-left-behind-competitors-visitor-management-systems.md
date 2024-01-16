@@ -145,4 +145,4 @@ Vizitor helps to maintain a secure environment by verifying the identity of visi
 So,it becomes clear that technology and digitization  is critical to success in today’s business world. Businesses that do not use digital visitor solutions such as Vizitor  will struggle to stay competitive. At some point in the near future, the gap between companies using these systems and those sticking with manual processes will become wide. 
 In the meantime, you can have a quick look at our own visitor management software – [**Vizitor**](/), which has been an excellent software in managing your visitors and stay competent with your competitors.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

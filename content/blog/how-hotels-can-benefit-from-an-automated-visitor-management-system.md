@@ -27,4 +27,4 @@ Such systems/software increases efficiency and visibility. A good visitor manage
 
  In all, vizitor is an essential asset for a hotelier that will improve efficiency of attending guests, secure visitor registration process, automate sign-in, print badges and interact through notifications.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

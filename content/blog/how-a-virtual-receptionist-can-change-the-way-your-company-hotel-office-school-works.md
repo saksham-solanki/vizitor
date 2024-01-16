@@ -89,4 +89,4 @@ Vizitor as a virtual receptionist installed helps you in having a modernized rec
 
 If you’re a small or large business looking to grow, you’ll need a virtual receptionist (visitor management system) — with the virtual receptionist system managing visitors at your workplace and providing high-level security to your workplace. Choose a virtual receptionist who knows your business well.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

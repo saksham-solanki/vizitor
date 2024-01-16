@@ -80,4 +80,4 @@ As we all continue working to build a COVID-19 safe workplace. Organizations are
 
 Where we are preparing our-self for COVID-19 free and taking precautions to stay safe. There we also need to prepare our workplaces more securely than before. Make your workplace contactless with Vizitor. For workplace safety, join the [vizitor](https://www.vizitorapp.com) “**Go Digital**” mission  with [Vizitor’s trial](https://www.vizitorapp.com/signup).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

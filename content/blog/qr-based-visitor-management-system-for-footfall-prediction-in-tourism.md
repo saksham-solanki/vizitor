@@ -190,4 +190,4 @@ Hence, it becomes clear and fair that the tourism industry is a major contributo
 Implementing Vizitor is one of the perfect solutions to make your traveling experience more fantastic and flawless.Just enjoy your trip without worrying about any safety related issues. Vizitor, a one-stop solution, is here to serve.
 Learn more about [Vizitor for the tourism industry](/visitor-management-in-tourism/).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -71,4 +71,4 @@ A [visitor management solution](/), in addition to serving as a digital receptio
 
 With all of the benefits listed above, it is critical that hotels implement a visitor management system and reap the benefits. With the advent of the digital age, introducing software that can automate rudimentary processes can help not only save employees' time but also increase the functionality of your hotel.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

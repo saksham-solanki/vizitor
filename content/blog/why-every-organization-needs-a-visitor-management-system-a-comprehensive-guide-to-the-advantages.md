@@ -151,4 +151,4 @@ With a number of advantages of the visitor management system, it is clear that t
 This is why a visitor management system like [Vizitor](/best-visitor-management-system-in-india) is something that you should take time to explore and it can assist you in meeting a wide variety of your visitor management needs.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -197,4 +197,4 @@ Leah Lawrence says - I love how simple, yet very efficient HubSpot CRM is. The a
 
 The right Business Management System for your business should be highly compatible, flexible, easy to use, and integrated with existing business tools. The right business tools can help streamline processes and enable more efficient management of time and resources. Vizitor is a great business management system with a suite of powerful business management tools at a wallet-friendly price. Please contact us for any queries you might have. We would love to extend this conversation forward!!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

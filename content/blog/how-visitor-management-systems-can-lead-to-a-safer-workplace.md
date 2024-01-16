@@ -61,4 +61,4 @@ With the Visitor Management system,you can get the details of visitors on-site. 
 - By using a Visitor Management system, you'll have detailed records of who was on-site at the time of your emergency.
 - Visitor Management system saved precious seconds and increased workplace safety again, even in the face of danger.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

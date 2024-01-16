@@ -70,4 +70,4 @@ Now take notes digitally.
 
 In conclusion,the advances in smart technology can make the switch to a paperless office not only doable but easy.As we know creating a paper-free office is an ongoing process, one which should be adapted and perfected over time.This is the time to implement some digital tools to show your team how effective they can be in achieving your paperless goals, all while improving productivity.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

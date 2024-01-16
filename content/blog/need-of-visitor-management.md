@@ -37,3 +37,5 @@ How it works
 - **Eviction of paper logs:** With the paper registers, searching for a month or few weeks back data is cumbersome task. Moreover, you will have no clue whether your search result (if you manage to find one) is accurate and that is what you actually were searching for. However, with digital visitor management softwares serving at your reception, searching for an old visitor data is like a cakewalk and always 100% accurate. 
 
 Therefore, a good visitor management software is able to ensure safety of the user’s premises and provide accurate information on the visitor's visits whenever required. These elegant modern visitor management solutions help in smooth management of visitors and their visits,  ensures data security and user’s safety as well thereby gaining popularity with each passing day.
+
+[![save](/images/blog/premium-save.svg)](/demo)

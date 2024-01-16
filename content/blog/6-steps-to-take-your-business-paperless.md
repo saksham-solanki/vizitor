@@ -75,4 +75,4 @@ By following the ways outlined above in the article, you can simply get your bus
 
 By following the steps and tips outlined above, you can get your business’s document overload under control and have started to become a better, more efficient company.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

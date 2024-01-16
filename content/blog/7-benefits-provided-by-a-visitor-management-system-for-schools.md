@@ -29,4 +29,4 @@ So different badges can be designed for different purpose which brings a lot of 
 
 There are end number of benefits that VMS can serve to school for a sound safety.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

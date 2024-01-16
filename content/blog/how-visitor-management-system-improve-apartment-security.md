@@ -125,4 +125,4 @@ Security is the main concern in every sector. The **[Visitor Management System](
 This is the time to say bye to the manual system and use the visitor management system  **[Vizitor](/)** that provides the modern experience to the visitor.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

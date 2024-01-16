@@ -29,4 +29,4 @@ When it comes to visitor management software, one should not think twice and sel
 
 8.     So, to conclude one must definitely try it, analyse it and make a decision next.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

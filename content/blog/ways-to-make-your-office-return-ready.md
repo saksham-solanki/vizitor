@@ -74,4 +74,4 @@ Implementing the social distancing practice by allowing managers to manage their
 
 The visitor management system helps organizations in redefining their return-to-work strategies while keeping their specific needs in mind. The majority of businesses choose [**Vizitor**](https://www.vizitorapp.com/) to shape the future of workplaces by deploying secure, intelligent, and user-friendly solutions. Create a paperless and digital environment in your organisation. Solutions ranging from hot-desking to visitor management systems are being developed with the goal of increasing modern business productivity and preparing it for the future of work.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

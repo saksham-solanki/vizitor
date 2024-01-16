@@ -60,4 +60,4 @@ The days of calling someone at their desk to inform them that their candidate is
 
 When candidates have finished the interview, you can leave them with a favourable impression of your company. Providing an amazing experience can increase the value of the company's brand. We can't control the interview, as we all know, but you can help to create an experience that will make you stand out to every candidate who visits your workplace.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

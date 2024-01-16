@@ -175,7 +175,7 @@ Eco-friendly schools save money. Going green in the school, we can save money. T
 Finally,it comes to the conclusion that the only way to preserve our earth and its beauty is by reducing our energy consumption and adopting green habits.Being green not only makes our schools green but also takes care of the world around us. The above discussed practices not only promote a sustainable, environmentally beneficial atmosphere but also promote a healthy environment for students. Implementing Visitor Management Software such as Vizitor helps schools in going green and more eco-friendly. Vizitor is the most reliable and easy to use software based on touchless technology which makes your workplaces more green and paperless. 
 Switch to Vizitor for a green and clean school.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 
 
 

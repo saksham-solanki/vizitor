@@ -39,4 +39,4 @@ As a crucial step during any emergency, is to facilitate the correct information
 
 Visitor management systems allow organisations to respond to unpredicted situations like a disease outbreak. It authorises security to have greater knowledge and control over who enters their premises, and to take preventative actions that would minimize coronavirus spread.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

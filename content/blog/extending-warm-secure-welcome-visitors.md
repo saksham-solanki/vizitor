@@ -118,4 +118,4 @@ After customers have checked in using the visitor management system, express gra
 The first impression of your company is the greeting. You can greet them professionally, win their hearts, put them at ease, and encourage repeat business with the best software. If you greet customers with a warm smile as soon as they enter the building and assign them to a competent employee to solve their problems, you’ll quickly have a large number of repeat customers.Remember, a warm and genuine welcome can set the tone for the entire visit and leave a lasting memorable impression.
 Our consistent and efficient Visitor Management System makes the whole welcoming atmosphere more engaging and unique. So, just switch to Vizitor to extend a warm and professional welcome to your customers.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

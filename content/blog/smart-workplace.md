@@ -100,3 +100,6 @@ Simplify your workplace management with an all-encompassing workplace management
 Maximize equipment utilization using workplace management tools. These solutions provide insights into space usage, employee schedules, and resource allocation, allowing your organization to make informed decisions that enhance efficiency and cost-effectiveness.
 
 Remember that integrated technology has been in the market for a long. Resting at our homes, like Siri on Apple devices or Alexa in our homes. So now teh shift has been directed towards teh workplace. We are creating a well-informed workforce that could benefit organizations. One such smart workplace solution is [Vizitor](/). We believe in providing efficient results. This could help our customers trust us and believe in what we stand for. [contact](/) us today!
+
+
+[![save](/images/blog/premium-save.svg)](/demo)

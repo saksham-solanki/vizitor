@@ -163,5 +163,5 @@ Collect and analyze your visitors data to get better insight over time.It is man
 Companies can improve facility safety and compliance by investing in digital visitor management systems. At the same time, it lowers administrative and overhead costs.Through this, the guests and office staff are safeguarded.There are a variety of options available if you want a clear picture of who is on-site at any given time, ranging from simple check-ins to integrated visitor management systems.Investing in a convenient Visitor Management System as Vizitor produces a huge impact on security and ensure that data is not compromised by any inappropriate data handling methods.
 Switch to Vizitor for overall security of your workplace.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 

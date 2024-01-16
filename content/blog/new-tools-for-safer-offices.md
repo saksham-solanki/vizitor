@@ -50,4 +50,4 @@ Due to pandemic, most workplaces are happening completely digital these days. Bu
 
 For even more security and convenience, workplaces have to use the Touchless visitor management system. Because we have to stop the diseases from the main door of the workplace. With this way we can save our entire workplace. To know more about this Touchless system just [Sign up](https://www.vizitorapp.com/signup) here or book a [Demo for free](https://www.vizitorapp.com/demo)!!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

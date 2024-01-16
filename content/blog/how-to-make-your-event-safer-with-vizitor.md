@@ -99,4 +99,4 @@ Visitor management system hosts a successful event. As more organizations host t
 
  To learn more about vizitor, [request a demo](https://www.vizitorapp.com/signup) today.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

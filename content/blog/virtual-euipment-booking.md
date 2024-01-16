@@ -85,3 +85,4 @@ Businesses will experience cost savings through optimized equipment use and impr
 
 The use of equipment is inevitable, so you have to manage your company equipment strategically. The ideal way is to invest in equipment management software like Vizitor. We deal in high-tech software like space management systems, [Vizitor](/) management software, etc. We believe in delivering quality, not a trade deal! Start your [free trial](/signup) today 
 
+[![save](/images/blog/premium-save.svg)](/demo)

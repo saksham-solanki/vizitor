@@ -66,4 +66,4 @@ A Touchless check-in system can effectively manage visitors on arrival while sav
 
 It’s crucial to minimize physical contact to keep your workplace safe. Touchless technologies like QR codes, automatic washing fixtures, and touchless visitor management systems will help you achieve this goal. Vizitor- [visitor management system](https://www.vizitorapp.com/) comes with a range of features including contactless sign-ins and contact tracing to screen visitors. You can manage visitors and automate manual sign-in processes to keep your workplace safer and healthier.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

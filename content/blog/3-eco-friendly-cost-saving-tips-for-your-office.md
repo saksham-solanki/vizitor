@@ -20,8 +20,7 @@ Organizations are always searching for ways to minimize the unnecessary expenses
 - Work remotely is a great recruiting process. Employees increasingly value jobs that let them do their work on their own terms.
 
 
-{{< figure src="/images/blog/image-195.png" >}}
-
+![Permit the remote](/images/blog/image-195.png)
 
 
 ### #Switch to Cloud Computing:-
@@ -32,8 +31,7 @@ Organizations are always searching for ways to minimize the unnecessary expenses
 - To manage the visitors, many organizations are still using the paper-based system so let's reduce the paper-based cost by replacing your system with a cloud-based system.
 - When it comes to visitor management software, one should not think twice and select cloud based software. Vizitor is a cloud-based visitor management solution which caters to businesses such as salons, offices, universities, hotels, airports and hospitals.
 
-{{< figure src="/images/blog/image-196.png" >}}
-
+![Switch to Cloud](/images/blog/image-196.png)
 
 
 
@@ -46,8 +44,7 @@ Organizations are always searching for ways to minimize the unnecessary expenses
 - There is the one of the best way to save paper at your office front desk. You can save  a lot of paper, just using the digital visitor management system.
 
 
-{{< figure src="/images/blog/image-197.png" >}}
-
+![Go Green and paper-free](/images/blog/image-197.png)
 
 
 
@@ -55,4 +52,5 @@ The Touchless visitor management system provides the real-time list of visitors 
 
 Want to learn more about [vizitor](https://www.vizitorapp.com/)! Then click here to check out the features. If you have seen the [vizitor's features](https://www.vizitorapp.com/features) then click here to [request a demo](https://www.vizitorapp.com/demo-requested).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+
+[![save](/images/blog/premium-save.svg)](/demo)

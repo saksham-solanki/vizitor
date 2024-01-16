@@ -45,4 +45,4 @@ Office safety and health is not all about safety incidents and their related cos
 
 A visitor management system doesn’t replace your alarm system, security cameras, but it can significantly reduce your risk of outsiders gaining unauthorized access to your premises, your equipment, and your information.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

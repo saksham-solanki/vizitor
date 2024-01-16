@@ -149,4 +149,4 @@ Remember, small changes can make a big difference, so start by investing in our 
 
 If you want to leverage the unexpected advantages of our solution, just go with a free, personalized demo by **[clicking here](/)**.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

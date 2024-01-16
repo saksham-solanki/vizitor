@@ -70,4 +70,4 @@ After filling out all the required details visitors and employees will be issued
 
 **In conclusion**, during the corona-virus pandemic, it's really important to screen each and every visitor that comes into the hospital.The Solution is a [Touchless visitor management system for hospitals](https://www.vizitorapp.com/touchless-visitor-management-system). This software is a complete system for  hospitals to enable your front desk to be fully ready and prepared to manage visitors through various screening processes, while keeping facilities, employees, and their data safe and secure.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

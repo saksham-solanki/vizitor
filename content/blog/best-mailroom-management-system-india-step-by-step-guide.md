@@ -103,4 +103,4 @@ In conclusion, Vizitor's innovative mailroom management system offers an efficie
 
 Vizitor's software streamlines the entire package management process, making it easy to match packages with their intended recipients seamlessly, improving the overall employee experience. With features like time-saving automation, enhanced organization, and improved security, Vizitor's mailroom management system is the perfect solution for organizations looking to modernize their mailroom processes.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

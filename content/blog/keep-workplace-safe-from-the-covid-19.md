@@ -63,4 +63,4 @@ The [visitor management system](https://www.vizitorapp.com/) prevents Coronaviru
 
 The visitor management system has upgraded itself with Touchless technology and become the best system to prevent the spread of viruses. These effective systems not only consider security but also offer reliable features for curbing the Coronavirus pandemic. Let's make our workplace free from virus with the Touchfree visitor management system. Start your Touchless journey with [Vizitor's signup](https://www.vizitorapp.com/signup).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -44,4 +44,4 @@ Vizitor, let you welcome your visitors and employees with a contactless check-in
 
 Do you want to make your visitor experience a safe? Try the Touchless visitor management system, tap here to book a free demo. Visitors can check-ins without any touch. This system is the best way to stop the spread of the virus. This [Touchless check-in system](/) empowers your visitors by allowing them to check-in via the comfort of their own device. This successively enables your security teams to make sure the adherence of a very Touchless and secure work environment.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

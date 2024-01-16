@@ -166,4 +166,4 @@ So, it becomes clear that most companies nowadays go for  modern visitor registr
 Lastly, create a touch-free and seamless sign-in process for your visitors implementing the best Visitor Registration System,Vizitor.
 developed for the visitors who visit a workspace. [Vizitor](/), a visitor registration system is powered up for a seamless, smart & secure visitor experience. So, go for it!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

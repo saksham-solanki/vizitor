@@ -55,4 +55,4 @@ There are so many different purposes that can be fulfilled by these management s
 
 These management systems are very much effective for different kind of purposes that’s why these management systems should be used out by people. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -93,4 +93,4 @@ Some of the benefits of opting for a visitor management system in the offices ar
 
 In conclusion, every sector needed a Touchless visitor management system for safety and security. The safety is started from the main gate. Secure your front desk with Vizitor-visitor management system.If you are planning to get a management system for your company premises, contact vizitor.— an efficient **[visitor management system](https://www.vizitorapp.com/)** provider for service and reliable performance.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

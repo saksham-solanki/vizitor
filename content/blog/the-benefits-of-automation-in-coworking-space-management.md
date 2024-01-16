@@ -170,4 +170,4 @@ Automation guarantees that your data is error-free and accurate. With accurate u
 
 Overall, the concluding fact is that automating your shared workspace saves a huge amount of time and resource utilization. Nobody can deny that it need time and energy to nurture and maintain  human touch and collaborative atmosphere for members to come and stay for long. Shifting your focus towards an easy-to- use Visitor Management Solution as **[Vizitor](/)** can make this job more comfy and seamless. So, go for Vizitor for an automated working space. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

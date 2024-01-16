@@ -140,4 +140,4 @@ More and more business organizations are now opting for managing their visitor f
 No matter the size of your business, the system is adaptable and customizable. 
 Switch to [**Vizitor**](/) for offering a seamless visiting journey to your visitors.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

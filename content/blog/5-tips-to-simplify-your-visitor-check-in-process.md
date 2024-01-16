@@ -89,4 +89,4 @@ Many businesses do the pre-process for their visitor comfort like pre-reservatio
 
 Simplifying your visitor registration process not only benefits your visitors, it contributes to the overall productivity of your workplace as well. This system provides a streamline experience to your visitors. With this system you can enhance the efficiency of the workplace from the front desk. Then why are you waiting? Go ahead and for this experience, visit the “[Vizitor](https://www.vizitorapp.com/)- The best visitor management system in India” and explore it.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

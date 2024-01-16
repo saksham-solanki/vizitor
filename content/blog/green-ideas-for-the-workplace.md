@@ -52,4 +52,4 @@ Over recent years, businesses have been increasingly keen to demonstrate their g
 
 Please visit us at [https://www.vizitorapp.com/green-business-initiative](https://www.vizitorapp.com/green-business-initiative)
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

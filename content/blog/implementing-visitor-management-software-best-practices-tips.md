@@ -112,4 +112,4 @@ Having a well-defined visitor management solution for both your employees and vi
 ## Endnote !!
 Implementing a no-touch technology such as touchless visitor management system  helps protect your workplace from security threats and thus making your office environment more productive and secure.With the current digital technology, considering a affordable and integrated Visitor Management Software is necessary to eventually improve performance and efficiency.So,make a call for a best visitor management system.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -57,4 +57,4 @@ Eco schools can go creative and crafty. Students can bring the old objects and u
 
 These are the best ways to make your school green, as mentioned above. These steps have to start from the primary schools so that students can achieve Social Responsibility.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

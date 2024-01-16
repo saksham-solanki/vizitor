@@ -106,3 +106,4 @@ Efficient office room booking goes beyond just internal meetings; it also involv
 
 These crucial ways help in improving room booking at your offices. So, being a business owner, you need robust meeting room booking management. The ideal way is to choose Vizitor, a **meeting room management software** that can solve all your space booking problems. We believe in delivering quality not a trade deal! Try [Vizitor](/) Today!
 
+[![save](/images/blog/premium-save.svg)](/demo)

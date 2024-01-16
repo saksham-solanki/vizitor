@@ -154,4 +154,4 @@ A visitor management system can improve security by screening visitors and captu
 Digitizing the workplace takes you a step ahead making your workplace modern and agile. Building a digital workplace will undoubtedly bring more creativity and productivity outcomes. Digitalization is not just a way to improve skills but it is also a great way to provide a new and be a positive addition to the workplace. Investing in a convenient Visitor Management System as Vizitor which  revolutionizes your operational tasks while making your workplace more sustainable and secure. 
 Switch to [**Vizitor**](/) for a sustainable workplace. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

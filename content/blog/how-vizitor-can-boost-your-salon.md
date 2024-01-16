@@ -41,4 +41,4 @@ Yes, a [visitor management system](https://www.vizitorapp.com/) is the best alte
 
 At the end we want to say that stylists and other staff adore the simplicity of this system, guests will be happy with the immediate service and you’ll also love that you can keep a better track of what’s going on in your salon, even when you aren’t there.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

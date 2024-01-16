@@ -169,4 +169,4 @@ Above are just a few of the best practices to handle your visitors and guests in
 Overall, peak hours /days make visitor management a lot more challenging for company managers. But what was discussed, the benefits of having automated tools such as visitor management software can significantly help companies handle a large volume of visitors. 
 It also promotes workplace safety  and ensures effective tracking of visitors coming in and out of the workplace.It's time to discard your traditional paper-based visitor log book and upgrade to [**Vizitor**](/). If you want to leverage the unexpected advantages of our solution, just switch now to learn more about  Vizitor.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

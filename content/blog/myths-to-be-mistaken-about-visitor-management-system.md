@@ -52,4 +52,4 @@ It has never been our intent to replace a human being with the visitor managemen
 However, the majority of our customers use our software to handle the  process of checking in guests and alerting staff of a visitor's arrival.
 Hopefully this blog has helped you along your decision-making process. If not, why not try one yourself completely free plan and find out for yourself. You can also start a [15-day free trial](https://www.vizitorapp.com/signup) by clicking [here](https://signinapp.com/trial). Alternatively, if you want to find out more about the check-in app.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

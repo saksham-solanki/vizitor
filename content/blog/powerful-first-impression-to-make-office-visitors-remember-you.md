@@ -154,6 +154,6 @@ You can see the features in action with a free, personalized demo by **[clicking
 
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 
 ‌‌

@@ -103,4 +103,4 @@ Digitizing your visitors' sign-in experience will not only impress them as they 
 
 The extra effort and luxury do not increase company productivity. Simply improve the workplace's authenticity. Making a few simple changes to your workplace will do wonders for the culture of your company. It will also assist you in attracting and retaining your best employees. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

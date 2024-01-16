@@ -108,4 +108,4 @@ The manual system is not safe enough and also slowed down the productivity of th
 To avoid the spread of COVID-19, the Touchless visitor management system reduces the spread of the virus. Our Touchless visitor management system empowers your visitors by allowing them to check-in through  their own mobile device. So this time to go Touchless and make your work environment secure.
 Let's start this Touchless journey with **[Vizitor's free trial](https://www.vizitorapp.com/signup)**!!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

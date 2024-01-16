@@ -122,4 +122,4 @@ Overall, the Vizitor  streamlines the process of managing visitors, provides a h
 In conclusion, the human side of digitization must be considered when implementing new technology, and companies must find ways to balance automation with employee well-being and productivity. Companies must balance the need for automation with the need to support their employees. [**Vizitor**](/) helps in ensuring that the workplace is safe, secure, and organized to improve employees' performance while streamlining  the process of managing visitors, provides a higher level of security.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

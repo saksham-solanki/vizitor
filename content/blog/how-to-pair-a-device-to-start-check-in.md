@@ -30,4 +30,4 @@ Step 7: Once you pair the device you’ll also be able to see the paired device 
 
 ![](https://lh3.googleusercontent.com/JHnsX3Ha7AZR5wbs_R42t2pld0PYzPOyMFKDJdcIlAR7IuqMT2JF3R3fXr0UNDQiC5XOdeYQYMKiw9A3-9KNzMoGKLQqtJTotFIjVTTyf1TNTO76tzv6M_3GwTwDGi3hDfiuGnqe)
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

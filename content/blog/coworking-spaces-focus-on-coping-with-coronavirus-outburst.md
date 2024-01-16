@@ -62,4 +62,4 @@ Anyone with symptoms of a cold or flu, however mild, should isolate themselves f
 
 As more people look to their governments and employers for guidance and direction during this challenging time, having a plan in place that includes alternative or flexible coworking solutions may be the best way to proactively address the underlying uncertainty. Though it’s too soon to say if the coronavirus outbreak could force a permanent work-from-home movement, it will be interesting to see how the situation evolves in the coming months and how coworking spaces will respond.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

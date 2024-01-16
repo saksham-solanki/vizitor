@@ -44,4 +44,4 @@ Washington, D.C. based [**GoodFirms **](https://www.goodfirms.co/)is a maverick 
 
 Anna Stark is presently working as a Content Writer with GoodFirms – Washington D.C. based B2B Research Company, which bridges the gap between service seekers and service providers. In her current role, Anna shapes every company's performance and key attributes into words. She firmly believes in the magic of words and equips new strategies that work, always with new ideas, something new to create, and something original to define the firm's identity.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

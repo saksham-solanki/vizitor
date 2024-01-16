@@ -60,4 +60,4 @@ To make the Rangoli, use the natural colors such as rice powder, cinnamon or car
 ### 
     "we will not compromise on the festivities and will stay safe too".
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

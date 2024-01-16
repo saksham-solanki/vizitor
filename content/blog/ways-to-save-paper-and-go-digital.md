@@ -182,4 +182,4 @@ Vizitor simplifies your registration process eliminating dependence on manual fo
 
 Finally, it's the time to take the initiative to protect our planet and go for a paperless office from now.Because a  paperless office produces far less waste than paper-bound workplaces.A paperless office not only save paper but is also more efficient and streamlines workflows. It is not the job of a single person,it requires teamwork to make the transition. Foster your office environment with eco-friendly and green practices. Set up your goals now for a green and clean workplace. It can improve the  visitor experience as a result, as they will likely be impressed by your efforts and feel like they are helping to positively contribute. Let’s make your workplace paperless with Vizitor!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

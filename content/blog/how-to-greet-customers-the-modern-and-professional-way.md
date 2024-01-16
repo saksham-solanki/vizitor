@@ -60,4 +60,4 @@ Personalize your greetings when a regular client walks in.You can do so by addre
 
 The first impression of your company is the greeting. Greetings add a sense of cosines to a chilly workplace. You can greet them professionally, win their hearts, put them at ease, and encourage repeat business with the best software. If you greet customers with a warm smile as soon as they enter the building and assign them to a competent employee to solve their problems, you'll quickly have a large number of repeat customers.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

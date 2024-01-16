@@ -31,4 +31,4 @@ As offices are reopened, there is a trusted solution that can help with your res
 
 [Vizitor](https://www.vizitorapp.com/)-Visitor Management solutions can be used in virtually any reception and include both self-service kiosk and front-desk assisted solutions. With a visitor management system you can protect the office from the virus.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -32,6 +32,6 @@ Try buying the supplies that can be recycled on a later stage and try to avoid a
 
 ‌Try to work with local suppliers as much as possible and use the local products as likely you can. This will not only help you lower the transport charges of goods but will also help in controlling the emission of CO2 as well.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 
 ‌‌

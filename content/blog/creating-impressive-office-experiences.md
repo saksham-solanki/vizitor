@@ -157,5 +157,5 @@ If you want to improve your visitor management process, consider using **[visito
 You can see the features in action with a free, personalized demo by **[clicking](/)** here.
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 

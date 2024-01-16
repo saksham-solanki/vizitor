@@ -121,4 +121,4 @@ There is no doubt that if you want to prioritize authenticity at your brand, fol
 Incorporating digital technology within your premises can actually boost customer experience to a great extent. Get ready to make your brand an authentic one with our Visitor Management solution.
 Learn more about Vizitor, [**Click here**](/).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

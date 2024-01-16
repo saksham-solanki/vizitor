@@ -213,3 +213,5 @@ For maintaining a secure workspace, identity of visitors is verified to restrict
 ## Wrap Up
 
 The above are just a few of the ways by which Visitor Management Solutions can streamline and serve colorful day to day operations in different facilities while increasing productivity and efficiency. Implementing a suitable powerful solution like Vizitor can help adding an edge to your installation's success thus enhancing productivity. 
+
+[![save](/images/blog/premium-save.svg)](/demo)

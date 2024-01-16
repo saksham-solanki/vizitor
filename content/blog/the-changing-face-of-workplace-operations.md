@@ -59,4 +59,4 @@ As we now know limiting human contact is one sure way to slow down the spread of
 
 [Vizitor ](https://www.vizitorapp.com/)want to make sure that each and every person is prepared to make a safe and secure return to their regular working life. This time is very critical for all of us. To prevent the pandemic and to return the office, organizations have to amid the social distancing, safety precautions, visitor management protocol and digital workplace solutions are more important now than ever. Let's start with the digital workplace with Visitor. To know more about the visitor management system just book a free demo and [sign up](https://www.vizitorapp.com/signup) for free.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

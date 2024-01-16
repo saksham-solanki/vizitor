@@ -52,4 +52,4 @@ During the COVID-19 pandemic, [Touchless visitor management systems](https://www
 
 For the safety of your visitors, staff and students, there is a need for a Touchless visitor management system to manage them safely. With the [visitor management system](https://www.vizitorapp.com/visitor-management-system-for-schools) you can prepare and secure your school in the age of  COVID-19.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

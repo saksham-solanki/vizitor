@@ -25,4 +25,4 @@ Check for these features while looking for management software for your organisa
 
 Visitor management software should not only be able to protect an organisation’s privacy, but it should also be able to create an impression in front of the visitors. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

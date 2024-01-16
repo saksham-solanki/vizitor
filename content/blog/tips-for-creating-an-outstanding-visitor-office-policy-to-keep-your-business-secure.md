@@ -105,4 +105,4 @@ This is all about office [visitor](/) policy.There is a visitor management syste
 Invest in a reliable and robust solution to keep your office more secure and safe.
 Click here to learn more about how visitor management can help you bring stability to your workplace and boost the productivity of the business.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

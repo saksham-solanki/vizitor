@@ -51,4 +51,4 @@ Security is the most important aspect in any organization.Implementing physical 
 
 To know more, Schedule a [Demo for free](https://www.vizitorapp.com/demo)!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

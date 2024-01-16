@@ -78,4 +78,4 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 
 In conclusion, we have mentioned some kinds of technologies that can reduce pollution and waste worldwide. We have to take care of our environment and we can start it from our workplace and use those kinds of technologies. With these technologies where we will save our environment and with these we can increase the efficiency and productivity of the workplace.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

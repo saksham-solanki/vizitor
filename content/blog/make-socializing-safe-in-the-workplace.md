@@ -51,4 +51,4 @@ They have to think about, **what will happen when employees will get together du
 
 To manage the capacity limits in the workplace you have to know who is coming in and out of your space and how many people are available in the workplace. With [Vizitor](https://www.vizitorapp.com/) safety, you can set capacity limits at your space. With this you can also see an accurate view of how employees and visitors use the rest of your workplace.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

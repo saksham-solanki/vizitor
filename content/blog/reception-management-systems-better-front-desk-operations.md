@@ -159,4 +159,4 @@ Overall, Vizitor can help streamline your front desk tasks, improve security, an
 
 While considering all these factors, there is an urgent need for an advanced visitor reception management system like Vizitor  which effectively streamlines the front desk operations. Through the changing times, security levels and need of automation have increased in almost all  facilities premises. So,the need for a robust system greatly increases today to enhance your reception area. If you are looking for a powerful way to upgrade your system, it’s time to give [**Vizitor**](/)  visitor management software a try.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

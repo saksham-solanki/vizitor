@@ -125,4 +125,4 @@ Pre-registration is the starting point for a successful visitor journey. It allo
 Use the Pre-registration feature of Vizitor World's leading Visitor Management System to offer a seamless visiting journey to your visitors. 
 To learn more about [*Vizitor*](/), simply click here.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

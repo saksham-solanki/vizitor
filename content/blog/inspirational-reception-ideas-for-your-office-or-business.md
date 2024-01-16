@@ -21,4 +21,4 @@ authorsImage: /images/authors/author.svg
 
 *Introduce greenery & Indoor plants:-  Plants inside the workplace premises can absorb toxicants in atmosphere and increase the flow of oxygen and provide cleaner air to breathe. Numerous scientific studies have proved the benifits of introducing some greenery in form of plants like reducing stress, increase productivity and the most important improving ambience. Introducing eco-friendly techniques like evicting use of paper, power consumption and using energy efficient appliances will ultimately reduce costs and save energy for well being of nature.*
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

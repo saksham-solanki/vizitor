@@ -151,4 +151,4 @@ The system can be used in various industries, such as healthcare, government, re
 
 Don't miss out on improving your business operations. [**Book a demo**](/demo) now and see firsthand how our queue management system can revolutionize your customer service.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -66,4 +66,4 @@ But the remote meetings can’t fully replace all the benefits of live contact. 
 
 With these all ways organizations can conduct the safe in-contact meetings. As we follow more the Covid-19 restriction protocols then we can stay safe more. With the protocols and safety rules, you should install the **Touchless check-in system** at the entrance to screen and manage the visitors. If you want to learn more about reducing  the spread of coronavirus in the workplace, please visit  **[COVID-19 Resource Center](https://www.vizitorapp.com/contact-tracing)**for [Visitor Management](https://www.vizitorapp.com/).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

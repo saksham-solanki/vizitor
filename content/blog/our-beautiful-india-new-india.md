@@ -55,4 +55,4 @@ The dream of new India cannot be fulfilled without a vibrant civil society and h
 
 Let’s take pledge to make clean and green India!
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

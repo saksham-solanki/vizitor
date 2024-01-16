@@ -33,4 +33,4 @@ If you are trying to become a 100% paperless office then your office needs to ge
 **6. Document security**
 Having a new document management system means that a new type of infraction. Now instead of trying to break into your office and searching through a pile of boxes, people will now try to hack into your company system to steal your documents even without entering your premises. But, this can be prevented by investing in a secure document management system as soon as you start your office to become paperless. A highly secure software will not only help you keep your documents safe but will also work as a seal of trust giving your clients peace of mind about the privacy and security of their documents.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -71,3 +71,5 @@ Visitor management systems offer a range of benefits, including increased effici
 ## W﻿rapping Up!!
 
 In conclusion, adopting a **[visitor management system](https://www.vizitorapp.com/)** can provide numerous benefits for businesses. By replacing a traditional receptionist with technology, businesses can improve reliability, enhance the visitor experience, and save time and money. The ongoing advancements in technology and visitor management systems continue to offer new and innovative solutions for managing front office operations. It is essential for businesses to embrace these new solutions to remain competitive and efficient in the workplace.
+
+[![save](/images/blog/premium-save.svg)](/demo)

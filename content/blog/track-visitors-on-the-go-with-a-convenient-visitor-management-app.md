@@ -198,4 +198,4 @@ environment for students.
 It is clear and obvious that installing a safe and smart Visitor Management or Tracking App provides businesses with multitudinous benefits to take them to the coming position of professionalism, security and management. Visitor Management App is the best and the easiest way to track visitors on the go thus making it convenient and enhanced. So, switch to the best Visitor Management App- Vizitor for an efficient management of visitors.
 Learn further about Vizitor App– [Click here](/)
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

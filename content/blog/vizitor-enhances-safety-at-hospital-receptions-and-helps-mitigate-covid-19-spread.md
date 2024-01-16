@@ -135,4 +135,4 @@ One of the main [advantages of a visitor management system](/medical-receptionis
 
 Overall, considering the numerous benefits that a visitor management system like Vizitor offers, hospitals should definitely consider implementing it as part of their operations management systems.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -184,4 +184,4 @@ The system captures visitor facial images and digital signatures and  allows to 
 
 Modern commercial buildings are designed to be energy-efficient, safe, and provide comfortable working environments for employees. To keep your employees and residents safe, you need to have solid security measures in place. As technology continues to evolve, we can expect commercial buildings to incorporate even more advanced features that improve their functionality, efficiency, and overall performance. [**Vizitor**](/) is becoming an integral element of a foolproof office security plan. So, switch to Vizitor to keep your commercial buildings safe and secure. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -98,5 +98,5 @@ In this post we will go through some excellent  trends and innovations that will
 
 Upgrading [visitor management systems](/best-visitor-management-system-in-india) with customized enhanced functionalities not only revolutionize your front desk but effectively streamline how the entire operations .Much  more  than just a visitor management system, with detailed analytics, custom alert notifications,and deep integrations for your visitors, cloud-based secure Visitor Management like Vizitor is now a completely future-focused  solution that level up your visitor experience  and it is future - ready with major upgrades which help organizations for enhancing on-site visitor experience.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 

@@ -112,4 +112,4 @@ The [Smart Visitor Management System](https://www.vizitorapp.com/) revolutionize
 
 [Request a demo](https://www.vizitorapp.com/demo) to learn more.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

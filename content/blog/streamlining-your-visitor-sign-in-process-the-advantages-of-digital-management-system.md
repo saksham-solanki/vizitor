@@ -193,4 +193,4 @@ Here are some key points to consider when using a digital visitor management sys
 
 In summary, it is clear that a digital visitor management system such as Vizitor offers several benefits over a traditional paper visitor sign-in sheet. These benefits include cost savings, improved security, increased efficiency and productivity, and the ability to easily track and utilize visitor data. Digital visitor management systems can also make a positive impression on customers and demonstrate a company's innovation, potentially giving it an advantage over competitors and helping with employee recruitment. Overall, a digital visitor management system can be a more effective and efficient solution for businesses of all sizes.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

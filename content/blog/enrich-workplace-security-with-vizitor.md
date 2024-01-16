@@ -71,4 +71,4 @@ At [Vizitor](https://www.vizitorapp.com/), we entered this pandemic with some ad
 
 For the security of the workplaces, we at [Vizitor](https://www.vizitorapp.com/) will continue to put our contribute to protect the organizations worldwide. We will upgrade and enrich workplaces with our innovations. To know more about[ Vizitor](https://www.vizitorapp.com/), please **S[ign-up](https://www.vizitorapp.com/signup)** for free.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

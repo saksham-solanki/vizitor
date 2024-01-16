@@ -157,4 +157,4 @@ Wavetec is a Queue Management System that includes features such as remote queui
 
 In conclusion, selecting the right Queue Management System can significantly impact the success of businesses in various industries. Investing in a top Queue Management System can improve customer satisfaction rates, increase revenue growth, and provide valuable insights into customer behavior. Ultimately, businesses that prioritize the customer experience and invest in the right Queue Management System will see long-term success and growth.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -53,4 +53,4 @@ Paper industries consume 40% of the world’s commercially cut timber. These pro
 
 **In conclusion,** where the visitor management system saves the environment and trees, there this system enhances the productivity, efficiency and security of your workplace.Switching to digital visitor management software is a bit for the environment. So, come on the **“going paperless”** mission with the [vizitor](https://www.vizitorapp.com/) and make your office a smart workplace.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

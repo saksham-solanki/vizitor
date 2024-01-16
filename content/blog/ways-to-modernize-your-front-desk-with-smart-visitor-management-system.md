@@ -87,4 +87,4 @@ Real value: fast return of investment
 
 Workplace modernization with VMS could only be accomplished by credible organisations that provide dependable solutions. This, in addition to providing a safe and healthy environment for visitors, is an urgent need for employers all over the world. A comprehensive set of features that address the safety and security aspects of the visitor experience is the answer to the many uncertainties that may engulf us in the coming years.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

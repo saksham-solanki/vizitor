@@ -50,4 +50,4 @@ Using a Tablet or iPad may concern you at present, so the best way out is to mov
 
 > Adding a Visitor Management System to your premise can lessen the risk of getting transmitted to the disease! This is the correct time to upgrade to a visitor management system,[ Sign up](https://www.vizitorapp.com/signup) now on Vizitor to make your workplace digital and secure.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

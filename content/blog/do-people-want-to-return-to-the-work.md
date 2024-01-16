@@ -37,4 +37,4 @@ After this pandemic, we know that almost everyone wants to have some time in the
 
 So in conclusion, we have talked about the people who want to return to the work and who's not! But when the employees will come to the office, we have to prepare our office safely and provide them with a safe environment. To know about this more then please check this blog: - [The new normal for welcoming employees.](https://www.vizitorapp.com/blog/the-new-normal-for-welcoming-employees/)
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

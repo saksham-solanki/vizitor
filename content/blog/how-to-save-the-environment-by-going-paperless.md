@@ -33,4 +33,4 @@ The paperless system increases your workplace security. When you store your data
 
 Our environment is a treasure for us, so this is our responsibility to protect it. We can save the trees by replacing the paper-based system into the paperless system. With saving the environment ,businesses can reap many benefits from the switch as well. **So Let’s start a paperless mission with the [Vizitor](https://www.vizitorapp.com/)!!**
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

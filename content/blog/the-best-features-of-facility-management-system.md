@@ -121,4 +121,4 @@ For example, **[**Vizitor**](/)**is a web-based visitor management system that o
 
 There are many web-based applications that may offer better usability with shorter times. They provide high productivity at a low cost. Before you make an investment, taking advantage of free trials of any software program. You can find the best software for your company at an affordable cost and enhance the efficiency of the facilities of your company.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

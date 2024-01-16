@@ -71,3 +71,4 @@ Collaboration is an essential component of a productive workplace. It encourages
 
 **Want to learn more about fostering workplace collaboration? Keep an eye on us!**
 
+[![save](/images/blog/premium-save.svg)](/demo)

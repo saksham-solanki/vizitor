@@ -124,4 +124,4 @@ An essential step in supporting safety in schools is permitted at-risk students 
 
 Research suggests that social distancing techniques, alongside with careful hygiene practices, and use of quarantine, can curb the spread of diseases in schools. In this brief, School visitor management system offer perception into how these strategies may be placed into operation in numerous contexts to guard the health and safety of students, staff, and families.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

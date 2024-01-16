@@ -126,4 +126,4 @@ Schools can be located in multiple locations in different buildings. Therefore, 
 To know more about [Vizitor,](https://www.vizitorapp.com) please [**Sign-up**](https://www.vizitorapp.com/signup) for free!!
 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

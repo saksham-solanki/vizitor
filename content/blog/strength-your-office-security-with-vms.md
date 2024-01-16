@@ -47,4 +47,4 @@ VMS provides the host notification to alert the host employee as soon as the int
 
 **[Vizitor ](https://www.vizitorapp.com)**is becoming an integral element of a foolproof office security plan. You can keep records on who is entering your building, stop unauthorized entries and access complete visitor details in a few simple clicks.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

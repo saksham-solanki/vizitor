@@ -64,3 +64,5 @@ Fewer people are on-site at any given time in a hybrid work-from-home model. Som
 ### Conclusion:
 
 The hybrid model is here to stay, offering a balanced and flexible approach to work. As organizations implement hybrid working, it's essential to address the needs of their employees and leverage the advantages of this model. [Learn more about treating remote employees fairly in a hybrid workplace](https://www.toptal.com/insights/future-of-work/distance-bias) to ensure a successful transition.
+
+[![save](/images/blog/premium-save.svg)](/demo)

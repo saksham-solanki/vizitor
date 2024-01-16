@@ -37,4 +37,4 @@ Try to make sure that all your finishing materials such as carpet, paint are env
 
 Before you make any major changes, just ensure that you’re following all the possible regulatory requirements of your building plans, because these laws and regulations are there to keep your building secure. Following these standards are super important and following them from the beginning will reduce your carbon footprint as well.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

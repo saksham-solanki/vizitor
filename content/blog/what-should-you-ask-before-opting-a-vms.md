@@ -50,4 +50,4 @@ A visitor management system can reduce costs by replacing unnecessary staff with
 
 A visitor management system helps you to upgrade the office’s security. With this system your employees can be more efficient because they stop visitor interruptions from hurting office productivity. Visitor management system follows this method”Less destruction and more productivity”. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

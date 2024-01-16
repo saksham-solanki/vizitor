@@ -357,4 +357,4 @@ To begin your free trial with **[Vizitor](/)**, simply visit the Vizitor website
 
 So,if you still not consider the right one, just go for Vizitor.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

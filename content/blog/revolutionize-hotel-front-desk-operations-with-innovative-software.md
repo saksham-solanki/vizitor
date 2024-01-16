@@ -146,7 +146,7 @@ Current modern and smart organizations understand the value of automation techno
 
 Lastly, Vizitor is one of the best choices for hoteliers that will improve efficiency of attending guests, safe and digital registration process, automate sign-in and seamless customer service. The software can be customized as per your business requirements. Connect with [Vizitor](/) today to  learn more about this optimal  solution.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
 
 
 

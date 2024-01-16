@@ -68,4 +68,4 @@ The [visitor management system](https://www.vizitorapp.com/best-visitor-manageme
 
 **[Contact us](https://www.vizitorapp.com/contact)**
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

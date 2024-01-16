@@ -243,4 +243,4 @@ The cloud based storage eliminates the tedious task of maintaining manual paper 
 
 From the hotel’s point of view, touchless check-in software frees up front-of-house teams who can then concentrate on providing hospitality and guest service, instead of registering guests manually. Human receptionists can spend a lot of time trying to connect visitors with hosts making guests wait for long hours. Instead digital check-in systems have the ability to contact the host automatically upon the guest completing the check-in process.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

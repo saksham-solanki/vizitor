@@ -22,4 +22,4 @@ Its very important to secure the entrance of an organisation for a safe customer
 
 **Enhanced company branding and modernised reception**:- [Visitor management systems ](https://www.vizitorapp.com/)are very attractive and present a professional look to your customers and clients. It allows the authorities to personalise interface design with welcome messages and brand logos on upfront. This improves over-all customer experience and opportunity to project your brand.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

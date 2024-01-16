@@ -98,4 +98,4 @@ Government agencies already use investigative tools for locating and contacting 
 
 The [**contact tracing app**](https://www.vizitorapp.com/) helps to stop COVID-19’s spread by “tracing” every visitor entering the workplace. Using this app we not only protect the people after lockdown as well this system can be the best precaution to avoid this kind of pandemic.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

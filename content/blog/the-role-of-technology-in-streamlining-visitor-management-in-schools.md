@@ -146,4 +146,4 @@ Todays' advanced Visitor Management solutions like Vizitor  involves quality  to
 
 Ending up,the role of technology in managing visitors in schools is unavoidable and actually significant.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

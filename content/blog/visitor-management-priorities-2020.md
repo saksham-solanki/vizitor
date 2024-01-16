@@ -119,4 +119,4 @@ In the coming years, digital visitor management systems will become the norm and
 
 Therefore, a good [visitor management app ](https://www.vizitorapp.com/)is able to ensure the safety and security of the visitor’s in the premises and provide accurate information of the visitor's visits whenever required. These elegant modern visitor management solutions help in smooth management of visitors and their visits, ensures data security and user’s safety as well thereby gaining popularity with each passing day.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

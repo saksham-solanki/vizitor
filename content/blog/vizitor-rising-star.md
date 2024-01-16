@@ -28,4 +28,4 @@ On the whole, Vizitor accelerates the whole visitor check-in process while still
 
 We want to thank [FinancesOnline](https://financesonline.com/) for the acknowledgement of our work and we will put all our efforts to confirm their trust persists in Vizitor. You can read the full review on [FinancesOnline](https://reviews.financesonline.com/p/vizitor/) and if you are already our customer don’t miss to leave your feedback so that things only get better from here onwards. 
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -67,4 +67,4 @@ Employees have become more adaptable after two years of pandemic. So make them f
 
 With the creative workspace, you can welcome your employees. You're creating a workplace that people want to visit. Make office days a favourite of your employees. **vizitor's** visitor management software will help you manage your visitors and employees.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

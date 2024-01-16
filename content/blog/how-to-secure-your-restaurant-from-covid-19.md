@@ -105,4 +105,4 @@ This is the time to engage your loyal customers and find creative ways to bring 
 
 As we know coronavirus pandemic is a worldwide crisis, unprecedented in living memory. What's the ultimate economic damage will be. So we can provide a safe environment for our guests and as well as boost our economy. This is time to adopt the[ advanced technology](https://www.vizitorapp.com/) for our restaurants and enhance the safety level of the visitors.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -60,4 +60,4 @@ No credit card information to get started with a free plan. The best way to dete
 
 Now there is no need to maintain traditional visitor  log books at the reception and it makes everything paperless which keeps the overall reception neat and clean with branded sign-in screen that gives wow experience to guests. With the help of [Vizitor,](https://www.vizitorapp.com/) a modern visitor management system, Visitors can seamlessly sign-in & sign-out through self check-in.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

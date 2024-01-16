@@ -70,4 +70,4 @@ When choosing the right visitor management software, one of the most important f
 It is critical to ensure employee safety and security as businesses reopen. Contactless visitor registration is possible with [Vizitor's](https://www.vizitorapp.com/) simple and user-friendly visitor management software, which uses QR-code-based digital passes. It provides visitors and employees with a high level of security by maintaining a healthy workplace environment, gaining precise insights about your workplace visitors, performing routine temperature checks, and digitally logging visitor temperatures at entry points.
 To learn more, [schedule a demo](https://www.vizitorapp.com/demo) today.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

@@ -53,4 +53,4 @@ Your employees’ responses may tell you that an employee is sick and shouldn’
 
 In conclusion, this new normal is very important for our workplaces for their safety. A new level of trust is essential for inviting employees into your workplace. With [visitor management system](https://www.vizitorapp.com/) you can provides them Touchless check-ins, screening alerts and contact tracing features to the employees and visitors. With [Vizitor](https://www.vizitorapp.com/) you can give the confidence to employees to return to the office.
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)

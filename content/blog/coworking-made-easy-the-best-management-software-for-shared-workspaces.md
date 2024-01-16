@@ -271,4 +271,4 @@ Coworking is a versatile and optimal way to accommodate different types of busin
 Vizitor Coworking Space  Management Softwares might just be the advantage you are looking for. Vizitor is a modern and high-tech solution for coworking spaces whether  large and small.It helps front desk staff with quickly and efficiently checking in and keeping track of visitors.Many coworking spaces are now supported by Coworking space software.
 Learn more about [Vizitor](/) Coworking Solution, [click here](/).
 
-[{{< figure src="/images/blog/WhatsApp-Image-2021-03-17-at-12.18.17-PM-6.jpeg" >}}](/demo)
+[![save](/images/blog/premium-save.svg)](/demo)
