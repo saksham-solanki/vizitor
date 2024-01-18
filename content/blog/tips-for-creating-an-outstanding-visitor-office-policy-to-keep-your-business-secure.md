@@ -11,7 +11,8 @@ Nearly every business organization receives a diverse range of visitors and gues
 
 There is a great need to manage all of them in a consistent and clear manner.Some visitors return on a regular basis, while others come once and never return. Regardless of the type of business you run, there are certain security concerns that must be addressed in relation to visitors.
 
-{{< figure src="/images/blog/image-142.png" >}}
+![Tips for](/images/blog/image-142.png)
+
 
 There should be a well-planned policy to manage visitors and guests to create a hassle free environment. There may be certain challenges faced by the reception staff while encountering visitors like some visitors may leave waiting in lobby areas for hours, some visitors may enter without approval and much more.
 
@@ -21,7 +22,7 @@ These only are the results of not having a set and strong visitor policy at work
 
 This visitor policy for the workplace will be determined by the type and size of your office. If you have a visitor policy, now is a good time to review and update it. But if you don’t have a visitor policy, why are you still waiting? Just go ahead and make one for the sake of your workplace’s security. 
 
-{{< figure src="/images/blog/image-143.png" >}}
+
 
 A good visitor policy is the need of the hour.
 Without a great visitor policy, your office will present a bad image of your enterprise by expressing your various security related challenges.But having a great visitor policy is one of the assets for the organisation.It creates a great first impression on your visitors from the moment your guests arrive till their departure.
@@ -30,7 +31,7 @@ Without a great visitor policy, your office will present a bad image of your ent
 
 Today, one of the most convenient solutions to implement a strong and great visitor policy at offices is to implement a reliable  Visitor Management System to manage your visitors at ease.It benefit your office visitors by offering them seamless visiting experience.There are various Visitor Management Systems available in markets but one of the most convenient and fast among them all is Vizitor.
 
-{{< figure src="/images/blog/image-145.png" >}}
+
 
 Vizitor streamlines your business processes utilizing features such as a digital trail of visitors, visitor badges, signed NDAs etc. by offering a great visitor policy to workplaces.
 
@@ -39,7 +40,6 @@ There are a number of steps in creating a strong visitor policy in an organizati
 Here we have mentioned some of the tips on how to write policy and also suggested about the workplace visitor policy template.Some of the tips 
 
 
-{{< figure src="/images/blog/image-146.png" >}}
 
 ## Some tips and suggestions for a great visitor policy are-
 
@@ -62,7 +62,6 @@ There should be a  proper and strong identification procedure to identify your v
 
 Almost all  businesses are concerned about the security of visitor data. As a result, they may impose specific restrictions on visitors. Details such as appropriate guest use of your wi-fi network and technology, as well as any restrictions on photography and/or recording equipment, should be specified in your visitor policy. If certain guests are required to sign non-disclosure agreements, that is another important detail to document.
 
-{{< figure src="/images/blog/image-147.png" >}}
 
 ### 5. Escort your guests while they are at premises
 
@@ -74,7 +73,6 @@ To eliminate confusion and keep your office safe, you must establish clear guide
 
 You must educate your employees on the visitor policy. When you create a guest policy, make sure your entire staff is aware of it. This way, your staff will prevent visitors from entering the confidential area.Training and drills will ensure that your employees understand and trust the security policies in place.
 
-{{< figure src="/images/blog/image-148.png" >}}
 
 ### 7. Implement a convenient  VMS to control visitor flows
 
@@ -86,7 +84,6 @@ Various key features like Touchless check-ins, pre-registrations, NDAs etc. make
 
 Using the NDA policy, this security practice allows the organization to clearly state what is expected of the visitor while on it’s property. This statement could include everything from protecting trade secrets within the facility to declaring to what extent the organization is liable for any injury that may occur. 
 
-{{< figure src="/images/blog/image-141.png" >}}
 
 ### 9. Create a fantastic visiting experience for guests
 
@@ -97,7 +94,8 @@ One of the main aspects of your office policy is to make your guests feel welcom
 
 Review your visitor office policy regularly to make necessary updates and changes Keep it up-to-date as per your changing needs and latest technological innovations.Take feedback from your customers,employees and guests to adjust your visitor policy as per their considerations.
 
-{{< figure src="/images/blog/Foto_receptionist_generale.jpg" >}}
+![Review regularly](/images/blog/Foto_receptionist_generale.jpg)
+
 
 ## Final thoughts…
 

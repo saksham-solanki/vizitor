@@ -20,7 +20,6 @@ A digital sign-in process with digital logs is not only more efficient but also 
 
 The perfect visitor log is simple, easy to use, and captures all essential information. It prioritizes privacy, complies with regulations, and provides accurate data for reporting and analysis.
 
-{{< figure src="/images/blog/image-245.png" >}}
 
 **In this blog post, we will explore some  ideas for designing the "perfect" office visitor log that will not only impress your visitors but also make your workplace more efficient and welcoming.**
 
@@ -61,7 +60,7 @@ Request the visitor to sign the digital visitor log as an acknowledgment of thei
 
 The system should be designed to collect this data accurately and securely, and with a user-friendly interface that makes it easy for visitors to input their information.
 
-{{< figure src="/images/blog/image-246.png" >}}
+![Signature](/images/blog/image-246.png)
 
 ## Enhance the log privacy for the visitors
 
@@ -80,7 +79,7 @@ To manage this, it's a good idea to print out fresh visitor log pages daily, wit
 
 **[visitor management software](/visitor-management-system)** gives visitors the option to store their data for quicker check-in the next time they return, visitors can opt in and out of having their data stored for that purpose.
 
-{{< figure src="/images/blog/image-247.png" >}}
+![quicker](/images/blog/image-247.png)
 
 ## Here are some innovative tips to design a perfect office visitor log:
 
@@ -116,7 +115,7 @@ Ensure that the visitor log design complies with relevant regulations, such as d
 
 Use consistent labels and formatting throughout the log to minimize confusion and errors.
 
-{{< figure src="/images/blog/image-248.png" >}}
+![consistent](/images/blog/image-248.png)
 
 ## It's the Time to Upgrade from manual to digital visitor log!
 

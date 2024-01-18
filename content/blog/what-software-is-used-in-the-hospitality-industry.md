@@ -25,7 +25,7 @@ Revenue Management Systems permit hotels to maximize their profitability by dyna
 One of the most critical elements in the hotel industry is managing the continuous flow of guests on a daily basis. Managing guests in hotels involves several activities, and visitor management is an essential part of it.
 Although visitor management software has an array of benefits, not all hotels have adopted them. [**Visitor management software**](/best-visitor-management-system-in-india) can assist hotel staff in tracking and managing guest activities to enhance their overall experience. Some common approaches used in visitor management include:
 
-{{< figure src="/images/blog/23jan23-6.jpg" >}}
+![ software](/images/blog/23jan23-6.jpg)
 
 • Relying on a paper-based check-in process leaves guest data vulnerable to theft, tampering, or inadequately safeguarded.Visitor management software like Vizitor plays a vital role in hotel security. [**Vizitor**](/best-visitor-management-system-in-india)  offers real-time alerts on questionable activities or guest profiles.
 
@@ -78,7 +78,7 @@ Thus, a  smooth check-in process improves guest loyalty, enhances rating and fav
 
 Digital check-ins at hotels have become increasingly popular in recent years, offering guests a quick and convenient way to check-in remotely, and reducing long queues that often occur during peak travel periods.
 
-{{< figure src="/images/blog/image.png" >}}
+![ digital](/images/blog/image.png)
 
 **Here are some features of digital check-ins at hotels:**
 

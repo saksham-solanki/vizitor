@@ -16,7 +16,6 @@ But the remote meetings can’t fully replace all the benefits of live contact. 
 
 **Let’s discuss it...**
 
-{{< figure src="/images/blog/image-198.png" >}}
 
  
 
@@ -31,7 +30,6 @@ But the remote meetings can’t fully replace all the benefits of live contact. 
 - These are the well-aware ways to prevent coronavirus transmission for people to stay apart and encourage them to cover their faces with well-fitting masks.
 
 
-{{< figure src="/images/blog/image-199.png" >}}
 
  
 
@@ -46,8 +44,7 @@ But the remote meetings can’t fully replace all the benefits of live contact. 
 - Disinfect the surfaces after using them.
 
 
-{{< figure src="/images/blog/image-200.png" >}}
-
+![Use](/images/blog/image-200.png)
  
 
 ### # Screening of visitors at entrance -                   
@@ -59,8 +56,7 @@ But the remote meetings can’t fully replace all the benefits of live contact. 
 - With the **[Touchless visitor management system](https://www.vizitorapp.com/)** you can prepare your office to avoid COVID-19-related restrictions at your office.
 
 
-{{< figure src="/images/blog/image-193.png" >}}
-
+![Screening-of](/images/blog/image-193.png)
  
 
 

@@ -34,8 +34,7 @@ It may sound dreamy, but it can be achievable with an **office space booking sys
 • 5 ways to Upscale Workspace Planning
 
 
-[{{< figure src="/images/blog/workspace-management-img-2.jpeg" >}}](/demo)
-
+![Upscale](/images/blog/workspace-management-img-2.jpeg)
 
 ## What do you understand by Workspace Planning?
 

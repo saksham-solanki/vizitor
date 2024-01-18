@@ -25,7 +25,7 @@ In this article,we'll explore various threats commercial buildings are facing to
 
 So, let's start.
 
-{{< figure src="/images/blog/556767-istock-800426110.jpg" >}}
+![start](/images/blog/556767-istock-800426110.jpg)
 
 ## Why is it vital to secure our commercial buildings? 
 
@@ -53,7 +53,9 @@ Overall, commercial building security is an important investment that can help p
 
 Commercial buildings, big and small, are all susceptible to various security threats. However, they can have devastating effects on a building and its employees also.
 
-{{< figure src="/images/blog/blog-1-2.jpg" >}}
+
+![Security](/images/blog/blog-1-2.jpg)
+
 
 So, it is vital to know about these common physical and cyber security threats for adequate protection of premises from them.
 
@@ -148,7 +150,8 @@ Develop an emergency preparedness plan to respond to security threats such as fi
 
 Implementing a digital visitor management system can help mitigate security threats in commercial buildings. Visitor management systems can help mitigate security threats in commercial buildings by providing a way to control and track visitor access.
 
-{{< figure src="/images/blog/coworking (1).jpg" >}}
+
+![How](/images/blog/coworking (1).jpg)
 
 Vizitor is a visitor management system that can help mitigate security threats in buildings by providing a secure and efficient way to manage visitor access. Some of the key features of Vizitor that can help enhance building security include:
 

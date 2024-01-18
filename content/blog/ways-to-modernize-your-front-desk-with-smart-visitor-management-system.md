@@ -17,7 +17,6 @@ Following the COVID-19 pandemic, it is critical to understand how businesses sho
 
 COVID protocols were established by the authorities as the first and foremost measure that assisted organizations in ensuring a safer work environment. Mask compliance, thermal screening, contact tracing, health declarations, and social distancing all helped to reduce the virus's spread. Creating on-premise alerts of a potential covid carrier and sending emergency notifications helped reduce the fear of face-to-face interactions.
 
-{{< figure src="/images/blog/image-53.png" >}}
 
  
 
@@ -25,15 +24,13 @@ COVID protocols were established by the authorities as the first and foremost me
 
 Streamlining and automating access control and visitor management systems at the workplace ensures providing the best possible experience to the visitors. Touchless check-in ensures reduced risk to the people on location by lowering the spread of the virus. Unique digital IDs created by specific QR codes could be sent as pre-invites to visitors or could be used by employees to check in.
 
-{{< figure src="/images/blog/image-54.png" >}}
-
+![check-in](/images/blog/image-54.png)
  
 
 ### Third-party application integration
 
 There is a great opportunity to integrate modern visitor management solutions with other platforms to increase security functionality. As a result, all employees will have a more valuable experience. Integrations such as Slack, Meraki, and Outlook could improve the overall visitor experience, giving the workplace a more modern appearance and feel.
 
-{{< figure src="/images/blog/image-55.png" >}}
 
  
 
@@ -41,15 +38,13 @@ There is a great opportunity to integrate modern visitor management solutions wi
 
 The [Touchless check-in system](https://www.vizitorapp.com/best-visitor-management-system-in-india) sends notifications to workers when a visitor arrives to satisfy them and alerts them by sending the guest's small print to make them aware and take the necessary precautionary steps. The [Touchless visitor management system](https://www.vizitorapp.com/) allows the worker to approve or deny the entry of any visitor on the premises.
 
-{{< figure src="/images/blog/image-56.png" >}}
-
+![Employees](/images/blog/image-56.png)
  
 
 ### An easy-to-use interface
 
 Incorporating the brand's color scheme and logo into the visitor management system could help improve the first impression on visitors. Workflows should be fast, efficient, and simple by offering solutions with language and location options.
 
-{{< figure src="/images/blog/image-566.png" >}}
 
  
 
@@ -59,15 +54,13 @@ The peak visitor traffic time and other such trends could be analyzed using the 
 
 
 
-{{< figure src="/images/blog/image-57.png" >}}
-
+![Insights](/images/blog/image-57.png)
  
 
 ### Digital Visitor Badges
 
 Go Touchless with assigning digital visitor badges to your visitors. Visitor badges give visitors an identity in your workplace, which creates a pleasant experience for your visitors.  When visitors check in, their badge can print instantly, which they will then grab without having assistance from your front desk team. They assist to spot who the visitors are within a workplace and supply vital information about the visitor.
 
-{{< figure src="/images/blog/image-58.png" >}}
 
  
 

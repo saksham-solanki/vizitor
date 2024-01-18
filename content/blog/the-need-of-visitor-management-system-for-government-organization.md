@@ -20,7 +20,8 @@ Government organizations are also vulnerable to insider threats, where individua
 
 As technology advances and threat actors become more sophisticated, government organizations need to adopt modern security solutions that can keep up with the evolving threat landscape.
 
-{{< figure src="/images/blog/image-254.png" >}}
+![Need for](/images/blog/image-254.png)
+
 
 Visitor management systems are modern, technology-driven solutions that offer several benefits to a government organization.
 
@@ -43,7 +44,6 @@ Many government organizations are still using the **[Visitor Management System](
 • The system can automatically validate the authenticity of the documents and cross-check the information against watchlists or databases to identify potential threats.
 
 
-{{< figure src="/images/blog/image-255.png" >}}
 
 ## 2. Monitoring and Tracking
 
@@ -59,7 +59,6 @@ No doubt, monitoring and tracking the movements of visitors can help government 
 
 With the manual system government organizations  can’t trace the visitor's details. It has become difficult to trace and analyze the visitor data. But  strong analytics is a must.
 
-{{< figure src="/images/blog/image-258.png" >}}
 
 • The visitor management software can record, store, and analyze data from all aspects. The visitor management system allows authorities to view visitor data in real-time on a central dashboard. 
 
@@ -82,7 +81,7 @@ Government Facilities are the source of sensitive and confidential information a
 
 • It allows government organizations to have a unified view of their security operations, enabling them to respond promptly and effectively to any security incidents.
 
-{{< figure src="/images/blog/image-256.png" >}}
+![Prevent](/images/blog/image-256.png)
 
 ## 5. Access Control
 
@@ -96,7 +95,6 @@ With the visitor management system, this problem can be solved.
 
 • This helps government organizations ensure that visitors only access the areas that they are authorized to enter and prevent unauthorized access to restricted areas.
 
-{{< figure src="/images/blog/image-257.png" >}}
 
 ## 6. Enhanced Visitor Experience
 
@@ -118,7 +116,8 @@ Visitor management systems can provide crucial evacuation support to government 
 
 • This helps visitors to quickly and safely evacuate the facility without confusion or panic.
 
-{{< figure src="/images/blog/image-259.png" >}}
+
+![Evacuation](/images/blog/image-259.png)
 
 ## Final Thoughts!
 

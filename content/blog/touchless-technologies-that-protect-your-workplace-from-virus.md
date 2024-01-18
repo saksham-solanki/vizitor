@@ -20,9 +20,7 @@ In this article, we’ll go through four Touchless technologies you should imple
 - With Vizitor, you can provide the pre-invitation features to the visitors.
 
 
-{{< figure src="/images/blog/image-300.png" >}}
-
- 
+ ![Schedule](/images/blog/image-300.png)
 
 ## 2. Automatic Doors
 
@@ -32,8 +30,7 @@ In this article, we’ll go through four Touchless technologies you should imple
 - If you can’t afford the automatic doors then doing regular disinfections to keep door knobs clean.
 
 
-{{< figure src="/images/blog/image-301.png" >}}
-
+![Automatic](/images/blog/image-301.png)
  
 ## 3. Touchless check-in
 
@@ -44,7 +41,6 @@ A Touchless check-in system can effectively manage visitors on arrival while sav
 - You can be displayed QR codes on paper if you don’t have sign-in tablets for visitors.
 - Vizitor provides the confidential data privacy to the visitors.
 
-{{< figure src="/images/blog/image-302.png" >}}
 
  
 
@@ -56,9 +52,6 @@ A Touchless check-in system can effectively manage visitors on arrival while sav
 - Automatic dispensers  are more sanitary, convenient, and easier to use.
 - Apart from hygiene, Touchless technology reduces wastage of water and soap.
 - You also save money by protecting your employees.
-
-
-{{< figure src="/images/blog/image-303.png" >}}
 
  
 

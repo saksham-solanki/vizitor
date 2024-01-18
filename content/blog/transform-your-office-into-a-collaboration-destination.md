@@ -12,14 +12,13 @@ Collaboration has become increasingly important for your employees and business 
 
 **Collaboration- working together is success!**
 
-{{< figure src="/images/blog/image-1.png" >}}
+
+![Collaboration](/images/blog/image-1.png)
 
 
 **“Environment is essential for the collaboration. If your environment supports then you can rock in the collaboration. “**
 
 In order to foster collaboration, your workplace should be productive and creative. Read this article all the way through if you want to improve your collaboration.
-
-{{< figure src="/images/blog/image-3.png" >}}
 
 
 ## Here are five key points to help you improve workplace collaboration.
@@ -32,8 +31,6 @@ As previously stated, the environment is essential for creativity and collaborat
 
 ### 2. Use the right tools
 The right technology and tools are assisting methods to improve workplace collaboration. Today's technology is vast and sophisticated. With technology, you can revitalise onsite collaboration and ways of working together. Zoom and Google Meet are two tools that can be used to connect the team.
-
-{{< figure src="/images/blog/image-6.png" >}}
 
 
 Here are some useful tools for rekindling workplace collaboration:
@@ -48,14 +45,12 @@ Here are some useful tools for rekindling workplace collaboration:
 
 The most important aspect of creating a culture is collaboration. Employees who feel valued and a part of a community are more likely to stay with a company. Employee collaboration will improve as a result of this culture. This will encourage them to speak up and collaborate with their coworkers. Strong workplace relationships will be strengthened by a sense of community. We understand that this culture will take time and effort, but the results will be incredible. We all know that good things take time.
 
-{{< figure src="/images/blog/image-7.png" >}}
-
 
 ### 4. Make your meeting spaces unique
 
 Employees and visitors who collaborate express their ideas and work together. So there are numerous ways to collaborate at work. One of the best places to collaborate is in your meeting room. Meeting rooms are where the majority of workplace collaboration takes place. As a result, it's critical that they're set up for various types of discussions and ways of working.
 
-{{< figure src="/images/blog/image-8.png" >}}
+![Make](/images/blog/image-8.png)
 
 There will be more than one meeting room in a large organisation. So, this time, make sure your meeting spaces are distinct and distinct from one another. This allows people to feel a different vibe in each room, encouraging greater creativity, engagement, and productivity.
 
@@ -63,7 +58,7 @@ There will be more than one meeting room in a large organisation. So, this time,
 
 Employee happiness and well-being are essential for a collaboration destination. You must pay close attention to their mental and physical health. Everyone worked from home during the lockdown. We saw employees working from their kitchen tables, taking calls on their couches, and calming rambunctious children. If you think that's their problem and not mine, you're delusory. Employees will not perform at their best if their backs hurt from hunching over laptops at the kitchen table. And they won't be able to concentrate if their children are bouncing off the walls.
 
-{{< figure src="/images/blog/image-9.png" >}}
+![Consider](/images/blog/image-9.png)
 
 ### Final Words!
 

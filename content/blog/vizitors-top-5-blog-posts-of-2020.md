@@ -16,7 +16,7 @@ Touchless visitor management system is the new way to manage visitors digitally.
 
 Vizitor got facilitated as one of the [best visitor management software](https://www.goodfirms.co/visitor-management-software/) amongst the listed ones at GoodFirms. Making the process of check-in shift from messy paperwork to an organized digital framework endows Vizitor as one of the top visitor management software at GoodFirms.What Makes Vizitor Unique from Others?**[read more...](/)**
 
-{{< figure src="/images/blog/image-201.png" >}}
+![ GoodFirms](/images/blog/image-201.png)
 
  
 
@@ -24,7 +24,7 @@ Vizitor got facilitated as one of the [best visitor management software](https:/
 
 During the lockdown period, Vizitor had offer Visitor Management Services for free for businesses, schools and workplaces to help take preventive measures to screen visitors.This services were free for 3 months (Starter Plan) as a precaution in your office, so you can make sure your employees are safe inside your workplace as they are the most important asset for every organization. **[read more...](https://www.vizitorapp.com/blog/vizitor-services-free-amid-coronavirus/)**
 
-{{< figure src="/images/blog/image-202.png" >}}
+![Vizitor-service](/images/blog/image-202.png)
 
  
 
@@ -32,7 +32,7 @@ During the lockdown period, Vizitor had offer Visitor Management Services for fr
 
 With a virtual receptionist, you give your customers a way to get in touch with you, absolutely any time of the day. How? Your virtual receptionist software check-in and checkout process of your visitors, manages the visitor data and make sure that no leads are missed. There is a [visitor management system](https://www.vizitorapp.com/best-visitor-management-system-in-india) as a receptionist that manages your receptionist tasks itself.**[read more...](https://www.vizitorapp.com/blog/how-a-virtual-receptionist-can-change-the-way-your-company-hotel-office-school-works/)**
 
-{{< figure src="/images/blog/image-203.png" >}}
+![Virtual-Receptionist](/images/blog/image-203.png)
 
  
 
@@ -40,7 +40,7 @@ With a virtual receptionist, you give your customers a way to get in touch with 
 
 Vizitor is a paperless visitor managemnt system system and make the organizatoions As we know creating a paper-free office is an ongoing process, one which should be adapted and perfected over time.This is the time to implement some digital tools to show your team how effective they can be in achieving your paperless goals, all while improving productivity.How to go paperless using online technology ?**[read more....](https://www.vizitorapp.com/blog/how-to-go-paperless-in-the-office-in-2020-5-solutions/)**
 
-{{< figure src="/images/blog/image-204.png" >}}
+![go-paperless](/images/blog/image-204.png)
 
  
 
@@ -48,7 +48,6 @@ Vizitor is a paperless visitor managemnt system system and make the organizatoio
 
 With the [Vizitor](https://www.vizitorapp.com/), you might introduce Touchless features so guests don’t make contact with tablet/kiosk. This is a simple example of how to keep the underlying framework of a visitor management system, while altering it to be more COVID-19 friendly.  Visitor management system provides visitor screening for COVID-19, Touchless check-ins and many more features that makes your workplace more secure. **[read more...](https://www.vizitorapp.com/blog/visitor-management-system-for-covid-19/)**
 
-{{< figure src="/images/blog/image-205.png" >}}
 
  
 

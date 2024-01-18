@@ -70,7 +70,7 @@ Vizitor can help in this regard by minimizing physical contact during the check-
 
 This reduces the risk of spreading germs and enhances overall workplace safety, providing peace of mind to employees and visitors alike.
 
-{{< figure src="/images/blog/about-us-page.png" >}}
+![Reduce](/images/blog/about-us-page.png)
 
 ## Save time and eliminate frustration
 

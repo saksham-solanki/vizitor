@@ -32,7 +32,7 @@ The system is designed to ensure guests have the best possible experience by min
 
 So, a guest management system is an essential tool for modern businesses looking to provide world-class service to their guests and stay ahead of the competition.
 
-{{< figure src="/images/blog/image-9.png" >}}
+![guest](/images/blog/image-9.png)
 
 ## How does the guest management system work?
 
@@ -81,7 +81,7 @@ A visitor sign-in sheet is a record-keeping document that businesses or organiza
 
 The visitor sign-in sheet serves several purposes, including Security and Record keeping.
 
-{{< figure src="/images/blog/image-11.png" >}}
+![sign](/images/blog/image-11.png)
 
 Maintaining manual visitor sign-in sheets requires attention to detail and a systematic approach. Gone are the days of using manual sheets to sign-in visitors.They used to be prone to damage and error.
 
@@ -136,7 +136,6 @@ Certain industries, such as healthcare or education, may be required to track vi
 
 As already discussed,guests may be required to sign in to a visitor's book for a variety of reasons.The visitors book is an important tool for businesses or organizations because signing in to the visitor sheet provides safety, security, and regulatory compliance benefits for both guests and businesses. Furthermore, it can help businesses to track guest activity and preferences, which can be used to provide better services, create more personalized experiences, and improve overall guest satisfaction.
 
-{{< figure src="/images/blog/image-21.png" >}}
 
 Also, Keeping a record of visitors can help an organization track the number of visitors, how long they stayed, and what they were there for. This information can be useful for planning and evaluating the effectiveness of services or events.
 

@@ -10,14 +10,11 @@ authorsImage: /images/authors/author.svg
 
 First and foremost, we must understand how hybrid works. Let's get started! Hybrid work is a versatile work model that allows for a mix of in-office, remote, and on-the-go employees. It enables employees to work wherever and however they are most productive. Hybrid work is a flexible approach that allows employees to work both in the office and from home. Employees can work from wherever they want.
 
-{{< figure src="/images/blog/image-1 (1).png" >}}
-
 
 ### What is a hybrid work model?
 
 Hybrid work is a people-first approach to managing the workforce that drives increased productivity and job satisfaction while addressing the major challenges of remote work, such as isolation and lack of community. A hybrid work model provides employees with greater flexibility and the option to work from home or anywhere they can be productive. With hybrid work, the workplace is no longer inside the four walls of the corporate office—it’s an ecosystem of employees working from home, in coworking spaces, and the office. Team members can migrate between various locations depending on the work they need to get done.
 
-{{< figure src="/images/blog/image-3 (1).png" >}}
 
 
 ### What are the types of hybrid work models?
@@ -28,26 +25,25 @@ These are the four most common hybrid work models:
 
 Flexible hybrid work model provides the flexible timings to the employees. With this model, employees can choose their location and working hours based on their priorities for the day. Enhance the productivity of your workplace with this model.Work when and where you want to do. This model offers you freedom and flexibility. Improves the bottom-line due to cost savings on office space and travel.
 
-{{< figure src="/images/blog/image-2.png" >}}
+![Flexible](/images/blog/image-2.png)
 
 ### 2. Office-first hybrid work model
 
 In this model, you have the flexibility to choose a few days a week to work remotely. Organizations can plan to adopt this type of model where employees work in the office three days a week but have the option to choose two days for working remotely. This is the best way to maintain the company culture and community.
 
-{{< figure src="/images/blog/image-4.png" >}}
 
 ### 3. Remote-first hybrid work model
 
 This model prefers the work remotely most of the time with occasional visits to coworking spaces or the office for team building, collaboration, and training. In this model, you dont need the office space and team members in the same area to get together.
 
-{{< figure src="/images/blog/image-5 (1).png" >}}
+![prefers](/images/blog/image-5 (1).png)
 
 
 ### What are the benefits of hybrid work?
 
 Above, we have checked the different kinds of hybrid models. The benefits of this model is considerable for the employees, businesses, and the environment. This system delivers the flexibility, productivity, and job satisfaction for employees. For the business, it improves the bottom line and expands the talent pool. And the reduction in travel and office spaces leads to a more sustainable future.
 
-{{< figure src="/images/blog/image-6 (1).png" >}}
+![hybrid](/images/blog/image-6 (1).png)
 
 ### Balanced work life
 

@@ -29,7 +29,7 @@ In this post,we'll outline the significance of keeping track of visitors and gue
 
 **6.** Conclusion
 
-{{< figure src="/images/blog/13feb23-2.png">}}
+![ Conclusion](/images/blog/13feb23-2.png)
 
 ## Why is there always a need to cover and keep track of visitors  in an association? Why is it crucial for security- minded organizations?
 
@@ -52,7 +52,7 @@ Organization types such as schools, hotels, offices,government sectors,all have 
 
 But, all these remain only things of the past. Just keeping details of visitors on handwritten log books is not fundamental to security-minded  organizations.
 
-{{< figure src="/images/blog/13feb23-3.png">}}
+![ Importance](/images/blog/13feb23-3.png)
 
 
 ## Say a big NO to paper Visitor logs 
@@ -118,7 +118,7 @@ This is the modern age and digitization is needed today.
 Visitor Management Solution is especially designed to cater the needs of modern enterprises to meet their visitor management requirements.It also makes their registration process as smooth and convenient as possible.
 
 
-{{< figure src="/images/blog/13feb23-4.jpg">}}
+![ Electronic](/images/blog/13feb23-4.jpg)
 
 
 

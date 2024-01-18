@@ -30,8 +30,6 @@ The ideal way to book meetings is to invest in a management system. This is adva
 •  Comprehensive Features of Meeting Room Management Systems 
 
 
-[{{< figure src="/images/blog/ultimate-meet-img-2.jpeg" >}}](/demo)
-
 
 ## What is a Meeting room management system?
 

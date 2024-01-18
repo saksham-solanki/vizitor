@@ -15,7 +15,8 @@ This is where a visitor management system can come in handy. **With a [visitor m
 
 **Testimonials:-**
 
-{{< figure src="/images/blog/pasted image 0 (10).png" >}}
+
+![management](/images/blog/pasted image 0 (10).png)
 
 “Very good app for Visitor Management System & amazing customer service!"
 
@@ -25,7 +26,6 @@ This is where a visitor management system can come in handy. **With a [visitor m
 
 when a visitor arrives at the hospital, they go to the hospital reception desk and check in using the visitor management system. The system verifies the visitor's identity and checks to see if they are authorized to visit the patient they are there to see. If the visitor is approved, they are issued a badge that allows them access to the appropriate areas of the hospital. This badge also helps hospital staff keep track of who is on the premises and where they are allowed to go.
 
-{{< figure src="/images/blog/image-19.png" >}}
 
 ### By using a visitor management system:-
 
@@ -42,22 +42,20 @@ when a visitor arrives at the hospital, they go to the hospital reception desk a
 1. Touchless Check-In
 Visitors use their smartphones for themselves check-ins without the help of any third person. Pre-registered visitors can sign in by scanning their QR code. Instead of using a tablet to allow visitors to check-in on their own. This will limit the potential spread of the virus when visitors use their hands to tap the screen.
 
-{{< figure src="/images/blog/08233dd.png" >}}
 
 2.  Enter your details and capturing photo
 After scanning the QR code a customized form will pop up. Just fill in the required details and submit the form to check-in. For enhanced security ask your visitor for a photo. Visitors can simply capture their photo with their mobile phone.
 
-{{< figure src="/images/blog/image-16 (1).png" >}}
 
 3. Health Screening Form
 Once a visitor has submitted all the required details you can ask them to fill a Health Screening Form right on their mobile phone. This let’s you understand the health condition of your visitors.
 
-{{< figure src="/images/blog/74f2825.png" >}}
 
 4. Visitor e-Pass
 After filling out all the required details visitors and employees will be issued an E-Pass which will let them enter the facility with ease.
 
-{{< figure src="/images/blog/image-17.png" >}}
+![Screening](/images/blog/image-17.png)
+
 
 ## Maximizing Safety in Hospitals: The Role of a Visitor Management System in the COVID-19 Era
 
@@ -85,7 +83,7 @@ Providing real-time data: Many visitor management systems can provide real-time 
 
 Here are the ways how a visitor management system can help hospitals and medical facilities secure their premises and fast track their processes at the [Hospital reception.](/visitor-management-system-for-hospitals)
 
-{{< figure src="/images/blog/image-21 (1).png" >}}
+![management](/images/blog/image-21 (1).png)
 
 ## 1. Recognizes various visitor categories and quickly captures extensive data
 

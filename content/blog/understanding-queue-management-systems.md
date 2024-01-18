@@ -27,7 +27,6 @@ With [**Vizitor's**](/) queue management systems, you can ensure that your custo
 
 Queue Management System is a crucial tool for businesses that deal with high customer traffic. Here are some reasons why:
 
-{{< figure src="/images/blog/1-queue-management.png" >}}
 
 **Reduces waiting times:**
 
@@ -50,7 +49,7 @@ In today's world, managing crowds and ensuring safety is more critical than ever
 
 By using this system, businesses can gain valuable insights into customer behavior and improve both customer experience and operational efficiency. Here are some benefits of using a queue management system:
 
-{{< figure src="/images/blog/2nd-queue-management.png" >}}
+![Benefits](/images/blog/2nd-queue-management.png)
 
 **Appointment scheduling:** 
 
@@ -85,7 +84,7 @@ A queue management system offers opportunities for improved personalization of s
 ### 2.1 Amazing Stats
 
 
-{{< figure src="/images/blog/3-queue-management.png" >}}
+![Amazing](/images/blog/3-queue-management.png)
 
 **• Improved customer experience with reduced wait times and personalized service.**
 
@@ -107,7 +106,6 @@ A queue management system offers opportunities for improved personalization of s
 
 ## 3.  How does a Queue Management System Work?
 
-{{< figure src="/images/blog/4-queue-management.jpg" >}}
 
 • Visitor arrives at the company and proceeds to the QMS counter.
 
@@ -125,7 +123,7 @@ A queue management system offers opportunities for improved personalization of s
 
 **Queue management systems have a wide range of applications across various industries. Here are some use cases:**
 
-{{< figure src="/images/blog/5-queue-management.png" >}}
+![Cases](/images/blog/5-queue-management.png)
 
 **Healthcare Industry:**
 

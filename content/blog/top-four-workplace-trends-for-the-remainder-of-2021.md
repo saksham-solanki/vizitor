@@ -10,10 +10,6 @@ authorsImage: /images/authors/author.svg
 As we know, our world has changed this year – the workforce, the workplace we know completely transforms. Treatment of a completely remote and remote staff in boarding processes that adapt quickly to unforeseen customer needs and courageously face what are known as the 'unknown' and the 'new normal.'
 Thus our annual trends in the workplace are undoubtedly harder to predict than in previous years this year, as we are still in the middle of a pandemic – thankfully with an upfront vaccine.
 
-{{< figure src="/images/blog/image-135.png" >}}
-
- 
-
 
 But because we have already witnessed changes that clarify what organisations need to be happy, healthy, and productive, from our conversations this year we have rounded up important experts' insights. 
 
@@ -23,23 +19,17 @@ But because we have already witnessed changes that clarify what organisations ne
 
 The Office's changing aim. It's not just a matter of getting your paperwork done. The office is about a whole new socialization experience. Workers are not simply drawn by an office or flex space to go to a desk and do paperwork. You can at home. You can. Instead, the new purpose of the office is to create social experiences – in order to ensure that colleagues can interact, interact and work together.
 
-{{< figure src="/images/blog/image-136.png" >}}
-
- 
+![The Office's](/images/blog/image-136.png)
 
 ## **#2: **Go digital for security and efficiency
 
 The right technology for workplaces in all sectors will be crucial if organisations are to ensure safety, health and data protection at work. Go digitally, but simplify it. Yes, since COVID-19 has come into our lives, digitalisation of the workplace has accelerated. But technology also must make life easier for people, and it starts by breaking old silos down. Digital technology also provides workplace safety.
-
-{{< figure src="/images/blog/image-137.png" >}}
 
  
 
 ## **#3:**The touchless takeover of technology
 
 Many firms take less technologies on the workplace after the Covid-19 pandemic. As we return to offices and flex spaces, we will increasingly see more of these and other technologies being implemented. These technologies can simply scan a QR code to allow people to enter the building. Use the touchless visitor management system to  This allows you to safeguard your place of work and improve safety.
-
-{{< figure src="/images/blog/image-138.png" >}}
 
  
 
@@ -48,16 +38,13 @@ Many firms take less technologies on the workplace after the Covid-19 pandemic. 
 Since we are influenced by pandemic-era trends in the conception of workspaces, let's not be quick to set up plastic screens without thinking in the long term about how this affects our workspaces overall. Layouts that are sustainable and not reactive. Without thinking long-term, we cannot just build a bunch of plastic shields to prevent the spread of the virus. To ensure a sustainable design, new materials and systems must be in place.
 
 
-{{< figure src="/images/blog/image-139.png" >}}
+![Design trends](/images/blog/image-139.png)
 
  
 
 ## **# 5: **Industrial and roles cohesion and collaboration
 
 We will need to work together to share knowledge and insights across industries and roles to ensure that we move forward in this new world of work. Firstly, in order to ensure their people's health and safety, HR needs to work more closely across departments, including facilities management and security. With safety at work a high priority and remote work expands, increased connections between industries and business departments are newly needed.
-
-{{< figure src="/images/blog/image.png" >}}
-
 
  
 

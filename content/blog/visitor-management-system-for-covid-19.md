@@ -9,7 +9,6 @@ authorsImage: /images/authors/author.svg
 
 After pandemic, as businesses return to regular operations, employees and visitors are still mindful of how they interact with the workplace. The companies are going forward with the new norm. It’s enough that some businesses have begun to welcome visitors back into their facilities with a [visitor management system](https://www.vizitorapp.com/). Visitor management system is to control the visitor experience, it also involves mitigating the risk of spreading COVID-19.
 
-{{< figure src="/images/blog/image-279.png" >}}
 
  
 
@@ -25,8 +24,8 @@ Many companies still use visitor sign-in sheets to manage the visitors. But is t
 
 Where visitor management experience is used as a front-facing framework. As well this system also provides a platform to the companies that can be leveraged to make the process safer during COVID-19. Touchless technology doesn’t only provide protection and safety to the workplaces. It also provides the seamless modern experience to the premises. 
 
-{{< figure src="/images/blog/image-281.png" >}}
 
+![Build](/images/blog/image-281.png)
 
  
 
@@ -42,8 +41,6 @@ The manual system is not safe enough and also slowed down the productivity of th
 - This will limit the potential spread of the virus when visitors use their hands to tap the screen.
 
 
-{{< figure src="/images/blog/image-282.png" >}}
-
  
 
 ### 2. Visitor screening 
@@ -53,7 +50,8 @@ The manual system is not safe enough and also slowed down the productivity of th
 - Employees can approve or disapprove of visitors.
 - You can create custom fields to add relevant health and travel information in order to determine whether this visitor can enter the premises without putting others at risk.
 
-{{< figure src="/images/blog/image-266.png" >}}
+![Visitor](/images/blog/image-266.png)
+
 
  
 
@@ -62,9 +60,6 @@ The manual system is not safe enough and also slowed down the productivity of th
 - The company can send invitations to visitors with attached NDAs to sign in advance that might include health and safety precautions.
 
 - Visitors will receive and sign agreements in advance to avoid signing any agreements by hand once they arrive at your workplace.
-
-
-{{< figure src="/images/blog/image-283.png" >}}
 
  
 
@@ -75,8 +70,8 @@ The manual system is not safe enough and also slowed down the productivity of th
 - The Touchless check-in experience by sending them QR codes in advance.
 - Visitors will then receive a QR code to use directly from their email on their mobile devices when they arrive.
 
+![Provides](/images/blog/image-268.png)
 
-{{< figure src="/images/blog/image-268.png" >}}
 
  
 
@@ -89,7 +84,6 @@ The manual system is not safe enough and also slowed down the productivity of th
 - The visitor can simply scan their invite code and check-in.
 
 
-{{< figure src="/images/blog/image-284.png" >}}
 
  
 
@@ -99,7 +93,8 @@ The manual system is not safe enough and also slowed down the productivity of th
 
 - The Touchless visitor management system allows the worker to approve or disapprove the entry of any visitor on the premises.
 
-{{< figure src="/images/blog/image-285.png" >}}
+![Alert](/images/blog/image-285.png)
+
 
  
 

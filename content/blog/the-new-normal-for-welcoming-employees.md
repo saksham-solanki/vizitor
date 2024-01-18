@@ -20,8 +20,7 @@ For the safety aspect, the most important information to get from an employee be
 - Have you traveled out of state recently?
 - Have you been in  contact with person who has COVID in the past 14 days?
 
-{{< figure src="/images/blog/image-111.png" >}}
-
+![Screening](/images/blog/image-111.png)
 
 
 Employees can check-in with the QR code with the visitor management system.An employees’ state of health is considered protected health information. Companies must take special care to keep this information private for employee privacy.
@@ -30,7 +29,6 @@ Employees can check-in with the QR code with the visitor management system.An em
 
 For the security of the workplace, preparation is key to making sure your workplace is safe. That’s why it’s important to prepare the plan for when an employee plans to come in and how they plan to use the workplace. You can ask questions to the employees like: How long do you plan to stay into the office? Will you require use of a desk? This plan will help to know if they need a desk or specific meeting room when they come in. You have to make plans to clean the area before and afterward. Place the sanitizer at every employee's desk. Provide them safety kit with gloves, tissue papers, mask and more.
 
-{{< figure src="/images/blog/image-297.png" >}}
 
 
 
@@ -38,14 +36,14 @@ For the security of the workplace, preparation is key to making sure your workpl
 
 With the manual system, employees may not feel comfortable sharing more personal information like their recent travel and health history. But with the visitor management system you can  maintain your employees’ trust by keeping their data private and being transparent about how long you store their data and who can access it. With the visitor management system the company only captures if an employee agreed or disagreed with a statement, rather than specific data on their symptoms or temperature. With vizitor, you reduce the risk of private information falling on the wrong eyes. Nobody can see your data with the visitor management system.
 
-{{< figure src="/images/blog/image-298.png" >}}
+![Privacy](/images/blog/image-298.png)
 
 
 ### **4) Quick responses to keep your workplace safe**
 
 Your employees’ responses may tell you that an employee is sick and shouldn’t come in or that too many people are planning to come in at a certain time. When these situations arise, you need to know what to do and take immediate action to prevent an unsafe situation.Make sure your team knows exactly what criteria employees must meet to come on-site as well as your workplace’s max capacity. With the screening you can immediately notify employees who are not to enter the office. When you notify an employee, also disable their access badge to make sure they can’t access the office. 
 
-{{< figure src="/images/blog/image-299.png" >}}
+
 
 
 

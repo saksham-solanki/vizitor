@@ -17,7 +17,6 @@ Over the times, technologies and innovations have shaped the way of workplace op
 
 As we pass through the epidemic, there has been an accelerated focus on adaptation of the right technology for further flexible and dynamic ways of working and world's leading enterprises are looking forward to unlocking more innovative and effective results to go beyond their original working capabilities. 
 
-{{< figure src="/images/blog/main.jpg">}}
 
 Workplace solutions such as touchless Visitor Management Systems are helping the companies  in evolving their workplaces trends for the future. 
 
@@ -29,7 +28,6 @@ Software upgrades and innovations are increasingly important to keep systems upd
 
 In this post we will go through some excellent  trends and innovations that will help enterprises in making a seamless  futuristic impression on visitors and allow them to walk through safe office premises in the coming 2024 and posterior times. 
 
-{{< figure src="/images/blog/eVP-recep.jpg">}}
 
 
 ## Some of the major innovations and trends in Visitor Management Solution that enterprise should choose for their workplace with visitors in their mind-
@@ -57,7 +55,8 @@ In this post we will go through some excellent  trends and innovations that will
 
 • Security conscious enterprises  need to evolve to a new platform  of flexible, cloud-based storage architectures that deliver scalable security services with greater speed.
          
-{{< figure src="/images/blog/3.jpg">}}
+![Emerging cloud](/images/blog/3.jpg)
+
 
 ### 3. Emergence of advanced automated integrated solutions for enhanced visitor workflows –
 
@@ -82,7 +81,8 @@ In this post we will go through some excellent  trends and innovations that will
 
 • Virtual meeting technologies and collaboration tools are  enabling the idea of remote working.
 
-{{< figure src="/images/blog/4.webp">}}
+![Integration](/images/blog/4.webp)
+
 
 ### 5. Transformation of reception and HR operations to cope with contracting space needs
  

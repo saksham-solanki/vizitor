@@ -35,7 +35,7 @@ Visitors, especially potential customers, can drive sales and revenue for a busi
 
 ### 1. Advertising and promotion
 
-{{< figure src="/images/blog/31mar23-1.avif" >}}
+![ Advertising](/images/blog/31mar23-1.avif)
 
 As we all know, Visitors can offer a fresh perspective and new ideas, driving innovation and creativity within the organization
 
@@ -53,7 +53,6 @@ Through these approaches and more, companies can build brand awareness, generate
 
 Create unique experiences that visitors can't find elsewhere. This could be something as simple as making your front desk digital, welcoming guests in a unique way, or any elements that provide a memorable experience.
 
-{{< figure src="/images/blog/experiences.png" >}}
 
 Visitors play a vital role in creating a positive impression of your business.In modern times, digitization has revolutionized the way businesses attract visitors. It has become increasingly important for businesses to leverage digital platforms such as Vizitor to attract visitors and stay competitive in the market. 
 
@@ -84,7 +83,7 @@ Vizitor can send host notifications via SMS, email , which improves the communic
 
 Interacting with the local community by participating in events, sponsoring charitable organizations, and engaging with the community on social media can create positive word-of-mouth advertising and increase awareness of the business's brand.
 
-{{< figure src="/images/blog/image-117.png" >}}
+![ Engage](/images/blog/image-117.png)
 
 • Visitors can provide positive publicity for the business by sharing their experience with others.Visitors can provide valuable feedback about the business, its products and services, and areas for improvement. 
 
@@ -98,7 +97,7 @@ Interacting with the local community by participating in events, sponsoring char
 
 • Creating a referral program that rewards customers who refer others to the business is another effective strategy for attracting visitors. Visitors can create an opportunity for employees to engage with others outside the company, leading to increased sharing and collaboration.
 
-{{< figure src="/images/blog/employee.png" >}}
+![ referral](/images/blog/employee.png)
 
 • This can generate interest in the company and its culture, as well as potential new hires. 
 

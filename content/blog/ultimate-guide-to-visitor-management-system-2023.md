@@ -30,7 +30,7 @@ Visitor management refers to the process of tracking and monitoring visitors who
 
 Knowing who is at your premises is the topmost concern of modern organisations.It is crucial for enterprises whether small or large to keep track and monitor the activities of who is coming and going at your building.
 
-{{< figure src="/images/blog/17mar23-2.avif" >}}
+![Visitor](/images/blog/17mar23-2.avif)
 
 ### What are different types of visitors? 
 
@@ -71,7 +71,6 @@ And speaking of Visitor Management Systems, let me tell you about Vizitor – th
 
 **Some surprising reasons for using  a modern Visitor Management System**
 
-{{< figure src="/images/blog/17mar23-3.avif" >}}
 
 
 • With VMS, you can rest assured that your visitors are in good hands. The innovative visitor management solution not only streamlines the check-in and check-out process, but also enhances safety and security, making it a must-have for any modern business or event venue.
@@ -155,7 +154,7 @@ If you're a receptionist at a busy office building, and you're responsible for c
 
 Security is always one of the major concerns in organizations of almost all sectors. 
 
-{{< figure src="/images/blog/7mar23-4.avif" >}}
+![Enhancing](/images/blog/7mar23-4.avif)
 
 • With the Visitor Management System, you can verify visitor identities  and monitor their movements in real-time. This helps to prevent unauthorized access and ensures compliance with regulations, keeping your workplace safe and secure.
 
@@ -218,7 +217,6 @@ Visitor Management Systems are for everyone who wants to enhance the security an
 
 In the modern age,most of the sectors have begun to increasingly prioritize touchless visitor management solutions to meet post COVID situations.To mitigate the risk related to COVID, facilities such as Schools, hotels are creating  a touch-free and green  environment within their premises to make themselves safe and secure.
 
-{{< figure src="/images/blog/17mar23-4.avif" >}}
 
 Here are some examples of sectors VMS can benefit:
 
@@ -333,7 +331,7 @@ So, Visitor Management System like Vizitor  is a versatile and innovative soluti
 
 ## 4. How to choose the best visitor management solution?
 
-{{< figure src="/images/blog/17mar23-5.avif" >}}
+![choose](/images/blog/17mar23-5.avif)
 
 ### 4.1 Consider your visitors
 

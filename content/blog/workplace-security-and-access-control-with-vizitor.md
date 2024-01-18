@@ -9,8 +9,7 @@ authorsImage: /images/authors/author.svg
 
 Every organization is paying more attention to security these days. Organization should avoid the entry of the unauthorized person. Because unauthorized access can lead to stole the data, theft of property, destruction, and harm to employees. Physical security and access control are the primary concern of workplace security. Access control is the process of determining and enforcing who has access to the workplace building.
 
-{{< figure src="/images/blog/image-158.png" >}}
-
+![organization](/images/blog/image-158.png)
  
 
 ## **The need of the Visitor management for a secure workplace!**
@@ -19,7 +18,7 @@ Every organization is paying more attention to security these days. Organization
 
 2. The [best visitor management system](https://www.vizitorapp.com/) will require all the visitors to check in, gather information, record the reason for the visit, the person the guest is coming to meet and much more information.
 
-{{< figure src="/images/blog/image-159.png" >}}
+![workplace](/images/blog/image-159.png)
 
  
 
@@ -41,7 +40,7 @@ Access control security is the backbone of any organization’s security efforts
 
 Implementing the visitor management system can prevent these and other problems caused by unauthorized visitors. Visitor management system deny the entry of the unknown visitors and make your organization more secure.
 
-{{< figure src="/images/blog/image-160.png" >}}
+![Access](/images/blog/image-160.png)
 
  
 

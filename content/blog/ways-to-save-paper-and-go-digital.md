@@ -15,7 +15,6 @@ The world is excited about the paperless revolution. Many organizations are conv
 
 **"Let’s make your  workplace green to keep the globe clean"**
 
-{{< figure src="/images/blog/save-paper-stop-trees-cutting-concept_1016-857.jpg" >}}
 
 In this blog, we’ll explore the importance of going paperless and digital while saving the environment and nature.
 
@@ -31,7 +30,6 @@ Going digital not only saves paper and ink but also saves the energy needed to c
 With the advancements in electronic technologies, most organizations depend on electronic devices, decreasing the use of paper massively.
 But still, there is a need to go completely paperless.
 
-{{< figure src="/images/blog/3.png" >}}
 
 Paperless Offices: Great Work makes a Great office! 
 
@@ -52,8 +50,7 @@ Digitization and going green are the boon in many ways. They give us the option 
 
 ### 1. E-mail and PDF –
 
-
-{{< figure src="/images/blog/2 (1).png" >}}
+![innovative](/images/blog/2 (1).png)
 
 • Email is the easiest and efficient  way people can use for communication and announcements without the papers.
 
@@ -98,7 +95,6 @@ Digitization and going green are the boon in many ways. They give us the option 
 
 • Organizations have to install the  digital systems to mark the attendance of the employees.
 
-{{< figure src="/images/blog/5.png" >}}
 
 ### 5. E-signatures or Digital Signatures
 
@@ -154,7 +150,8 @@ Electronic billing
 
 • This practice eliminates unnecessary printing and improves efficiency.
 
-{{< figure src="/images/blog/4.png" >}}
+
+![task](/images/blog/4.png)
 
 ## Digitizing your workplace and going paperless Visitor Management System 
 
@@ -162,7 +159,8 @@ Every visitor management system provides a secure environment to work, live and 
 
 We know, paper waste is the worst thing for the environment today. Implementing a visitor management system can help you to create a digital badge system that saves on paper and generates e-badges. With this, this system being entirely online means that no paper is wasted there either. 
 
-{{< figure src="/images/blog/6.png" >}}
+
+![Digitizing](/images/blog/6.png)
 
 ## Go paperless with Vizitor-Best Visitor Management System
 
@@ -176,7 +174,8 @@ QR scanning, touchless check-ins, facial recognition, thermal and visitor screen
 
 Vizitor simplifies your registration process eliminating dependence on manual forms and papers. Instead it offers touchless check-ins and check-outs.
 
-{{< figure src="/images/blog/1.jpg" >}}
+
+![check](/images/blog/1.jpg)
 
 ## Wrap Up!!
 

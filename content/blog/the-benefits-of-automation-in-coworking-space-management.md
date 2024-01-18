@@ -28,7 +28,6 @@ Coworking spaces are designed to foster a sense of community and collaboration a
 
 Nobody can deny the fact that **[coworking](/visitor-management-system-for-co-working)** spaces have become increasingly popular in recent years, as more people are opting for remote work or starting their own businesses. They provide an alternative to traditional offices, which can be expensive and inflexible. Coworking spaces also offer a unique work experience that blends the benefits of working from home with the social and professional benefits of working in an office.
 
-{{< figure src="/images/blog/20mar23-1.avif" >}}
 
 ## Automation in Coworking Spaces
 
@@ -42,7 +41,7 @@ Another example is the use of coworking management software like **[Vizitor](/be
 
 Vizitor is one of the most reliable coworkikg solutions which not only streamline operations but also enhance retention and manage your space efficiently and seamlessly. The system fully automates the day-to-day tasks thus eliminating need for manual tracking.
 
-{{< figure src="/images/blog/20mar23-2.avif" >}}
+![coworking spaces automated](/images/blog/20mar23-2.avif)
 
 ## What are the reasons to automate your Coworking Processes? 
 
@@ -71,7 +70,7 @@ Just, you need to look for an optimal Coworking Space Management Software.
 
 ## Benefits of Automation in Coworking Spaces
 
-{{< figure src="/images/blog/20mar23-3.avif" >}}
+![Benefits of Automation](/images/blog/20mar23-3.avif)
 
 ## What are various benefits offered by Automation in Coworking Spaces? 
 
@@ -112,7 +111,6 @@ Automation in coworking spaces implementing coworking systems can help ensure th
 
 Automating a coworking workspace can be slightly different than automating your personal workspace. It is not as simple as it seems to be. After all, automating your coworking workspace can help you work more efficiently and productively, saving you time and effort.
 
-{{< figure src="/images/blog/20mar23-4.avif" >}}
 
 **Here are some steps you can take to automate your coworking workspace:**
 
@@ -148,7 +146,8 @@ Since you may be using shared resources in a coworking space, it's best to use c
 
 ## Automating coworking space indirectly saves costs……
 
-{{< figure src="/images/blog/20mar23-5.avif" >}}
+![Automating](/images/blog/20mar23-5.avif)
+
 
 ### 1. Improved productivity:
 

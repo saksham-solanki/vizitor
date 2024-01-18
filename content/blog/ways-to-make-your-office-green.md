@@ -21,8 +21,7 @@ Going green is becoming an in-demand office design trend. Going green increases 
 - When you aren’t using your devices then unplug things when they aren’t in use.
 
 
-{{< figure src="/images/blog/556767-istock-800426110.jpg" >}}
-
+![Natural](/images/blog/556767-istock-800426110.jpg)
  
 
 ### 2. Reuse and Recycle
@@ -34,8 +33,7 @@ Going green is becoming an in-demand office design trend. Going green increases 
 - Donate the things that are no longer in need rather than throwing them away.
 
 
-{{< figure src="/images/blog/image-233.png" >}}
-
+![Reuse](/images/blog/image-233.png)
  
 
 ### 3. Reduce Water Usage
@@ -46,8 +44,7 @@ Going green is becoming an in-demand office design trend. Going green increases 
 - Use water-efficient toilets and urinals to help conserve water.
 
 
-{{< figure src="/images/blog/image-234.png" >}}
-
+![Reduce](/images/blog/image-234.png)
  
 
 ### 4. Use Eco-Friendly Materials

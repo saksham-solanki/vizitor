@@ -31,7 +31,7 @@ In today's competitive business landscape, providing excellent customer service 
 
 • **Ensures Flexibility and Customization:** The right Queue Management System can be customized to meet specific business needs, ensuring that it aligns with business goals and requirements.
 
-{{< figure src="/images/blog/waiting-in-line.png" >}}
+![Ensures](/images/blog/waiting-in-line.png)
 
 ### 1.2 Choosing the Right Queue Management System
 
@@ -51,7 +51,6 @@ In today's competitive business landscape, providing excellent customer service 
 
 Queue Management Systems for hospitals and clinics are essential to managing patient flow and reducing wait times. With the right system, healthcare facilities can improve patient satisfaction, optimize resources, and enhance the overall patient experience. 
 
-{{< figure src="/images/blog/staff-in-busy-lobby-area-of-modern-hospital.png" >}}
 
 **Here are some key features of Queue Management Systems for healthcare settings:**
 
@@ -71,7 +70,6 @@ Queue Management Systems for hospitals and clinics are essential to managing pat
 
 Queue Management Systems are also valuable tools for government and public service settings such as DMVs, post offices, and other government offices. These systems help streamline services, reduce wait times, and improve the overall customer experience. 
 
-{{< figure src="/images/blog/India-queue-outside-post-office-PTI.png" >}}
 
 **Here are some key features of Queue Management Systems for government and public service settings:**
 
@@ -89,7 +87,6 @@ Queue Management Systems are also valuable tools for government and public servi
 
 Queue Management Systems have become increasingly popular in the retail industry as a way to manage crowds, reduce wait times, and enhance the overall customer experience. 
 
-{{< figure src="/images/blog/yJl7OB3sSpOdEIpHhZhd_DSC_1929_1.png" >}}
 
 **Here are some key features of Queue Management Systems for retail settings:**
 
@@ -107,7 +104,6 @@ Queue Management Systems have become increasingly popular in the retail industry
 
 Queue Management Systems have become increasingly popular in the banking and finance industry as a way to manage customer flow, reduce wait times, and enhance the overall customer experience. 
 
-{{< figure src="/images/blog/people-stand-in-long-queue-outside-banks-during-the-demonetisation-of-indian-currency.png" >}}
 
 **Here are some key features of Queue Management Systems for banking and finance settings:**
 
@@ -129,31 +125,29 @@ There are many Queue Management Systems available in the market, and the top one
 
 Qminder is a cloud-based Queue Management System that allows customers to join the queue remotely, receive real-time updates on their waiting time, and check their place in the queue.
 
-{{< figure src="/images/blog/logo.png" >}}
+![Qminder](/images/blog/logo.png)
 
 ### 3.2 Vizitor: 
 
 Vizitor is a cloud-based Visitor Management System that includes Queue Management capabilities. It allows customers to book appointments, check-in, and join the queue remotely, and receive notifications when it's their turn.
 
-{{< figure src="/images/blog/logo (1).png" >}}
 
 ### 3.3 QLess: 
 
 QLess is a Queue Management System that allows customers to join the queue remotely and receive real-time updates on their waiting time via SMS or email. It also provides staff with real-time analytics and reporting on customer wait times and service levels.
 
-{{< figure src="/images/blog/qless-inc-logo-vector.png" >}}
+![QLess](/images/blog/qless-inc-logo-vector.png)
 
 ### 3.4 Skiplino: 
 
 Skiplino is a cloud-based Queue Management System that allows customers to join the queue remotely, check their place in the queue, and receive notifications when it's their turn. It also provides real-time analytics and reporting on customer wait times and service levels.
 
-{{< figure src="/images/blog/Skiplino-Logo.png" >}}
 
 ### 3.5 Wavetec: 
 
 Wavetec is a Queue Management System that includes features such as remote queuing, digital signage, and analytics. It allows customers to join the queue remotely, and staff can manage the queue via a web-based dashboard.
 
-{{< figure src="/images/blog/2022-BLUE-Full-WT-Logo.png" >}}
+![Wavetec](/images/blog/2022-BLUE-Full-WT-Logo.png)
 
 In conclusion, selecting the right Queue Management System can significantly impact the success of businesses in various industries. Investing in a top Queue Management System can improve customer satisfaction rates, increase revenue growth, and provide valuable insights into customer behavior. Ultimately, businesses that prioritize the customer experience and invest in the right Queue Management System will see long-term success and growth.
 

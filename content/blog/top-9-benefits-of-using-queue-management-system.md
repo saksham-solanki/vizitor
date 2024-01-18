@@ -32,7 +32,7 @@ Customers avoid waiting in long and unmanageable queues and sometimes may leave 
 
 The Queue Management System offers shorter wait times, faster service delivery, and enhanced operational efficiency.
 
-{{< figure src="/images/blog/cover_image.jpg.760x400_q85_crop_upscale.jpg" >}}
+![Reduces](/images/blog/cover_image.jpg.760x400_q85_crop_upscale.jpg)
 
 • The electronic queue management system can automate the process of managing visitor flows by creating different departments for different visitors.Each department is assigned with particular employees and tokens are generated respectively.
 
@@ -44,7 +44,6 @@ The Queue Management System offers shorter wait times, faster service delivery, 
 
 Employees are one of the fundamental assets for an organisation.If your employees are not  confident, you might have not attained the level of satisfaction they want.Achieving staff satisfaction is necessary to ensure that staff can complete their duties with confidence.
 
-{{< figure src="/images/blog/AdobeStock_271761845.jpg" >}}
 
 • The Queue management system not only manages queues efficiently but also helps your staff perform better.
 
@@ -56,7 +55,7 @@ Employees are one of the fundamental assets for an organisation.If your employee
 
 ## 3. Efficient  Resource Utilization
 
-{{< figure src="/images/blog/corporate-manager-.webp" >}}
+![Efficient](/images/blog/corporate-manager-.webp)
 
 • The Queue Management System efficiently allocates the number of tokens to the right number of employees using the resources in an organized way.
 
@@ -66,7 +65,6 @@ Employees are one of the fundamental assets for an organisation.If your employee
 
 The system allows  to segment visitors and provide them personalized service by targeting them  at departments based on the services required making the process more smoother.
 
-{{< figure src="/images/blog/internal-communications.jpg" >}}
 
 • It interprets the needs of the visitors from the time they enter your premises and assign them tokens respective to their departments and can be alerted via their smartphones to provide  relevant information that will help serve them better.
 
@@ -81,7 +79,6 @@ The system allows  to segment visitors and provide them personalized service by 
 
 • An electronic queue management system can lead to reduced operational costs by improving staff productivity, optimizing capacity and schedules and eliminating the logistical requirements of a physical queue.
 
-{{< figure src="/images/blog/image_750x_5cc19e8b87e97.jpg" >}}
 
 • Since all the processes are well-integrated, it helps to manage waiting list and token allocation processes in an organized way making the tasks more automated and efficient.
 
@@ -91,7 +88,7 @@ The system allows  to segment visitors and provide them personalized service by 
 
 Maintaining customer loyalty is critical for maintaining a brand reputation in modern times. Customers generally not only appreciate your great service but also how you perceive them at your premises also matters a lot.
 
-{{< figure src="/images/blog/5ecf858df0b8d.png" >}}
+![ Improve Customer](/images/blog/5ecf858df0b8d.png)
 
 • By reducing wait times and ensuring a faster service, customers are more likely to remain satisfied and engage in more transactions with the business in the future.
 
@@ -100,8 +97,6 @@ Maintaining customer loyalty is critical for maintaining a brand reputation in m
 • "Loyal customers are likely your repeat customers' '-  The level of convenience and flexibility can foster a sense of trust and loyalty in customers , ensuring that they are more likely to return to the business in the future.
 
 ## 7. Boost revenue
-
-{{< figure src="/images/blog/getty_921527422_386813.jpg" >}}
 
 • The queue management system reduces operational costs by optimizing staff scheduling and reducing customer frustration that can lead to abandoned transactions. 
 
@@ -113,7 +108,6 @@ Capturing visitors' details is crucial for businesses in this competitive world 
 
 • Detailed reports and data analytics provide valuable insight on various core aspects such as number of visitors and guests served, employees' performance etc. which allows them to make informed predictions about future customer demands and areas to improve.
 
-{{< figure src="/images/blog/The-building.jpg" >}}
 
 • The system offers valuable statistics and reports such as how often a guest visit the department, tokens generated and assigned each day etc. 
 
@@ -125,7 +119,7 @@ Our Queue management systems improve the customer experience, an essential facto
 
 • It provides a more organized and structured queuing system that is easy to navigate, lowering the customer's anxiety and frustration levels.
 
-{{< figure src="/images/blog/facebook-banner.png" >}}
+![Enhanced](/images/blog/facebook-banner.png)
 
 • The system sends automated notifications that the brand values the customers' time and seeks to provide them with the best service possible.
 

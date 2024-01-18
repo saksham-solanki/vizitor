@@ -40,8 +40,7 @@ Failing to consider user experience when implementing a visitor management syste
 • The system's user interface must be easy to use for visitors and employees. A poorly designed or implemented system can frustrate users, cause delays, and reduce the overall effectiveness of the system.
 
 
-{{< figure src="/images/blog/bigstock-Ux-User-Experience-User-Inte-274189435.png" >}}
-
+![MISTAKE](/images/blog/bigstock-Ux-User-Experience-User-Inte-274189435.png)
 
 • If the system is difficult to navigate or understand, it could lead to frustration and inefficient use, and could even discourage visitors from returning. Moreover, a poorly designed system could negatively impact the reputation of an organization.
  
@@ -68,7 +67,6 @@ Vizitor is one of the reliable  visitor management systems  designed with user e
 If employees are not trained on how to use the system correctly, it can lead to errors, reduced efficiency, confusion or delay in the check-in process, which can negatively impact the visitor experience. 
 It's important to provide clear instructions on how to use the system and to ensure that all users are comfortable with the process.
 
-{{< figure src="/images/blog/trainingfailsmain.jpg" >}}
 
 • To avoid this mistake, it is essential to provide thorough training to employees. This can involve training sessions, online resources, and user manuals to help employees understand how the system operates and how to utilize its full capabilities.
 
@@ -90,7 +88,7 @@ Every organization has unique needs and requirements for their visitor managemen
 
 • Organizations must have a clear understanding of what they expect to gain from implementing a [**Visitor management systems**](/best-visitor-management-system-in-india). This will help ensure that the system is fit for purpose and delivers the desired results.
 
-{{< figure src="/images/blog/systems-vs-goals-700x467.jpg" >}}
+![defining](/images/blog/systems-vs-goals-700x467.jpg)
 
 • To avoid this mistake, an organization should establish clear goals such as managing visitor data, scheduling appointments or meetings, pre-registering visitors, and ensuring compliance with data protection regulations such as GDPR. 
 
@@ -114,7 +112,7 @@ Employee and visitor awareness of the new system is vital.
 
 • Otherwise, it can cause confusion, delays, and even security breaches, especially when visitors and employees don't understand the check-in and check-out procedures.
 
-{{< figure src="/images/blog/ineffective_communications.png" >}}
+![MISTAKE](/images/blog/ineffective_communications.png)
 
 • To avoid this mistake, organizations should communicate clearly with both visitors and employees about the new system. They should provide appropriate training and clear instructions on how to use the system, including any specific data protection policies or instructions on how to pre-book a visit. 
 
@@ -138,7 +136,6 @@ Ignoring privacy concerns and security is a key mistake organizations make while
 
 • [**Visitor management systems**](/best-visitor-management-system-in-india) process visitors' personal details, and if the data's security is not ensured, it can lead to data breaches, and organizations can be held responsible for any resulting impacts. 
 
-{{< figure src="/images/blog/IT-Security-1024x642.jpg" >}}
 
 • To avoid this mistake, visitor management systems should have features designed to ensure data security, such as access control, audits and logs, and GDPR compliance. 
 

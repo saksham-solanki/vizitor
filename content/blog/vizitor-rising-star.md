@@ -7,7 +7,7 @@ authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
 ---
 
-{{< figure src="/images/blog/image-366.png" >}}
+![ Premium](/images/blog/image-366.png)
  
 Vizitor awarded by FinancesOnline
 

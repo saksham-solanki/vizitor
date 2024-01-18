@@ -10,8 +10,8 @@ authorsImage: /images/authors/author.svg
 Visitor management system for a co-working space is a software that automates the reception area.Visitor management system helps to manage efficiently check in visitors, capture key information, and let hosts know of their visitor's arrival. Co-working software combined with a [visitor management system](https://www.vizitorapp.com/) simplifies managers' lives and increases the productivity of the workplace. For co-working space, visitor management system needs to build a digital database of possible connections. With the visitor management system you can gather the information of every visitor.
 
 
-{{< figure src="/images/blog/image-274.png" >}}
 
+![need of](/images/blog/image-274.png)
 
 
 ### **The Benefits of Supplementing Co-working Software with Visitor Management system:**
@@ -26,8 +26,7 @@ Visitor management system for a co-working space is a software that automates th
 7. With the VMS you can see the live status of visitors. Visitor dashboard displays the current status of the visitors. visitor management system provides real-time data, status of visitor, pre-registered visitors, and more. This visitor information is essential for enhancing co-working space security.
 
 
-{{< figure src="/images/blog/image-275.png" >}}
-
+![Benefits](/images/blog/image-275.png)
 
 ### **Hidden benefits for your coworking space:-**
 

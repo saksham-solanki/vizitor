@@ -10,7 +10,6 @@ authorsImage: /images/authors/author.svg
 
 In the manufacturing industry, there is a lot of activity going on. A large number of daily operations require dedicated personnel. Maintaining a strong security protocol is also important. Furthermore, regular activities must adhere to regulatory compliance.
 
-{{< figure src="/images/blog/image-46.png" >}}
 
  
 
@@ -20,7 +19,6 @@ As we all know, keeping up with smart technologies is one of the most difficult 
 
 In order to establish a solid framework, the manufacturing industries require a lot of careful supervision. The front desk is also an important part of the company structure, and it must be protected. Manufacturing facilities should use a smart Visitor management system to automate the visitation process. This will direct your employees' attention to other aspects of the business. As a result, their productivity will increase.
 
-{{< figure src="/images/blog/image-47.png" >}}
 
  
 
@@ -30,15 +28,13 @@ In order to establish a solid framework, the manufacturing industries require a 
 
 In the manufacturing industries, the visitors and employees can sign in at a tablet but with the advancement of the vms the sign in process become easy. You can sign in with QR code. Vizitor takes less time to sign in.
 
-{{< figure src="/images/blog/image-48.png" >}}
-
+![ functionalities](/images/blog/image-48.png)
  
 
 ##### 2.  Free visitor NDA
 
 As we all know, heavy machinery is used in the manufacturing industry. As a result, it is the primary responsibility to keep everyone safe from harm. Vizitor provides the NDA so that Vizitor can proceed with sign-in after signing and viewing.
 
-{{< figure src="/images/blog/image-49.png" >}}
 
  
 
@@ -46,7 +42,6 @@ As we all know, heavy machinery is used in the manufacturing industry. As a resu
 
 Badges are required in the industries to identify visitors. So that unwanted visitors are prevented from entering the premises. When a visitor signs in, they must complete the form, after which the vizitor will print a badge. This aids in recognition and enhances the visitor experience.
 
-{{< figure src="/images/blog/image-50.png" >}}
 
  
 
@@ -54,7 +49,6 @@ Badges are required in the industries to identify visitors. So that unwanted vis
 
 The host is immediately notified of the visitor's arrival. As a result, the host meets the visitor in the lobby, and they continue their conversation from there.
 
-{{< figure src="/images/blog/image-51.png" >}}
 
  
 
@@ -64,7 +58,7 @@ The administrator can create a Watchlist and add specific visitors to it. It ser
 To begin, VMS will send an instant alert if a visitor from the 'Watchlist' enters the location. Second, if you have very specific work with the visitor as an admin, it will notify you of their presence.
 
 {{< figure src="/images/blog/image-52.png" >}}
- 
+ ![ needs](/images/blog)
 
 ## Visitor check-ins are now “seamless”
 

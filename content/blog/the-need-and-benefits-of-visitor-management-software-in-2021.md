@@ -17,23 +17,17 @@ You never know the answers of these questions using the manual system at your of
 
 Using the visitor management system at the front desk you can reduce the usage of paper. Visitor management is the cloud based system that stored the data in the cloud and it can be accessed through the internet. This system will capture and store all the necessary information you need from your visitors. You can quickly search and export the specific data without wasting time. A visitor management system also enables you to compile visitor timeline data for a specific date range.
 
-{{< figure src="/images/blog/image-150.png" >}}
-
-
 
 ### #Sends Emergency alerts:-
 
 Any incidents can happen in the workplace that may require your building to conduct an immediate emergency evacuation. Then how do you alert your visitors all and put them into safety? Is this possible to use traditional log books? However, a digital visitor management system provides a real-time checklist of everyone who has signed in to your system. This makes it easier to identify people who have safely managed to leave the building premises and those who still need to be accounted for.
 
-{{< figure src="/images/blog/image-151.png" >}}
-
+![Sends Emergency](/images/blog/image-151.png)
 
 
 ### #Enhancing Information Security:- 
 
 With the advancements of the digital technology laws everyone cautious of the dangers of giving personal information to just anyone, including the front desk attendant. So many companies still use the manual system and gather the information of the visitors. These all records can be seen by the others. This risk can be reduced by just implementing the digital visitor management system.
-
-{{< figure src="/images/blog/image-152.png" >}}
 
 
 

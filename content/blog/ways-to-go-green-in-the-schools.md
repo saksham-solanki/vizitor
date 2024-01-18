@@ -23,7 +23,6 @@ Each small effort made by students, parents and staff contribute not only to mak
 
 Going green is very useful for the environment. When you decide to go green then you’re already halfway there!  There are some simple ways that will help for the eco-friendly schools movement.
 
-{{< figure src="/images/blog/image-169.png" >}}
 
 ## Objectives of going green in schools–
 
@@ -69,7 +68,8 @@ Thank you,
 
 • Avoid use of lights during daytime.
 
-{{< figure src="/images/blog/image-167.png" >}}
+![light](/images/blog/image-167.png)
+
 
 ### 2. Promote Walking & Public transportation among students and staff–
 
@@ -82,7 +82,6 @@ Thank you,
 
 ### 3. Say 'No' to Plastic–
 
-{{< figure src="/images/blog/image-168.png" >}}
 
 • As we know, plastic is poison for the environment. Plastic is one of the most highly wasted products. 
 
@@ -117,7 +116,8 @@ Thank you,
 
 • Replacing these with natural, eco-friendly solutions improve the well-being of students as well as staff.
 
-{{< figure src="/images/blog/image-170.png" >}}
+![eco-friendly](/images/blog/image-170.png)
+
 
 ### 7. Ensure sustainability in classrooms– 
 
@@ -168,7 +168,8 @@ Thank you,
 
 Eco-friendly schools save money. Going green in the school, we can save money. This money can be used elsewhere and invested in better educational tools for students. Recycling, reducing, reusing these all methods will help in saving the earth also!!
 
-{{< figure src="/images/blog/image-171.png" >}}
+![Save-Money](/images/blog/image-171.png)
+
 
 ## Wrap Up!!
 

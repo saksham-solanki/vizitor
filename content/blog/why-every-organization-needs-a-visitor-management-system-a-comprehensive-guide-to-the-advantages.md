@@ -18,7 +18,6 @@ With the rise in emerging trends and smarter business techniques, every organisa
 
 • Some benefits of visitor management system 
 
-{{< figure src="/images/blog/9jan23.png">}}
 
 ## #How Does a Visitor Management System Benefit Your Business?
 
@@ -28,7 +27,6 @@ Especially in large organisations where there is a free flow of visitors, it is 
 
 Nobody can deny this fact that a  practical and contactless visitor management system is the need of the hour for every business that observes a lot of human interaction. 
 
-{{< figure src="/images/blog/9jan23-1.jpg">}}
 
 ## #Why it is needed to streamline and digitize your workflow with a visitor management system?
 
@@ -39,7 +37,7 @@ To address the challenge, many organisations are now adopting the visitor manag
 
 Security-conscious organizations are increasingly looking towards smarter and stronger visitor management systems (VMS) to strengthen their risk management strategies. [COVID-19](/visitor-covid-screening) has even driven faster adoption of automation of businesses and adoption of Visitor Management Systems has increased during pandemic.
 
-{{< figure src="/images/blog/9jan23-2.jpg">}}
+![ needed](/images/blog/9jan23-2.jpg)
 
 ## #Investing in reliable visitor management solutions can gives a positive seamless visitor experience-
 
@@ -47,7 +45,6 @@ This could be a burdensome for a receptionist to manage and track number of gues
 
 With the rise of security breach issues and safety concerns at the workplace, businesses around the world are finding it worthy to invest in reliable visitor management solutions.
 
-{{< figure src="/images/blog/9jan23-3.png">}}
 
 ### Here are some compelling reasons why organisations should consider implementing a modern visitor management system--
 
@@ -61,7 +58,6 @@ Enhanced safety is one of the most important benefits of a visitor management sy
 
 • In a way, the VMS offers rapid, secure and seamless visitor sign-in solutions. QR code-based check-in for the touchless experience. 
 
-{{< figure src="/images/blog/9jan23-4.jpg">}}
 
 ### 2. Streamlining business operations-
 
@@ -73,7 +69,7 @@ Every business grows with time and the requirements change as it scales up. So, 
 
 • Offers a streamlined platform for business needs
 
-{{< figure src="/images/blog/9jan23-5.jpg">}}
+![ Streamlining](/images/blog/9jan23-5.jpg)
 
 ### 3. Scalable, Flexible, And Adaptable-
 
@@ -83,7 +79,6 @@ One of the biggest benefits of this system is that it is scalable, flexible, and
 
 • With a visitor management system, the entire process of keeping visitor data in place and managing all other aspects of it can be streamlined to a great extent.
 
-{{< figure src="/images/blog/9jan23-6.jpg">}}
 
 ### 4. Compliance - 
 
@@ -93,7 +88,7 @@ The manual process of collecting, managing, and erasing the data require techniq
 
 • With the new General Data Protection Regulations (GDPR) data compliance is more important than ever, and a visitor management system is a fantastic way to get your reception ready for GDPR.
 
-{{< figure src="/images/blog/9jan23-7.jpg">}}
+![ Compliance](/images/blog/9jan23-7.jpg)
 
 ### 5. Enhance workplace safety- 
 
@@ -103,7 +98,6 @@ In the context of COVID-19 business leaders need to understand the risks of peop
 
 • In addition, with the importance of contact tracing for COVID-19 spread reduction, these systems have become a crucial part of contact tracing processes.
 
-{{< figure src="/images/blog/9jan23-8.jpg">}}
 
 ### 6. Cost savings:
 
@@ -113,7 +107,7 @@ In the context of COVID-19 business leaders need to understand the risks of peop
 
 • Therefore, with a budget-friendly investment, you can have a system that supports your organization that boost its efficiency.
 
-{{< figure src="/images/blog/9jan23-10.jpg">}}
+![ savings](/images/blog/9jan23-10.jpg)
 
 ### 7. Data protection-
 
@@ -123,19 +117,18 @@ A good automated VMS provides top-of-the-line data protection.
 
 • With a digital system, the information is confidential and there is no chance of it getting lost.
 
-{{< figure src="/images/blog/9jan23-11.jpg">}} 
+![protection](/images/blog/9jan23-11.jpg)
+
 
 ### 8. Visitor analytics: 
 
 Having a digitized platform where you can save the information of all your visitors can help you analyze patterns in their visits. All these analytics can help decipher patterns so you can decide which events or promotional tactics were useful.
 
-{{< figure src="/images/blog/9jan23-13.jpg">}}
 
 ### 9. Integration with other technologies:
 
 This feature allows businesses to integrate [Touchless visitor management](/touchless-visitor-management-system) software with other technologies and software solutions such as Slack.
 
-{{< figure src="/images/blog/9jan23-14.png">}}
 
 ### 10. Customer satisfaction and image boosting:
 
@@ -143,7 +136,6 @@ This feature allows businesses to integrate [Touchless visitor management](/touc
 
 • Visitor management sets expectations and assures a defined, repeatable, reliable process for welcoming people into your environment.
 
-{{< figure src="/images/blog/9jan23-15.jpg">}}
 
 ## #Summarize !!
 

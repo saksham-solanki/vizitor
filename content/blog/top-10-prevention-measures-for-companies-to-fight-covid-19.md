@@ -20,17 +20,13 @@ Here are some hygiene practices that can curb the spread of viruses in the workp
 - Don’t shake the hands or hug anyone. Come up with a NAMASTE greeting.
 - When you start work, wipe down your working desk, computer system daily.
 
-{{< figure src="/images/blog/image-348.jpg" >}}
-
-
- 
 
 ## **2. Disinfect desk policy**
 
 The coronavirus spread by touching the surfaces and objects. So, a disinfect desk policy is now a must for reducing the spread of disease. Get employees not only to store their possessions and exchange material via bacteria-destroying lockers each day, but also to disinfect their own desk, laptop, and keyboard.
 
-{{< figure src="/images/blog/image-349.jpg" >}}
 
+![Disinfect](/images/blog/image-349.jpg)
  
 
 ## **3. Promote and facilitate ‘respiratory hygiene’**
@@ -49,17 +45,12 @@ The reception area is the most vulnerable zone at workplace.
 
 Get visitors to register using a [Touchless visitor management system](https://www.vizitorapp.com/touchless-visitor-management-system), without requiring the physical interaction of reception staff. The Touchless visitor management system provides the contactless check-ins to the visitors using QR code. When registering, the visitor is given, your prevention measures  read and accept and may only then meet their host.
 
-{{< figure src="/images/blog/image-350.jpg" >}}
-
- 
 
 ## **6. Intensify e-meetings**
 
 Reduces the spread of Coronavirus, allow employees to work from home regularly, and certainly if they have a slight cough or fits of sneezing. Encourage customers and business partners to have discussions via conference calls. In this outbreak of COVID-19, get employees to avoid public transport and crowded places as much as possible.
 
-{{< figure src="/images/blog/image-351.jpg" >}}
-
- 
+![Intensify](/images/blog/image-351.jpg) 
 
 ## **7. Set up a plan for emergency**
 
@@ -84,8 +75,6 @@ We know that this is a digital era. When we do not come in contact with each oth
 ## 10. Follow Social Distancing at Workplace
 
 You should maintain some distance amongst yourself and colleagues while sitting on a chair or talking to each other or even while having a coffee break. There is a need for social distancing. You spend maximum time at work and must maintain a proper distance in the workplace during this time, whether they seem fine or not. Make sure there is a difference of 6 feet between every desk. There are no exceptions to this rule. Avoid lifts and take the staircase instead of the lift. When you touch the railing for support, be sure to wash your hands with soap and water.
-
-{{< figure src="/images/blog/image-352.jpg" >}}
 
  
 

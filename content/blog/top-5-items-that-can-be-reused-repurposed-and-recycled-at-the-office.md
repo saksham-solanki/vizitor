@@ -23,7 +23,7 @@ Recycling, reusing and reducing are one of the most important and critical pract
 
 As you already know that landfills and non-disposable wastes are extremely harmful for Earth.It is really important for small and large enterprises to introduce and maintain good recycling schemes at offices.
 
-{{< figure src="/images/blog/image-309.png" >}}
+![Recycle](/images/blog/image-309.png)
 
 Recycling in offices is not just limited to paper and plastics but also there are much more items that can be reused too! Optimizing recycling efforts in your offices can be greatly beneficial in ensuring a green and clean environment in your offices.
  

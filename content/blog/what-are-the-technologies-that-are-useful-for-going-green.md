@@ -12,7 +12,6 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 > As we know that, global warming is a reality. It is a growing problem upsetting governments and society in general. Here the following ways to fight against global warming is by means of the so-called green technologies.
 
 
-{{< figure src="/images/blog/image-223.png" >}}
 
  
 
@@ -23,8 +22,7 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 
 - To manage this waste we have to use outstanding technologies such as, automated food waste tracking systems and automated optical scanning technologies can help sort mixed plastics by separating them from others.
 
-{{< figure src="/images/blog/image-224.png" >}}
-
+![Recycling](/images/blog/image-224.png)
  
 
 ### Construct the Self-sufficient buildings
@@ -34,7 +32,6 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 - Organizations should use the photovoltaic panels that generate the greater production with the same surface and incorporate intelligent solar tracking systems, thus obtaining an optimal use of radiation.
 
 
-{{< figure src="/images/blog/image-225.png" >}}
 
  
 
@@ -47,8 +44,7 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 - The water that can be reused by this type of system can be rainwater or mains water.
 
 
-{{< figure src="/images/blog/image-226.png" >}}
-
+![Technology](/images/blog/image-226.png)
  
 
 ### Use the LED and CFL Lighting
@@ -58,7 +54,6 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 - These kinds of bulbs are brighter in light, require less energy to function, are eco-friendly and last longer.
 
 
-{{< figure src="/images/blog/image-227.png" >}}
 
  
 
@@ -70,8 +65,7 @@ Today, climate change is the biggest problem that affects many other factors. Ma
 - Visitor management system manages the visitors and employees in the workplace.
 
 
-{{< figure src="/images/blog/image-228.png" >}}
-
+![increases](/images/blog/image-228.png)
  
 
 ### Wrap Up!!

@@ -21,7 +21,7 @@ In this blog, we will explore the numerous **benefits of the attendance manageme
 and how it can positively impact your business productivity.
 
 
-{{< figure src="/images/blog/image-38.png" >}}
+![Attendance](/images/blog/image-38.png)
 
 
 ## What is an attendance management system?
@@ -29,10 +29,6 @@ and how it can positively impact your business productivity.
 The [attendance management](/touchless-attendance-management-system) procedure in an organization is a method of calculating an employee’s working hours and time away from work. An employer can obtain information on the number of hours worked by an employee and the number of days off they took due to attendance management. The employee attendance monitoring systems are automated and reduce the complexities in employee attendance tracking. 
 
 The advancement of technology has fully automated workforce management, including attendance tracking, work hours, and time-off calculations.
-
-
-{{< figure src="/images/blog/image-39.png" >}}
-
 
 
 ## Learn the easy process of the contactless attendance solution- Vizitor 
@@ -55,7 +51,6 @@ In addition to the employee identification app, you get a real-time attendance p
 Employee attendance monitoring system is helpful for your office use and employees working from home. With our latest Geo-Tagging feature, your employees can mark their attendance from their homes. Once an employee marks their attendance, their geo-coordinates are sent with their attendance.
 
 
-{{< figure src="/images/blog/image-40.png" >}}
 
 ## Benefits of attendance management system
 
@@ -64,30 +59,24 @@ The paperless attendance management system helps to reduce labor costs. The foll
 **1. Cost-effective :-** The paperless attendance management system reduces costs. When we used a paper-based attendance system, an organization was always vulnerable to expense. A successful business is built on maximum productivity with minimal error. Many organizations have saved significant money by implementing an automated attendance management system.
 
 
-{{< figure src="/images/blog/image-41.png" >}}
 
 
 **2. Saving time:**  Adapt the [smart attendance management system](/touchless-attendance-management-system) to manage time and employees. With this system, you can reduce paperwork, saving time when collecting accurate employee attendance records. Time-consuming tasks such as manually allocating assignments, tracking shift changes, and so on can be monitored and assigned with a few clicks.
-
-{{< figure src="/images/blog/image-42.png" >}}
 
 
 **3. Accuracy in work:-** Accuracy is essential in the workplace. As a result, an attendance management system ensures that employees are managed accurately. As we all know, manually entering data can lead to errors and be time-consuming. This system keeps accurate time records and provides reliable data on the actual performance of payroll software.
 
 
-{{< figure src="/images/blog/image-43.png" >}}
 
 
 **4. Secure and Reliable:-** The attendance system provides high security and dependability. This system secures your organization by using individual login IDs and passwords. No employee can tamper with the attendance device’s saved data.
 
 
-{{< figure src="/images/blog/image-44.png" >}}
 
 
 **5. Managing the employees:-**  The attendance management system provides the clock-in and clock-out features. As a result, HR will have better control over attendance monitoring. It will help them keep track of employee log-ins and log-outs but also help them avoid buddy punching and, in practice, minimize human-induced errors.
 
 
-{{< figure src="/images/blog/image-45.png" >}}
 
 
 ## Conclusion

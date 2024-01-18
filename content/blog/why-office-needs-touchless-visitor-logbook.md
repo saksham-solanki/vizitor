@@ -10,8 +10,7 @@ authorsImage: /images/authors/author.svg
 
 We know that Corona-virus mitigation efforts are everywhere on the premises. Managing the visitors in the company is a concern as companies began to open their doors. Before the Covid-19, you managed your visitors with the manual logbook or visitor check-in system via kiosk. But after the Covid-19, risks bringing a deadly disease into your workplace with these systems. Do you want to make the visitor's experience safe and hassle-free? Then there is the best and simplest answer is the Touchless visitor management system.
 
-{{< figure src="/images/blog/image-149.png" >}}
-
+![office needs](/images/blog/image-149.png)
 
 Vizitor is the Touchless visitor management system. With this system, visitors can pre-register on their smartphone before their arrival, visitor screening, check-in with a visitor management system QR code, can meet their host in no time; and record the last details of the visitor experience.
 

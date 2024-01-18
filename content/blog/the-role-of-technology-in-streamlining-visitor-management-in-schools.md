@@ -40,7 +40,6 @@ Visitor Management System for Schools is one of the best and reliable solutions 
 
 Visitor Sign-in System is especially designed to automate and  streamline the sign-in processes using mobile apps to enhance the efficiency of check- in procedures.
 
-{{< figure src="/images/blog/visitor-management-new-1.png">}}
 
 ## Digitizing visitor management  operations  in Schools using digital technology  is crucial in present age
 
@@ -102,7 +101,7 @@ The use of [touchless and contact- free  technology in check-in](/touchless-visi
 
 Visitors and students can self sign-in using touchless check-in solutions with pandemic proof technology that help in reducing spread of viruses. The sign-in process becomes safer.
 
-{{< figure src="/images/blog/Home19C.png">}}
+![Emergence](/images/blog/Home19C.png)
 
 ### • QR scanning  enables more faster and smarter check-ins– 
 
@@ -112,7 +111,6 @@ Modern school organizations allow scanning QR codes by initiating the check-in p
 
 Visitor Sign-in solutions enable capturing detailed visitor information including  photo, providing hosts with more relevant information about visitors for serving identification purposes. It allows for backlisting visitors using face recognition technology.
 
-{{< figure src="/images/blog/23jan23-4.jpg">}}
 
 ### • Customized electronic school Visitor badges also add an extra layer to the security standards– 
 
@@ -124,7 +122,6 @@ It not only simplifies appointment scheduling and gives school administrators mo
 
 The cloud based storage technology enables real-time and updated recording of students and visitors' details. This evicts the use of paper & pen. With the eviction of paper based recording of visitors details, the data always remain 100% accurate. This technology eliminates the need of manually maintaining  a record book and tp go through a large quantity of physical logbooks to search out the desired info.
 
-{{< figure src="/images/blog/23jan23-5.png">}}
 
 ### • Zero touch attendance technology facilitates attendance management in Schools-
 
@@ -134,7 +131,7 @@ The automatic no-touch attendance solution provides schools with a real-time att
 
 Practically, as the school administrators are continuously trying to safeguard their school premises from exposure to infectious diseases like COVID. The safety of students and staff is the first and foremost priority of school officials. Thermal screenings at the front door reduces the risks of infection among students. Any Visitor or parent with symptoms of disease will be disapproved of entering into your school.
 
-{{< figure src="/images/blog/23jan23-6.jpg">}}
+![Temperature](/images/blog/23jan23-6.jpg)
 
 So,the role of  technology in streamlining the management of visitors in schools is significant and unavoidable. The technological advancements in visitor management systems  are  increasingly important these days to increase security and efficiency in school establishments.
 

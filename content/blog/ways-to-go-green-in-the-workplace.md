@@ -11,13 +11,11 @@ We are going forward with the digital era. We reduce our work with this. We inst
 
 ***But what about our environment?***
 
-{{< figure src="/images/blog/image-249.png" >}}
 
  
 
 When we are going digital there we have to save our environment, doing something for the environment and most importantly going green. Going green means making conscious and sustainable choices that help you reduce, rescue, and recycle. **So Lets make our organization Eco-friendly.**
 
-{{< figure src="/images/blog/image-250.png" >}}
  
 
 As we know business leaders are always looking for ways to cut down on unnecessary expenses. Eco-friendly workplaces reduce the expense of the business and they often result in cost savings while demonstrating your responsibility to the environment. With this, budget will be improved that can become even bigger wins when they also improve the company’s brand image and streamline operations.
@@ -26,7 +24,6 @@ As we know business leaders are always looking for ways to cut down on unnecessa
 
 Companies can go green with the green strategies . So here are some ways to go green in the workplace.
 
-{{< figure src="/images/blog/image-251.png" >}}
 
  
 
@@ -45,8 +42,7 @@ Companies can go green with the green strategies . So here are some ways to go g
 - Reusable items also reduce additional waste being left in landfills.
 
 
-{{< figure src="/images/blog/image-252.png" >}}
-
+![Reusable-Products](/images/blog/image-252.png)
  
 
 ### **#3. Replace the manual system into digital system**
@@ -57,8 +53,7 @@ Companies can go green with the green strategies . So here are some ways to go g
 - With the digital system you don't have to waste your paper to save the record of visitors. Your visitor can check-in without the help of the other person with their own smartphones.
 
 
-{{< figure src="/images/blog/image-253.png" >}}
-
+![Replace](/images/blog/image-253.png)
  
 
 ### **#4 Bring the greenery inside.**

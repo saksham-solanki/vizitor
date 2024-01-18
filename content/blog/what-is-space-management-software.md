@@ -88,8 +88,7 @@ Beyond physical space, space management software assists in efficiently managing
 
 Implementing space management software can result in significant cost savings. By maximizing space utilization, reducing unnecessary square footage, and minimizing wasted resources, businesses can lower overhead costs associated with maintaining larger-than-needed office spaces.
 
-[{{< figure src="/images/blog/my-space-img-2.jpeg" >}}](/demo)
-
+![Cost](/images/blog/my-space-img-2.jpeg)(/demo)
 
 ## Vizitor - Your Space Management software buddy 
 

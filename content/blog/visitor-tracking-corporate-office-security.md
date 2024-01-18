@@ -71,7 +71,8 @@ In the past, using paper-based registration and traditional visitor tracking met
 
 • Besides, such intuitive reports can improve the efficiency of the company without any waste of time and money.
 
-{{< figure src="/images/blog/electronic.avif" >}}
+
+![Improved](/images/blog/electronic.avi)
 
 ## Addressing the Need for Effective Visitor Management
 

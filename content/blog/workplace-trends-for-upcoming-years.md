@@ -10,7 +10,6 @@ authorsImage: /images/authors/author.svg
 
 The way people work has changed as technology has advanced. Technologies have improved the work experience by allowing for a more flexible and dynamic way of working. To get to the workplace of the future, you must start investing in the right technology today. Keep the workplace up to date for future growth. Going with technologies is the best way to make your workplace more seamless.
 
-{{< figure src="/images/blog/image-7- (1).png" >}}
 
 The rise of flexible work models such as hybrid work has begun to move businesses in the right direction. 
 
@@ -18,7 +17,8 @@ The rise of flexible work models such as hybrid work has begun to move businesse
 
 We must adapt our office environment to the upcoming trend. As we all know, going hybrid is a relatively new trend. As a result, we must prepare our workplace for upcoming trends.
 
-{{< figure src="/images/blog/image-22.png" >}}
+![being](/images/blog/image-22.png)
+
 
 
 This is an excellent time to consider future trends. The way we work has shifted dramatically in recent years, in ways that few could have predicted. This post will provide you with an excellent workplace trend that will be beneficial in 2023 and subsequent years.
@@ -41,7 +41,8 @@ We're already seeing smart home technology creep into our daily lives in this di
 
 This type of future smart workplace, like smart homes, will improve efficiency in a variety of ways, from energy efficiency to working efficiency.
 
-{{< figure src="/images/blog/image-23.png" >}}
+![Employ](/images/blog/image-23.png)
+
 
 
 ### Trend #2:
@@ -58,7 +59,6 @@ With the remote in operation. Many businesses use virtual reality devices to col
 
 4. With our [attendance management system](https://www.vizitorapp.com/touchless-attendance-management-system), you can digitally record your employees' attendance.
 
-{{< figure src="/images/blog/image-24.png" >}}
 
 
 ### Trend #3:
@@ -73,7 +73,8 @@ Everyone has a health screening and vaccine verification process in their back p
 
 3. Wearable technology will advance to alert people when they are sick, allowing them to avoid going to work. If an employee becomes ill at work, their wearables will advise them to go home. They will also update the employees' calendars to show that they are WFH or out sick.
 
-{{< figure src="/images/blog/image-25.png" >}}
+![safety](/images/blog/image-25.png)
+
 
  
 
@@ -91,7 +92,8 @@ Flexible workspace technology is one of the most popular workplace technology tr
 
 Some may even be able to relocate themselves, allowing workplace teams to focus on more critical tasks.
 
-{{< figure src="/images/blog/image-26.png" >}}
+![Workplaces](/images/blog/image-26.png)
+
 
  
 ### Trend #5:

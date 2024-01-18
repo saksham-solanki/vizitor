@@ -34,7 +34,8 @@ Badges are used within workplaces, healthcare facilities and schools to easily i
 
 ## Enhanced security level 
 
-{{< figure src="/images/blog/istockphoto-1296650655-170667a.jpg" >}}
+![Enhanced](/images/blog/istockphoto-1296650655-170667a.jpg)
+
 
 Security is always at the top.It becomes more crucial than before.In some workplaces that require a high level of security, such as government facilities, employees are also required to wear badges. Employee badges tend to stay valid, but visitor badges will have a specific amount of time they’ll be valid for which is generally controlled by an action.
 
@@ -51,8 +52,6 @@ Your reception counter seems to be full of guests and people asking for their ho
 
 
 ## Visitor Badges in the past!
-
-{{< figure src="/images/blog/gettyimages-86525691-612x612.jpg" >}}
 
 
 Over the past decade, the visitor badges have evolved from just being a paper for storing information for the visitor to secure cold storage backup. Well, that takes place with a visitor management system in place.  Remember this?
@@ -105,7 +104,7 @@ Printing out badges at the reception enables you to make a great impression on y
 
 A badge can include accurate information of visitors along with their photos to ensure that they haven't used a fraudulent badge to access your building.Facial recognition is one of the easiest ways for hosts to identify their authenticated guests to prevent any unauthorized access.
 
-{{< figure src="/images/blog/idd.jpg" >}}
+![ More authenticated](/images/blog/idd.jpg)
 
 ### 4. Pre-registrations in advance
 

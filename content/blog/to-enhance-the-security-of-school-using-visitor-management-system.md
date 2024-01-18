@@ -52,7 +52,9 @@ Today,schools taking the responsibility of the students and the staff cannot rel
 
 Implementing a high-quality and secure visitor management system will help to take full control and obviously improve the safety & security of the school making it a safer place for everyone.
 
-{{< figure src="/images/blog/16feb23-3.png">}}
+
+![How does](/images/blog/16feb23-3.png)
+
 
 ## Below are some highlighted  ways by which  the School Visitor Management System enhance the security of the schools., So let’s have a look:
 
@@ -83,7 +85,7 @@ Authentication process is carried out through the visitor’s mobile number with
 
 • Afterward, authorities can take action based on the reports, such as adding them to a blacklist.     
 
-{{< figure src="/images/blog/16feb23-2.jpg">}}
+![ Instant ](/images/blog/16feb23-2.jpg)
 
 
 ### 4. Contactless Check-In 
@@ -117,7 +119,8 @@ The feature adds up an additional layer of security to the existing security sys
 
 In a school, large or small, there is an endless number of visitors who need to visit the campus every day. Since the visitor management system captures the details of every visitor and helps to create a safe and secure working environment. A visitor management system is vigilant, accurate, and prioritizes security protocols to promote a shielded working environment.
 
-{{< figure src="/images/blog/16feb23-1.png">}}
+![Safeguard](/images/blog/16feb23-1.png)
+
 
 
 ### 8. Make dismissal process smooth

@@ -32,9 +32,8 @@ Following are some of the ways by which a Visitor Management System can help scr
 
 Startups around the globe are under stress and recently Sequoia suggested startups to ensure the health of their business while dealing with potential business consequences of the spreading effects of the virus, calling it ‘[Black Swan](https://medium.com/sequoia-capital/coronavirus-the-black-swan-of-2020-7c72bdeb9753)’ of 2020. Even multiple States in India are asking tourists to fill Self-disclosure form as a preventive measure.
 
-{{< figure src="/images/blog/WhatsApp-Image-2020-03-07-at-13.54.23.jpeg" >}} 
-
  
+![Most-Important](/images/blog/WhatsApp-Image-2020-03-07-at-13.54.23.jpeg)
 
 Whether it's an office, co-working, school, hospital or any workplace - Vizitor services can be used for free for 3 months (Starter Plan) as a precaution in your office, so you can make sure your employees are safe inside your workplace as they are the most important asset for every organization. Please [signup](https://www.vizitorapp.com/signup) now to start using Vizitor.
 

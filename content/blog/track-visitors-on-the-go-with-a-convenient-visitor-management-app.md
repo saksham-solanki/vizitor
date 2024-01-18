@@ -37,7 +37,6 @@ In this article, we'll go through the importance of a Convenient [Visitor Manage
 
 • It is necessary to maintain a customized list of blocked and possibly threatening individuals for the security of the workplace.
 
-{{< figure src="/images/blog/16jan23-2.jpg">}}
 
 ### 2. Workplace and employees' safety-
 
@@ -57,7 +56,6 @@ In this article, we'll go through the importance of a Convenient [Visitor Manage
 
 • There should be a convenient and reliable way to maintain visitor data to encounter data protection issues and standards.
 
-{{< figure src="/images/blog/office.png">}}
 
 ## Introduction to Visitor Management App or Visitor Sign-In App 
 
@@ -98,7 +96,8 @@ In addition to the management of visitors and guests, Visitor Management App off
 
 • It holds all the information of the visitors when they check- in and out, their purpose of arrival, date and time etc. We can update the log books on the cloud as per the needs.
 
-{{< figure src="/images/blog/5.jpg">}}
+![ Secured](/images/blog/5.jpg)
+
 
 ### 4. Pre- registration and instant alerts save registration times
 
@@ -116,7 +115,7 @@ In addition to the management of visitors and guests, Visitor Management App off
 
 • It also provides associations to keep perceptivityabout the colorful guests connected with the business.
 
-{{< figure src="/images/blog/16jan23-5.jpg">}}
+![Increase](/images/blog/16jan23-5.jpg)
 
 
 ## Upgrade to a Convenient  and secure Visitor Management App for a better and modern workplace. 
@@ -150,9 +149,6 @@ Visitor Management App is one of the best visitor management solutions for the o
 
 • Also facilitates in tracking visitors throughout the positioning premises. 
 
-{{< figure src="/images/blog/16jan23-6.jpg">}}
-
-
 
 ### One App– for multiple sectors 
 
@@ -167,7 +163,7 @@ environment for students.
 
 • It helps to  transform a clunky and tedious  task into a streamlined and automated one in a manufacturing unit.
 
-{{< figure src="/images/blog/16jan23-7.png">}}
+![One App](/images/blog/16jan23-7.png)
 
 ### Looking for a Comprehensive result — just go for a Convenient Visitor Management App like Vizitor 
 
@@ -190,7 +186,7 @@ environment for students.
 • Let facilities go paperless with customized  Visitor Management App
 
 
-{{< figure src="/images/blog/16jan23-8.jpg">}}
+![Looking](/images/blog/16jan23-8.jpg)
 
 
 ## Wrap Up!!

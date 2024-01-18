@@ -30,7 +30,7 @@ It seems really ' astounding'.
 
 In this article, we will go through various hidden drawbacks and flaws of using traditional sign-in sheets and explore how the Digital Visitor Management System overcomes the limitations of using traditional visitor sheets and serves as a right fit for your company.
 
-{{< figure src="/images/blog/image-36.png" >}}
+![Security ](/images/blog/image-36.png)
 
 Let's go ahead…..
 
@@ -45,7 +45,6 @@ Why is Signing-in important in security-conscious businesses?
 It is extremely tough to keep an eye on everyone at the same time using the outdated traditional paper sheets. 
 But it is crucial. 
 
-{{< figure src="/images/blog/image-4 (1).png" >}}
 
 Many companies still use a paper sheet for their sign-in system, but, it can become disorganized with them. This is why digital visitor management has become so prevalent in present times.
 
@@ -61,7 +60,7 @@ A digital visitor management solution is an ELECTRONIC version of a traditional 
 A Digital Visitor Management Solution can helps to enhance the security of a building or premises by ensuring that all visitors are properly identified, screened and tracked during their visit. This can help to prevent unauthorized access, theft, or other security incidents.
 It rather offers numerous  key features to entrepreneurs to take their businesses up to the next level. Some of them are- 
 
-{{< figure src="/images/blog/image-35.png" >}}
+![Digita](/images/blog/image-35.png)
 
 
 • Pre-registration
