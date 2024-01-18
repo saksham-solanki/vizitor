@@ -17,7 +17,6 @@ After a long pandemic, Office has come back to life. However, employees want to 
 "You'll need to cultivate a physical space that supports your employees, inspires their creativity, and contributes to their productivity if you want to get the most out of them."
 
 
-{{< figure src="/images/blog/image-21.png" >}}
 
 You must begin with the layout of your workplace. Your workplace should be thoughtfully designed to support employees and the types of work they do on a daily basis. It is critical to meet your people's needs.
 
@@ -29,7 +28,6 @@ Make your office layout in such a way that your employees want to work efficient
 
 When it comes to collaboration, creativity is essential. When employees collaborate and come up with unique ideas, your company will grow organically. When different minds collaborate, **new ideas** emerge. Teams can brainstorm and have productive conversations in collaborative spaces.
 
-{{< figure src="/images/blog/image-11.png" >}}
 
 **As a result**, having the right tools and resources is essential for collaboration and creativity. Incorporating technology such as smartboards, wireless capabilities, and bluetooth into the workplace is an excellent way to encourage employees to brainstorm and innovate.
 
@@ -44,21 +42,18 @@ Workers can do this in their own office space thanks to social lounges. Where yo
 
 The pandemic has altered workplace working styles. The conference room has been converted into a living room. Use a movable board that you can move around. Create an inviting living room-like environment in your office by thinking outside the conference room box. To combat afternoon lag, provide your employees with a unique space to work away from their desk. Reduce conference room fatigue by using shared spaces for non-sensitive meetings.
 
-{{< figure src="/images/blog/image-12.png" >}}
 
 
 ### #Yes, creative conference rooms!
 
 We are all aware of the significance of creative conference rooms. Plan and build the conference room to meet its needs. Decorate the conference room with cheerful colours. Create conference room spaces that meet the needs of your employees and watch them grow in popularity week after week. Encourage employees to meet in person when meeting space is available. Make each of your spaces serve a purpose. Create a method for booking rooms based on the type of meeting.
 
-{{< figure src="/images/blog/image-16.png" >}}
 
 
 ### #Easy hot desks
 
 Design an office space that allows employees to manage their workdays. Pay close attention to the number of available desks on your busiest office days and plan accordingly. When adding hot desk spaces, consider how this space will appear on the busiest and slowest of days. It is critical to plan out your desk configuration ahead of time. Create a space that can be reconfigured as needed by adding desks when there are more employees in the office. Allow employees to switch desks on a daily basis to foster new perspectives.
 
-{{< figure src="/images/blog/image-20.png" >}}
 
 
 ### Use your workplace space to increase productivity!

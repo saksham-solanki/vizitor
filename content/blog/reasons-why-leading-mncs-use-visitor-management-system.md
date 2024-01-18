@@ -79,7 +79,7 @@ They have to secure their facilities at all times to ensure their visitors are k
 
 •  Vizitor allows MNCs to customize the visitor tracking process according to their specific needs. MNCs can configure the system to capture specific visitor data, create custom check-in flows, and design visitor badges with company branding.
 
-{{< figure src="/images/blog/photo-1617526738882-1ea945ce3e56.jpeg" >}}
+![Tracking and Monitoring](/images/blog/photo-1617526738882-1ea945ce3e56.jpeg)
 
 ## 5) Customized and Digital Visitor ID Badges
 

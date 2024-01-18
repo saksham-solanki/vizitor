@@ -19,7 +19,7 @@ However,organizations with a common focus to create an optimized and future-proo
 You can enhance the security level of your enterprise by doing a C-TPAT certification. As we all know that different industries are subjected to an array of safety, security and compliance standards each with different purposes.
 Companies that achieve C-TPAT requirements, certification must have a documented process for determining and alleviating the risk throughout their international supply chain.
 
-{{< figure src="/images/blog/download111.jpeg" >}}
+![enterprises](/images/blog/download111.jpeg)
 
 
 Does your enterprise comply with the safety and security regulatory standards? If not, then it must!
@@ -82,7 +82,7 @@ Suppliers must also present themselves with proper identification proof to enter
 
 ## C-TPAT compliance with Visitor Management System
 
-{{< figure src="/images/blog/photo-1559137781-875af01c14bc.jpeg" >}}
+![helC-TPATlo](/images/blog/photo-1559137781-875af01c14bc.jpeg)
 
 
 Visitor Management System is a reliable and robust solution that helps an organization to meet regulatory standards by offering them with certain features. 
@@ -135,7 +135,7 @@ Vizitor can support C-TPAT security compliance by helping to fulfill the followi
 
 • Vizitor captures visitors' digital signatures on legal documents and NDAs to ensure safety and compliance.
 
-{{< figure src="/images/blog/images222.jpeg" >}}
+![Digital Document](/images/blog/images222.jpeg)
 
 ### 5. Automated watchlists— 
 
@@ -159,7 +159,7 @@ Vizitor can support C-TPAT security compliance by helping to fulfill the followi
 ### 7. Digital visitor logs—
 
 
-{{< figure src="/images/blog/photo-1460925895917-afdab827c52f.jpeg" >}}
+![Digital visitor logs](/images/blog/photo-1460925895917-afdab827c52f.jpeg)
 
 • Enable cloud based storage of visitors data and keep your visitor log secure and safe from unauthorized access.
 

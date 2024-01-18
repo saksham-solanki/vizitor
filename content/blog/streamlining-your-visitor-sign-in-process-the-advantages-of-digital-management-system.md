@@ -10,7 +10,6 @@ authorsImage: /images/authors/author.svg
 
 If you're still using a **traditional visitor sign-in sheet** to track visitors at your facility, you may be missing out on the benefits of a Touchless visitor management system. The digital visitor management system can provide numerous advantages, including improved efficiency, accuracy, security, and convenience.
 
-{{< figure src="/images/blog/image3jan.png" >}}
 
 In the not-so-distant past, businesses looking to track their visitors had to rely on visitor sign-in sheets and receptionists to manually capture information. But today, **digital visitor management systems** offer a more efficient and effective solution. With just a few taps on a tablet computer, visitors can quickly and easily check in and be on their way. So, when it comes to visitor tracking, is it better to go old school with a Visitor sign-in sheet or embrace the power of technology with a touchless visitor management system? Let's compare the pros and cons of both options.
 
@@ -26,7 +25,6 @@ In the not-so-distant past, businesses looking to track their visitors had to re
 
 **Digital visitor management systems** are electronic systems that allow businesses to track and manage visitor activity.  And typically involve visitors checking in and out by entering their information into a digital form or using an electronic signature.
 
-{{< figure src="/images/blog/image-1-3jan.png" >}}
 
 **Digital Visitor management System**
 
@@ -40,17 +38,14 @@ There are several benefits to using a Touchless visitor management system over a
 
 A paper visitor log book may seem inexpensive at first glance, but it can actually be a significant cost for a company. This is because someone must be present to oversee the sign-in process and ensure that it runs smoothly. This means that the company must pay a salary to a receptionist or other check-in personnel. However, there are times when the receptionist may be away or unavailable, such as before or after work hours or during lunch. In these cases, visitors may wander the building trying to find the person they are there to see, which can be disruptive and potentially compromise security.
 
-{{< figure src="/images/blog/image-4 (1).png" >}}
 
 **Digital visitor management system**
 
 Additionally, a Touchless visitor management system can provide added security and convenience for both the company and its visitors. With features like badge printing and automatic notifications, the system can help streamline the check-in process and keep track of who is in the building at all times. It can also allow for easy tracking and reporting of visitor activity. Overall, switching to a digital visitor management system can save time, money, and hassle for businesses of all sizes.
 
-{{< figure src="/images/blog/image-5 (2).png" >}}
 
 **Digital Visitor management System**
 
-{{< figure src="/images/blog/image-2 (2).png" >}}
 
 **Digital Visitor management System**
 
@@ -68,7 +63,6 @@ Paper sign-in sheets can be prone to several issues that can lead to problems fo
     
     .Salespeople or other competitors may also use these sheets to gather information about who they are competing against or who is visiting the company.
 
-{{< figure src="/images/blog/image-7 (1).png" >}}
 
 An electronic visitor management system can help address these issues by providing a secure, digital method for visitors to check in and out. This can make it easier to track and report on visitor activity, and can also protect the privacy of visitors.
 
@@ -82,7 +76,6 @@ There are several benefits to using a digital visitor management system:
 
 **. Security:** Because there is no physical logbook or paper sign-in sheet, there is no risk of these items being lost or stolen. This can help improve the overall security of the company.
 
-{{< figure src="/images/blog/image-6 (2).png" >}}
 
 **Digital Visitor management System**
 
@@ -102,7 +95,6 @@ Here is a comparison of the productivity of a paper visitor sign-in sheet and a 
 
 . Risk of lost or stolen logbooks.
 
-{{< figure src="/images/blog/image-10.png" >}}
 
 **Digital Visitor Management System**
 
@@ -114,7 +106,6 @@ Here is a comparison of the productivity of a paper visitor sign-in sheet and a 
 
 . Improved security and tracking of visitor activity
 
-{{< figure src="/images/blog/image-11 (1).png" >}}
 
 **Digital Visitor management System**
 
@@ -139,7 +130,6 @@ computer, and other equipment.
 
 Businesses of any size can use a highly affordable digital check-in system, and not be required to have a space dedicated solely to your business. If you share space with other businesses or use a popular coworking setup, a system like Vizior is a great option. rewrite in points.
 
-{{< figure src="/images/blog/image-12 (1).png" >}}
 
 **Digital Visitor management System**
 
@@ -169,7 +159,6 @@ Here are some key points to consider when using a paper visitor sign-in sheet fo
 
 . Hit-or-miss process: Overall, the process of following up with visitors using a paper sign-in sheet can be hit-or-miss, due to the challenges of accurately recording and tracking visitor information.
 
-{{< figure src="/images/blog/image-15.png" >}}
 
 **Digital Visitor Management System**
 
@@ -185,7 +174,6 @@ Here are some key points to consider when using a digital visitor management sys
 
 . Efficient follow-up: Overall, a digital visitor management system can make the process of following up with visitors more efficient and accurate.
 
-{{< figure src="/images/blog/image-13.png" >}}
 
 **Digital Visitor management System**
 

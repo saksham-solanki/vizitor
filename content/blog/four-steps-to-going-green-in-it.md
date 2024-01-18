@@ -16,7 +16,6 @@ Talking about the numbers first, some of the major companies have already starte
 Even Apple had the carbon emission of 25.2 megatons in 2018,Equals to the carbon emission of Mongolia. However, if exempt the emission generated from the production of apple goods, then it will only remain to just 0.6 megatons
 
 
-{{< figure src="/images/blog/image-354.jpg" >}}
 
 
 

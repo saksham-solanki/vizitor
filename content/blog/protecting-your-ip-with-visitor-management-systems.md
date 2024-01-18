@@ -48,7 +48,7 @@ At their simplest,[**Visitor management system**](/visitor-management-system) ar
 
 The need for an NDA commonly arises when visitors or guests need to spend time at an organization’s facilities coming in contact with your valuable assets and property.
 
-{{< figure src="/images/vizitor/nda/NDA-BANNER.png" >}}
+![NDA-BANNER](/images/vizitor/nda/NDA-BANNER.png)
 
 A non-disclosure agreement (NDA) can be an effective tool for protecting proprietary information related to a visitor management system. Non-disclosure agreements (NDAs) are legal contracts that aim to protect confidential information from being disclosed to unauthorized parties.
 
@@ -77,7 +77,7 @@ Advanced Visitor Management kiosks of Vizitor allow modern facilities to capture
 
 Vizitor is one of the perfect solutions to allow businesses to protect their workplace in a number of ways such as–
 
-{{< figure src="/images/vizitor/nda/NDA-screen.png" >}}
+![NDA-screen](/images/vizitor/nda/NDA-screen.png)
 
 
 • In addition to access control, a VMS can help ensure compliance with regulations related to intellectual property protection, such as the General Data Protection Regulation (GDPR). The system can store visitor information securely, and provide features such as visitor sign-in and sign-out tracking, digital record keeping, and data encryption to protect visitor information from unauthorized access.

@@ -11,7 +11,6 @@ Many schools are re-open after the pandemic. **So are your staff and students sa
 
 "Security serves as one of the most important aspects when it comes to safety with school premises. [Visitor management system](https://www.vizitorapp.com/visitor-management-system-for-schools) gives you that security. Visitor management system helps to minimize the impact of COVID-19. [Visitor managemen](https://www.vizitorapp.com/visitor-management-system-for-schools)t as a school screening tool for coronavirus exposure, its visitor check-in interface is fully customized, allowing for COVID-specific screening questions".
 
-{{< figure src="/images/blog/image-276.png" >}}
 
 
 
@@ -27,7 +26,6 @@ Many schools are re-open after the pandemic. **So are your staff and students sa
 - With the vizitor you can Immediately notify the appropriate school authorities if any visitor is determined to be an exposure risk.
 - Visitor management systems facilitate contact tracing.
 
-{{< figure src="/images/blog/image-277.png" >}}
 
 
 
@@ -35,7 +33,6 @@ Many schools are re-open after the pandemic. **So are your staff and students sa
 
 During the COVID-19 pandemic, [Touchless visitor management systems](https://www.vizitorapp.com/blog/how-to-secure-your-school-from-covid19/) that are used to keep dangerous out of your schools, can help screen visitors for possible COVID-19 exposure.
 
-{{< figure src="/images/blog/image-278.png" >}}
 
 
 

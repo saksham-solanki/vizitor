@@ -14,7 +14,7 @@ But Organizations today still use paper-based systems, despite available technol
 
 As a business owner constantly seeking ways to streamline operations and improve efficiency, it is crucial to prioritize exploring the advantages of transitioning to a paperless office.
 
-{{< figure src="/images/blog/image-293.png" >}}
+![paperless office](/images/blog/image-293.png)
 
 Having a paperless office is incredibly important because it has many benefits. It helps improve productivity, save costs, enhance security, ensure compliance, and promote environmental sustainability.
 
@@ -63,7 +63,7 @@ Want a greener and cleaner workplace? Going paperless is the answer!
 This can help make your workplace cleaner and more organized by reducing paper clutter.
 By encouraging digital workflows and mindful document management, you can raise awareness about the importance of sustainability and inspire employees to adopt eco-friendly practices not only at work but also in their personal lives.
 
-{{< figure src="/images/blog/image-296.png" >}}
+![Green and Clean](/images/blog/image-296.png)
 
 ## Enhances workplace productivity
 
@@ -129,7 +129,7 @@ Employees spend most of their time in offices but if your office space is not ef
 Physical documents can quickly accumulate and clutter up office spaces, requiring storage cabinets, filing systems, and physical space. 
 Adopting a paperless office minimizes the need for physical storage and frees up office space for more productive use.
 
-{{< figure src="/images/blog/image-294.png" >}}
+![Optimize physical](/images/blog/image-294.png)
 
 ##  #How to transform into a paperless office–
 
@@ -154,7 +154,7 @@ Integrate a **[Visitor Management System](/best-visitor-management-system-in-ind
 
 Instead of printing and distributing paper documents, provide digital access to documents through a shared drive or cloud-based storage solution. This allows employees and visitors to access documents digitally, reducing the need for printed copies.
 
-{{< figure src="/images/blog/image-295.png" >}}
+![Digital Access to Documents](/images/blog/image-295.png)
 
 ## Final Thoughts!
 

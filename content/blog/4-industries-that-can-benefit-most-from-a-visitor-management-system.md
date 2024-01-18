@@ -15,7 +15,7 @@ Today every sector needs to effectively manage the front desk. As every sector u
 
 The hospitality industry is embedded with visitor security as one of the main objectives. Visitor management system provides a streamline experience and ensures security. The front desk area facilitates the entire establishment, controlling services, and security. **[Visitor management system for hotels](https://www.vizitorapp.com/visitor-management-system-for-hotel)** provides protection and monitoring of the entire premise. During this pandemic, security becomes the most important part. So the visitor management system provides the touchless and contact tracing facilities to secure the premises.
 
-{{< figure src="/images/blog/image-335.png">}}
+![Hospitality](/images/blog/image-335.png)
 
 
 
@@ -36,8 +36,7 @@ Here are some benefits of using a visitor management system in a hotel are as fo
 
 The manufacturing sector demands greater security controls for their setup. The visitor management system provides complete security to every section like warehouse, dispatch area, quality section and front desk of a manufacturing organization. For the employees safety there is a need for touchless visitor management that manages the visitor , employees and staff with physical contact.
 
-{{< figure src="/images/blog/image-336.png">}}
-
+![Manufacturing](/images/blog/image-336.png)
 
 
 Some of the benefits of opting for a visitor management system in the manufacturing industry are:
@@ -54,8 +53,7 @@ Some of the benefits of opting for a visitor management system in the manufactur
 
 Hospitals constantly deal with sensitive situations. The front desk at the hospital is the busiest and most stressful area. So therefore , the demand is greater in the management. To avoid inconvenience and mismanagement there is a need of installing the [visitor management system for hospitals](https://www.vizitorapp.com/visitor-management-system-for-hospitals). Nowadays hospitals become that area where protection demands are high. So for safety, we have to start the security from the front desk.  Install a touchless visitor management system and protect your premises.
 
-{{< figure src="/images/blog/image-337.png">}}
-
+![Healthcare](/images/blog/image-337.png)
 
 
 Some of the advantages of an effective visitor management system in the healthcare industry are:
@@ -74,8 +72,7 @@ Some of the advantages of an effective visitor management system in the healthca
 
 Security is the main pillar for the office sector. Installing the visitor management system is the best option to secure the premises, staff and visitors.[Visitor management system for offices](https://www.vizitorapp.com/visitor-management-system-for-office) provides the streamline experience to the visitors, easy sign in process, attendance management for staff and enhances the productivity of the office.
 
-{{< figure src="/images/blog/image-338.png">}}
-
+![Offices](/images/blog/image-338.png)
 
 
 Some of the benefits of opting for a visitor management system in the offices are:

@@ -38,7 +38,7 @@ Imagine your work world being a bit elastic, letting you stretch, bend, and find
 
 So flexible workplace management is like having the power to make your job fit right. It is more about making you and your work life happier and more productive!
 
-[{{< figure src="/images/blog/flexible-work-2.jpeg" >}}](/demo)
+[![save](/images/blog/flexible-work-2.jpeg)](/demo)
 
 
 ## Benefits of a Flexible Workplace
@@ -67,7 +67,8 @@ The projects become more exciting than a superhero team-up.
 A flexible workspace lets you set your work rhythm. Morning person or a night owl, you decide when you're at your superhero's best. The increase in remote work makes it necessary for such remote-friendly software.  This helps employers to maintain records of working hours and efficiency.  
 
 
-[{{< figure src="/images/blog/smart-manage-2.jpeg" >}}](/demo)
+[![smart-manage](/images/blog/smart-manage-2.jpeg)](/demo)
+
 
 
 ## 4 Staple Ways of Creating a Flexible Workplace 

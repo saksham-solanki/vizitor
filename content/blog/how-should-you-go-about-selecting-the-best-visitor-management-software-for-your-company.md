@@ -17,8 +17,7 @@ If your company wants to welcome an employee to the office, it must answer these
 
 [Visitor management systems](https://www.vizitorapp.com/), hot desking, and meeting room software are now the glue that holds businesses together in this digital age. Following the pandemic, we chose the 'new normal' of work, which emerged in a matter of months. The majority of businesses recognize that workplace health and safety has become a much higher priority in recent years.
 
-{{< figure src="/images/blog/image-86.png" >}}
-
+![software for your company](/images/blog/image-86.png)
 
 
 ## What are the key aspects of your visitor management software?
@@ -27,7 +26,8 @@ If your company wants to welcome an employee to the office, it must answer these
 
 We know that before the Pandemic, pre-registering visitors was a way to reduce front-desk wait times. It is now a requirement.Visitors could be pre-registered with the correct system by your front desk staff. This is the best way to avoid the crowd in the lobby area. With the pre-registration process you can save the visitors time and give them an amazing experience in your workplace.
 
-{{< figure src="/images/blog/image-87.png" >}}
+![Pre-registration of visitors](/images/blog/image-87.png)
+
 
 
 
@@ -35,7 +35,7 @@ We know that before the Pandemic, pre-registering visitors was a way to reduce f
 
 The majority of businesses do not use touchless technology. As a result, many employees and visitors come into contact with and touch the equipment and surfaces. The risk of the virus spreading is increased in this manner. To avoid them, use the [touchless visitor management system](https://www.vizitorapp.com/), which allows for contactless processes. Customers, contractors, interview candidates, and others can sign in using a standard QR code on their smartphones. Furthermore, touchless VMS is critical for conveying a sense of security and comfort when employees and visitors enter the office.
 
-{{< figure src="/images/blog/image-88.png" >}}
+![Touchless visitor check-in](/images/blog/image-88.png)
 
 
 
@@ -43,7 +43,7 @@ The majority of businesses do not use touchless technology. As a result, many em
 
 Contactless temperature detection has emerged as the most critical aspect of the workplace. Regular temperature monitoring is required for employee safety. To prevent guests from entering if they do not meet the required requirements, use a visitor management system that supports contactless temperature detection technologies. Guests are given health questionnaires by [Vizitor](https://www.vizitorapp.com/) while they are being pre-registered. Permission can be granted or denied using visitor control software.
 
-{{< figure src="/images/blog/image-89.png" >}}
+![Examination of Health](/images/blog/image-89.png)
 
 
 
@@ -51,7 +51,7 @@ Contactless temperature detection has emerged as the most critical aspect of the
 
 To prevent the virus from spreading, contact tracing is required. You can easily locate the affected person using contact tracing. Visitor management software can monitor your visitors' activities on your property and assist your team in taking appropriate action. Furthermore, because you have data on the time-stamped movements of the visitor and other employees, you can precisely take the necessary steps to prevent the infection from spreading further.
 
-{{< figure src="/images/blog/image-90.png" >}}
+![Contact Tracing](/images/blog/image-90.png)
 
 
 
@@ -61,7 +61,7 @@ To prevent the virus from spreading, contact tracing is required. You can easily
 
 When choosing the right visitor management software, one of the most important factors to consider is data privacy. These cloud-based visitor logs store personal information about visitors and employees, as well as time-stamped movements, location data, and the intentions of your organisation. As a result, your platform must follow data storage, retention, and erasure policies at all times.
 
-{{< figure src="/images/blog/image-91.png" >}}
+![Privacy Laws Compliance](/images/blog/image-91.png)
 
 
 

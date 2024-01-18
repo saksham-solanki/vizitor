@@ -11,7 +11,6 @@ Gathering is the one basic aspect of the people. During this pandemic, this gath
 
 > After this pandemic, many companies are welcoming their employees to the workplace, so they have to consider some points to make the workplace. 
 
-{{< figure src="/images/blog/image-231.png" >}}
 
 
 
@@ -37,8 +36,7 @@ They have to think about, **what will happen when employees will get together du
 - Maintain the clear footpaths through common areas can make social distancing easier for employees.
 
 
-{{< figure src="/images/blog/image-232.png" >}}
-
+![Keep workplace clean](/images/blog/image-232.png)
 
 
 ### #3. Set the Safety Protocols 

@@ -27,7 +27,7 @@ Today is the age of digitization and modernization and every enterprise is strug
 
 ## Points to go through…
 
-{{< figure src="/images/blog/image-270.png" >}}
+![Points to go through](/images/blog/image-270.png)
 
 • Limitations of paper based systems
 
@@ -94,7 +94,7 @@ As we know most people don’t like change. Mostly in that area where a lot of p
 
 The transition to a digital system can be greatly aided by limiting the implementation to new trials only. So instead of this you can adapt the existing studies. Many sites apply this  strategy. This strategy can streamline the process of bringing sponsors.To going forward, this is the way you intend to do business. You can further explain the requirements to maintain your own processes, your stakeholders will have access to tools and remote access that will save their time and money.
 
-{{< figure src="/images/blog/image-272.png" >}}
+![Commit for All Trials](/images/blog/image-272.png)
 
 ### 4. Avoid to keep Paper Backups–
 
@@ -119,7 +119,7 @@ Encourage your employees to take initiatives for meeting your goals of digitizat
 These are some best practices towards meeting your goals of implementing a paperless system.
 Paperless systems make your office versatile and more efficient.The system not only saves paper and cost but also improves your data security and customer satisfaction.
 
-{{< figure src="/images/blog/image-273.png" >}}
+![appreciation programs](/images/blog/image-273.png)
 
 ## Conclusion
 

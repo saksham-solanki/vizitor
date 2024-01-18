@@ -21,8 +21,7 @@ authorsImage: /images/authors/author.svg
 
 Try buying the supplies that can be recycled on a later stage and try to avoid as much waste as you can, for example, if you host a paperless event and use digital registers and digital notepad. You can cut the paper waste tremendously. But, if you can't opt in for everything digital make sure that all the material goes for recycling.
 
-{{< figure src="/images/blog/image-339.jpg">}}
-
+![Use recycled materials](/images/blog/image-339.jpg)
 
 **4. Reduce transport emissions**
 

@@ -77,8 +77,7 @@ What strategies are you adopting to enhance your brand among global competitors?
 
 Are you still stuck to traditional paper logs or sign-in sheets? 
 
-{{< figure src="/images/blog/Working-of-vizitor.jpeg" >}}
-
+![reliable Visitor Management System](/images/blog/Working-of-vizitor.jpeg)
 
 If yes, so just take a move. 
 
@@ -137,8 +136,7 @@ Vizitor allows businesses to customize the check-in experience with their own br
 Visitors are likely to remember a business that provides a branded check-in experience, which can enhance the overall branding of the business.
 Vizitor helps to maintain a secure environment by verifying the identity of visitors and ensuring that they have a valid reason to be on the premises. 
 
-{{< figure src="/images/blog/image-57.png" >}}
-
+![should you go for Vizitor](/images/blog/image-57.png)
 
 ## Final thoughts…
 

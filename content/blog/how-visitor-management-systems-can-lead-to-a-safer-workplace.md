@@ -11,15 +11,6 @@ If you are thinking about a [digital Visitor Management system](https://www.vizi
 
 > The main goal of Visitor Management is to increase workplace safety for both staff and guests.Visitor Management systems try to identify threats, prevent unauthorized access and record visitor’s data. Gone are the days of Visitor Management being a notebook on a table at the entrance to an office.
 
-
-
-
-
-
-{{< figure src="/images/blog/image-305.png" >}}
-
-
-
 Today's [Touchless Visitor Management systems](https://www.vizitorapp.com/touchless-visitor-management-system) are comprehensive, modern and security-focused. A good Visitor Management system provides a high level security to the workplaces. 
 
 Here are some reasons Visitor Management System increases workplace safety at sites of all kinds.

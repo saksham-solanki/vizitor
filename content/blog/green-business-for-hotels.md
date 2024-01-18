@@ -35,7 +35,6 @@ Hotels should promote common understanding of local life. People will feel the b
 - Renewable energy sources such as solar panels on the roof or a wind turbine on property.
 - Living in a modern home necessitates the use of energy. The good news is that there are numerous ways to reduce energy consumption in the home while maintaining efficiency. To learn more about it, simply follow this link: [https://www.akhomeshow.com/energy-conservation-tips/](https://www.akhomeshow.com/energy-conservation-tips/)
 
-{{< figure src="/images/blog/image-360.png" >}}
 
 
 
@@ -48,7 +47,6 @@ Hotels should promote common understanding of local life. People will feel the b
 
 - water recycling using the grey water that comes from kitchens, bathrooms and laundry rooms.
 
-{{< figure src="/images/blog/image-361.png" >}}
 
 
 
@@ -61,7 +59,6 @@ Hotels should promote common understanding of local life. People will feel the b
 - Take steps for food wastage, donate leftover food to a local nonprofit organization and/or compost. Also compost yard waste and biodegradable products.
 - Provide reusable items such as cloth napkins, glass cups, silver wear, ceramic dishes, etc. with all food and beverage services.
 
-{{< figure src="/images/blog/image-363.png" >}}
 
 
 

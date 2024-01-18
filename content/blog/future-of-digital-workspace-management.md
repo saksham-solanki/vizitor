@@ -71,8 +71,7 @@ As remote work becomes more common, companies with effective digital workspace m
 Digital workspace management tools often include project management functionalities. With these tools, companies can track project progress, allocate resources efficiently, and meet deadlines. But, without tools, it leads to project delays and potential client satisfaction.
 
 
-[{{< figure src="/images/blog/digital-workspace-2.jpeg" >}}](/demo)
-
+[![digital-workspace](/images/blog/digital-workspace-2.jpeg)](/demo)
 
 ## Top 5 future predictions of workspace management 
 

@@ -13,8 +13,7 @@ COVID-19 belongs to the large family of viruses that can transmit through any in
 
 ### There are some instructions to follow to protect your employees, visitors, and workplace from COVID-19.
 
-{{< figure src="/images/blog/image-359.jpg" >}}
-
+![Secure Your Office From Covid-19](/images/blog/image-359.jpg)
 
 
 **Instructions to follow**

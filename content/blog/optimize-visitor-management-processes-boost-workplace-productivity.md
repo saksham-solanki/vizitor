@@ -20,7 +20,7 @@ Apart from technology, companies are also placing more emphasis on employee well
 
 Automated visitor check-in is a key feature of a modern [**Visitor management systems**](/best-visitor-management-system-in-india) that can significantly improve the visitor experience and boost productivity in the workplace. 
 
-{{< figure src="/images/blog/visitor-management-software.jpg" >}}
+![visitor-management-software](/images/blog/visitor-management-software.jpg)
 
 • By eliminating the need for manual check-ins, organizations can save time and reduce delays in the check-in process. Visitors can simply use a self-service kiosk to check-in, enter their details, and print their badges, without any human intervention.
 
@@ -32,7 +32,7 @@ Automated visitor check-in is a key feature of a modern [**Visitor management sy
 
 With pre-registration, visitors can register their details before arriving, either online or by phone, which eliminates the need for manual data entry and reduces processing time during check-in.
 
-{{< figure src="/images/blog/pre-registration.png" >}}
+![pre-registration](/images/blog/pre-registration.png)
 
 • Pre-registration can also enhance the visitor experience by allowing visitors to enter their details in advance, which can reduce wait times, eliminate frustration and improve satisfaction levels.
 
@@ -44,7 +44,6 @@ With pre-registration, visitors can register their details before arriving, eith
 
 Real-time notifications are an excellent visitor management tool that can increase efficiency, improve security, and enhance the visitor experience.
 
-{{< figure src="/images/blog/what-is-a-push-notification-and-why-it-matters.jpg" >}}what-is-a-push-notification-and-why-it-matters.jpg
 
 • With instant alerts, organizations can ensure that professionals are prepared and that they receive prompt notifications of visitor arrivals or emergencies, reducing delays, and errors while enhancing productivity.
 
@@ -54,7 +53,7 @@ Real-time notifications are an excellent visitor management tool that can increa
 
 Visitors are a potential security risk, and proper management is critical to keep your visitors, employees, and assets safe.
 
-{{< figure src="/images/blog/Netcracker-Enhanced-Security-Plan.jpg" >}}
+![Netcracker-Enhanced-Security-Plan.jpg](/images/blog/Netcracker-Enhanced-Security-Plan.jpg)
 
 • Vizitor offers secure data management and ensures that unauthorized visitors do not enter the premises, thus enhancing the security of the workplace.
 
@@ -64,7 +63,7 @@ Visitors are a potential security risk, and proper management is critical to kee
 
 By implementing efficient  [**visitor management processes**](/visitor-management-system), a company can create a more welcoming environment for visitors, making them feel more valued and enhancing their overall experience. This can have a positive impact on their perception of the company and its brand image.
 
-{{< figure src="/images/blog/facebook-banner.png" >}}
+![facebook-banner](/images/blog/facebook-banner.png)
 
 • By using digital systems to manage visitors, companies can streamline the check-in process, freeing up resources that would otherwise be spent on manual processes. This can lead to improved efficiency, better use of staff time, and ultimately, increased productivity.
 
@@ -74,7 +73,7 @@ By implementing efficient  [**visitor management processes**](/visitor-managemen
 
 In an era of social distancing, contactless visitor management processes  can minimize the risk of spreading infection.
 
-{{< figure src="/images/blog/download.jpeg" >}}
+![Enhanced social](/images/blog/download.jpeg)
 
 • Conducting pre-visit health screenings, implementing touchless sign-ins, and leveraging facial recognition technology can provide contactless options to ensure safety and improve visitor experience.
 
@@ -86,7 +85,7 @@ In an era of social distancing, contactless visitor management processes  can mi
 
 Implementing a digital visitor management platform helps reduce operational overhead by reducing the number of staff required for visitor management processes.
 
-{{< figure src="/images/blog/cost.jpg" >}}
+![cost](/images/blog/cost.jpg)
 
 • By automating visitor check-in processes, digital systems help to streamline the reception process, minimizing the need for physical entry registers, and boosting efficiency.
 
@@ -97,7 +96,7 @@ Overall, Vizitor removes manual interventions, enhances data management, leads t
 
 ### 8. Eliminates Paperwork:
 
-{{< figure src="/images/blog/download (1).jpeg" >}}
+![EliminatesPaperwork](/images/blog/download (1).jpeg)
 
 • Paperwork can be time-consuming, error-prone and require additional storage space. By eliminating paperwork and shifting to digital platforms, businesses can streamline their processes and improve efficiency. 
 
@@ -107,7 +106,7 @@ Overall, Vizitor removes manual interventions, enhances data management, leads t
 
 ### 9. Greater flexibility:
 
-{{< figure src="/images/blog/download (2).jpeg" >}}
+![Greaterflexibility](/images/blog/download (2).jpeg)
 
 • With Vizitor, businesses can create flexible check-in workflows, allowing visitors to self-register and provide all necessary information in one step. This reduces time spent waiting for manual entry processing and increases efficiency. 
 

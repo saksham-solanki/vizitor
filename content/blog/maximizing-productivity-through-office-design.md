@@ -21,7 +21,7 @@ By adding some plants,decluttering your front desk, and improving lighting, you 
 
 Modern Office design must have been focused on flexibility, comfort and safety.Here are some tips for how to design your office for maximum productivity–
 
-{{< figure src="/images/blog/office_2-2.webp" >}}
+![office design](/images/blog/office_2-2.webp)
 
 ## 1.Consider your Office Layout 
 
@@ -78,7 +78,7 @@ When choosing colors for a modern office design, consider the company's brand, h
 
 "A well-designed workplace can have a huge impact on productivity, engagement, and overall well-being." - Alex Shubat
 
-{{< figure src="/images/blog/Header-Image-8.webp" >}}
+![Header](/images/blog/Header-Image-8.webp)
 
 ## 3. Incorporate Digitization into Office Space
 

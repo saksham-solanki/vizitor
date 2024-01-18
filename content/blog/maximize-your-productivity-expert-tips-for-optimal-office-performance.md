@@ -23,7 +23,7 @@ Optimal and Scalable office performance is only achievable by improving customer
 
 Moreover, nobody can deny the fact that modern and effective successful businesses understand the cruciality of productivity at their offices.
 
-{{< figure src="/images/blog/enterprise.jpg" >}}
+![enterprise](/images/blog/enterprise.jpg)
 
 Succession and branding of almost all businesses rely upon productivity and efficiency of their workplaces. Hence, workplace and employee productivity is one of the main considerations of successful organizations.
 
@@ -38,7 +38,7 @@ In this article, we'll explore the facts illustrating the importance of producti
 
 Productivity is one of the major and unavoidable  considerations of ultramodern businesses. Being productive and organized is the topmost priority of modern enterprises. Fostering their productivity and collaboration is the main focus of companies which can be achieved only by establishing the correct workspace atmosphere, a good office layout and the latest technology assets. 
 
-{{< figure src="/images/blog/Importance-of-Productivity.jpg" >}}
+![Importance-of-Productivity](/images/blog/Importance-of-Productivity.jpg)
 
 **Some of the important facts highlighting the importance of productivity in workplaces are listed below. Just take a close look.**
 
@@ -60,7 +60,7 @@ If your organization is productive and efficient, then you can enhance your bran
 
 Well, we all can't deny the fact that business growth is vital to meet its obligations to customers, suppliers, workers, shareholders, and governments and also to improve its competitiveness in marketplace. Productivity is always one of the main concerns for business managements to investigate new and innovative ways to improve quality, reduce downtime, and increase inputs of labor, materials and services so that their  business will benefit more. More is your business growth, more contribution is made in economic growth and an improvement in living standards.
 
-{{< figure src="/images/blog/Business-growth.jpg" >}}
+![Business-growth](/images/blog/Business-growth.jpg)
 
 ### 4. Achieving set  goals– 
 
@@ -73,7 +73,7 @@ Another benefit of improved productivity is personal wellbeing to ensure your em
 
 Ultimately,the role of productivity in businesses is vital and needs engagement and management. Creating a reliable and consistent working environment while enabling higher productivity and focus amongst employees is one of the major goals of business entrepreneurs.
 
-{{< figure src="/images/blog/Improved.jpg" >}}
+![Improved](/images/blog/Improved.jpg)
 
 ## Some expert Tips for increasing Productivity and Optimal Office Performance
 
@@ -115,14 +115,14 @@ Just go paperless and digital with **[Vizitor](/best-visitor-management-system-i
 
 To enhance your productivity and performance of offices, incorporate your organization with some innovative softwares and tools. Time-tracking software can help monitor the productivity of your employees by making it easy for your team members to plan their day and know how long each task takes to complete. So that they can effectively manage their working schedule which leads to boosting your productivity levels.
 
-{{< figure src="/images/blog/time-tracking.jpg" >}}
+![time-tracking](/images/blog/time-tracking.jpg)
 
 ### 4. Productivity apps for more enhancements– 
 
 Modern organizations can now make use of productivity apps and tools to help you reach your goals and make their life easy. Collaborating these apps can help you be more productive and brings all your company documentation, media files, and knowledge under one smart roof. 
 Some of the powerful productivity apps are Elink, ProofHub, Stayfocusd etc.
 
-{{< figure src="/images/blog/Productivity.jpg" >}}
+![Productivity](/images/blog/Productivity.jpg)
 
 ### 5. Lower noise distractions—
 

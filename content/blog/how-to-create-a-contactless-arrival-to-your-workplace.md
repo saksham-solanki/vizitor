@@ -20,7 +20,7 @@ As we all continue working to build a COVID-19 safe workplace. Organizations are
 - The contactless system replaces the traditional system into the digital system. So this way you can reduce the uses of the paper.
 - With the digital system you don't need to touch the paper for entry to the visitors. This system also increases the speed of the induction process and prepares your contractors even before they set foot on your worksite.
 
-{{< figure src="/images/blog/image-265.jpeg" >}}
+![Reducing the usage of paper](/images/blog/image-265.png)
 
 
 
@@ -34,7 +34,7 @@ As we all continue working to build a COVID-19 safe workplace. Organizations are
 - With this feature, you can send the pre-screening questions to your visitors before they arrive on-site, streamlining your processes. 
 - Screening determines whether they are safe to enter your business or not. Employees can approve or disapprove visitors with the screening using this application.
 
-{{< figure src="/images/blog/image-266.png" >}}
+![Streamlining](/images/blog/image-266.png)
 
 
 
@@ -48,7 +48,7 @@ As we all continue working to build a COVID-19 safe workplace. Organizations are
 - If a suspected case of COVID-19 is identified, vizitor’s reporting can tell you when that person was on-site and with whom. 
 
 
-{{< figure src="/images/blog/image-267.png" >}}
+![Contact tracing](/images/blog/image-267.png)
 
 
 
@@ -60,8 +60,6 @@ As we all continue working to build a COVID-19 safe workplace. Organizations are
 - Vizitor also generate digital badges for visitor identification. 
 
 
-{{< figure src="/images/blog/image-111.png" >}}
-
 
 
 ### # Creating QR codes for contactless check-in
@@ -72,8 +70,7 @@ As we all continue working to build a COVID-19 safe workplace. Organizations are
 - You can create a QR code for your visitors and share it with them so they can complete their contactless check-in to your workplace.
 - You can fix a poster with a QR code in your lobby that can help you keep check-in contactless even for those people who forgot to check-in before coming to your workplace.
 
-{{< figure src="/images/blog/image-268.png" >}}
-
+![Creating QR codes](/images/blog/image-268.png)
 
 
 ### Conclusion!!

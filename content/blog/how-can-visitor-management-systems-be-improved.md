@@ -24,7 +24,7 @@ These could include smaller organizations or those that don't have a high volume
 Is it relevant to use a paper based method to manage visitors?
 How to manage a continuous flow of visitors using traditional paper and pen visitor management strategy? 
 
-{{< figure src="/images/blog/12jan23-2.png" >}}
+![improved](/images/blog/12jan23-2.png)
 
 If you are running a business, then what method are you rely upon to manage your steady flow of visitors? 
 There is a growing need to improve traditional visitor management systems to make visitor experiences more efficient, secure and convenient in today's modern times.
@@ -72,7 +72,7 @@ Automated visitor management systems can handle visitors in a fraction of the ti
  
 Visitor impact management is a crucial operation that can help organizations manage the impact of visitors on their business operations and infrastructure, both internally and externally. While manual systems for visitor impact management can provide some guidance, a reliable and precise automated alternative is increasingly necessary. 
 
-{{< figure src="/images/blog/13feb23.jpg" >}}
+![importance of Visitor Impact Management](/images/blog/13feb23.jpg)
 
 **Here are some reasons why using a digital visitor impact management system is important:**
 
@@ -107,7 +107,7 @@ Aside from changing negative preconceptions visitors might have of that space, a
 
 Organizations that use manual ways to manage visitor experiences can miss out on the benefits offered by modern digital solutions to enhance the visitor experience.Implementing self-check-in kiosks using Vizitor can create a more convenient and engaging experience for visitors.
 
-{{< figure src="/images/blog/16jan2311.png" >}}
+![visitors' experience](/images/blog/16jan2311.png)
 
 ### 1. Digital Check-ins:
 
@@ -145,8 +145,7 @@ Overall, managing visitor experience requires a combination of technological and
 
 Monitoring visitors effectively is critical for maintaining the security and safety of the workplace.
 
-{{< figure src="/images/blog/AdobeStock_115275123-min-520304-edited-1-1024x683.jpeg" >}}
-
+![ monitor visitors](/images/blog/AdobeStock_115275123-min-520304-edited-1-1024x683.jpeg)
 
 ### Using Manual Sign-in sheets..
 
@@ -176,7 +175,7 @@ Now, digital systems like Vizitor have become the preferred method for monitorin
 In modern businesses, each visitor is important because they bring new experiences, opinions, and perspectives that enrich our lives.Visitors can provide positive publicity for the business by sharing their experience with others.
 Visitors play a vital role in creating a positive impression of your business.
 
-{{< figure src="/images/blog/156447.png" >}}
+![strategies for attracting](/images/blog/156447.png)
 
 **There are several strategies for attracting visitors to businesses, but here are four effective ones:**
 

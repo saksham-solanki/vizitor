@@ -21,7 +21,6 @@ We know a lot of people are concerned with the spread of COVID-19 around the wor
 
 [Vizitor](https://www.vizitorapp.com/visitor-management-system-for-salons) allows you to customize your healthcare screening questions. A good way to remind people of your appointment policies is to ask them some questions when they book online.  Screening of the visitors is vital amid this COVID-19 outbreak.
 
-{{< figure src="/images/blog/image-328.png">}}
 
 
 
@@ -39,9 +38,7 @@ We know a lot of people are concerned with the spread of COVID-19 around the wor
 - **Send QR codes in advance:** You canMake your touchless check-in experience touchless by sending QR codes in advance to your visitors. Visitors will then receive a QR code to use directly on their mobile devices and can check-in by scanning that.
 
 
-{{< figure src="/images/blog/image-329.png">}}
-
-
+![examples of the questions](/images/blog/image-329.png)
 
 - **Update your staff travel policies**: At a time like this, it’s totally reasonable to suggest to staff that they only travel if they really have to. If any staff need to travel, then the visitor screening questionnaires ask the details.
 - Which counties are they going to?
@@ -52,7 +49,6 @@ We know a lot of people are concerned with the spread of COVID-19 around the wor
 
 There are a number of ways you can follow to help stop the spread of germs in the salon.
 
-{{< figure src="/images/blog/image-331.jpg">}}
 
 
 1. Provide hand sanitizer at the salon door and ask clients and visitors to use it upon arrival.

@@ -15,7 +15,7 @@ What strategies are you currently adopting for handling arrivals of visitors and
 Hopefully, being an administrator,you must be worried that your registration and operational tasks should not create hassle and affect the learning environment.
 You must be concerned about your school operations to run smoothly and manage all records efficiency for a long duration.
 
-{{< figure src="/images/blog/11jan23-1.jpg">}}
+![Streamline](/images/blog/11jan23-1.jpg)
 
 ### If yes, then you need to switch
 
@@ -32,7 +32,7 @@ Let's take a close look at how the **Visitor Management System** proves to be  a
 • Streamline check-ins and improve efficiency with a  [Visitor Management System for Schools](/visitor-management-system-for-schools)
 
 
-{{< figure src="/images/blog/11jan23-2.jpg">}}
+![article](/images/blog/11jan23-2.jpg)
 
 ## Introduction to the Visitor Management System for Schools and Why is it needed?
 
@@ -50,7 +50,7 @@ It is difficult to serve today's modern expectations and requirements of schools
 
 The past pandemic world scenarios has greatly impacted and changed the workplace trends. However, to stand strong against this wave, schools are now taking more necessary actions, using advanced technologies to improve their efficiency.
 
-{{< figure src="/images/blog/11jan23-3.jpg">}}
+![Effect of drastic surge of COVID-19](/images/blog/11jan23-3.jpg)
 
 ## Preface to Visitor Management System for  Schools
 
@@ -76,7 +76,7 @@ Visitor Management System for Schools offers various in-built features and benef
 
 • Students tracking and attendance tool
 
-{{< figure src="/images/blog/11jan23-4.png">}}
+![Some of these one are listed below](/images/blog/11jan23-4.png)
 
 ## Streamline check-ins and improve efficiency with a  Visitor Management System for Schools 
 
@@ -99,7 +99,7 @@ Visitor Management System is able to send quick mass alerts in case of any emerg
 Using the visitor pass software facility. School organizations can prevent illegal entries into their premises making use of 
 the school visitor pass facility.
 
-{{< figure src="/images/blog/11jan23-5.jpg">}}
+![school emergency alerts](/images/blog/11jan23-5.jpg)
 
 ### Frequent health and visitor screenings to mitigate the risk of exposure to the viruses–
 
@@ -110,7 +110,7 @@ Every visitor whether parents, students, employees  are screened before entry re
 
 It also allows to  collect all the details, the arrival and exit time, the resources, etc of both students and staff to maintain their accurate and efficient  attendance record. As the system is cloud- based,it helps schools to manage the data efficiently with no error rate. It also saves teachers' time by automating attendance keeping tasks. 
   
-{{< figure src="/images/blog/11jan23-6.png">}}
+![maintaining](/images/blog/11jan23-6.png)
 
 ### Helps schools to go eco- friendly and green—
 

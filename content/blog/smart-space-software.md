@@ -23,7 +23,7 @@ keywords:
 According to recent studies, 35% of employees have left their jobs globally in the last 5 years. The main reason is the need for more office space. Many offices are built without proper planning, execution, or implementation. This makes employees leave the office premises to shift to hybrid or remote work preferences. So, mandatory actions must be taken if business owners want to keep the office culture alive. The office space has to be built smart enough with active planning, resources, and space management. **Space management** is efficiently done with the help of **smart workplace software.** The software helps handle the office space in one solution and helps employees book spaces at their fingertips. 
 
 
-[{{< figure src="/images/blog/smart-space-img-2.jpeg" >}}](/demo)
+[![smart-space](/images/blog/smart-space-img-2.jpeg)](/demo)
 
 
 ## Introduction to smart space software

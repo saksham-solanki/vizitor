@@ -17,8 +17,7 @@ The look and feel of your reception area is the key component in enhancing brand
 Your reception area is where you get the chance to make a first unforgettable impression on guests entering into your premises.
 
 
-{{< figure src="/images/blog/6feb23-1.jpg">}}
-
+![Welcome your guests](/images/blog/6feb23-1.jpg)
 
 ## It's the time to shift: No-touch visitor sign-in solution
 
@@ -45,7 +44,7 @@ Having a well-defined visitor management solution for both your employees and vi
 
 • Integration of an optimal visitor management solution with meeting rooms, security protocols and front office operations, is always a topmost priority of organizations. So,select a system with a customized user interface.
 
-{{< figure src="/images/blog/6feb23-2.jpg">}}
+![Implementing a consistent](/images/blog/6feb23-2.jpg)
 
 ### 2. Offering a branded and favorable check-in experience to the guests
 
@@ -69,7 +68,7 @@ Having a well-defined visitor management solution for both your employees and vi
 
 • Customization  of  badges with multiple colors,visitor information, custom fonts, badge orientation to give custom friendly user experience.
 
-{{< figure src="/images/blog/6feb23-3.jpg">}}
+![Issue printed Visitor ID Badges](/images/blog/6feb23-3.jpg)
 
 ### 4. Enabling instant host notifications and  automatic alerts 
 
@@ -107,7 +106,7 @@ Having a well-defined visitor management solution for both your employees and vi
 
 • Ensure your visitor management software allows the visitor to self  check out adding an extra layer of security
 
-{{< figure src="/images/blog/6feb23-4.jpg">}}
+![Pointing visitors towards checkout](/images/blog/6feb23-4.jpg)
 
 ## Endnote !!
 Implementing a no-touch technology such as touchless visitor management system  helps protect your workplace from security threats and thus making your office environment more productive and secure.With the current digital technology, considering a affordable and integrated Visitor Management Software is necessary to eventually improve performance and efficiency.So,make a call for a best visitor management system.

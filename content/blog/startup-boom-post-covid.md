@@ -74,8 +74,7 @@ We all know how important it is to have **test cases** in place for our code, as
 LinkedIn and Twitter are the two mediums I found it to be really effective in networking in an organic way. I personally started posting regularly on [linkedin](https://www.linkedin.com/in/gauravsaini03/detail/recent-activity/) and started sharing my ideas by commenting on posts that are related to my interest. Sending a random connection request is not at all recommended and discussions really help in extending your network. One such [example](https://www.linkedin.com/feed/update/urn:li:activity:6656831759679873024?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6656831759679873024%2C6656874943579545600%29) where I mentioned about screening visitors can help prepare companies post-lockdown. It is highly recommended not to do any direct mention about your product but strategically place by finding the right posts. 
 
 
-{{< figure src="/images/blog/linkedin-discussion.jpeg" >}} 
-
+![linkedin-discussion](/images/blog/linkedin-discussion.jpeg)
 
 
 During the lockdown period, we were still receiving requests from channel partner so I prepared a list of all the channel partners sorted by area and have our drip campaign prepared to be sent out in coming week. So, this way a sequence of emails we will be sending out to them who had shown interest in past and want to re-sell. We are offering them specific deals and also increasing the revenue share so once they start their business, they have a visitor management system as one of the product in their portfolio.

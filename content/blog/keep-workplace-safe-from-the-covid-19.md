@@ -10,7 +10,6 @@ authorsImage: /images/authors/author.svg
 
 The last couple of months were very stressed. Due to the Coronavirus pandemic, the  mayhem has created in every industry, millions of people worldwide have lost their jobs. Hence, the time has come when we have to step out of our homes to get back on track. So now we have to take ownership to make your city, state, country, and society COVID-19.  If you are planning to reopen your office? Then you are required to take the necessary measures to protect your safety and your employees from the virus. One of the first things to implement in the office is installing a [Touchless Visitor Management System](https://www.vizitorapp.com/).
 
-{{< figure src="/images/blog/image-93.png" >}}
 
 
 
@@ -18,7 +17,6 @@ The last couple of months were very stressed. Due to the Coronavirus pandemic, t
 
 The [Touchless Visitor management systems](https://www.vizitorapp.com/) manage the departure of a visitor to an office. The manual system is not safe enough and also slowed down the productivity of the business. That’s why we have thought through how to make the visitor check-in experience seamless and touch-free. Touchless is a way to prevent the viruses from spreading and make your workplace safe. Visitors can check-in without touching the tablet. They can use their own smartphones to check-in. The Touchless sign-in saves your time and once visitors arrive so they’re not bothered to check-in and can more quickly get to who they’re there to see.
 
-{{< figure src="/images/blog/image-205.png" >}}
 
 
 
@@ -38,7 +36,6 @@ The [visitor management system](https://www.vizitorapp.com/) prevents Coronaviru
 
 - The contact tracing system provides both visitors and employees with check-in and check-out with adding their information, capturing a photo with the user-friendly interface.
 
-{{< figure src="/images/blog/image-229.png" >}}
 
 
 
@@ -49,7 +46,6 @@ The [visitor management system](https://www.vizitorapp.com/) prevents Coronaviru
 - A visitor management system also notifies the employee if they have been in contact with an infected visitor.
 
 
-{{< figure src="/images/blog/image-230.png" >}}
 
 
 

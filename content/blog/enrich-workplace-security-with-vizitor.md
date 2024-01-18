@@ -26,7 +26,6 @@ At [Vizitor](https://www.vizitorapp.com/), we entered this pandemic with some ad
 - This touchless check-in and registration offer your guests a zero-touch experience at your premises, securing them as well as your workforce.
 
 
-{{< figure src="/images/blog/image-191.png" >}}
 
 
 
@@ -37,7 +36,6 @@ At [Vizitor](https://www.vizitorapp.com/), we entered this pandemic with some ad
 
 - Vizitor enables dependable contact tracing, your company can easily access an accurate real-time record of all visitors who enter your workplace, with their contact details,health screening.
 
-{{< figure src="/images/blog/image-192.png" >}}
 
 
 
@@ -49,7 +47,6 @@ At [Vizitor](https://www.vizitorapp.com/), we entered this pandemic with some ad
 - This health screening consists of body temperature scanning, contact tracing app status.
 - If there is any visitor that is affected then Visitor management system triggers alerts to your security teams, and adds this individual to a visitor blacklist, so that visitor is barred from entering the workplace for a preset period of time.
 
-{{< figure src="/images/blog/image-193.png" >}}
 
 
 
@@ -62,7 +59,6 @@ At [Vizitor](https://www.vizitorapp.com/), we entered this pandemic with some ad
 - Our [Touchless attendance solution](https://www.vizitorapp.com/touchless-attendance-management-system) lets your employees clock-in easily with their mobile device. 
 
 
-{{< figure src="/images/blog/image-194.png" >}}
 
 
 

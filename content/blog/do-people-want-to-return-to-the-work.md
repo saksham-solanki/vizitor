@@ -9,7 +9,7 @@ authorsImage: /images/authors/author.svg
 
 “**Work From Home**”. These three words are added into the employee satisfaction wish list. So this experiment has proved that people can work effectively while they’re remote. We all are enjoying the flexibility of the work. But with this, we missed our offices and work-life that had before the pandemic. So after this pandemic, most of the employees are not ready to return to the office now.
 
-{{< figure src="/images/blog/image-242.png" >}}
+![Work From Home](/images/blog/image-242.png)
 
 
 
@@ -19,7 +19,6 @@ So in this article we will learn: **Do****employees want to return to the office
 
 The number of the employees who want to work from the office varies from person to person, age, gender, the work culture and their work. But the average of the employees that  want to work from their office are 3.7 days each workweek.
 
-{{< figure src="/images/blog/image-243.png" >}}
 
 
 
@@ -31,7 +30,6 @@ Which industrial workers want to get back on-site? The people who do the manual 
 
 After this pandemic, we know that almost everyone wants to have some time in the office. Most of the  people have no choice but to head to work each day. To operate the machines, performing surgeries and many more activities like these can’t be done at home . So that's why  people want to return to work.During this pandemic, most of the workplaces fulfilled the  needs of the employees to socialize and connect with others. For this they take help from the video conferences but this activity can't beat the face to face connection.
 
-{{< figure src="/images/blog/image-244.png" >}}
 
 
 

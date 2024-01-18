@@ -24,7 +24,6 @@ If this is true,then you should go for  transformation.
 
 There is a crucial need to go for innovative and smart solutions to ensure safety within your school premises.
 
-{{< figure src="/images/blog/19jan23.jpg">}}
 
 ### The key to safety of students is now in your hands– Visitor Management System
 
@@ -32,7 +31,6 @@ Security and safety within school premises is one of the most important aspects 
 
 There used to be a continuous inflow of different types of people such as parents, guardians, employees and students in schools. During busy hours, maintaining safety and security while performing other front desk tasks is really a challenging situation for receptionists and school administrators
 
-{{< figure src="/images/blog/19jan23-2.jpg">}}
 
 ## Introduction to Visitor Management System for Schools– A perfect and reliable solution for ensuring security in schools 
 
@@ -46,7 +44,6 @@ School officials are now  taking one step ahead considering the necessity of saf
 
 So,Visitor Management Systems are now  becoming the new quality standard for schools globally that facilitates not only the security aspects but also streamlines day-to-day operations within an organization. 
 
-{{< figure src="/images/blog/19jan23-3.jpg">}}
 
 ## Why Schools need Visitor Management Systems as one of its important assets?
 
@@ -66,7 +63,6 @@ While students are within school premises, it is the foremost responsibility of 
 
 Implementing reliable and quality visitor management software can help schools streamline their process of managing visitors by digitizing their front desk operations with touchless technology.
 
-{{< figure src="/images/blog/19jan23-4.png">}}
 
 
 ## Limitations of manual paper based visitor logs in schools–
@@ -93,7 +89,6 @@ They can do so by using a quality visitor management software to keep an eye on 
 
 ## Vizitor-Touchless Visitor management system  for school safety
 
-{{< figure src="/images/blog/19jan23-5.jpg">}}
 
 ## Enhance school safety and efficiency with Vizitor  Visitor Management System
 
@@ -137,7 +132,6 @@ Some of the leading features are listed below that streamlines the front desk op
 
 • Automatically alerts the staff and other administrative  staff via SMS  if any emergency arises to allow them to take preventive measures.
 
-{{< figure src="/images/blog/19jan23-6.jpg">}}
 
 ### 4. School Visitor Pass System is need of the hours
 
@@ -161,7 +155,6 @@ Some of the leading features are listed below that streamlines the front desk op
 
 • Facial recognition (biometric), mask detection, health questionnaires,visitor screenings  and temperature checks also adds up an extra layer of security.
 
-{{< figure src="/images/blog/19jan23-7.png">}}
 
 ## Wrap Up!!!
 

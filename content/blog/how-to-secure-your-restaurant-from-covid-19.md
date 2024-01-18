@@ -23,8 +23,7 @@ During the Coronavirus pandemic, restaurateurs are finding themselves on the wro
 
 As for restaurants, restaurant receptionists often need to deal with numbers of visitors. In today’s world, many restaurants don’t use any check-in system for their guests. To protect the team and guests of the restaurants, there is a need for a [touchless visitor management system](https://www.vizitorapp.com/best-visitor-management-system-in-india) to reduce the spread of the coronavirus. The touchless visitor management system helps to manage the security of your premises. Restaurants can have a self-check-in tablet. Not only does this eliminate long queues, but it allows the receptionist to focus on greeting and attending to customers instead of recording, booking times and provides a high level of security to your premises.
 
-{{< figure src="/images/blog/image-357.jpg" >}}
-
+![restaurants minimize](/images/blog/image-357.jpg)
 
 
 "A digital VMS can help boost your organization’s front-line defenses, improve front-desk staff efficiency, double as an employee in-out board, and leave positive first-impressions for all guests. More importantly, during the COVID-19 global pandemic a Vizitor can also function as a [visitor screening and contact tracing tool](https://www.vizitorapp.com/contact-tracing)."
@@ -84,7 +83,6 @@ However, with a visitor management software such as[ Vizitor](https://www.vizito
 - Thoroughly sanitized every table, utensil, glass, and surface the questionable guest contacts
 - Plan ahead of time for a circumstance in which you’ll need to expedite a guest’s exit from your restaurant.
 
-{{< figure src="/images/blog/image-358.jpg" >}}
 
 
 

@@ -28,7 +28,7 @@ There used to be a constant inflow of visitors into the school premises. They co
 
 What strategies are you currently adopting for handling arrivals of visitors and others at your building?
 
-{{< figure src="/images/blog/11jan23-1.jpg" >}}
+![Importance](/images/blog/11jan23-1.jpg)
 
 It becomes crucial for administrators to monitor and track the activities of visitors within their premises to prevent entry of any intruder or offender.
 
@@ -59,7 +59,7 @@ The COVID-19 pandemic has presented unique challenges for school security, as sc
 ## Top 4 Strategies to ensure security within school premises
 
 
-{{< figure src="/images/blog/16feb23main.jpg" >}}
+![Strategies](/images/blog/16feb23main.jpg)
 
 
 **There are several strategies that schools can use to ensure security on their premises:**
@@ -82,7 +82,7 @@ Visitor management systems (VMS) are tools designed to identify visitors and tra
 
 ## Visitor Management – Key to School Campus's long term security
 
-{{< figure src="/images/blog/19jan23.jpg" >}}
+![Key to School Campus](/images/blog/19jan23.jpg)
 
 
 [**Visitor management system**](/best-visitor-management-system-in-india) for Schools is a touchless visitor management solution used to track activities of different types of visitors within school premises while ensuring security and safety of the organization.
@@ -137,7 +137,7 @@ Visitor management software can generate reports and analytics on visitor activi
 By leveraging these features,  [**visitor management software**](/best-visitor-management-system-in-india) can help schools enhance their security and create a safer environment for students, teachers, and staff.
 
 
-{{< figure src="/images/blog/23jan23-5.png" >}}
+![Reporting and analytics](/images/blog/23jan23-5.png)
 
 
 ## Wrap Up!!

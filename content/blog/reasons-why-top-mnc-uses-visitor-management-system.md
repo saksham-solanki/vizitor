@@ -26,8 +26,7 @@ Many organisations have ventured down the Digital Transformation route to avail 
 - Not only does it make the check-in process easier for visitors but it presents Super Enterprises an opportunity to showcase their commitment to delivering their best possible experience.
 
 
-{{< figure src="/images/blog/image-304.png" >}}
-
+![Unique Visitor Experiences](/images/blog/image-304.png)
 
 
 ## 3) Digital Reporting
@@ -45,8 +44,7 @@ Many organisations have ventured down the Digital Transformation route to avail 
 
 - The visitor management system gives you updates regarding your visitors, including where they are, where they’re going, and how many people are inside your facility.
 
-{{< figure src="/images/blog/image-281.png" >}}
-
+![Track Visitors](/images/blog/image-281.png)
 
 
 ## 5) Visitor ID Badges

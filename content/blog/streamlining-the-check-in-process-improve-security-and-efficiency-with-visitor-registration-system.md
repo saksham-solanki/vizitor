@@ -21,7 +21,7 @@ Are you still stuck to mounds of visitors' paper logs and forms  for registering
 
 If yes, then there is a crucial need to streamline your check-in process and switch for a touchless visitor registration system  to enhance your workplace safety.
 
-{{< figure src="/images/blog/13jan23-1.jpg">}}
+![Looking for an optimal](/images/blog/13jan23-1.jpg)
 
 ## The impact of COVID-19
 
@@ -55,7 +55,7 @@ As paper-based logs can increase the risk of exposure to the viruses and make yo
 
 This post offers insight into the positive impacts of automated [Visitor Registration System](/visitor-registration-system) to improve your workplace's efficiency and safety. 
 
-{{< figure src="/images/blog/13jan23-2.jpg">}}
+![crucial need](/images/blog/13jan23-2.jpg)
 
 ### Electronic Visitor Registration System 
 
@@ -67,7 +67,7 @@ Keeping track of visitors entering into your building is the first and the most 
 
 If we consider the outdated manual check- in process, then our  mind presents us with an  image which reminds us of arriving at the front desk, asking for registration form and filling out the details before accessing the office etc. So,it becomes  clear that your old-fashioned manual paper visitor log will no longer be an optimal choice.
 
-{{< figure src="/images/blog/13jan23-3.jpg">}}
+![Expecting](/images/blog/13jan23-3.jpg)
 
 Instead, an automated [touchless visitor management software](/touchless-visitor-management-system) offers a variety of solutions, including touchless  visitor registration,ID badging, tracking, recording, and much more. 
 
@@ -131,7 +131,7 @@ Nowadays, creating a more flexible and seamless visitor experience by streamlini
 
 • The check-in data is encrypted, secured by password, and is cloud-stored making your organization more secure.
 
-{{< figure src="/images/blog/13jan23-4.jpg">}}
+![Improved security](/images/blog/13jan23-4.jpg)
 
 ## How to make your workplace more efficient and secure with the Visitor Registration System?
 
@@ -151,7 +151,7 @@ The manual paper based check-in process can make the guests frustrated. Paperles
 
 In the modern age,most of the companies have begun to increasingly prioritize touchless visitor management solutions to meet post COVID situations. To mitigate the risk related to COVID, facilities are create a touch-free and seamless sign-in process for their visitors making use of  contact tracing, thermal screenings, QR codes scannings etc.
 
-{{< figure src="/images/blog/13jan23.jpg">}}
+![Post pandemic](/images/blog/13jan23.jpg)
 
 #### • Creating an eco- friendly and digital front desk environment 
 

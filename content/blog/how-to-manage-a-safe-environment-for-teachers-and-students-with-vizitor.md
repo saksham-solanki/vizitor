@@ -10,15 +10,14 @@ authorsImage: /images/authors/author.svg
 
 As schools reopen, it’s important that precautions are taken to prevent the spread of COVID-19. A lot will depend on school management to ensure that children will be able to continue their education in a safe and healthy environment.
 
-{{< figure src="/images/blog/image-180.png" >}}
-
+![schools reopen](/images/blog/image-180.png)
 
 
 **How are you managing and screening visitors visiting your schools, classrooms, and students? Are your students safe from intruders? Are you equipped to manage visitors and students during an emergency? How can you protect your schools from COVID-19?**
 
 "All these questions are important for the safety of students and people visiting schools. Hence, **[visitor management systems](https://www.vizitorapp.com/)**are required for schools to ensure the safety of visitors, students, staff and other members of schools. [Vizitor](https://www.vizitorapp.com/) gives you that security. School visitor management software is a [**Touchless visitor management software**](https://www.vizitorapp.com/touchless-attendance-management-system) and Touchless check-in application that not only speeds up the check-in process but also protects your schools from COVID-19."
 
-{{< figure src="/images/blog/image-181.png" >}}
+![managing and screening](/images/blog/image-181.png)
 
 
 
@@ -28,7 +27,7 @@ As schools reopen, it’s important that precautions are taken to prevent the sp
 
 After the pandemic, the safety of the students and staff is important to parents and a school management.So therefore, it is important to keep track and screening of people entering and visiting children during school hours.
 
-{{< figure src="/images/blog/image-182.png" >}}
+![schools need](/images/blog/image-182.png)
 
 
 
@@ -47,7 +46,7 @@ In today's digital world, Many schools are still using a paper-based visitor log
 
 Because of these all reasons, many schools still use them to record visitors' information. This is not an efficient way of managing school safety during the pandemic.
 
-{{< figure src="/images/blog/image-183.png" >}}
+![limitations of a paper-based](/images/blog/image-183.png)
 
 
 
@@ -61,7 +60,7 @@ The most important features of a visitor management system for schools are:
 
 [Visitor management systems](https://www.vizitorapp.com/) have a user-friendly interface to record the visitors’ information. Visitors can submit their name, phone number, address, photograph and details about whom they are meeting.Repeating visitors should be able to use a badge or a code number to quickly enter a school. In addition to tracking visitors, visitor management systems should be able to track student’s check-in and check-out time.
 
-{{< figure src="/images/blog/image-184.png" >}}
+![Efficient Tracking](/images/blog/image-184.png)
 
 
 
@@ -69,7 +68,7 @@ The most important features of a visitor management system for schools are:
 
 With the [School Visitor management system](https://www.vizitorapp.com/visitor-management-system-for-schools), school administrators can send mass alerts during emergency situations. The ability to send instant messages to people present inside school buildings can prevent disasters and guide people towards safety. After the screening, if any visitor is infected with the virus, then this system sends the alerts to the staff. So the host can approve or disapprove the entry of visitors.
 
-{{< figure src="/images/blog/image-185.png" >}}
+![School Emergency Alerts](/images/blog/image-185.png)
 
 
 
@@ -77,7 +76,7 @@ With the [School Visitor management system](https://www.vizitorapp.com/visitor-m
 
 Health screening should be done daily for school Students and Staff in schools that have reopened. Easily ask your visitors custom yes/no questions before about their recent travel history or current state of health. Send instant alerts to concerned people to approve their entry into your workplace.
 
-{{< figure src="/images/blog/image-186.png" >}}
+![Staff and students](/images/blog/image-186.png)
 
 
 
@@ -85,7 +84,7 @@ Health screening should be done daily for school Students and Staff in schools t
 
 Vizitor provides touchless check-ins. Visitors can check-in with their phones without the help of a third person. Touchless check-in experience by sending them QR codes via email in advance so that they can access specific areas of your building during a given time frame.
 
-{{< figure src="/images/blog/image-187.png" >}}
+![Touchless Check-ins](/images/blog/image-187.png)
 
 
 
@@ -99,7 +98,7 @@ With the visitor management system you can access a web-based platform where the
 - you can view visitors across different school buildings in real-time
 
 
-{{< figure src="/images/blog/image-188.png" >}}
+![Web-Based Reporting](/images/blog/image-188.png)
 
 
 
@@ -107,7 +106,7 @@ With the visitor management system you can access a web-based platform where the
 
 [Vizitor](https://www.vizitorapp.com/) provides the multiple Language setup. Language support enhances the visitor experience.  It would be wonderful to have your VMS in their own local languages.
 
-{{< figure src="/images/blog/image-189.png" >}}
+![Multiple Language](/images/blog/image-189.png)
 
 
 
@@ -115,8 +114,8 @@ With the visitor management system you can access a web-based platform where the
 
 Schools can be located in multiple locations in different buildings. Therefore, monitoring visitors flow across these locations is difficult and challenging. Hence, the visitor management system has the feature of location management. It will provide a single interface to track visitors and control their access, and save time.
 
-{{< figure src="/images/blog/image-190.png" >}}
 
+![Multiple Locations](/images/blog/image-190.png)
 
 
 ## **Wrap Up!!**

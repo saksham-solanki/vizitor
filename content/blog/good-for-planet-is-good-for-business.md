@@ -41,7 +41,6 @@ The initiative ["Karnival"](https://karnival.com/)  by The Better India is on t
 
 Utility costs are typically thousands investment for large businesses. By cutting your utility costs by changing out light fixtures to energy-efficient rated fixtures with LED light bulbs. LED light bulbs can last around 20 years, use less energy to work, and provide a purer source of light.
 
-{{< figure src="/images/blog/image-364.png" >}}
 
 
 
@@ -49,7 +48,6 @@ Utility costs are typically thousands investment for large businesses. By cuttin
 
 If you use a car for your business, buying one with low or zero emissions or go for better solution of carpooling. Offsetting your unavoidable CO2 emissions is a practical and immediate way to take ownership of your personal contribution to climate change.
 
-{{< figure src="/images/blog/image-365.png" >}}
 
 
 

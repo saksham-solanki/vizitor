@@ -80,7 +80,8 @@ Healthy workspaces embrace flexibility. Imagine being free to choose where you w
 
 While discussing the benefits, it’s crucial to know that achieving an optimized workspace is not as easy as it sounds. It requires continuous effort and upgradation to improve the current status. If you feel like your workspace desperately needs one by now. The best way is to learn how to achieve a healthy, optimized workplace with workplace management systems. Meeting rooms also require your time and effort in terms of technology. The room booking software is ideal. But the question remains teh same: how to achieve such dreamy workstations? Let's discuss the ways:
 
-[{{< figure src="/images/blog/smart-manage-2.jpeg" >}}](/demo)
+[![smart-manage-2](/images/blog/smart-manage-2.jpeg)](/demo)
+
 
 **Strategic Spatial Planning**
 

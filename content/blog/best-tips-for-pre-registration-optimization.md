@@ -42,7 +42,7 @@ With pre-registration, visitors enter their information themselves, minimizing t
 
 Instead of filling out forms and providing information at the registration desk, pre-registered visitors can simply check-in with a quick verification, allowing them to start their visit hassle-free.
 
-{{< figure src="/images/blog/blog-alexis.jpg" >}}
+![Effortless Check-In](/images/blog/blog-alexis.jpg)
 
 *"Pre-registration is not just about saving time, it's about making a lasting impression. When visitors feel valued and attended to from the moment they arrive, it sets the tone for a successful visit."*
 

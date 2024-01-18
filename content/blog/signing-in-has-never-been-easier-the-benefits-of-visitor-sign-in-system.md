@@ -18,7 +18,6 @@ Almost every organization, whether large or small, has to deal with a vast numbe
 
 One and the most important step in [registration](/visitor-registration-system/) procedure is Signing in of the visitors with ease and professionalism.
 
-{{< figure src="/images/blog/3feb23-3.jpg">}}
 
 Signing-in has been easier, it requires a lot of effort by the reception staff to register a vast number of visitors and guests.
 
@@ -49,7 +48,6 @@ Firstly, let's think!
 
 ### Are old manual Sign-ins really safe and easy??
 
-{{< figure src="/images/blog/Visitor-Management-Software-Starlink.jpg">}}
 
 Obviously, No!!
 
@@ -65,7 +63,7 @@ Visitor Sign-in Systems comes with [Visitor Sign-in App](/android-visitor-manage
 ### Experience the difference here with Visitor Sign-in App- a modern and digital way to sign-in 
 
 
-{{< figure src="/images/blog/easiest-way-sign-in-visitors-new.png">}}
+![easiest-way-sign-in-visitors-new](/images/blog/easiest-way-sign-in-visitors-new.png)
 
 ## Visitor Sign-in Systems makes the check-in process easier and hassle-free with its various key benefits and its integration with modern technologies.
 
@@ -89,7 +87,6 @@ Visitor Sign-in Systems comes with [Visitor Sign-in App](/android-visitor-manage
 
 • Obviously,the first impression should always be unique and elegant so as is offered by the Visitor Sign-in System. It enables visitors to check-in more comfortably and consistently without having to go through the outdated and time-consuming registration procedures.
 
-{{< figure src="/images/blog/3feb23-5.jpg">}}
 
 ### 3. Enhances the security level of organisations by effectively tracking and monitoring visitors' activities—
 
@@ -129,7 +126,6 @@ Visitor Sign-in Systems comes with [Visitor Sign-in App](/android-visitor-manage
 
 **• Also serves parking needs–** They also help to digitize the processes at parking areas.They allow to allocate parking spots instantly based on the real-time information and records the details of each vehicle thus improving the security of parking areas.
 
-{{< figure src="/images/blog/3feb23-6.png">}}
 
 
 ### 6. Meeting compliance and data privacy regulations– 

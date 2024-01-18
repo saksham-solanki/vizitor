@@ -12,7 +12,6 @@ Schools across India have canceled in-person classes to curb the spread of COVID
 
 In order to reopen schools effectively and mitigate the spread, nation and district leaders want to make sure every health guideline is followed. After the first wave of COVID-19 pandemic, policymakers and administrators wants to recall a way to reopen in a way that will keep the school students and the workforce safe. The following list has been issued by the government regarding the re-opening of schools.
 
-{{< figure src="/images/blog/image-355.jpeg" >}}
 
 
 
@@ -36,8 +35,7 @@ This brief provides insight into health and safety guidelines, attendance, healt
 
 Countries have focused on the common procedures like hand wash, which are helpful regular Disease Control. Countries’ steering on cleaning products and methods varies, however; states need to seek advice from center and state steerage on using disinfectants and allowing chemicals to be used in schools.
 
-{{< figure src="/images/blog/image-356.jpg" >}}
-
+![Hygiene and Cleaning guidelines](/images/blog/image-356.jpg)
 
 
 ➢    **Masks:**
@@ -79,7 +77,6 @@ Countries have focused on the common procedures like hand wash, which are helpfu
 An essential step in supporting safety in schools is permitted at-risk students and staff to stay home and ensuring that all suspected or confirmed cases of COVID-19 are immediately quarantined. We can save our staff and students at the school with the School visitor management system. [School visitor management](https://www.vizitorapp.com/visitor-management-system-for-schools) is a unique visitor management software and check-in application that not only speeds up the check-in process, but also provides a modern look to your admin block’s front desk.
 
 
-{{< figure src="/images/blog/photo-1585411241969-9ac0c565451b (1).jpg" >}}
 
 
 
@@ -111,7 +108,6 @@ An essential step in supporting safety in schools is permitted at-risk students 
 
 ●      Studies of preceding influenza outbreaks display that faculties can safely prevent the spread of sickness in a few contexts if measures are positioned in the area to guide social distancing.
 
-{{< figure src="/images/blog/photo-1590245623747-050dc9f20a54.jpg" >}}
 
 
 

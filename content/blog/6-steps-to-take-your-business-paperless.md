@@ -43,8 +43,7 @@ Now that you have already started some great initiative programs and gotten your
 
 To tackle these heaps of documents, you need to divide the work and utilize your resources properly,
 
-{{< figure src="/images/blog/image-353.jpg" >}}
-
+![Organizing Documents](/images/blog/image-353.jpg)
 
 
 1. Create a unified organization system based on client names, years, etc. and make sure everyone is in there.

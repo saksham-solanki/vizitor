@@ -49,7 +49,7 @@ Workplace efficiency promotes employee satisfaction and engagement.  Sometimes, 
 Moreover, an efficient workplace encourages innovation and positioning the organization for long-term success.
 
 
-[{{< figure src="/images/blog/increase-efficency.jpeg" >}}](/demo)
+[![increase-efficency](/images/blog/increase-efficency.jpeg)](/demo)
 
 
 ## 5 Simple strategies to increase Workplace Efficiency 

@@ -9,11 +9,9 @@ authorsImage: /images/authors/author.svg
 
 Companies are anxious to reopen their offices. Companies should aim for a safe and strategic reopening. This day had been chosen by many corporations for their formal reopening. Many organisations have postponed their major reopening until early 2022. Many businesses intend to rehire their employees in 2022. Employees that have spent the last two years working remotely. Working from home, they've developed new habits, established new routines, and discovered new rhythms.
 
-{{< figure src="/images/blog/image-134.png" >}}
+![Programs to Help People Get Back to Work](/images/blog/image-134.png)
 
-
-
- It's past time for us to learn from our mistakes and stop planning so far ahead of time. We can't predict what the future contains, and if we wait for the ideal moment to return, we'll never return.Instead, we should approach the reopening of the workplace with caution. 
+It's past time for us to learn from our mistakes and stop planning so far ahead of time. We can't predict what the future contains, and if we wait for the ideal moment to return, we'll never return.Instead, we should approach the reopening of the workplace with caution. 
 
 > **Here are some options:**
 >  Make sure your facility complies with COVID-19 requirements in your area. - Employees should be informed about expected workplace habits before they return.

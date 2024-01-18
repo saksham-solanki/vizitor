@@ -32,7 +32,7 @@ The Reception area is the foremost thing the visitors personally experience in c
 
 **Here are some easy ways to make your office visitors more comfortable–**
 
-{{< figure src="/images/blog/istockphoto-973111990-170667a.jpg" >}}
+![office visitors](/images/blog/istockphoto-973111990-170667a.jpg)
 
 ## Personal branding
 
@@ -74,7 +74,7 @@ Also consider incorporating flexible and comfortable seating options, such as mo
 
 Comfortable and flexible furniture shows that you value their comfort and experience, leaving a positive impression.
 
-{{< figure src="/images/blog/photo-1524508762098-fd966ffb6ef9.jpeg" >}}
+![Flexible Furniture](/images/blog/photo-1524508762098-fd966ffb6ef9.jpeg)
 
 ## Acoustics‌‌
 
@@ -112,7 +112,7 @@ Offer online pre-registration for visitors, where they can input their informati
 
 Utilize QR codes or signs that visitors can scan with their smartphones to access information or complete forms online.
 
-{{< figure src="/images/blog/paper.jpg" >}}
+![Avoid unnecessary paperwork](/images/blog/paper.jpg)
 
 ## Offer refreshments
 

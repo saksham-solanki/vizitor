@@ -9,7 +9,6 @@ authorsImage: /images/authors/author.svg
 
 Paper industries consume 40% of the world’s commercially cut timber. These productions also consume a  high amount of water. These kinds of production generate  deforestation. This is our duty to save our environment and trees. So we have to start with replacing the paper-based system into the paperless system. This small effort generates a big difference. We can make our workplaces paperless. Nowadays, still many companies use paper-based systems to manage their visitors. This is where a cloud-based visitor management system can come to the rescue.  
 
-{{< figure src="/images/blog/image-263.jpg" >}}
 
 
 
@@ -21,7 +20,6 @@ Paper industries consume 40% of the world’s commercially cut timber. These pro
 
 **Here are some benefits of a paperless visitor management system that helps to save the environment and enhances your office productivity as well.**
 
-{{< figure src="/images/blog/image-264.png" >}}
 
 
 

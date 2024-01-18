@@ -40,7 +40,7 @@ Here are few of them–
 
 What a visitor or guest  thinks about your company  relies a lot on the first impression he/she will receive at your premises. If your waiting area is fully packed with people and you are greeted with a congested lobby with long waiting queues and busy bookings counters, then it definitely makes you to not make a revisit. 
 
-{{< figure src="/images/blog/pre-registration.png" >}}
+![Encouraging them to Pre-register](/images/blog/pre-registration.png)
 
 Vizitor offers visitors pre-registration to register themselves in advance using their smartphones or tablets eliminating the need for paper documents and forms. 
 
@@ -72,7 +72,7 @@ The practice make you have a better understanding of peak hour traffic, helping 
 
 Queues are a waste of time for visitors  and a cause for much stress and nuisance during busy hours. Especially in high traffic areas like hospitals and banks, it is critical to streamline the queue management process to make the visitor journey smoother and fast.
 
-{{< figure src="/images/blog/illustration-people-shopping.avif" >}}
+![Efficient Queue Management](/images/blog/illustration-people-shopping.avif)
 
 • Incorporating an efficient and good Queue Management strategy can help out a lot to deal with an unexpected number of crowds.
 
@@ -87,7 +87,7 @@ Queues are a waste of time for visitors  and a cause for much stress and nuisanc
 
 The unexpected and diverse flow of visitors coming continuously really creates hassle or may sometimes become the cause of conflicts or unexpected situations caused by frustrated visitors.
 
-{{< figure src="/images/blog/benefits-of-an-emergency-fund-m.jpg" >}}
+![Be Prepared for Unexpected emergencies](/images/blog/benefits-of-an-emergency-fund-m.jpg)
 
 Sometimes, there may arise any natural emergency such as earthquakes etc. 
 
@@ -122,7 +122,7 @@ Ensure that all routes and exits are clearly marked and well-lit, so visitors an
 
 Technology plays a significant role in managing visitors during peak hours. Consider using mobile check-in apps  and face recognition systems to speed up identification times, contactless entries, and minimize overcrowding.
 
-{{< figure src="/images/blog/facebook-banner.png" >}}
+![Incorporating digital technologies](/images/blog/facebook-banner.png)
 
 ### 1. Mobile check-ins: 
 
@@ -143,7 +143,7 @@ Vizitor allows for touchless technology to enable contactless check-ins for visi
 Assigning visitor badges is an effective way to manage visitors and provide insights into visitor traffic to improve efficiency.Make sure that staff members are trained to handle badge distribution, validate badge authorizations, and collect data accurately.
 Moreover, e-badges make the whole procedure much more easy and convenient.
 
-{{< figure src="/images/blog/image-313.png" >}}
+![Assigning Customizable visitor badges](/images/blog/image-313.png)
 
 ### 1. Security: 
 

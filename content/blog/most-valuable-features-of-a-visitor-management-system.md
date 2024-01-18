@@ -35,9 +35,6 @@ The [visitor management system](https://www.vizitorapp.com/) is a way of quickly
 
 - Some visitors focus on their work for extended periods of time and do not check their emails often, they need a phone call.
 
-{{< figure src="/images/blog/image-310.png" >}}
-
-
 
 
 - Some visitors prefer email notifications instead.
@@ -49,8 +46,6 @@ The [visitor management system](https://www.vizitorapp.com/) is a way of quickly
 - Visitor management system provides a fast check-in process.
 
 - visitor management software allows guests to be pre registered ahead of their arrival.
-
-{{< figure src="/images/blog/image-311.png" >}}
 
 
 
@@ -64,17 +59,12 @@ The [visitor management system](https://www.vizitorapp.com/) is a way of quickly
 
 - Visitor photos are stored, for extra layer of security.
 
-{{< figure src="/images/blog/image-315.png" >}}
-
 
 
 ### Visitor badges
 
 - With the visitor badges,  everyone will know that the guest is approved for visit in the office.
 
-
-
-{{< figure src="/images/blog/image-316.png" >}}
 
 
 
@@ -90,18 +80,12 @@ The [visitor management system](https://www.vizitorapp.com/) is a way of quickly
 - The signature will hold information on who signed in, when they signed and where they signed. 
 
 
-{{< figure src="/images/blog/image-317.png" >}}
-
-
 
 ## Secure your Office with Touchless visitor management system
 
 The Touchless visitor management system helps to secure the office from the COVID-19. The Contactless Visitor registration systems helps to stop this pandemic 's spread by tracing every visitor entering the office
 
 ### Touchless visitor check-in
-
-{{< figure src="/images/blog/image-111.png" >}}
-
 
 
 - Visitors use their smartphones for self check-ins without the help of any third person.
@@ -112,9 +96,6 @@ The Touchless visitor management system helps to secure the office from the COVI
 
 ### Send agreements in advance
 
-{{< figure src="/images/blog/image-318.png" >}}
-
-
 
 - Before your guest arrives, be safe, sending them Pre agreement so that they can take precautions before arriving.
 - The company can send invitations to visitors with attached NDAs to sign in advance, or other agreements that might include health and safety precautions.
@@ -122,8 +103,6 @@ The Touchless visitor management system helps to secure the office from the COVI
 - Visitors will receive and sign agreements in advance to avoid signing any agreements by hand once they arrive at your workplace.
 
 ### Provides QR codes in advance
-
-{{< figure src="/images/blog/image-319.png" >}}
 
 
 
@@ -133,8 +112,6 @@ The Touchless visitor management system helps to secure the office from the COVI
 - Visitors will then receive a QR code to use directly from their email on their mobile devices when they arrive.
 
 ### Alert Employees
-
-{{< figure src="/images/blog/image-320.png" >}}
 
 
 

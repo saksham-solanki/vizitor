@@ -22,7 +22,7 @@ So,in this article,we'll outline various signs that your organization needs to u
 Although many businesses have moved beyond pen-and-paper methods, still some of them are using  manual check-ins that fail to provide a seamless workplace experience for employees and visitors. 
 Here are some clear signs your existing visitor management system is failing to provide the high-quality, seamless workplace experience it should for both visitors and employees:
 
-{{< figure src="/images/blog/image-341.jpg">}}
+![4 signs your office need](/images/blog/image-341.jpg)
 
 ## Sign 1#. Congested and Messy Reception Area
 
@@ -58,7 +58,7 @@ If you encounter a large volume of unauthorized visitors at your workplace, then
 
 Effective **[Visitor Management Systems](/best-visitor-management-system-in-india/)** must go beyond just managing front desk experience but also ensure a positive and secure environment for customers. Vizitor can be a friendly solution for the situation–
 
-{{< figure src="/images/blog/image-342.jpg">}}
+![Facing large volume of Unauthorized visitors](/images/blog/image-342.jpg)
 
 • Allows pre-registered  visitors to verify and approve the visitor's details in advance, reducing the chances of unauthorized visitors gaining entry.
 
@@ -103,7 +103,7 @@ How Digital Management System helps–
 
 • The company staff need not to spend most of their time maintaining paper logs at registers. Just implement Cloud based visitor software and let them spend a little bit of their time on refresher activities. 
 
-{{< figure src="/images/blog/image-343.jpeg">}}
+![Inaccurate and missing Visitor data](/images/blog/image-343.jpeg)
 
 ## Wrapping Up!!
 

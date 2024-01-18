@@ -28,8 +28,7 @@ The Recycling of waste management is suggestions for creating sustainable life. 
 - Avoid buying hazardous materials that could pose difficulty for you to recycle. Buy non-toxic products whenever possible.
 
 
-{{< figure src="/images/blog/recycle (1).jpg" >}}
-
+![Recycling Policy](/images/blog/recycle (1).jpg)
 
 
 **Reusable Furniture**
@@ -51,8 +50,7 @@ Indoor planting is a great way to enhance your mood and act as tranquilizers. Ha
 
 Stop wasting paper for registering visitor details on logbooks and switch digital register- Use [**Vizitor**](https://www.vizitorapp.com/)
 
-{{< figure src="/images/blog/paperless (1).jpg" >}}
-
+![paperless](/images/blog/paperless (1).jpg)
 
 
 

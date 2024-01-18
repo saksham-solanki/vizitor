@@ -28,7 +28,7 @@ Some customers prefer a welcoming atmosphere that is warm and secure. So simply 
 
 A warm and friendly greeting can instantly make visitors feel welcomed.This will help ensure consistent and professional visitor experiences.
 
-{{< figure src="/images/blog/9jan23-13.jpg" >}}
+![ Greet them warmly](/images/blog/9jan23-13.jpg)
 
 • Provide training to staff members who interact with visitors on how to greet visitors warmly, provide assistance, and follow security protocols. 
 
@@ -103,7 +103,7 @@ The safety of visitors is your top priority, and companies must implement cuttin
 
 • Install advanced access control systems, such as QR scanning or facial recognition, to restrict entry to authorized personnel only. Visitor Management System offers high-speed security measures that immediately alerts our security team, enabling them to take appropriate action.
 
-{{< figure src="/images/blog/149.jpg" >}}
+![high-tech](/images/blog/149.jpg)
 
 • Issue them customized and electronic Visitor Badges using appropriate Visitor Management software to ensure your visitors that  only authorized individuals are granted access into premises.This makes them more comfortable and accessible with your brand.
 

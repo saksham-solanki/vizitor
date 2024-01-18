@@ -21,13 +21,6 @@ You'll also need to develop a full-fledged strategy with incentives to make the 
 As of today, only a very few companies are fully paperless. But, many have already started the process to cut down the use of paper.
 
 
-{{< figure src="/images/blog/Screen-Shot-2017-11-08-at-11.17.44-1024x360.png" >}}
-
-
-
-
-
-
 No business model functions in a bubble. If clients and other businesses are working with a paper base structure, it will take a long time to get into the fully paperless phase. Certain business industries use paper more than other industries. In places where the use of paper is a must, going completely paperless will be a lengthy and time-consuming process.
 
 But, how did the idea of the paperless office start? It might sound odd, but the idea was much ahead in terms of technology. It was first introduced by Business week magazine in 1975 in the article "The office of the Future".
@@ -40,8 +33,7 @@ But, now the modern offices have all means of technology available to stop the u
 
 There are numerous ways to take your workplace to a paperless journey and you need to make sure that your strategy takes your office, employees and the process into account. If you are working with a larger organization, it will help if you get the team members involved in the planning stage, because the staff understands the day-to-day process better than the high level executives, so it's always helpful to have them in your planning meetings.
 
-{{< figure src="/images/blog/01.jpg" >}}
-
+![Methods of going paperless](/images/blog/01.jpg)
 
 
 

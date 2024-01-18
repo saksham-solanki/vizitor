@@ -27,8 +27,7 @@ So this system is nowhere efficient and accurate.
 
 With a [visitor management system](https://www.vizitorapp.com/) you can see and experience the premises exactly how their visitors would. You can do this:
 
-{{< figure src="/images/blog/image-321.png" >}}
-
+![Track your visitors](/images/blog/image-321.png)
 
 
 - You are able to identify the visitor process and also see in line with your brand and the impression you want to create.
@@ -67,8 +66,7 @@ Following are the some benefits of the power of automation:
 
 With the [digital visitor management system](https://www.vizitorapp.com/) visitors can check-in by themselves without any help from the others.
 
-{{< figure src="/images/blog/image-322.png" >}}
-
+![Self-Service](/images/blog/image-322.png)
 
 
 - The  digital visitor management system with a touchscreen kiosk such as an iPad/tablet provides a simplified form and self-service information portal.

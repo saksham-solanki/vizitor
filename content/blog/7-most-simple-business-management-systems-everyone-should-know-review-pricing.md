@@ -16,7 +16,7 @@ So, let’s explore some of the most simple business management systems that cou
 
 ## #1.Vizitor
 
-{{< figure src="/images/blog/vizitor.png" >}}
+![Vizitor](/images/blog/vizitor.png)
 
 Vizitor is one of the most prominent business management systems that offer a single solution for visitor management. With touchless sign-in, badge printing, and simplified host notification, Vizitor eliminates all paperwork and offers guests a hassle-free check-in.
 
@@ -45,7 +45,7 @@ Tony Losacco says - 100% satisfied after using the application for the past 3 we
 
 ## #2. Thryv
 
-{{< figure src="/images/blog/Screenshot 2022-11-29 at 1.53.23 PM.png" >}}
+![Thryv](/images/blog/Screenshot 2022-11-29 at 1.53.23 PM.png)
 
 Thryv is the one-stop solution for small businesses assisting their daily operations, like cloud marketing, and payment processing. Moreover, it offers reliable and effective customer service that is aware of the requirements and goals of small business owners.
 
@@ -67,7 +67,7 @@ Brad says - Thryv is like taking the best features of complex software from a do
 
 ## #3. Bonsai
 
-{{< figure src="/images/blog/Untitled29nov.png" >}}
+![Bonsai](/images/blog/Untitled29nov.png)
 
 Bonsai is an effective business management software for freelancers and businesses to handle leads, track accounts, produce and manage invoices, manage timesheets for projects, and much more. Bonsai offers a broad range of features, it is effective in CRM as well.
 
@@ -93,7 +93,7 @@ Kevin Tudball says - I did a lot of research before switching to Bonsai from ano
 
 ## #4.Chanty
 
-{{< figure src="/images/blog/Untitled1-29nov.png" >}}
+![Chanty](/images/blog/Untitled1-29nov.png)
 
 Chanty is a solution for team collaboration that boosts productivity through simplified communication options. With Chanty users won't experience needless annoyances from the user interface and can collaborate on tasks by sharing screens and documents.
 
@@ -117,7 +117,7 @@ G2 Review - I think the ease of using Chanty is one of the major things I like a
 
 ## #5.Keap
 
-{{< figure src="/images/blog/Untitled2-29nov.png" >}}
+![Keap](/images/blog/Untitled2-29nov.png)
 
 Keap provides a solitary, integrated platform for payment processing, marketing automation, sales automation, and CRM. With Keap, businesses can enhance sales and revenue, through quick capulation and management of leads. Moreover, it provides professional coaching, in-depth training, exceptional support, and a committed network of entrepreneurs for assured results.
 
@@ -143,7 +143,7 @@ Tonya Y. says - Keap is wonderful because it consolidated so many different appl
 
 ## #6.Odoo
 
-{{< figure src="/images/blog/Untitled3-29nov.png" >}}
+![Odoo](/images/blog/Untitled3-29nov.png)
 
 Odoo is a collection of tools for managing businesses, such as CRM, e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory management. This one-stop business solution of integrated apps keeps the business simple and easy to manage.
 
@@ -169,7 +169,7 @@ Devang S says - Odoo is the best open-source ERP solution. Odoo provides many mo
 
 ## #7. Hubspot
 
-{{< figure src="/images/blog/Untitled4-29nov.png" >}}
+![Hubspot](/images/blog/Untitled4-29nov.png)
 
 HubSpot offers a variety of management tools for businesses, including the free CRM and the Marketing Hub, Service Hub, Sales Hub, and CMS Hub. This tool even offers inbound marketing to increase traffic and sales.
 

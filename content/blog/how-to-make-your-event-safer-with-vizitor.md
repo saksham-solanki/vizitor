@@ -9,7 +9,6 @@ authorsImage: /images/authors/author.svg
 
 **How do you manage your visitors at events during this pandemic? Still using the manual system to manage the visitors? Are you looking for new ways to impress and protect your visitors at your events?**
 
-{{< figure src="/images/blog/image-172.png" >}}
 
 
 
@@ -40,7 +39,6 @@ COVID-19 pandemic has made a huge impact on the event management industries. The
 
 With the visitor screening, you can screen the visitors before their entry on the premises. This System uses visitor initial screening with digital questionnaires asking their health and travel history.
 
-{{< figure src="/images/blog/image-173.png" >}}
 
 
 
@@ -48,7 +46,6 @@ With the visitor screening, you can screen the visitors before their entry on th
 
 [Contactless check-ins](https://www.vizitorapp.com/) are the best practice to prevent the spread of infection in the workplace. Visitors use their smartphones for themselves check-ins without the help of any third person. Visitors can check-ins using QR code.
 
-{{< figure src="/images/blog/image-174.png" >}}
 
 
 
@@ -57,7 +54,6 @@ With the visitor screening, you can screen the visitors before their entry on th
 
 The event visitor management system helps to track the infected person and warn staff with alerts. The event visitor management system notifies the employee if they have been in contact with an infected visitor.
 
-{{< figure src="/images/blog/image-175.png" >}}
 
 
 
@@ -67,7 +63,6 @@ The event visitor management system helps to track the infected person and warn 
 
 You can send a welcome email to visitors before their arrival. The welcome email should include location, Transportation notes, A map of the venue, check-in information, Schedule of events and contact information for event organizers. You can send this email as a quick reference guide information.
 
-{{< figure src="/images/blog/image-176.png" >}}
 
 
 
@@ -75,7 +70,6 @@ You can send a welcome email to visitors before their arrival. The welcome email
 
 Visitors can check-in themself without the help of third person using the kiosk. You can also use visitor management software to quickly print visitor badges with the visitor’s photo on it for added security.You can pre-register all confirmed visitors so all they’ll need to do is type in their name upon arrival.
 
-{{< figure src="/images/blog/image-177.png" >}}
 
 
 
@@ -83,7 +77,6 @@ Visitors can check-in themself without the help of third person using the kiosk.
 
 Vizitor provides the Digital signature  that displays important event information such as schedules, announcements, and maps. You can place digital signage outside each room to let attendees know which presentation is currently in session and what’s coming up next.
 
-{{< figure src="/images/blog/image-178.png" >}}
 
 
 
@@ -91,7 +84,6 @@ Vizitor provides the Digital signature  that displays important event informati
 
 Vizitor provides a Touchless check-in process. Vizitor's [visitor management system](https://www.vizitorapp.com/) will make your business more efficient, safe, and organized. When you choose vizitor, then you get the advanced features and highest-quality experience for the best value.
 
-{{< figure src="/images/blog/image-179.png" >}}
 
 
 

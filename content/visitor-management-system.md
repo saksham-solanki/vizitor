@@ -1,5 +1,5 @@
 ---
-title: "Customizable Visitor Management System | Demo & Pricing"
+title: "How Visitor Management System Works "
 description : "Say goodbye to long queues and paper-based systems. Our visitor management system offers a hassle-free check-in experience."
 keywords:
 - web-based visitor management system, 

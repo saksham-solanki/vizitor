@@ -78,8 +78,7 @@ Without a centralized platform, information about the meeting schedule, speaker 
 Companies may need help optimizing conference room use and other resources. Underutilized or overbooked spaces are more likely without a system to track room availability and utilization.
 
 
-[{{< figure src="/images/blog/conference-2-img.jpeg" >}}](/demo)
-
+[![conference](/images/blog/conference-2-img.jpeg)](/demo)
 
 ## Benefits of Conference Scheduling System  
 

@@ -71,7 +71,8 @@ By optimizing space, reducing wastage, and utilizing technology effectively, sma
 Prioritizing cybersecurity safeguards sensitive data and ensures a secure digital environment. This protects the organization and instills confidence in employees and clients regarding data privacy.
 
 
-[{{< figure src="/images/blog/smart-img.jpeg" >}}](/demo)
+[![smart-img](/images/blog/smart-img.jpeg)](/demo)
+
 
 
 ## 5 Tips to create a smart workplace

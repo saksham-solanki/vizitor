@@ -48,7 +48,7 @@ Green Schools create a healthier environment for students, employees and communi
 Green School seeks to emphasize teachers  and students to step ahead for promoting sustainability in the environment by their active involvement in community programmes.
 
 
-{{< figure src="/images/blog/jeffrey.jpg" >}}
+![Green School](/images/blog/jeffrey.jpg)
 
 **Major objectives of "Green Schools" are listed below-** 
 
@@ -90,7 +90,7 @@ Green School Initiatives offer several ideas for creating a green school environ
 
 Without a doubt, today’s students aren’t just looking for academic programs in sustainability; they want to study at institutions that talk about sustainability also. 
 
-{{< figure src="/images/blog/photo-1jpeg" >}}
+![ideas for a green school](/images/blog/photo-1jpeg)
 
 ### 1. Promoting Energy and Water Conservation practices– 
 
@@ -131,7 +131,7 @@ School gardens are catching on and for good reason. Kids will learn to conserve 
 
 Sports Day, fairs, carnivals, activities always remain a great source of bulk waste in schools.Practices should be incorporated to take  these events in a  Zero- waste zone by -
 
-{{< figure src="/images/blog/photo-161.jpeg" >}}
+![Encouraging No-waste](/images/blog/photo-161.jpeg)
 
 • Accurate and limited  quantities of food purchasing
 
@@ -165,7 +165,7 @@ Encourage participation of students in environment and plantation drives. They s
 
 ### 3. Conduct Awareness rallies– 
 
-{{< figure src="/images/blog/cdc-.jpg" >}}
+![Conduct Awareness rallies](/images/blog/cdc-.jpg)
 
 Switch to more actionable steps to take toward the goal by organizing environmental awareness rallies monthly on water harvesting, recycling and other major environmental concerns.Students, teachers and administration will take initiatives to make the school more eco-friendly.
 

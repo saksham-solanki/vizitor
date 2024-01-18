@@ -13,7 +13,8 @@ Are you still using paper logbooks for this purpose?
 In any organization,the need of keeping personal data and sensitive information safe is paramount. The lack of access control regarding personal information can put businesses at threat. 
 Traditionally managing logbooks was a hectic and time-consuming task and can lead to a single point of failure.
 
-{{< figure src="/images/blog/10jan23.jpg">}}
+
+![ Compliance](/images/blog/10jan23.jpg)
 
 ## Why is data privacy crucial and paramount to an organization?
 
@@ -30,7 +31,7 @@ For companies in many industries, visitor management  helps meeting compliance r
 
  In this post, we’ll discuss how you can and stay in compliance with data laws and standards using  a visitor management solution.
 
-{{< figure src="/images/blog/10jan23-1.jpg">}}
+![Role of Visitor](/images/blog/10jan23-1.jpg)
 
 ## GDPR,C-TPAT, ITAR, FSMA Compliance with Visitor Management System 
 
@@ -56,8 +57,7 @@ There are a lot of different laws and regulations around the world regarding [da
     
 • Also offers an automatic deletion of visits data and restrict unauthorized access of data by individuals making use of passwords and encryption thus ensuring data security.
 
-{{< figure src="/images/blog/10jan23-2.jpg">}}
-
+![Meeting Data](/images/blog/10jan23-2.jpg)
 ## Transparency and visitor consent: 
 
 • Your organization will not be permitted to collect visitor data solely on the basis of consent.  Additionally, it must be clear how you intend to utilize the collected data.
@@ -70,7 +70,7 @@ There are a lot of different laws and regulations around the world regarding [da
 
 Using a visitor management system  with various automatic  features allows companies to protect their data and ensure data privacy thus comply with GDPR regulations.
 
-{{< figure src="/images/blog/10jan23-3.jpg">}}
+![Maintaining Compliance](/images/blog/10jan23-3.jpg)
 
 ## Maintaining other  Compliance Standards (C-TPAT, ITAR, FSMA) with Visitor Management Software
 
@@ -92,7 +92,7 @@ FSMA stands for the Food Safety Modernization Act, a food handling regulation t
 It is the main responsibility of food companies to keep track of visitors so that they meet FDA safety guidelines and to  make them feel comfortable and secure.
 The Visitor Management system includes various strategies to meet FDA standards such as implementing a touchless  check in/check out process at reception areas, which includes verification of proper identification, visitor and thermal screening, host notifications in case of unauthorized entry into premises.
 
-{{< figure src="/images/blog/10jan23-4.jpg">}}
+![ FSMA](/images/blog/10jan23-4.jpg)
 
 To help companies to meet ITAR, C-TPAT or FSMA and data privacy standards, Visitor Management solutions includes various practices and procedures to avoid non-compliance of data regulations–
 
@@ -108,7 +108,7 @@ To help companies to meet ITAR, C-TPAT or FSMA and data privacy standards, Visit
 
 **6.** Health and thermal screening to ensure workplace safety 
 
-{{< figure src="/images/blog/10jan23-5.jpg">}}
+![Pre-registration](/images/blog/10jan23-5.jpg)
 
 
 ## Summarize

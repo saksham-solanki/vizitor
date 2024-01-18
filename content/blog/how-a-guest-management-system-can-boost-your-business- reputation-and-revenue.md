@@ -38,7 +38,7 @@ Using paper logs for managing guests and visitors is a tedious and time-consumin
 Instead,
 A digital guest management system like **[Vizitor](/)** typically includes features such as electronic check-in, visitor registration, badge printing, and real-time tracking of guest activity.
 
-{{< figure src="/images/blog/19mar23-1.avif" >}}
+![actually is Guest Management](/images/blog/19mar23-1.avif)
 
 **So, now the question arises:**
 
@@ -58,7 +58,7 @@ The guest experience actually starts ‍from the entrance of a guest or visitor 
 
 Although there are quite a number of good reasons why Guest Management and Engagement is important and also something which is necessary for the success and durability of a **[hospitality](/visitor-management-system-for-hospitals)** establishment to manage their revenue strategies. 
 
-{{< figure src="/images/blog/19mar23-2.avif" >}}
+![businesses and organizations](/images/blog/19mar23-2.avif)
 
 ## The impact of Covid……
 
@@ -86,7 +86,7 @@ Getting an automated Guest Management System is one direct way for **[hotels](/v
 A Visitor Management System like Vizitor actually serves as one of the most reliable and easy to use Guest Management Systems which allows the industries to take certain tasks off their hands and let them focus on other things. 
 Modernisation is the necessity of today's productivity measures. With a digital guest management system like Vizitor, the check-in process becomes more streamlined and efficient, which means guests can enter the building quickly, minimizing wait times. This leads to improved guest satisfaction and a higher likelihood of repeat visits, resulting in increased revenue.
 
-{{< figure src="/images/blog/19mar23-3.avif" >}}
+![GUEST MANAGEMENT SOFTWARE](/images/blog/19mar23-3.avif)
 
 A Digital Guest Management Software is generally responsible to carry out the basic functions of the front office including registering and managing guests and visitors, maintaining visitors' logs, signing-in and out and so on. It offers professional and memorable visiting experience to guests and visitors by greeting them in a smart and digital way.
 It is customizable as per the needs of the organization to encounter frontal office operations in a digital way.
@@ -131,7 +131,7 @@ Guest Management System covers all the security  necessaries that a hotel may ne
 
 Working in the hospitality industry means dealing with a number of guests and visitors on daily basis. We live in a world of high-tech solutions in every  sector of life and hotel managers should be prepared to cope with this kind of activity. So, guest management systems are developed not only for customer interactions but for improving the reputation and revenue of the industries. 
 
-{{< figure src="/images/blog/19mar23-4.avif" >}}
+![guest management system](/images/blog/19mar23-4.avif)
 
 So,all you can see is that a guest management system has become a great asset to the businesses and helping to keep up with competitors.
 

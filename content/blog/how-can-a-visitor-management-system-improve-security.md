@@ -9,7 +9,7 @@ authorsImage: /images/authors/author.svg
 
 When it comes to the security of your workplace and the employees, the need of implementing  a reliable and high-tech security system greatly increases. The front desk and lobby area used to be considered as  the most critical areas that need full proof security and safety. To maximize security and safety at their workplaces, most of the modern enterprises are continuously  making efforts to achieve their security goals. 
 
-{{< figure src="/images/blog/image-65.png" >}}
+![Improve Security](/images/blog/image-65.png)
 
 While visitor management has long been a critical consideration in the modern workplace, the need for a simple yet secure method of managing visitors and contractors has never been greater. If companies want to meet expectations for staff/customer safety and convenience, they must invest in visitor management technology.
 
@@ -47,7 +47,7 @@ A Visitor Management System is more accessible because it stores all of the info
 
 A visitor management system helps you keep track of each and every visitor and their activities by utilizing cutting-edge technologies such as ID cards to gain access to the premises.
 
-{{< figure src="/images/blog/image-78.png" >}}
+![track](/images/blog/image-78.png)
 
 ## Visitor Management System and Better Security    
 
@@ -57,7 +57,7 @@ A visitor management system has a significant impact on the safety and security 
 
 Security-conscious organizations are continuously looking forward for improving thier security standards by choosing reliable and stronger  visitor management systems (VMS) to strengthen their security systems.
 
-{{< figure src="/images/blog/image-66.png" >}}
+![Better Security](/images/blog/image-66.png)
 
 ## Visitor Management System Vs Traditional Visitor Management Method
 
@@ -66,7 +66,7 @@ Traditional Visitor Management Solutions can be extremely time-consuming, tediou
 Through manual processes, it will be difficult to keep a tab on various aspects like  tracking  visitors, their history, type of purpose they serve, authentication of visitors etc. 
 While visitor management systems can safeguard your business against unlawful entries while giving full control on monitoring your visitors and guests. Digital and touchless visitor management systems offer workplaces with high level  of security measures to streamline and simplify  their processes, without compromising robust security and compliance standards.
 
-{{< figure src="/images/blog/image-72.png" >}}
+![Traditional](/images/blog/image-72.png)
 
 ## VISITOR MANAGEMENT SYSTEM FEATURES
 
@@ -90,7 +90,7 @@ This practice makes your office premises a lot safer.
 
 ### 3. Provides instant and real-time emergency alerts–
 
-{{< figure src="/images/blog/image-74.png" >}}
+![real-time](/images/blog/image-74.png)
 
 The system instamtly notifies the security administration in  case of any emergency situation like fire breakouts, earthquakes etc.
 This enables an organization to take better evacuation measures and ensure security of employees and others.
@@ -103,7 +103,7 @@ To overcome the challenges of security breaches, you can screen viaitors at entr
 
 VMS provides the first line of defence against physical theft and loss of proprietary and confidential data by ensuring data security and user privacy. However, your organisation must be GDPR-compliant whenever it collects data. The GDPR’s fundamentals include visitor consent, data transparency, and protection from external threats.
 
-{{< figure src="/images/blog/image-71.png" >}}
+![GDPR-compliance](/images/blog/image-71.png)
 
 ### 6. Integrated solutions–
 
@@ -127,7 +127,8 @@ Customisable badges can be used as one of the most reliable ways to ensure secur
 
 The need for a visitor management system in modern enterprises is apparent and crucial. It gives you full control of your enterprise while keeping your security standards always up-to- date. It not only streamlines your front desk operations but also make sure that your entrance should always remain secure and safe.
 
-{{< figure src="/images/blog/image-69.png" >}}
+![modern organizations](/images/blog/image-69.png)
+
 
 ## Best practices for using a Visitor  Management System
 
@@ -156,7 +157,7 @@ The main purpose of visitor management system is not only to get visitors in but
 
 Collect and analyze your visitors data to get better insight over time.It is mandatory for facilities to analyze your data in order to comply with the data privacy regulations.
 
-{{< figure src="/images/blog/image-68.png" >}}
+![Analyse your visitors](/images/blog/image-68.png)
 
 ## Conclusion
 

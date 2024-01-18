@@ -40,7 +40,7 @@ In this article,  we will cover how a hotel front desk softwares streamline the 
 
 • Time to resolve
 
-{{< figure src="/images/blog/12jan23-1.jpg">}}
+![Points to go through](/images/blog/12jan23-1.jpg)
 
 ## What are various front desk issues and challenges faced by the hotel industry?
 
@@ -61,7 +61,7 @@ Yes, it is. It takes precious time of guests to process their entry and make the
 
 • Maintaining reservation and booking records, addressing guests' queries, checking- in and out manually, assigning them rooms etc. requires efficient multitasking skills as well as ensuring customers' satisfaction.
 
-{{< figure src="/images/blog/12jan23-2.png">}}
+![innovative solutions](/images/blog/12jan23-2.png)
 
 • During vacations, the situation becomes worse than before. Spending hours in waiting rooms, long queues can result in frustration and dissatisfaction of the guests. This presents  a bad impression of your enterprise diminishing your brand image.
 
@@ -86,7 +86,7 @@ After the pandemic, the  popularity of [touchless visitor management softwares](
 Hotel front desk software systems allows guest check-In and check-out of their own using their smartphones speeding up the registration process. Guests can check-in digitally without touch just scanning QR codes from their mobile phones.
 Being Digital and Paperfree is the need of today's modern front desks.
 
-{{< figure src="/images/blog/12jan23-3.png">}}
+![Touchless](/images/blog/12jan23-3.png)
 
 
 ### • Host notifications and badge printing 
@@ -97,14 +97,14 @@ Easily notify the host that  guests are waiting for him. Upon identification,  c
 
 It provides real-time accessibility to visitor data tracked using real-time dashboard. With powerful dashboard, admin can easily manage pre-arrival of guests and execute their task efficiently. Admin can easily manage guests' data and details with a powerful dashboard. Data stored is refreshed and updated on regular basis.
 
-{{< figure src="/images/blog/12jan23-4.jpg">}}
+![Flexibility](/images/blog/12jan23-4.jpg)
 
 ### • Advanced security and safety of visitors and guests
 
 The reception area is always one of the main security point in all establishments. Maintaining security standards is necessary to enrich the brand impression which you want to offer to your guests.  
 It ensures the safety of guests by advanced security measures. Visitor badges, photo capture, [e-signatures enhance](/visitor-management-nda) the security level of your hotel. 
 
-{{< figure src="/images/blog/12jan23-5.jpg">}}
+![Advanced security](/images/blog/12jan23-5.jpg)
 
 ### • Other benefits that can revolutionize Hotel Front Desk Operations
 
@@ -120,7 +120,7 @@ It  can also help to increase the amount of revenue you spend.
 
 It also helps in reducing  the number of front desk staff members through automatic and streamlining frontal operations.
 
-{{< figure src="/images/blog/12jan23-6.jpg">}}
+![benefits](/images/blog/12jan23-6.jpg)
 
 
 ## Let's overview some of the other  Innovative softwares that helps in  optimizing the front desk operations of hotels and restaurants.

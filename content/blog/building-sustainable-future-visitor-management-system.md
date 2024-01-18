@@ -74,7 +74,7 @@ Undoubtedly, [**visitor management**](/best-visitor-management-system-in-india/)
 ### Positive Visitor Experience
 
 
-{{< figure src="/images/blog/image-35.png" >}}
+![Positive Visitor Experience](/images/blog/image-35.png)
 
 
 • A seamless and efficient check-in process with a Digital [**Visitor Management System**](/visitor-management-system/)  can enhance the overall visitor experience. 

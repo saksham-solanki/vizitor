@@ -23,8 +23,7 @@ keywords:
 
 Many offices don’t have a proper structure for conducting meetings. Therefore lack of conducting meetings with the team members. There is a need to have proper meetings set up to conduct meetings at office premises. The right way is to invest in a **meeting room booking system** for smart room booking. The booking helps team members coordinate and conduct meetings rightfully. It may sound overwhelming, but such a **conference room booking system** has proven useful for business. 
 
-[{{< figure src="/images/blog/improve-booking-blog-img-2.jpeg" >}}](/demo)
-
+[![improve-booking](/images/blog/improve-booking-blog-img-2.jpeg)](/demo)
 
 ## How can the meeting room booking system benefit companies?
 

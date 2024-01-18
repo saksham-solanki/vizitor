@@ -48,7 +48,6 @@ Your plan may vary depending on the type of tool you are looking to implement, b
 
 The goal of your roll out plan must be to provide clear and easily understandable information about the technology. Keep it Simple and flexible and listen to your employee’s feedback regularly to improve your roll-out plan for introducing tools in future.
 
-{{< figure src="/images/blog/image-5.png" >}}
 
 ###  Communicate Effectively with the team 
 
@@ -67,7 +66,7 @@ Select a group of team members to test out the new tool with a specific timeline
 
 Also, communicate with the pilot group to identify any challenges and issues they face using the technology and try to fix them to improve the technology for future.
 
-{{< figure src="/images/blog/image-21.png" >}}
+![Create a pilot program](/images/blog/image-21.png)
 
 ###  Provide Engaging Training 
 
@@ -107,7 +106,7 @@ As we know technology is evolving on days off and it is important to make contin
 It is not important to celebrate only milestones and achievements. Celebrate your success, no matter how small it is. Celebrate your small wins with the team and it’s also important to reward employees for their contributions.
 Share your success stories and experiences resulting from implementing a new system. This helps to create a more positive and enthusiastic atmosphere within the workplace.
 
-{{< figure src="/images/blog/image-344.jpg" >}}
+![Celebrate your Success](/images/blog/image-344.jpg)
 
 ## Final Thoughts!!
 

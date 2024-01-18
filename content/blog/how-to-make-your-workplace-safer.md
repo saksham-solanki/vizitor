@@ -40,7 +40,7 @@ Make sure that all of your employees have access to all safety training for thei
  Labels and signs are an effective way to communicate important information.
  They’re usually simple  on posters to detail hazards and proper procedures.
 
-{{< figure src="/images/blog/asl-group.jpg" >}}
+![Use labels](/images/blog/asl-group.jpg)
 
 #### **5. Keep the work area clean.**
 
@@ -48,7 +48,6 @@ Make sure that all of your employees have access to all safety training for thei
  The workplace should be clean so that safety is boosted.
  Prepare your employees to recognize the value of a clean work area and encourage them to preserve the neatness.
 
-{{< figure src="/images/blog/clean-office--1-.jpg" >}}
 #### **6. Implement safety protocols in the workplace.**
 
  Workplace safety starts from day one.
@@ -64,7 +63,6 @@ Make sure that all of your employees have access to all safety training for thei
 
 Are you still using a paper logbook to register the visitors, the first step to a secure workspace is to eliminate this system! This is the time to say goodbye to the manual system and  move to a digital system. If you've already moved with a [visitor management system](https://www.vizitorapp.com/best-visitor-management-system-in-india), make sure it supports security requirements.
 
-{{< figure src="/images/blog/0_oULc1FHzLwQJw2w3.jpg" >}}
 
 **Here are some ways to boost security with effective visitor management:**
 

@@ -23,11 +23,7 @@ A visitor management system tracks visitors in a formal or official way at your 
 When visitors arrive to your office, they are signed in using a tablet device(iOS&Android)at the reception.
 
 
-{{< figure src="/images/blog/visitor.jpeg" >}}
-
-
-
-
+![Visitor management system work](/images/blog/visitor.jpeg)
 
 - Firstly the visitor provides his basic details and the employee he wants to meet. Once the details are filled they are saved in the database meanwhile a notification is sent to the employee assigned to the visitor.
 - Visitor undergoes through the terms and policies where he acknowleges the Non Disclosure Agreement and provides digital signtaure on the tablet itself.

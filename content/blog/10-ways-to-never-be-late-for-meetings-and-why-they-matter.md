@@ -9,16 +9,14 @@ authorsImage: /images/authors/author.svg
 
 Being late occasionally, and being late almost every time for meetings are two different things. While one signals some sort of unexpected event or happenstance, the other is simply the result of laziness, procrastination, or inefficient time management. And while being late doesn’t look like a big deal to most tardiness-stricken individuals, it’s a serious problem.
 
-{{< figure src="/images/blog/Time-day__1_.png" >}}
-
+![10 Ways to Never](/images/blog/Time-day__1_.png)
 
 
 ### Why is being late more serious than you think?
 
 First of all, being late puts the overall productivity of your organization between the hammer and the anvil. Time is a shared resource, it’s never “your time”. Whenever you decide to show up late at a meeting by 5 minutes, you end up wiping 5 minutes of productivity out of everybody’s clock, because now everybody has to wait for you before they can start. And even if the meeting starts without you, your untimely arrival breaks the flow and the mood, and that’s counterproductive for both you and your organization.
 
-{{< figure src="/images/blog/pasted image 0 (9).png"  >}}
-
+![being](/images/blog/pasted image 0 (9).png)
 
 Second of all, it’s extremely dangerous for you. When you’re late for a meeting, you try to cut down on your commute time. You tell the cab driver to go Dominic Torreto, godspeed!
 

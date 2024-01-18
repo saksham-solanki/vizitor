@@ -36,7 +36,7 @@ Instead, the electronic visitor management solution module, designed with the en
 
 "The only way to stay ahead of the curve is to continuously innovate and adapt." - Jeff Bezos
 
-{{< figure src="/images/blog/electronic1.jpg" >}}
+![Challenges With Manual Logbooks](/images/blog/electronic1.jpg)
 
 ## The need of the Electronic visitor management system
 
@@ -76,7 +76,7 @@ This can reduce waiting times and prevent long queues in the reception or lobby.
 
 A study found that businesses using an electronic visitor management system reduced visitor check-in times by up to 63%. This means visitors can get to their destination faster, without having to spend too much time at the reception.
 
-{{< figure src="/images/blog/electronic2.jpg" >}}
+![Accelerate the Registration Process](/images/blog/electronic2.jpg)
 
 ## Key Benefits of Using an Electronic Visitor Management System 
 
@@ -110,7 +110,7 @@ Did you know that by switching to an electronic visitor management system, you c
 By investing in our electronic system Vizitor, you not only reduce your overhead costs but also automate your business productivity levels. 
 Moreover, an electronic Visitor Management system can easily be scaled up with your business needs, making it a smart and cost-effective alternative to outdated paper-based visitor management methods.
 
-{{< figure src="/images/blog/electronic3.jpg" >}}
+![Reduces Cost Overheads](/images/blog/electronic3.jpg)
 
 ## Wrap Up!!
 

@@ -24,7 +24,7 @@ Let's see how??.
 
 In this post, we'll explore how the Reception Management System is the Key to Bettering Your Front Desk Operations while ensuring security and digitization.
 
-{{< figure src="/images/blog/helena-lopes-QpjyqYy5R-U-unsplash--1---1-.jpg" >}}
+![helena-lopes](/images/blog/helena-lopes-QpjyqYy5R-U-unsplash--1---1-.jpg)
 
 ## Need of streamlining your front desk operations 
 
@@ -38,7 +38,7 @@ Another factor relates to  offering the best and unique visitor experience to gu
 
 Another major concern is security need of modern organizations to protect their guests and employees while reducing number of security breaches. A security-conscious enterprise needs a high-tech secure and digital solution to maintain and practice a high level of access security within your facility premises by reducing security risks such as 
 
-{{< figure src="/images/blog/Foto_receptionist_generale.jpg" >}}
+![streamlining](/images/blog/Foto_receptionist_generale.jpg)
 
 • Unexpected hassle and disturbances in lobby area due to long waiting lines 
 
@@ -66,7 +66,7 @@ Overall, streamlining front desk operations can have significant benefits for yo
 
 A reception management system is a software solution that helps businesses manage their front desk operations more efficiently. It can automate various tasks related to managing appointments, scheduling meetings, registering visitors, and providing real-time information to employees and customers.
 
-{{< figure src="/images/blog/image-75.png" >}}
+![Reception](/images/blog/image-75.png)
 
 
 Reception Visitor management systems are becoming increasingly important in modern organizations which want their efficiency and productivity levels at the top among their competitors in global market. 
@@ -117,7 +117,7 @@ By putting a Reception  [**Visitor management system**](/visitor-management-syst
 
 The reception area is always one of the main security point in all establishments. Maintaining security standards is necessary to enrich the brand impression which you want to offer to your guests. The system covers the high-tech security needs of modern organizations to by encountering their frontal office operations in a digital way.
 
-{{< figure src="/images/blog/image-60.png" >}}
+![Reception Visitor](/images/blog/image-60.png)
 
 
 

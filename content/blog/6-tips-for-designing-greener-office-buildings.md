@@ -23,16 +23,14 @@ Instead of buying out the new office supplies every time, try to buy the recycla
 
 Making small and simple decorational design changes can make a big difference. You need to form an efficient waste policy, that’ll include the centrally-located recycling areas instead of using individual trash cans. Also replace the plastic and paper cups with ceramic mugs and ask your employees to bring in their own reusable water bottles as this can cut down the plastic usage dramatically. If you have office furniture that is no longer required. Instead of throwing it try to sell it or donate it so they can be reused.
 
-{{< figure src="/images/blog/image-306.png" >}}
-
+![ Reuse and Recycle](/images/blog/image-306.png)
 
 
 ## 4. Decrease Water Usage
 
 One of the major things that can help in greener office building is by cutting down the water usage. There are multiple ways to cut down the usage of water. Installing touch or push taps with some special fittings to adjust the timing of water flow along with water flow can put down the water usage dramatically. You can also use some other water-efficient toilets and urinals to help you conserve water even more effectively.
 
-{{< figure src="/images/blog/image-307.png" >}}
-
+![Decrease Water Usage](/images/blog/image-307.png)
 
 
 ## 5. Efficient ventilation
@@ -45,8 +43,7 @@ As an added bonus ventilation tip, try to add plants in your office to freshen u
 
 Before someone in your office hits that “print” button they need to make sure that this print is uttermost necessary. In this digital world, you need to make sure that you should send most of your announcements over email and store files online. Only print out a document if it’s utterly required and always make sure that you print a document on both sides.
 
-{{< figure src="/images/blog/image-308.png" >}}
-
+![ Reduce your printing](/images/blog/image-308.png)
 
 
 ## Conclusion: 

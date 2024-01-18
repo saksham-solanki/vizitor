@@ -9,8 +9,7 @@ authorsImage: /images/authors/author.svg
 
 In this digital era, every organization should be conscious of the environment around them. We have to take the responsibility for helping to protect our earth, and for the future generations. Many companies are helping to improve the environment by going paperless. The meaning of going paperless is printing documents, or other kinds of materials, they are kept in a digital format.  This digital format will help to save trees from being used as paper. With saving trees, you can also save on labor cost, printing cost and much more.
 
-{{< figure src="/images/blog/image-2599999.png" >}}
-
+![Going Paperless](/images/blog/image-2599999.png)
 
 ## Here are some benefits of going paperless that will help you to increase the workplace's efficiency.
 
@@ -27,7 +26,6 @@ With the traditional system you have to use a cabinet for the  storage of the p
 The paperless system increases your workplace security. When you store your data manually, data is not secure enough. The toughest physical locks can be broken. Anybody can access your data in the manual system. When you go paperless, you don’t need to worry about a physical break-in that compromises your data. There is encryption security that can help you protect these records so that there is less of a chance that they will be stolen. The paperless system gives you the  backup in place, it will be easier for you to continue your operation even if there is an incident of theft or a problem that causes your data to be lost.
 
 
-{{< figure src="/images/blog/image-269.png" >}}
 
 
 

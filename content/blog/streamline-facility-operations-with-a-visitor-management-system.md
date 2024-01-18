@@ -14,7 +14,7 @@ Most  facilities are carrying out their day - to - day operations manually from 
 
 The solution  is that there are many solutions available now which  can help them streamline various facility operations.
 
-{{< figure src="/images/blog/10feb23-2.jpg">}}
+![your association](/images/blog/10feb23-2.jpg)
 
 In this article, we will discuss about such solutions  which  can streamline your facility operations thus improving efficiency.
 
@@ -33,7 +33,7 @@ There are various  types of managed facilities out there, and each has its diffe
 
 • [Salons](/visitor-management-system-for-salons) and many more..... looks for positive workplace environment in their organisations.
 
-{{< figure src="/images/blog/10feb23-3.jpg">}}
+![Electronic](/images/blog/10feb23-3.jpg)
 
 ## What is a Electronic visitor management system?
 
@@ -76,7 +76,7 @@ Keeps bird's eye on visitors who is in the building and their activities thus im
 • Eliminates the need for outdated  paper-based visitors registration. 
 • It ensures paper free eco- friendly environment within premises.
 
-{{< figure src="/images/blog/10feb23-4.jpg">}}
+![Eliminates Paperwork](/images/blog/10feb23-4.jpg)
 
 ## What are various Visitor Management Solutions and how can different facilities  streamline their operations with a Visitor Management Solution?
 
@@ -97,7 +97,7 @@ After the event, the host wants to get feedback from their attendees to analyse 
 
 These issue can be solved by using the digital visitor management check-in software. The host can effectively manage post event follow ups as the information of attendees is stored on the computer which can be used for future references.
 
-{{< figure src="/images/blog/10feb23-5.jpg">}}
+![Post Event Follow-ups](/images/blog/10feb23-5.jpg)
 
 ### Electronic Visitor Registration System-
 
@@ -120,7 +120,7 @@ friendly check- in facility with adding their information, capturing a photo wit
 The first impression really matters for representing a organised and professional image of an organisation. The first impression should be a good one  and the fastest way to create a professional and modern front desk is to implement a suitable touchless visitor management soltion thus providing a seamless fron desk experince to the visitors.
 It offers self check-in features, sign NDA's and printed badges with complete details and photograph  for easy identification ensuring safety from intruders.
 
-{{< figure src="/images/blog/10feb23-6.jpg">}}
+![front desk management](/images/blog/10feb23-6.jpg)
 
 #### • Hotel front desk software-- 
 
@@ -146,7 +146,7 @@ Within a school or college infrastructure, creating a secure & solid building is
 
 School Visitor management systems enable schools to monitor and track everyone who enters their buildings thus protecting the premises from any unauthorised guest or intruder.
 
-{{< figure src="/images/blog/10feb23-7.png">}}
+![Solutions for Schools](/images/blog/10feb23-7.png)
 
 #### • Instant Host Notification-  
 
@@ -168,7 +168,7 @@ Visitor management is essential in hospitals and health care centres, providing 
 
 Visitor Management Systen for Hospitals  helps a healthcare organization  to control access to  only authorised visitors to enter their waiting rooms, reception areas, and patient rooms.
 
-{{< figure src="/images/blog/10feb23-9.jpg">}}
+![Ensuring patient](/images/blog/10feb23-9.jpg)
 
 #### • Protecting high - value expensive devices:
 
@@ -198,7 +198,7 @@ When a visitor arrives, a visitor pass is issued to ensure entry into the premis
 
 ## Visitor Management Solution and better security-
 
-{{< figure src="/images/blog/10feb23-8.png">}}
+![better security](/images/blog/10feb23-8.png)
 
 The reception is the first and most important area of security access in any installation. A visitor can be an meddler that can be proved trouble to the safety of the demesne.
     

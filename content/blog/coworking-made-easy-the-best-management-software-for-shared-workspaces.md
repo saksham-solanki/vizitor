@@ -30,7 +30,7 @@ Coworking is a flexible and low cost workspace model for entrepreneurs and freel
 
 Coworking are one of the ideal offices providing variety of benefits making it extremely popular in today's times.Benefits offered by Coworking Spaces are listed as–
 
-{{< figure src="/images/blog/14mar23.avif">}}
+![What actually](/images/blog/14mar23.avif)
 
 • Flexibility and affordability
 
@@ -47,7 +47,7 @@ Every business looks for a systematic and affordable software to manage their sp
 
 COWORKING has never been easier. Manually space management could take you so far as it  is always prone to errors and intervention.Space management can be done manually in a day but it can be accomplished within minutes if done digitally.
 
-{{< figure src="/images/blog/14mar23-2.png">}}
+![Introduction](/images/blog/14mar23-2.png)
 
 The main aim of coworking software is not only managing spaces but also need to manage and automate other tasks which need proper management systematic procedures to be followed.
 Coworking softwares not only streamline operations but also enhance retention and manage your space efficiently and seamlessly.
@@ -75,7 +75,7 @@ Digitization is now becoming a basic necessity of every growing business of any 
 
 • Sales CRM  etc.
 
-{{< figure src="/images/blog/14mar23-11.jpg">}}
+![ Sales CRM](/images/blog/14mar23-11.jpg)
 
 ### 2. Automate desk and room booking tasks
 
@@ -96,7 +96,7 @@ So, coworking space management software helps in eliminating the need of hasslin
 
 ### 4. Visitor management system
 
-{{< figure src="/images/blog/14mar23-3.png">}}
+![ Visitor management](/images/blog/14mar23-3.png)
 
 Another great feature of coworking softwares is efficient and proper management of members and visitors into the workspace. There seems to be a constant flow of visitors and members into the office.Managing and monitoring visitors in real time is one of the complex tasks. The software monitors and tracks who is in the space to prevent any unauthorized entry. The coworking management software provides contactless check-ins and create appointments  into the workspace without need to register and log in manually every time. Members can check in into the coworking space by just scanning the QR codes and there is no need to wait in waiting rooms.It ensures safety of their members as well. The software streamlines various front desk operational tasks creating a seamless and fantastic visiting experience for members and visitors.
 
@@ -153,7 +153,7 @@ Salient features of Vizitor:
 
 • Grow your business
 
-{{< figure src="/images/vizitor/logo.png">}}
+![Detailed](/images/blog/logo.png)
 
 ### 2. Optix 
 
@@ -172,7 +172,7 @@ Key features of Optix includes–
 
 Optix white-labeled apps are designed to connect your users with your space from the convenience of their mobile device.Optix also  includes  booking management, invoicing, member-to-member messaging, and support CRM.
 
-{{< figure src="/images/blog/14mar23-4.png">}}
+![Optix white](/images/blog/14mar23-4.png)
 
 ### 3. andcards
 
@@ -192,7 +192,7 @@ Key features of andcards are–
 
 • Invoicing
 
-{{< figure src="/images/blog/14mar23-5.png">}}
+![Invoicing](/images/blog/14mar23-5.png)
 
 ### 4. Engage Apps
 
@@ -213,7 +213,7 @@ Some of Engage’s salient features include–
 
 • Employee engagement
 
-{{< figure src="/images/blog/14mar23-6.png">}}
+![Employee engagement](/images/blog/14mar23-6.png)
 
 ### 5. Coworking Ops  
 
@@ -233,7 +233,7 @@ Key features of Coworking Ops includes–
 
 The software can be integrated with Biometrics, Google Calendar and accounting softwares also.
 
-{{< figure src="/images/blog/14mar23-7.png">}}
+![ Business analytics](/images/blog/14mar23-7.png)
 
 ### 6. Nexudus
 
@@ -247,7 +247,7 @@ Nexudus offers various features includes:
 
 • In-house trained support
 
-{{< figure src="/images/blog/Nexudus.png">}}
+![Nexudus](/images/blog/Nexudus.png)
 
 ### 7. Yardi Kube 
 
@@ -262,7 +262,7 @@ Salient features includes:
 
 • Enable remote door entry for 24/7 access control
 
-{{< figure src="/images/blog/14mar23-9.png">}}
+![Yardi Kube](/images/blog/14mar23-9.png)
 
 ## Wind Up…
 

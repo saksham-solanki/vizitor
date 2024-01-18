@@ -11,7 +11,6 @@ authorsImage: /images/authors/author.svg
 
 Essentially, the [Visitor management system](https://www.vizitorapp.com/) is the digital version of the visitor sign-in sheet. It is an automated way to keep tabs on visitors who have entered your building. Visitors use a check-in check-out process with the self-service  devices that enhances the overall experience of visitors and boosts overall security.
 
-{{< figure src="/images/blog/image-264.png" >}}
 
 
 
@@ -23,7 +22,6 @@ In the digital era, some businesses are still using manual paper-based technique
 
 [Vizitor](https://www.vizitorapp.com/) is a Touchless visitor management system that creates a long-lasting impression on visitors with enhanced security. [Vizitor](https://www.vizitorapp.com/) also provides advanced Touchless features that protects the workplaces from the COVID-19. It is much beyond a basic visitor management system that provides a streamlined experience to your visitors.
 
-{{< figure src="/images/blog/image-220.png" >}}
 
 
 
@@ -35,7 +33,6 @@ In the digital era, some businesses are still using manual paper-based technique
 
 **2) Enhanced Security– **It enhances the security of office premises by capturing photos of visitors, scanning their ids and printing digital badges along with QR code generation for meetings. It keeps visitor data secure with cloud-based solutions. The unauthorized person can be recognized with this system. [Vizitor](https://www.vizitorapp.com/) provides the data security to the visitors. Data Security is our main concern. The customer database, financial information, and appointment history are protected by our military-grade infrastructure.
 
-{{< figure src="/images/blog/image-286.png" >}}
 
 
 
@@ -45,7 +42,6 @@ In the digital era, some businesses are still using manual paper-based technique
 
 **5) Send agreements in advance-**You can make your visitors feel safe before they arrive. The company can send invitations to visitors with attached NDAs to sign in advance with the digital signature. For the safety purpose, other agreements that might include health and safety precautions. Visitors will receive and sign agreements in advance to avoid signing any agreements by hand once they arrive at your workplace.
 
-{{< figure src="/images/blog/image-287.png" >}}
 
 
 

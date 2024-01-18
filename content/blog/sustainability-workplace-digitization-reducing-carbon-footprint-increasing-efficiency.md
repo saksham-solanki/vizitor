@@ -21,8 +21,7 @@ Over the past few years,as new technologies are taking birth, the need to go pap
 
 Many companies are using digital technology to automate routine tasks, such as data entry and document processing. This improves efficiency and frees up time for employees to focus on more critical tasks.
 
-{{< figure src="/images/blog/6feb23-1.jpg" >}}
-
+![impact of pandemic](/images/blog/6feb23-1.jpg)
 
 It allows for the creation of more efficient processes, increased productivity, and a more eco-friendly working environment.
 
@@ -95,7 +94,7 @@ Digitization can be an effective way to reduce the carbon footprint of workplace
 
 These measures can help organizations contribute to global sustainability efforts and reduce their environmental impact.
 
-{{< figure src="/images/blog/2feb23.svg" >}}
+![Digitization](/images/blog/2feb23.svg)
 
 
 ## Workplace  Digitization and Sustainability 
@@ -117,7 +116,7 @@ A visitor management system is a digital solution that can help make the workpla
 
 **Implementing a digital visitor management system, Vizitor can help make the workplace more sustainable digital in  several ways:**
 
-{{< figure src="/images/blog/3-emerging-trends.jpg" >}}
+![sustainable digital](/images/blog/3-emerging-trends.jpg)
 
 
 ### 1. Paperless Operations: 

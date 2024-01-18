@@ -10,7 +10,6 @@ authorsImage: /images/authors/author.svg
 Following covid-19, a massive shift in workplace culture is underway. Many businesses have adopted a remote and hybrid working culture as a result of covid-19. Simply improve your work culture to provide the best environment for your company to increase employee engagement and happiness.
 
 
-{{< figure src="/images/blog/image-28.png" >}}
 
 
 
@@ -30,7 +29,6 @@ In this article, we'll look at how you can use the workplace and on-site experie
 
 Company culture refers to how your employees perform their duties at work. It consists of systems, processes, and behaviours that influence how people feel about the company's mission and the work they do. This includes their workplace behaviour, how they interact with one another, and the shared values in which they believe. Consider your company culture to be the personality of your company.
 
-{{< figure src="/images/blog/image-29.png" >}}
 
 
 
@@ -40,8 +38,7 @@ Company culture refers to how your employees perform their duties at work. It co
 
 Building a great workplace culture, as we all know, does not happen overnight. It evolves and changes with each interaction with professional life. Creating a culture in the workplace has an impact on employee productivity and brand image. Here are some of the key points on which you must concentrate.
 
-{{< figure src="/images/blog/image-30.png" >}}
-
+![culture in the workplace](/images/blog/image-30.png)
 
 #### Organizational values
 
@@ -63,7 +60,6 @@ A workplace should be a place where people feel safe, engaged, inspired, and pro
 
 The physical workplace is an excellent medium for displaying your company culture. The workplace where your employees and visitors feel more at ease. The physical workplace not only attracts talent but also reflects how employees feel about working at your company.
 
-{{< figure src="/images/blog/image-31.png" >}}
 
 
 
@@ -78,7 +74,6 @@ The physical workplace is an excellent medium for displaying your company cultur
 ## #Here are some tips to shine your company values in the workplace
 
 When visitors and employees visit the office, they want to feel connected to the values of your company. As each person walks into the lobby, they should get a sense of what your organisation stands for: your mission, idea, and brand. Remember that company values define what you stand for, so it's critical that your workplace reflects that as closely as possible.
-{{< figure src="/images/blog/image-32.png" >}}
 
 
 **Here are six ideas for aligning your physical workplace with your company values in order to impress top talent:**

@@ -9,13 +9,11 @@ authorsImage: /images/authors/author.svg
 
 Imagine you're checking into a hotel for a much-needed vacation. You arrive at the front desk and are greeted by a friendly staff member who asks for your reservation information and hands you a key to your room. Now, imagine if all of this process was done through a computer system instead of a person. That's exactly what hotel front desk software does!
 
-{{< figure src="/images/blog/image-22 (1).png" >}}
 
 ## What is Hotel Front Desk Software?
 
 Hotel front desk software is a tool that hotels use to manage tasks and record-keeping related to guest stays. It helps automate many of the tasks that would normally be performed manually by employees, such as reservation management, guest check-in, and room assignment. This enables hotels to run their operations more efficiently and provide a better experience for guests.
 
-{{< figure src="/images/blog/image-23 (1).png" >}}
 
 
 But hotel front desk software does more than just streamline the check-in process. It also provides real-time data and information on guest stays, enabling hotels to make informed decisions and improve their operations. It can also improve security by tracking the movements of individuals on the premises and enforcing important protocols, such as health screenings. And with features like revenue management, hotel front desk software can even help hotels optimize their pricing and increase their revenue.
@@ -40,8 +38,7 @@ There are several benefits of using a visitor management system for hotels, incl
 
 **7. Advanced reporting and analytics:** Visitor management software can provide advanced reporting and analytics capabilities, enabling hotels to track key performance metrics and make data-driven decisions.
 
-{{< figure src="/images/blog/image-24 (1).png" >}}
-
+![Advanced](/images/blog/image-24 (1).png)
 
 ## Key Features of Visitor Management Software for Hotels
 

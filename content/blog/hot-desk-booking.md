@@ -37,7 +37,7 @@ Thus, desk booking came to daylight as hybrid workstations demanded an updation 
 
 The best way for business owners is to invest in office hot desk solutions. Such solutions help employees find and book their desks at their fingertips. The software shows empty desks if one employee is working from home. The freedom to choose their workspace daily, whether at home, in a coffee shop, or at a shared office desk.
 
-[{{< figure src="/images/blog/hot-desk-img-2.jpeg" >}}](/demo)
+[![hot-desk](/images/blog/hot-desk-img-2.jpeg)](/demo)
 
 
 ## Open-plan offices vs Hot desk booking 

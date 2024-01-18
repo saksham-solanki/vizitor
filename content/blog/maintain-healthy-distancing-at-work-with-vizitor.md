@@ -9,7 +9,6 @@ authorsImage: /images/authors/author.svg
 
 The COVID-19 pandemic continues to impact business. Where Businesses are open to the public, they must consider how to keep workplaces, employees and visitors safe. So for this we have implemented safety systems and practices to save them. So let's start the safety process from the front desk of the system. There is a Touchless visitor management system that helps your workplace to manage the visitors, employees and workplace safely.
 
-{{< figure src="/images/blog/image-260.png" >}}
 
 
 
@@ -43,8 +42,7 @@ For workplace safety implementing a **[Touchless check-in system](https://www.vi
 - They can easily check-in by scanning a QR code and following the instructions on their mobile device.
 
 
-{{< figure src="/images/blog/image-103.png" >}}
-
+![Implement Touchless check-in system](/images/blog/image-103.png)
 
 
 

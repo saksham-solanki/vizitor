@@ -21,7 +21,7 @@ The first impression your clients have can make or break your relationship with 
 
 Intentional efforts towards enhancing the client experience can redirect the guests' attention towards the purpose of their visit. Moreover, a remarkable client experience has the potential to positively impact your organization's referrals, retention rate, and overall reputation.
 
-{{< figure src="/images/blog/14mar23-1.png" >}}
+![customer experience](/images/blog/14mar23-1.png)
 
 **20 Effective Strategies to Enhance Customer Experience and Deliver Greater Satisfaction:**
 
@@ -83,8 +83,7 @@ Manish
 IT Manager, Snapdeal
 
 
-{{< figure src="/images/vizitor/snap.png" >}}
-
+![Office Reception](/images/vizitor/snap.png)
 
 ## 6. Providing Beverages and Snacks to Visitors:
 
@@ -103,7 +102,7 @@ When important clients arrive, it's essential to make a good first impression. K
 
 **Pro tip:** With a robust workplace platform, the host is automatically notified as soon as their client arrives. This saves time for your team and ensures guests don't have to wait for long periods.
 
-{{< figure src="/images/blog/16jan23.jpg" >}}
+![Respect clients](/images/blog/16jan23.jpg)
 
 ## 9. Show visitors' around your office:
 

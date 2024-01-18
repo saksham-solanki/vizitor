@@ -33,7 +33,7 @@ Traditionally for many years, businesses have focused on gaining their revenue a
 
 **Here are some easy ways to ensure your brand is authentic and genuine–**
 
-{{< figure src="/images/blog/enrich.jpg" >}}
+![authentic and genuine](/images/blog/enrich.jpg)
 
 ## 1.Simply  Be Transparent 
 
@@ -80,7 +80,7 @@ By capturing and utilizing visitor data to customize interactions, communication
 
 • WOW front desk experience: Front desk is the first and the foremost area presenting your unique brand image before guests. Modern offices are becoming smarter and digital incorporating innovative technologies and trends in themselves.Your front desk must provide your guests with hassle free and seamless visiting experience into your premises.
 
-{{< figure src="/images/blog/helena-lopes-QpjyqYy5R-U-unsplash--1---1-.jpg" >}}
+![desk experience](/images/blog/helena-lopes-QpjyqYy5R-U-unsplash--1---1-.jpg)
 
 
 **Implementing [VIZITOR](/) can greatly enhance the personalized reception experience by–**

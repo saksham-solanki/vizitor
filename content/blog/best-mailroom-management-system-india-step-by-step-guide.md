@@ -17,7 +17,6 @@ In this post, we'll explore the benefits of a mailroom management system and why
 
 
 
-{{< figure src="/images/blog/2feb23-1.jpg" >}}
 
 ## What is a Mailroom Management System?
 
@@ -46,7 +45,6 @@ A modern mailroom management system can improve the security of your package del
 
 By utilizing a mailroom management system, employees can receive notifications of their package delivery and arrange for a pickup at a time that's convenient for them, improving overall employee satisfaction.
 
-{{< figure src="/images/blog/2fev23-2.png" >}}
 
 *Based on available data, users of the mailroom management system are able to eliminate manual parcel logging, leading to an average annual time savings of 1250 hours. This translates to over 52 days of additional time, which could be utilized for accomplishing important tasks.*
 
@@ -97,7 +95,6 @@ If the package isn't picked up in a timely manner, Vizitor Deliveries will send 
 
 Once the package is picked up, its delivery status is updated to "received" or "picked up" in the system.
 
-{{< figure src="/images/blog/2_feb_10.jpg" >}}
 
 In conclusion, Vizitor's innovative mailroom management system offers an efficient solution for organizations struggling to manage incoming and outgoing package deliveries. With more people returning to the workplace, it's important to streamline the mailroom process with an efficient system that saves time and resources. Traditional mailroom management processes can be time-consuming, tedious, and prone to errors. 
 

@@ -27,8 +27,7 @@ From automating routine tasks to providing valuable insights into employee perfo
 
 Automation helps employees to be more efficient in their tasks, which can lead to increased productivity. Automation can take over dangerous tasks, reducing the risk of injury or harm to employees. Automation can create opportunities for employees to learn new skills and take on more complex tasks, which can improve their job satisfaction and career prospects.
 
-{{< figure src="/images/blog/3feb23-4.png" >}}
-
+![Automation and employee well-being](/images/blog/3feb23-4.png)
 
 ## The human side of digitization
 
@@ -59,8 +58,7 @@ Digitization has had a significant impact on the human side of work and life. It
 
 Balancing automation and employee experience is crucial in the modern workplace. While automation can bring many benefits, such as increased efficiency and productivity, it can also have negative impacts on employees' job satisfaction, well-being, and career prospects. Therefore, it is essential to find a balance between automation and employee experience to ensure that workers are adequately supported and engaged.
 
-{{< figure src="/images/blog/image-5 (1).png" >}}
-
+![experience](/images/blog/image-5 (1).png)
 
 **Here are some of the reasons why balancing automation and employee experience is important:**
 
@@ -111,8 +109,7 @@ With the help of Visitor Management systems, visitors can be pre-registered, and
 
 Furthermore, [**Visitor management system**](/visitor-management-system) can help employees feel safe by establishing a more controlled workplace environment. They know that unauthorized individuals cannot easily access their workspace, leading to better focus and productivity. The system also provides a quick and easy way for employees to issue visitor passes or send notifications to the host, thereby minimizing disruptions to their work.
 
-{{< figure src="/images/blog/image-30.png" >}}
-
+![employee productivity](/images/blog/image-30.png)
 
 Overall, the Vizitor  streamlines the process of managing visitors, provides a higher level of security, and helps maintain a more organized workspace. By automating these processes, employees can better balance their work responsibilities with a sense of well-being and productivity in the workplace.
 

@@ -57,7 +57,8 @@ Have you ever heard the saying, "A happy employee is a productive employee"? Wel
 Staying ahead of the curve is the key to success in the fast-paced business race. Smart workplaces aren't just a reflection of the present but a glimpse into the future. By embracing a **digital workplace strategy,**  businesses create an environment that adapts to industry trends. It's not just a workplace; it's a hub of innovation where the next big idea is always on the horizon.
 
 
-[{{< figure src="/images/blog/blog-2-img.jpeg" >}}](/demo)
+[![Staying Ahead in the Innovation Race](/images/blog/blog-2-img.jpeg)](/demo)
+
 
 
 

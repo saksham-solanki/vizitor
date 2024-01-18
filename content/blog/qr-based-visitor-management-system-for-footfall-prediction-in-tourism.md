@@ -16,7 +16,7 @@ Over the years, the concept of smart tourism is prevailing and becoming reality.
 
 ## Emerging trends and innovations in tourism…
 
-{{< figure src="/images/blog/Travel-trends.jpg" >}}
+![Travel-trends](/images/blog/Travel-trends.jpg)
 
 Artificial Intelligence and other innovative trends have greatly improved the quality of the travel experience.
 During the global pandemic, the tourism industry got a massive hit as people moved away from traveling to mitigate the risk of exposure to the virus.
@@ -77,7 +77,7 @@ QR based Visitor Management Solutions are now impacting tourism at its greatest 
 Digitization is the need of the hour. Earlier, the tourists and guests have to manually keep an eye upon every visitor by manually registering them using visitor logs.
 Visitor Management is critical in tourism to manage tourists much more efficient by streamlining processes and introducing automation for manual tasks. 
 
-{{< figure src="/images/blog/planet.jpg" >}}
+![planet](/images/blog/planet.jpg)
 
 ## FOOTFALL ANALYTICS using Artificial Intelligence
 
@@ -130,7 +130,7 @@ With security becoming an immense priority around the world, a better visitor ma
 
 • Badge printing for visitors which adds to the process of identification and helps to identify visitors easily and quickly.
 
-{{< figure src="/images/blog/badge.png" >}}
+![badge](/images/blog/badge.png)
 
 ### 4. Automated and Instant notifications
 
@@ -141,7 +141,7 @@ With security becoming an immense priority around the world, a better visitor ma
 
 • The system provides a secure deterrent that identifies, and reports unauthorized tourists.
 
-{{< figure src="/images/blog/instant-notification1.png" >}}
+![instant-notification](/images/blog/instant-notification1.png)
 
 ### 5. Meet GDPR compliant standards
 
@@ -150,7 +150,7 @@ With security becoming an immense priority around the world, a better visitor ma
 
 • Visitor Management System  enables the tourism industry to meet necessary GDPR and data privacy norms, visitor’s consent, transparency of use, and guarantee against external threats.
 
-{{< figure src="/images/blog/GDRP.png" >}}
+![GDRP](/images/blog/GDRP.png)
 
 ### 6. Ensure safety during pandemic
 
@@ -164,7 +164,7 @@ With security becoming an immense priority around the world, a better visitor ma
 
 • In the hard-to-navigate health crisis, the software can be used to track footfalls and eliminate waiting times  in queues to prevent the spread of bacteria and viruses.
 
-{{< figure src="/images/blog/covid.jpeg" >}}
+![covid](/images/blog/covid.jpeg)
 
 ### 7. Create user friendly and green atmosphere for tourists
 

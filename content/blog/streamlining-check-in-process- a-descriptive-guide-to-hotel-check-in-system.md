@@ -38,7 +38,7 @@ Considering hospitality services in **[hotels](/visitor-management-system-for-ho
 How do you manage visitors? How do you manage your visitors' experience?
 It seems to be one of the major concerns among enterprises to manage their visitors and guests in an efficient manner reducing wait times and increasing convenience.
 
-{{< figure src="/images/blog/18mar23-1.jpg" >}}
+![Check-in process](/images/blog/18mar23-1.jpg)
 
 ### 1.1 How do you manage your visitors' experience?
 
@@ -91,7 +91,7 @@ The check-in process is the procedure that hotel guests go through upon arrival 
 
 The COVID-19 pandemic irrevocably changed a variety of guest behaviors and expectations in almost all  hospitality industries.The hotel check-in procedure is one of the most critical elements of any guest journey to differentiate between a positive and negative reviews presented by guests.
 
-{{< figure src="/images/blog/18mar23-2.avif" >}}
+![Digital Check-in](/images/blog/18mar23-2.avif)
 
 Digital check-in processes allow guests to check in online before they arrive, reducing wait times and increasing convenience.
 
@@ -157,7 +157,7 @@ Your hotel's check-in experience impacts every guest you receive. The simpler an
 
 Hotels and restaurants should use innovative softwares and apps to make check-in as efficient and stress-free as possible for everyone involved.
 
-{{< figure src="/images/blog/18mar-23-3.avif" >}}
+![Hotel Check-in](/images/blog/18mar-23-3.avif)
 
 Let me know of various ways and solutions through which the hotel check-in process can be improved. Some of them are listed below–
 

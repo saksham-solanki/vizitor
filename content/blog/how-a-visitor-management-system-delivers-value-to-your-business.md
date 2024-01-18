@@ -14,7 +14,7 @@ A visitor management system (vms) is a solution that allows organizations to str
 
 Actually,Visitor management systems are essential tools for businesses that want to improve security, safety, efficiency, legal compliance, and data insights. Adopting a visitor management system is a strategic investment that can contribute to improved business outcomes and long-term success.
 
-{{< figure src="/images/blog/image-92.png" >}}
+![Delivers Value](/images/blog/image-92.png)
 
 Appropriate visitor management can prevent you from breaking and lead you to a better chance of winning a sale.
 
@@ -26,7 +26,7 @@ How are you managing visitors when they arrive at your site?
 What strategies are you adopting to enhance your workplace's efficiency?
 How are you protecting your workplace from unwanted security threats?
 
-{{< figure src="/images/blog/image-93.png" >}}
+![Importance and need](/images/blog/image-93.png)
 
 If you are an entrepreneur,then these questions definitely stick in your mind.
 Managing visitors, maintaining security level as well as offering a seamless visiting experience etc. are all important aspects of visitor management in an organization.
@@ -36,14 +36,13 @@ The goal of using a visitor management system is to provide not only a great fir
 The digital visitor management system serves as an adequate prime line of security for your organization by preventing unauthorized access into your premises.
 Also, a Visitor Management System is more accessible because it stores all of the information in one place, eliminating the need to sift through stacks of paper records.
 
-{{< figure src="/images/blog/image-94.png" >}}
 
 ## Benefits of using the visitor management system at the workplace!
 
 Visitor management systems are important in businesses because they help to improve security, safety, and efficiency in managing visitors.Traditional Visitor Management Solutions can be extremely time-consuming, tedious, and increasingly prone to  human errors.Through manual processes, it will be difficult to keep a tab on various aspects like  tracking  visitors, their history, type of purpose they serve, authentication of visitors etc. 
 While visitor management systems can safeguard your business against unlawful entries while giving full control on monitoring your visitors and guests.Despite this, the system offers numerous benefits.
 
-{{< figure src="/images/blog/image-95.png" >}}
+![ Benefits of using vizitor](/images/blog/image-95.png)
 
 **Some of the benefits of visitor management systems include:**
 
@@ -55,7 +54,7 @@ With the COVID-19 pandemic, businesses need to reduce contact and the spread of 
 
 • Visitor management software enables contactless registration and check-in by sending visitors digital invitations and enabling them to self-register or check-in using their smartphones.
 
-{{< figure src="/images/blog/image-96.png" >}}
+![Touchless check -ins](/images/blog/image-96.png)
 
 ### 2. Enhanced Security: 
 
@@ -67,7 +66,7 @@ With the rising incidence of security breaches and cyberattacks, businesses need
 
 • Vizitor enables dependable contact tracing, your company can easily access an accurate real-time record of all visitors who enter your workplace, with their contact details,and health screening.
 
-{{< figure src="/images/blog/image-97.png" >}}
+![Enhanced Security](/images/blog/image-97.png)
 
 ### 3. Ensures legal compliance:
 
@@ -85,7 +84,7 @@ Visitor management software comes with powerful features and robust technology t
 
 • Vizitor makes these systems more feasible and affordable alternatives to paper-based visitor management.
 
-{{< figure src="/images/blog/image-98.png" >}}
+![Reduces cost overheads](/images/blog/image-98.png)
 
 ### 5. Enhanced User Experience: 
 
@@ -99,7 +98,7 @@ Digital visitor management system reduce wait times and enable visitors to easil
 
 The system allows for a clear record of who is visiting a particular location and when they arrived and departed. This information can be easily accessible by authorized personnel in future.
 
-{{< figure src="/images/blog/image-99.png" >}}
+![Increased transparency](/images/blog/image-99.png)
 
 ### 8. Customer satisfaction and image boosting: 
 
@@ -113,7 +112,7 @@ Visitor management System sets expectations and assures a defined, repeatable, r
 
 Visitor management systems generate data that businesses can use to track visitor traffic patterns, identify areas for improvement, and optimize visitor management strategies.
 
-{{< figure src="/images/blog/image-100.png" >}}
+![Analytical Insights](/images/blog/image-100.png)
 
 ## Conclusion!
 

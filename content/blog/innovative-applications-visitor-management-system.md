@@ -63,7 +63,7 @@ Can be customized to meet the specific needs of different healthcare facilities,
 
 To mitigate the risk of exposure to infectious viruses, the [**visitor management System**](/best-visitor-management-system-in-india/) Vizitor provides the touchless and contact tracing facilities to secure the hospital premises.
 
-{{< figure src="/images/blog/workforce.avif" >}}
+![ COVID Safety measures](/images/blog/workforce.avif)
 
 ## 3. Establishing flexible Shared Workspaces 
 

@@ -13,7 +13,6 @@ This is the digital era, but even among the advancement of internet technologies
 
 By using less paper we can make our planet a more sustainable place.With a paperless office,You can introduce company-wide initiatives to discourage printing , boost reusing and recycling habits. You have to start at your front desk. By implementing a [visitor management system](https://www.vizitorapp.com/) , you can get the benefit of replacing paper forms, sign-in sheets, legal agreements, and more at the front desk. This is the best way to reduce the paperwork.
 
-{{< figure src="/images/blog/image-323.png" >}}
 
 
 
@@ -28,7 +27,6 @@ Now take notes digitally.
 
 - We can do this from many devices, add users to edit.
 
-{{< figure src="/images/blog/image-324.png" >}}
 
 
 
@@ -64,7 +62,6 @@ Now take notes digitally.
 
 - You can also manage and secure NDAs and other legal documents using visitor management solutions like[ Vizitor](https://www.vizitorapp.com/).
 
-{{< figure src="/images/blog/image-8 (1).png" >}}
 
 
 

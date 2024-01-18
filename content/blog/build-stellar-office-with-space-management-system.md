@@ -64,7 +64,6 @@ Creating a fantastic office depends on having an effective office space manageme
 The business management software for space management is a helpful tool. Therefore, it ensures everything in the office or a business runs smoothly. It is like having a smart assistant for the workplace. Such, coworking space software helps organize and plan how the office space is used, ensuring different places for different tasks. This way, business management helps the office become more organized, efficient, and a better place for everyone. It is like a secret weapon for ensuring everything in the office is in the right place at the right time.
 
    
-[{{< figure src="/images/blog/stealler-office-2.jpeg" >}}](/demo)
 
 
 ## Advantages of a Stellar Office:

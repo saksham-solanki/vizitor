@@ -31,7 +31,8 @@ So, the right choice is to look forward for a **Receptionist Software** for boos
 A Virtual receptionist software replaces the human receptionist of your company. It ensures all the inbound phone calls are answered. It is one solution to handle different tasks such as office adminiatration, automated scheduling appointments, routing calls, delivering account information, and responding to emails.
 Reception staff are the first point of contact for people visiting your business. They are a vital part of making visitors feel welcomed and creating a good first impression.
 
-{{< figure src="/images/blog/8feb23-2.jpg">}}
+![ Receptionist software](/images/blog/8feb23-2.jpg)
+
 
 ### Switch to a perfect solution for your business’s automated reception system. 
 
@@ -78,8 +79,7 @@ It helps you streamline the communications, which simplifies the process of cust
     
 #### • Reduces customer drop-off 
 
-{{< figure src="/images/blog/8feb23-3.jpg">}}
-
+![Reduces customer drop-off](/images/blog/8feb23-3.jpg)
 
 ### 2. Front Desk Management- 
 
@@ -108,7 +108,8 @@ Systems like  Visitor Management System can also work well in unmanned reception
 
 ### 4. Appear more fast, intuitive and professional-
 
-{{< figure src="/images/blog/8feb23-4.png">}}
+![Appear more fast](/images/blog/8feb23-4.png)
+
 
 #### • Enhance brand image of company- 
 
@@ -136,7 +137,7 @@ effective than paying an actual person. It adds many benefits such as cost savin
 
 • More and more businesses are doing away with traditional reception areas in favor of smart officeswith a virtual receptionist and other office automation solutions. 
 
-{{< figure src="/images/blog/8feb23-5.jpg">}}
+![Reducing operating expenses](/images/blog/8feb23-5.jpg)
 
 ## Wrap Up!!
 

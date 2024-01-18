@@ -19,8 +19,7 @@ In this article, we will learn more on the subject —
 
 [Visitor management system](https://www.vizitorapp.com/) quickly and efficiently manages the check ins, captures key information, and lets hosts know of their guest's arrival. The co-working spaces don’t have a lot of staff, they simply don't need it. A co-working space is usually packed full with members working on their own projects and interacting with one another, customers, partners. So they prefer a digital system instead of a receptionist.
 
-{{< figure src="/images/blog/image-326.png" >}}
-
+![co-working space](/images/blog/image-326.png)
 
 
 ### **Here are some steps that describes how people are more comfortable with Tech than with Humans:-**
@@ -38,7 +37,6 @@ In this article, we will learn more on the subject —
 
 The good visitor management system should sign in visitors,provide identification for them to wear,keep track of them during their visit,and keep a record of their visit. Now we can pass over to choosing a perfect [visitor management system for your co-working space](https://www.vizitorapp.com/visitor-management-system-for-co-working).
 
-{{< figure src="/images/blog/image-327.png" >}}
 
 
 
