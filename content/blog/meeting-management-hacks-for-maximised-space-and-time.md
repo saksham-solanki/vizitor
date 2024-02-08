@@ -2,7 +2,7 @@
 title:  Meeting Management Hacks for Maximised Space And Time 
 date: 2024-01-23T12:42:44.000Z
 description: " Meetings are the oldest business concept around for a reason. When designing your modern meeting rooms, think beyond the glass walls, whiteboards, luxury recliners, high-quality oak tables, and projection screens."
-image: /images/blog/metting-management.svg
+image: /images/blog/meeting-img.jpg
 authors: ["Neha Saini"]
 authorsImage: /images/authors/author.svg
 keywords:
@@ -19,16 +19,13 @@ keywords:
 - automatic meeting room cancellation ,
 - analyse meeting room usage data. 
 
-
 ---
 
 
 Meetings are the oldest business concept around for a reason. When designing your modern meeting rooms, think beyond the glass walls, whiteboards, luxury recliners, high-quality oak tables, and projection screens. Instead, build an atmosphere that encourages employees to interact and cooperate. A modest open area that serves employees effectively is preferable than a magazine-worthy conference room that no one ever uses.
 
 
-
 ## Here are easy Hacks to maximise the time and space with a meeting room management system:
-
 
 ### #1. Reduces scheduling conflicts:
 

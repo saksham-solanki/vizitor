@@ -1,8 +1,8 @@
 ---
-title: Five Reasons Why Your Business Needs an Attendance Management System
+title: "Five Reasons Why Your Business Needs an Attendance Management System"
 date: 2024-02-01T12:42:44.000Z
 description: " In the fast-paced world of business, efficient workforce management is critical for success. An Attendance Management System (AMS) plays a more important role in helping businesses streamline their workforce management processes.  "
-image: /images/blog/Attendnce.svg
+image: /images/blog/five-reason.svg
 authors: ["Ankur Rana"]
 authorsImage: /images/authors/author.svg
 keywords:

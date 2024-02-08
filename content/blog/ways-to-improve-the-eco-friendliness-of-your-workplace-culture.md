@@ -32,7 +32,7 @@ By hosting a lunch and learn about environmental issues, you can educate and eng
 
 ### #Form a green team
 
-Form a green team to increase employee awareness of your organization's sustainability goals. You can come up with innovative solutions to environmental issues if you work together. If at all possible, include a senior management representative on the green team and encourage employees of all levels to participate. 
+Form a green team to increase employee awareness of your organization's sustainability goals.You can come up with innovative solutions to environmental issues if you work together, fostering a collaborative approach towards green workplace initiatives. If at all possible, include a senior management representative on the green team and encourage employees of all levels to participate. 
 
 ![green](/images/blog/image-82.png)
  
@@ -40,7 +40,6 @@ Form a green team to increase employee awareness of your organization's sustaina
 ### #Reduce the size of your real estate footprint.
 
 Occupancy tracking and room booking tools, for example, can help you better manage your space by providing data that can be used to right-size your real estate footprint. Begin with baby steps, as with any major undertaking. Small, long-term changes, such as the ones listed above, can help to create a greener workplace where employees enjoy coming to work.
-
 
  
 
@@ -56,7 +55,6 @@ Provide reusable mugs, cups, plates, bowls, and cutlery in your office kitchen w
 It's always a good idea to support local businesses, especially those that are environmentally conscious. Examine the products your office buys on a regular basis to see if they are sourced locally. Do you provide snacks for your employees in the office? Change to an eco-friendly brand or provide fruits and vegetables from a nearby farmer's market. If you frequently cater lunches, prioritise restaurants that use locally grown ingredients.
 
 
- ![Support](/images/blog/image-85.pn)
 
 ## It's all over!!
 

@@ -20,7 +20,7 @@ When we are going digital there we have to save our environment, doing something
 
 As we know business leaders are always looking for ways to cut down on unnecessary expenses. Eco-friendly workplaces reduce the expense of the business and they often result in cost savings while demonstrating your responsibility to the environment. With this, budget will be improved that can become even bigger wins when they also improve the company’s brand image and streamline operations.
 
-## ***How can workplaces "go green"?***
+## ***How can workplaces "go green workplace"?***
 
 Companies can go green with the green strategies . So here are some ways to go green in the workplace.
 

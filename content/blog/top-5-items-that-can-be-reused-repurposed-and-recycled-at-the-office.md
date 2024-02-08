@@ -19,7 +19,7 @@ There used to be tonnes of office wastes that could be managed in effective ways
 
 ## Recycle, Reuse and Reduce….
 
-Recycling, reusing and reducing are one of the most important and critical practices to contribute to environment conservation measures.By reusing and recycling office items and wastes, you can prevent them from going into the landfills. 
+Recycling, reusing, and reducing are among the most important and critical practices contributing to environment conservation measures. By reusing and recycling office items, wastes, and reused products, you can prevent them from going into the landfills.
 
 As you already know that landfills and non-disposable wastes are extremely harmful for Earth.It is really important for small and large enterprises to introduce and maintain good recycling schemes at offices.
 

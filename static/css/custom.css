@@ -666,7 +666,8 @@ section {
 }
 
 .pagebanneres {
-    padding-top: 235px;
+    padding-top: 180px;
+    padding-bottom: 100px;
     z-index: 1
 }
 

@@ -1,8 +1,8 @@
 ---
-title:  What Are Space Management Systems 
+title: "What Are Space Management Systems" 
 date: 2024-01-31T12:42:44.000Z
 description: "In today's rapidly evolving work environment, the way we utilize physical spaces within organizations has become a crucial aspect of productivity, efficiency, and cost-effectiveness. "
-image: /images/blog/space.svg
+image: /images/blog/space-management.jpg
 authors: ["Rohit Saini"]
 authorsImage: /images/authors/author.svg
 keywords:
@@ -10,10 +10,9 @@ keywords:
 - office space management ,
 - hybrid workplace space management,
 - space management software,
-- best space management software,
+- best space management software
 
 ---
-
 
 ## What Are Space Management Systems?
 

@@ -1,8 +1,8 @@
 ---
-title: How to Select the best Desk Booking System!
+title: "How to Select the best Desk Booking System!"
 date: 2024-01-27T12:42:44.000Z
 description: " In today's dynamic work environment, where hybrid and flexible work arrangements are becoming the norm, the importance of efficient desk booking systems cannot be overstated.  "
-image: /images/blog/desk-manage.svg
+image: /images/blog/best-desk.svg
 authors: ["Rohit Saini"]
 authorsImage: /images/authors/author.svg
 keywords:

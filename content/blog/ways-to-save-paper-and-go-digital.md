@@ -157,7 +157,7 @@ Electronic billing
 
 Every visitor management system provides a secure environment to work, live and play. This system reduces the usage of papers. A visitor management system allows for a fully paperless front desk. This system is  environmentally friendly front desk system. With this system, there is no need for a paper-based system. 
 
-We know, paper waste is the worst thing for the environment today. Implementing a visitor management system can help you to create a digital badge system that saves on paper and generates e-badges. With this, this system being entirely online means that no paper is wasted there either. 
+We know, paper waste is the worst thing for the environment today. Implementing a visitor management system can help you to create a digital badge system that saves on paper and generates e-badges, promoting the idea of "save tree, save paper". With this, this system being entirely online means that no paper is wasted there either.
 
 
 ![Digitizing](/images/blog/6.png)

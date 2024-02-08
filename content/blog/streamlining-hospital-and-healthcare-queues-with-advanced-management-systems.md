@@ -1,5 +1,5 @@
 ---
-title: 5 Powerful Benefits of Implementing Patient Queue Management System in 2024
+title: Streamline hospitals lines with Queue Management
 date: 2024-01-22T10:18:42.000Z
 description: "Suffering from long patient queues & unhappy staff? Vizitor's Queue Management System offers the solution! Reduce wait times, boost efficiency, & improve patient satisfaction. Sign up today & experience the benefits firsthand!"
 image: /images/blog/vizitor-manage.png
