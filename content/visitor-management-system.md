@@ -1,6 +1,6 @@
 ---
 title: "How Visitor Management System Works "
-description : "Say goodbye to long queues and paper-based systems. Our visitor management system offers a hassle-free check-in experience."
+description : "What is visitor management system? Learn how does visitor manaagement software increase security and manage customers?"
 keywords:
 - web-based visitor management system, 
 - Visitor management software free, 
