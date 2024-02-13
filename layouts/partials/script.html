@@ -1117,7 +1117,7 @@
 </script>
 
 <!-- --------------------------blog Form api---------------------------------------- -->
-<script>
+<!-- <script>
     $(function () {
         $("#blogForm").on("submit", function (event) {
             event.preventDefault();
@@ -1146,6 +1146,59 @@
                         console.log("dddd--ddd---dd", d)
                         toastr.success(d.message);
                         window.location = "/signup";
+                    }
+                },
+                error: function (e) {
+                    console.log("eeee--eee---eee", e)
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
+</script> -->
+
+<script lazyload>
+    $(function () {
+        $("#blogForm").on("submit", function (event) {
+
+            event.preventDefault();
+
+            var countryCode = $("#country").val().split('-')[0].trim();
+            var phoneNumber = $("#phoneNumber").val();
+
+            // Check if the selected country is India
+            if (countryCode === "+91" && phoneNumber.length > 10) {
+                toastr.error("Phone number should not exceed 10 digits.");
+                return;
+            }
+
+            var data = {
+                name: $("#name").val(),
+                email: $("#email").val(),
+                phoneNumber: $("#country").val().split('-')[0].trim() + $("#phoneNumber").val(),
+                country: $("#country").val().split('-')[1].trim(),
+                message: $("#message").val(),
+            }
+            var blogForm = JSON.stringify(data)
+            console.log("----55555----", data)
+            $.ajax({
+                url: "https://v2api.vizitorapp.com/v1/contact",
+                headers: {
+                    'Content-Type': 'application/json',
+                    
+                },
+                type: "post",
+                data: blogForm,
+                success: function (d) {
+                    $('input[name=email]').val("")
+                    $('input[name=name]').val("")
+                    $('input[name=phoneNumber]').val("")
+                    $('textarea[name=message]').val("")
+                    if (d) {
+                        console.log("dddd--ddd---dd", d)
+                        toastr.success(d.message);
+                        window.location = "/contact-submitted";
                     }
                 },
                 error: function (e) {
