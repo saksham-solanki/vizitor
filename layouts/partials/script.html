@@ -1163,7 +1163,7 @@
         $("#blogForm").on("submit", function (event) {
 
             event.preventDefault();
-
+            var message = window.location.href;
             var countryCode = $("#country").val().split('-')[0].trim();
             var phoneNumber = $("#phoneNumber").val();
 
@@ -1178,7 +1178,7 @@
                 email: $("#email").val(),
                 phoneNumber: $("#country").val().split('-')[0].trim() + $("#phoneNumber").val(),
                 country: $("#country").val().split('-')[1].trim(),
-                message: $("#message").val(),
+                message: window.location.href,
             }
             var blogForm = JSON.stringify(data)
             console.log("----55555----", data)
@@ -1194,7 +1194,6 @@
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
-                    $('textarea[name=message]').val("")
                     if (d) {
                         console.log("dddd--ddd---dd", d)
                         toastr.success(d.message);
