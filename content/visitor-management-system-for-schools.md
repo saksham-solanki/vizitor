@@ -1,8 +1,6 @@
 ---
-title: "Touchless Visitor Management for Schools | Enhance Security | happy visitor login"
-description : "Best school visitor management is a unique check-in application that has the ability to track people entering the school premises."
-keywords:
-- best school visitor management system, visitor management system for schools, school visitor check in system, web based visitor management system, Visitor management software free, visitor tracking system, free visitor management app
+title: "Visitor Management system for Schools | Enhance Security | Secure Schools"
+description : "School visitor management system is a security software for your school to trace anyone who enters the building. Visitor management system for schools ensures safety for students and staff. Discover more"
 draft: false
 type: "visitor-management-system-for-schools"
 
