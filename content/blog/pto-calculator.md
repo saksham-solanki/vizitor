@@ -1,5 +1,5 @@
 ---
-title: Vacation Right:Calculate Your Fair Paid Time Off (and Track It with Vizitor!)
+title: "Vacation Right : Calculate Your Fair Paid Time Off (and Track It with Vizitor!)"
 date: 2024-02-22T09:21:36.000Z
 description: " Explore the importance of fair Paid Time Off (PTO) and how to calculate it effectively. Discover industry standards, and benefits of adequate PTO, and track it seamlessly with Vizitor's Attendance Management System."
 image: /images/blog/pto-calculate.webp
@@ -83,4 +83,4 @@ Vizitor's Attendance Management System simplifies your PTO tracking and manageme
 
 **Streamlined reporting:** Generate detailed reports on employee time usage, facilitating informed decision-making about PTO policies.
 
-Click here to learn more about Vizitor's Attendance Management System and ensure fair and transparent PTO practices for your organization.
+Click here to learn more about Vizitor's [Attendance Management System](/attendance-management-system/) and ensure fair and transparent PTO practices for your organization.

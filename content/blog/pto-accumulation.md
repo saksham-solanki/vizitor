@@ -1,8 +1,8 @@
 ---
-title: Understanding Your PTO:How You Earn Paid Time Off at Vizitor
+title: "Understanding Your PTO : How You Earn Paid Time Off"
 date: 2024-02-26T09:21:36.000Z
 description: " Learn how PTO accrual works at Vizitor. Discover accrual rates, carry-over policies, and the benefits of understanding your PTO balance for effective time management."
-image: /images/blog/pto-accum.webp
+image: /images/blog/accural.webp
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
 keywords:
@@ -30,7 +30,7 @@ PTO accrual refers to the process of gradually earning paid time off based on th
 **Personal days:** Address personal needs or emergencies.
 
 
-![accrual](/images/blog/accural.webp)
+![accrual](/images/blog/pto-accum.webp)
 
 
 ## How does PTO work at Vizitor?

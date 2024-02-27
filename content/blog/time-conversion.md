@@ -1,5 +1,5 @@
 ---
-title: Convert Time Easily:Hours, Minutes to Decimals with Vizitor
+title: "Convert Time Easily : Hours, Minutes to Decimals with Vizitor"
 date: 2024-02-25T09:21:36.000Z
 description: "Streamline time conversion and attendance management with Vizitor. Ensure fair compensation, legal compliance, and efficiency in your workforce. Start your free trial now!"
 image: /images/blog/time.webp
@@ -54,9 +54,9 @@ Vizitor goes beyond just time conversion with its other features:
 
 **Touchless Attendance With Vizitor's QR System:** Vizitor's employee management system stands as India's sole touchless platform offering QR-based attendance. By utilizing the GPS, it assesses both your current location and the designated office location. Only when your location aligns with that of your office can you mark your attendance.
 
-Improve Your Employees'
 
-**Time Habits:** Tracking policies are crucial for shaping employee time habits. Admins can check total working hours, clock-in/out times, and view individual employee calendars. Employees can also check and track their working hours.
+
+**Improve Your Employees' Time Habits:** Tracking policies are crucial for shaping employee time habits. Admins can check total working hours, clock-in/out times, and view individual employee calendars. Employees can also check and track their working hours.
 
 **Efficient and Personalized Leave Approval Workflows:** Give authority to specific individuals to approve time off requests and arrange replacements. Junior employees can ask their senior counterparts for time off. They can approve, reject, or leave the request pending. Customize the system to handle delays, receive notifications, and accommodate many approval stages.
 
