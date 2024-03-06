@@ -1,11 +1,6 @@
 ---
-title: "#1 Smart Queue Management System"
-description : "Our features helps to welcome your visitor with automated check in and discard the use of paperwork."
-keywords:
-- queue management solutions, 
-- digital queue management system, 
-- electronic queue system, 
-- q management system
+title: "Leading Queue Management System | Vizitor"
+description : "What is queue management software? Use Queue management system software to help your customers, and save costs. Discover here to know more."
 draft: false
 type: "smart-queue-management-system"
 

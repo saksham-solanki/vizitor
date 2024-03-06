@@ -1,17 +1,6 @@
 ---
 title: "Visitor Badge Management software | Vizitor"
-description : "Visitor badge management system will include a visitor’s photo which helps to identify and manage the visitor in a systematic way."
-keywords:
-- Visitor Badge, Visitor photo, 
-- Visitor badge management sysytem, 
-- Visitor management system, 
-- Visitor management software, 
-- visitor management system in India, 
-- Visitor management app, 
-- web based visitor management system, 
-- Visitor management software free, 
-- visitor tracking system, 
-- free visitor management app
+description : "Visitor badges a visitor’s photo which helps to identify them after they enter your office premises. Visitor badge system can help you print printed using a printer and provide Ids to the visitor. Know more about visitor management system."
 draft: false
 type: "visitor-badge-management-system"
 

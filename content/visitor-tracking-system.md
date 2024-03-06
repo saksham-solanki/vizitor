@@ -1,8 +1,6 @@
 ---
 title: "Visitor Tracking System | Visitor Monitoring System"
-description : "Are you searching for the best visitor tracking software? By using Vizitor you can easily manage visitor entry system — all from an iPad/android tablet."
-keywords:
-- Visitor management system, Visitor management software, visitor management system in India, Visitor management app, web based visitor management system, Visitor management software free, visitor tracking system, free visitor management app
+description : "Visitor tracking systems help you to track guests that enter your premises. Visitor tracking software help to strengthen your security."
 draft: false
 type: "visitor-tracking-system"
 
