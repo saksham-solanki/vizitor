@@ -62,7 +62,7 @@ Regularly educate employees on cyber hygiene practices, password management, and
 
 **Visitor Management System:** 
 
-Streamline visitor registration and track their movement within your premises. [Try Free Trail of Vizitir now!](http://vizitorapp.com/)
+Streamline visitor registration and track their movement within your premises. [Try Free Trial of Vizitor now!](http://vizitorapp.com/)
 
 **Regular Security Audits:** 
 
