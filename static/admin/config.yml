@@ -9,9 +9,7 @@ media_folder: "static/images/blog"
 public_folder: "/images/blog"
 show_preview_links: false
 
-
 site_url: https://vizitor.netlify.app/
-
 
 collections:
   - name: "blog"
