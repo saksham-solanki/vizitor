@@ -31,9 +31,7 @@ As you already know that landfills and non-disposable wastes are extremely harmf
 \
 There’s always a value to waste if you have the eye to look for it, and as the famous saying goes “***One man’s trash is another man’s treasure***” meaning that you can take advantage of everything you’re thinking to throw away.
 
-## \
-
-Office Recycling Tips: Reuse, Repurpose, Surprise!
+## Office Recycling Tips: Reuse, Repurpose, Surprise!
 
 ### 1. Paper Clips
 
