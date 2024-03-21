@@ -114,8 +114,6 @@ At Vizitor, sustainability is a core value. ***Founder [Gaurav Saini ](https://i
 
 • Go paperless with digital visitor badges and pre-registration.
 
-waste, lower resource consumption, and promote a more sustainable workplace
-
 • Implement automatic check-out reminders to prevent wastage of resources.
 
 • Use reusable visitor badges made from sustainable materials.
