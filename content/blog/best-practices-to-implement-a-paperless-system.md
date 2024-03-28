@@ -4,7 +4,7 @@ description: Discover the best practices for a paperless accounting office and
   streamline your processes. Reduce time and expenses linked to paper-based
   systems with our visitor management system.
 date: 2020-10-13T10:57:50.000Z
-draft: true
+draft: false
 authorsImage: /images/authors/author.svg
 authors:
   - Ritika

@@ -3,7 +3,7 @@ title: Ways to Go Green in the Schools!
 description: Make your school environmentally friendly and budget-friendly by
   embracing sustainability. Go green at school for a brighter future!
 date: 2021-02-26T13:15:28.000Z
-draft: true
+draft: false
 authorsImage: /images/authors/author.svg
 authors:
   - Ritika

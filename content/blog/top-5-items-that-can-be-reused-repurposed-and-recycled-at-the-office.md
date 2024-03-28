@@ -3,7 +3,7 @@ title: Top 5 Items That Can Be Reused, Repurposed and Recycled at The Office
 description: Discover the perfect opportunity to identify things that can be
   reused, repurposed, or recycled by your business, rather than discarding them.
 date: 2020-09-08T12:28:03.000Z
-draft: true
+draft: false
 authorsImage: /images/authors/author.svg
 authors:
   - Ritika

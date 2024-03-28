@@ -4,7 +4,7 @@ description: Unlock the secrets to workplace punctuality and professionalism
   with our 10 simple tips. Explore how punctuality influences respect, trust,
   and productivity in the workplace.
 date: 2024-03-05T09:21:36.000Z
-draft: true
+draft: false
 authorsImage: /images/authors/author.svg
 authors:
   - Ritika Bhagat
