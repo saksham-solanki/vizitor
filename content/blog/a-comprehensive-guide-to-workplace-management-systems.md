@@ -3,7 +3,7 @@ title: "A Comprehensive Guide to Workplace Management Systems "
 description: Unlock the power of Workplace Management Systems (WMS) and
   revolutionize your office operations for maximum efficiency and productivity.
 date: 2024-03-28T12:12:16.845Z
-draft: true
+draft: false
 authors:
   - Ritika
 image: /images/blog/workplace-management-software.jpg

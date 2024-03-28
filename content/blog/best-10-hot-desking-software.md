@@ -4,7 +4,7 @@ description: Shortlist the top hot desk booking software options to discover the
   ideal tool for your needs. Compare features, pros, cons, and pricing in my
   comprehensive guide.
 date: 2024-02-28T09:21:36.000Z
-draft: true
+draft: false
 authorsImage: /images/authors/author.svg
 authors:
   - Ritika
