@@ -10,7 +10,7 @@ authors:
   - Ritika
 image: /images/blog/blog-image-01-1024x683.webp
 ---
-With the increasing challenges of climate change, environmental degradation, and social inequality, it is crucial to take steps towards creating a sustainable future for ourselves and future generations. Building a sustainable future is more important than ever in today's time.\
+With the increasing challenges of climate change, environmental degradation, and social inequality, it is crucial to take steps towards creating a sustainable future for ourselves and future generations. Building a sustainable future is more important than ever in today's time.
 
 Sustainability has become a critical focus for individuals, businesses, and communities alike. As we strive to build a better future for generations to come, every effort counts. Over the past few years, as new technologies are taking birth, the need to [go paperless and digital](https://www.vizitorapp.com/blog/ways-to-save-paper-and-go-digital/) is forcing organizations to ditch papers and go digital. Businesses all over the world are now embracing paperless ways of working.
 
@@ -18,7 +18,7 @@ Sustainability has become a critical focus for individuals, businesses, and comm
 
 ![Sustainability](/images/blog/sustainbility.jpeg)
 
-### 1. Foster innovation and technology 
+### 1. Foster innovation and technology
 
 Embracing innovation and technology can play a key role in building a sustainable future. [Advancements in workplace operations](https://www.vizitorapp.com/blog/5-tips-to-go-green-in-meetings/), implementing technologies, and sustainable materials can help us find innovative solutions to address sustainability challenges. 
 
@@ -113,8 +113,6 @@ At Vizitor, sustainability is a core value. ***Founder [Gaurav Saini ](https://i
 ![Sustainable labelling - what do suppliers need to do?](https://www.finecut.co.uk/wp-content/uploads/2022/01/environmental-go-green.jpg)
 
 • Go paperless with digital visitor badges and pre-registration.
-
-waste, lower resource consumption, and promote a more sustainable workplace
 
 • Implement automatic check-out reminders to prevent wastage of resources.
 
