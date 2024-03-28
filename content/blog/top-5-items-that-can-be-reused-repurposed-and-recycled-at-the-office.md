@@ -19,8 +19,7 @@ Now, picture this: modern offices are like mini jungles, but instead of trees, i
 
 The best way to promote eco-friendliness within your office is to encourage employees to adopt recycling practices. There used to be tonnes of office wastes that could be managed in effective ways. Recycling office items is extremely important to preserve the environment.
 
-## \
-Eco-Friendly Hacks: Reuse, Recycle, and Slash Waste!
+## Eco-Friendly Hacks: Reuse, Recycle, and Slash Waste!
 
 Recycling, reusing, and reducing are among the most important and critical practices contributing to environment conservation measures. [By reusing and recycling office items](https://www.vizitorapp.com/blog/creating-a-sustainable-workplace/), wastes, and reused products, you can prevent them from going into the landfills.
 
@@ -32,8 +31,7 @@ As you already know that landfills and non-disposable wastes are extremely harmf
 \
 There’s always a value to waste if you have the eye to look for it, and as the famous saying goes “***One man’s trash is another man’s treasure***” meaning that you can take advantage of everything you’re thinking to throw away.
 
-## \
-Office Recycling Tips: Reuse, Repurpose, Surprise!
+## Office Recycling Tips: Reuse, Repurpose, Surprise!
 
 ### 1. Paper Clips
 
@@ -52,7 +50,6 @@ Recycling your old cartridges can be a great step towards your recycling program
 Can you imagine the fact that permanent markers can also be recycled and brought back to life. Isn't it surprising. All you need to do is just simply remove the back nib or the tip from the back of your marker and put in a few drops of isopropyl / rubbing alcohol on the sponge inside. Now re-attach the nib and shake well to make sure that all the alcohol is absorbed in the sponge. The ink doesn't run dry first, it’s the solvent that ink is mixed with, so once you put the alcohol in, your marker will be resurrected back from being dead. 
 
 ![The Best Fade-Proof Permanent Marking Pen for Plant Tags](https://empressofdirt.net/wp-content/uploads/f12-best-permanent-marker-v1.jpg)
-      
 
 ### 4. Recyclable Batteries and Old Office Furniture
 
@@ -70,8 +67,6 @@ In addition to recycling/reusing the boxes which are coming in you can reuse the
 ### 6. Used Notebooks and scrap paper
 
 Reduce paper waste by reusing and repurposing items like notebooks. Instead of traditional paper notebooks, switch to digital pads or reusable notebooks to minimize waste. Consider managing scrap papers for packaging instead of tossing them. Aim to use less paper overall and [go paperless by using digital software for office](https://www.vizitorapp.com/blog/creating-a-sustainable-workplace/) data management. Embrace digital tools to replace physical files and documents. 
-
-
 
 ![A beginner's guide to eco-friendly stationery - The Pen Company Blog](https://www.thepencompany.com/blog/wp-content/uploads/ecofriendly-stationery-1024x683.jpg)\
 \
