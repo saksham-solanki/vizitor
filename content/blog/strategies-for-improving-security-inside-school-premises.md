@@ -3,7 +3,7 @@ title: Strategies for Enhancing Security inside school premises
 description: Ensure school premises security for safe learning environments.
   Learn how to enhance safety measures effectively.
 date: 2023-03-26T06:37:40.000Z
-draft: true
+draft: false
 authorsImage: /images/authors/author.svg
 authors:
   - Ritika
