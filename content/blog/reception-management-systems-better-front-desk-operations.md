@@ -2,9 +2,9 @@
 title: "Why Reception Management System is the Key to Better Front Desk Operations"
 date: 2023-03-25T06:37:40.000Z
 description: "In modern times, the reception area of a business continues to be a crucial space as it serves as the first point of contact for visitors and clients."
-# image: /images/blog/frontdesksoftware.png
+image: /images/blog/frontdesksoftware.png
 authors: ["Ritika Bhagat"]
-# authorsImage: /images/authors/author.svg
+authorsImage: /images/authors/author.svg
 ---
 
 

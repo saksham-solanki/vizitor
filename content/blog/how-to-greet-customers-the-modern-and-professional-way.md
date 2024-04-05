@@ -3,7 +3,7 @@ title: Welcome Visitors with Secure and Warmth Way
 date: 2022-03-01T05:35:47.000Z
 description: "Securely greet and warmly welcome visitors with a visitor management system. Personalize greetings, capture information, and create a branded experience. Increase customer satisfaction today!"
 
-# image: /images/blog/welcome.png
+image: /images/blog/welcome.png
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
 ---
