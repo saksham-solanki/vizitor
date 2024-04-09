@@ -1,7 +1,7 @@
 ---
 title:  A Detailed Guide to Conference Scheduling Software 
 date: 2023-12-20T12:42:44.000Z
-description: "Conference scheduling software refers to specialized meeting scheduling tools designed to facilitate the planning, organizing, and managing of conferences or large-scale events. "
+description: "Streamline conference planning! Software for scheduling rooms, attendees & resources. Easy & efficient meetings"
 image: /images/blog/conferencce-1-img.jpeg
 authors: ["Anjali Khurana"]
 authorsImage: /images/authors/author.svg

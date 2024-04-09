@@ -1,7 +1,7 @@
 ---
 title: Enhance the Workplace security with Touchless Visitor Management System
 date: 2020-05-19T07:32:09.000Z
-description: "The spread of COVID-19 is having repercussions on businesses. Organizations are implementing technology aimed at ensuring the safety at workplace."
+description: "Upgrade your workplace security and visitor experience with a Touchless Visitor Management System. Vizitor's contactless solution minimizes health risks, streamlines check-in, and empowers a modern work environment."
 image: /images/blog/photo-1556741533-6e6a62bd8b49.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

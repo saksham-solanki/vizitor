@@ -1,6 +1,6 @@
 ---
 title: "Hospital Visitor Management System | Healthcare Facility"
-description : "Vizitor is the Visitor Management System for Hospitals, clinics, and nursing homes. It gives top security, easy setup and value for money."
+description : "Vizitor: Hospital Visitor Management System. Top security, easy setup, value for money. Manage hospital visitors effectively."
 keywords:
 - Visitor management system for hospitals, Visitor management system, Visitor management software, visitor management system in India, Visitor management app, web based visitor management system, Visitor management software free, visitor tracking system, free visitor management app
 draft: false

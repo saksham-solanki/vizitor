@@ -1,7 +1,7 @@
 ---
 title: How a Visitor Management System Delivers Value to Your Business?
 date: 2021-12-17T07:24:08.000Z
-description: "The goal of using a visitor management system is to provide the right tools for the Facilities Manager and your reception staff."
+description: "Boost School Safety & Efficiency! Streamline visitor management & check-ins with a digital system.  Reduce wait times & keep schools secure."
 image: /images/blog/buisness.jpg
 authors: ["R.Saini"]
 authorsImage: /images/authors/author.svg

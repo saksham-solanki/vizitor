@@ -1,6 +1,6 @@
 ---
 title: "Visitor management system for Gyms | Vizitor"
-description : "There are touchless visitor management systems for gyms that protects the workplaces from the pandemic and provides a streamline experience to the visitors."
+description : "Protect workplace and employees with the power of touchless visitor management system. Vizitor lets you check-in both your visitors and employees in a contactless manner."
 keywords:
 - Touchless visitor management system for gyms, 
 - Visitor management system, 

@@ -1,6 +1,6 @@
 ---
 title: "Visitor Check-in System | Visitor Check in Software"
-description : "Vizitor is visitor check software for the modern lobby. Easily manage visitor registration, document signing — all from an iPad/window/android. Try it free."
+description : "Vizitor is your one-stop shop for visitor check-in, guest check-in systems, and visitor-checking software. Try Vizitor free today!"
 keywords:
 - visitor check in systems,
 - Visitor management system, 

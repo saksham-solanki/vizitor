@@ -1,7 +1,7 @@
 ---
 title: How Visitor Management System can be used for Hospital Safety Amid the Coronavirus Outbreak?
 date: 2020-10-22T08:04:32.000Z
-description: "Screen the infected person before they enter the building. Vizitor have created a self-registration page that allows visitors to fill out questionnaire."
+description: "Safe Hospital Visits: Pre-screen visitors & manage flow with Vizitor's visitor management system."
 image: /images/blog/system.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

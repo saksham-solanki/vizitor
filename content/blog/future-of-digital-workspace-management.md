@@ -1,7 +1,7 @@
 ---
 title:  The Future of Workspace Management is here 
 date: 2023-12-14T12:42:44.000Z
-description: "  Digital workspace management involves strategically optimizing an organization's digital tools and resources to enhance productivity."
+description: "Boost productivity & security with digital workspace management. Empower employees & IT with the right tools. "
 image: /images/blog/digital-work-1.jpeg
 authors: ["Anjali Khurana"]
 authorsImage: /images/authors/author.svg

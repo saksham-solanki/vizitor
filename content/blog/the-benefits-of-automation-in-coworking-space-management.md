@@ -1,7 +1,7 @@
 ---
-title: "The Benefits of Automation in Coworking Space Management"
+title: " Streamline Your Coworking Space: Automation Benefits & Top Software Solutions"
 date: 2023-03-20T06:37:40.000Z
-description: " Boost productivity, member experience, and save costs!  Discover how automation software like Vizitor can streamline tasks, improve security, and simplify coworking space management."
+description: "Boost productivity, member experience, and save costs!  Discover how automation software like Vizitor can streamline tasks, improve security, and simplify coworking space management "
 image: /images/blog/20mar23.avif
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

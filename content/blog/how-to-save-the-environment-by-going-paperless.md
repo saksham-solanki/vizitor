@@ -1,7 +1,7 @@
 ---
 title: How does Going Paperless help the Environment?
 date: 2020-10-15T11:10:04.000Z
-description: "In this digital era, every organization should be conscious of the environment around them."
+description: "Discover how a paperless workplace benefits the environment & your business. Reduce waste, and boost efficiency & security with Vizitor."
 image: /images/blog/paper.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

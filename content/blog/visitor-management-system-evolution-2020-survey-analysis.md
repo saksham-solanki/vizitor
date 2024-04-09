@@ -2,7 +2,7 @@
 title: "Visitor Management System Evolution 2020: Survey Analysis"
 date: 2020-02-14T06:04:44.000Z
 
-description: "Think for a minute about your workplace security. Many times, businesses ignore security breaches. So try vizitor- visitor management to improve security."
+description: "Unveiling Visitor Risks: A Literature Review & Visitor Analysis for Stronger Security. Learn how visitor management systems can help."
 image: /images/blog/evolution-2020.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

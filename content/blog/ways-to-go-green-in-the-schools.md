@@ -1,7 +1,6 @@
 ---
 title: Ways to Go Green in the Schools!
-description: Make your school environmentally friendly and budget-friendly by
-  embracing sustainability. Go green at school for a brighter future!
+description: "Make your school eco-friendly & save $$! Discover go green ideas for classrooms & the whole campus. Go green, brighter future!"
 date: 2021-02-26T13:15:28.000Z
 draft: false
 authorsImage: /images/authors/author.svg
@@ -147,7 +146,7 @@ Eco-friendly schools save money. Going green in the school, we can save money. T
 
 ## Wrap Up!!
 
-Finally,it comes to the conclusion that the only way to preserve our earth and its beauty is by reducing our energy consumption and adopting green habits.Being green not only makes our schools green but also takes care of the world around us. The above discussed practices not only promote a sustainable, environmentally beneficial atmosphere but also promote a healthy environment for students. Implementing [Visitor Management Software such as Vizitor](https://www.vizitorapp.com/) helps schools in going green and more eco-friendly. Vizitor is the most reliable and easy to use software based on touchless technology which makes your workplaces more green and paperless. 
+Finally,it comes to the conclusion that the only way to preserve our earth and its beauty is by reducing our energy consumption and adopting green habits.Being green not only makes our schools green but also takes care of the world around  us. The above discussed practices not only promote a sustainable, environmentally beneficial atmosphere but also promote a healthy environment for students. Implementing [Visitor Management Software such as Vizitor](https://www.vizitorapp.com/) helps schools in going green and more eco-friendly. Vizitor is the most reliable and easy to use software based on touchless technology which makes your workplaces more green and paperless. 
 [Switch to Vizitor for a green and clean school.](https://www.vizitorapp.com/signup/)
 
 [![save](/images/blog/premium-save.svg)](/demo)

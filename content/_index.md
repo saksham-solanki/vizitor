@@ -1,7 +1,7 @@
 ---
 title: "World #NO. 1 Visitor Management System | Check-in Software"
 draft: false
-description : "Streamline your visitor registration process with Vizitor, a leading visitor management system. Enhance security, simplify check-ins, and create a seamless visitor experience. Try Vizitor today!"
+description : "Streamline visitor registration with Vizitor, the leading visitors app. Enhance security, simplify check-ins, and create a seamless visitor experience. Try Vizitor today!"
 keywords:
 - visitor app,
 - Visitor management system, 

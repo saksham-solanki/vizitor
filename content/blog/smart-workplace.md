@@ -1,7 +1,7 @@
 ---
 title: "5 Valuable Tips for a Smart Workplace"  
 date: 2023-11-02T06:37:40.000Z
-description: "Discover the advantages and benefits of implementing a smart visitor management system as organizations embrace emerging trends and smarter business techniques."
+description: "Discover the advantages and benefits of implementing a smart visitor management system as organizations embrace emerging trends and smarter business techniques"
 image: /images/blog/2nd blog.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

@@ -1,7 +1,7 @@
 ---
 title: "Creating: Lively & Dynamic Coworking Spaces"
 date: 2019-12-09T12:46:02.000Z
-description: "Tired of the traditional office grind?  Coworking spaces offer a dynamic, vibrant work environment perfect for freelancers, entrepreneurs, and remote workers. "
+description: " Tired of the traditional office grind?  Coworking spaces offer a dynamic, vibrant work environment perfect for freelancers, entrepreneurs, and remote workers. "
 image: /images/blog/coworking (1).jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

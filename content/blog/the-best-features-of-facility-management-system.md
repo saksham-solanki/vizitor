@@ -45,7 +45,6 @@ There are many software programs that help the maintenance process, and there ar
 
 - Maintenance Planning and scheduling
 - Maintaining and creating a Work Order Properly
-
 - Regulatory Compliance
 - Organizing  Material Management
 - Maintain the Cost Calculation

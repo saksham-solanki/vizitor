@@ -1,6 +1,6 @@
 ---
 title: "Visitor Management System Ipad  | Ipad Check in System"
-description : "Vizitor is smart and secure iPad check-in visitor management software which helps you to offer your visitors a grand welcome. Vizitor is a fully customisable iPad visitor sign in system that is managed via the Cloud."
+description : "Improve your visitor experience with Vizitor, a secure iPad visitor management system. Easy sign-in & cloud-based management."
 keywords:
 - Visitor management system for ipad, ipad visitor managemnent system, Visitor management system, Visitor management software, visitor management system in India, Visitor management app, web based visitor management system, Visitor management software free, visitor tracking system, free visitor management app,ipad based visitor management system
 draft: false

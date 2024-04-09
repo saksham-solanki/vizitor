@@ -1,7 +1,7 @@
 ---
 title: Vizitor 2.0 is Live!
 date: 2022-10-14T06:32:49.000Z
-description: "We just launched an upgraded version of Vizitor, which we internally call it Vizitor 2.0 Enterprise is the latest version of leading visitor management."
+description: "Vizitor 2.0 is live!  Our upgraded visitor management app offers contactless check-in, enhanced security & more. Get started today!"
 image: /images/blog/visitor_baneer_linkdin-02.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
@@ -16,6 +16,7 @@ In early 2020 we got a setback due to COVID, as a lot of our customers closed th
 Although during COVID and even post-pandemic, effectively managing and monitoring the visitors has become a priority for businesses globally. The pandemic has meant that all organizations now need to rethink the secure processes they had previously put in place for all personnel entering and exiting each facility, not just their visitors. With the impact of the pandemic on global organizations, companies no longer have an option and have to adopt digitalisation. It has become a necessity and an essential tool for safer workplaces.
 
 We just launched an **upgraded version of Vizitor**, which we internally call it **Vizitor 2.0** Enterprise is the latest version of our leading global visitor management solution. With **new enhanced upgrades, all new design experience, and continuous user improvements.**
+
 
 ## Strengthen your Workplace Security with Vizitor!
 
