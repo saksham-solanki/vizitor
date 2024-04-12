@@ -74,7 +74,9 @@ hr {
 .box textarea,
 .box-touchless,
 .signup-shadow,
-.slick-slider,
+.slick-
+
+,
 ::after,
 ::before {
     box-sizing: border-box
@@ -5228,3 +5230,17 @@ body .no-padding {
 .freetext {
     font-size: 27px;
 }
+
+/* ---------- */
+/* #slider-boost {
+    display: inline-block;
+    width: 30px;
+    height: 2px;
+    margin-bottom:-24px;
+    border-radius: 3px;
+    background-color: #ed5c18;
+    position: absolute;
+    /* z-index: 1200; */
+    /* bottom: 0;
+    transition: all 0.4s linear;
+} */

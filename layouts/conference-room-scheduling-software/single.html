@@ -1,93 +1,133 @@
 {{ define "main" }}
-<div class=" pagebanneres">
+<div class="pagebanneres">
     <div class="container">
-        <div class="row  align-items-center">
-            <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                <p><span class="Digitize">CONFERENCE ROOM SCHEDULING SOFTWARE </span></p>
-                <h2 class="bvms-size">Utilize Your Space Right For <span class="Digitize">Your Team </span></h2>
-                <p style="line-height: 30px;">From shared workplaces to conference rooms, make the most out of all and
-                    schedule all spaces using the <br>conference scheduling software that works effectively for solving
-                    all space problems of employees. </p>
+        <div class="row ">
+            <div class="col-md-6 col-sm-6 col-xs-12 pr-5 ">
+                <h1 class="paint "> Collaborate with Confidence:<span class="Digitize"> Secure Your Ideal Meeting Space</span>
+                </h1>
+                <p style="line-height: 30px;">From shared workplaces to conference rooms, make the most out of all and schedule all spaces using the
+                    conference scheduling software that works effectively for solving all space problems of employees.
+                    
+                    </p>
+                <div class="mt-5">
+                    <form id="attendanceForm">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                    <div class="mt-5 Try-free">
+                        {{range .Site.Params.apps}}
+                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-apxp-mg phonetop-btn"
+                                src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                        {{end}}
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class=" bannerbtn mt-5 text-center">
-            <a target="_blank" href="/signup" class="btn-arrow">Get Started</a>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center mt-5">
+                <img src="/images/vizitor/space-management/fingertips-img.svg" alt="TouchlessQR" />
+            </div>
         </div>
     </div>
 </div>
-<!--------------------->
-<div id="bvms">
-    <div class="container">
-        <div class="tile" id="tile-1">
-            <!-- Nav tabs -->
-            <ul class="nav nav-tabs nav-justified " role="tablist">
-                <div class="slider"></div>
-                <li class="nav-item">
-                    <a class="nav-link active" id="home-tabes" data-toggle="tab" href="#homees" role="tab"
-                        aria-controls="homees" aria-selected="true">
-                        <h3 class="color-h">Overview </h3>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" id="profile-tabes" data-toggle="tab" href="#profilees" role="tab"
-                        aria-controls="profilees" aria-selected="false">
-                        <h3 class="color-h">The Hot Take </h3>
-                    </a>
-                </li>
-            </ul>
-            <!-- Tab panes -->
-            <div class="tab-content">
-                <div class="tab-pane fade show active" id="homees" role="tabpanel" aria-labelledby="home-tabes">
-                    <div class="row align-items-center">
-                        <div class="col-md-12 col-sm-12 col-xs-12 Manual-top">
-                            <h3 style="font-size: 35px;color: #3f4450; line-height: 46px;">A Key platform for all your
-                                space
-                                concerns </h3>
-                            <p style="line-height: 30px;">Make your organization a better place by fostering community,
-                                valuing time, and making smarter decisions.
-                            </p>
-                            <p style="line-height: 30px;">Perfect the space usage, conference room booking, and onsite
-                                collaboration!
 
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="profilees" role="tabpanel" aria-labelledby="profile-tabes">
-                    <div class="row align-items-center">
-                        <div class="col-md-12 col-sm-12 col-xs-12 Manual-top">
-                            <h3 style="font-size: 35px;color: #3f4450; line-height: 46px;"> What is Conference Room
-                                Scheduling Software </h3>
-                            <p style="line-height: 30px;"> The employee's problem-solving
-                                software facilitates the organization's management of conference room bookings.</p>
-                            <p style="line-height: 30px;">The software streamlines the process of scheduling, booking,
-                                and
-                                coordinating the use of conference rooms, ensuring efficient utilization of available
-                                spaces
-                                and avoiding conflicts.
-                            </p>
-                            <p style="line-height: 30px;">Making it an integral part of a smooth workflow.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="text-center mt-4">
-                    <a href="/www.vizitorapp.com" class="btn-arrow">Try Vizitor</a>
-                </div>
+<!--------------------->
+<div id="bvms" class="whychoose ">
+    <div class="col-md-11 mx-auto">
+        <div class="row ">
+            <div class="col-md-12 text-center">
+                <h2 class="color-wht">What is Conference Room Scheduling Software? </h2>
+                <p class="why-p" style="line-height: 30px;">The employee's problem-solving software facilitates the organization's management of conference room bookings.
+                    The software<br> streamlines the process of scheduling, booking, and coordinating the use of conference rooms, ensuring efficient utilization of available <br>spaces and avoiding conflicts.
+                    Making it an integral part of a smooth workflow.
+                    
+                    </p>
             </div>
+        </div>
+        <div class="text-center my-5">
+            <img src="/images/vizitor/image.webp" alt="image" />
+        </div> 
+        <div class=" text-center mt-3 mb-2">
+            <a href="/signup" class="btn-arrow bvms-white-btn">Get Started</a>
         </div>
     </div>
 </div>
+
 <!--------------------->
-<div id="bvms2">
+<div id="Vizitor-PASS">
+    <div class="container">
+        <div class="saypb">
+            <!-- <p class="text-center"><span class="vizitors-pass "> Vizitor Pass app</span></p> -->
+            <h4 class="vizitor-pass-h2 bvms-size">How Conference Room
+                <span class="vizitors-pass">Solution Works</span> </h4>
+            <!-- <p class="vizitor-pass-p ">A powerful visitor management mobile app or visitors app for employees and visitors to sync in at all times.
+            </p> -->
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/Quick-Check-In.svg" alt="Quick-Check-In" />
+                    <h5 class="vizitor-pass-h5 mt-3">Book with Confidence: </h5>
+                    <p class="vizitor-pass-h5-p">Conference solutions prevent conflicts and double bookings.
+                        Book the perfect room for your meeting needs.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class=" text-center">
+                    <img src="/images/vizitor/bvm/qrcode.svg" alt="qrcode" />
+                    <h5 class="vizitor-pass-h5 mt-3">Find the Right Room:
+                    </h5>
+                    <p class="vizitor-pass-h5-p">Easily search available conference rooms on the app.
+                        Filter by date, time, capacity, and resources.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/Notifications.svg" alt="Notifications" />
+                    <h5 class="vizitor-pass-h5 mt-3">Simplified Scheduling:
+                    </h5>
+                    <p class="vizitor-pass-h5-p">Streamline room booking for employees and admins.
+                        Name your conference rooms and set capacity limits.                        
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12">
+                <div class="text-center">
+                    <img src="/images/vizitor/bvm/invite-guest.svg" alt="Notifications" />
+                    <h5 class="vizitor-pass-h5 mt-3">Make Smart Choices:
+                    </h5>
+                    <p class="vizitor-pass-h5-p">Use scheduling software to optimize room usage.
+                        Ensure all team members' schedules align for meetings.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="my-5 text-center">
+            <form id="VizitorPass">
+                <input type="email" class="email-input" style="border: 2px solid #00A850;" id="emailVizitorPass" name="emailVizitorPass" placeholder="Enter you email..." required>
+                <input class="btn-try-free" style="background: #00A850;" type="submit" value="Try for free">
+            </form>
+        </div>
+        <div class="mt-4 Try-free mb-4 text-center">
+            {{range .Site.Params.appsbtn}}
+            <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
+            {{end}}
+        </div>
+    </div>
+</div>
+
+
+
+<!-- <div id="bvms2">
     <div class="container ">
         <div class="text-center">
-            <h3 class="bvms-size"> How Conference Room<span class="Digitize"> Solution Works </span></h3>
+            <h3 class="bvms-size"> Simplify Your Workflow with<span class="Digitize"> Vizitor's Features </span></h3>
         </div>
         <div class="row mt-5">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="text-center">
-                    <h5 class="vizitor-pass-h5 mt-3">Check-in
+                    <h5 class="vizitor-pass-h5 mt-3">Seamless Booking & Check-In
                     </h5>
                     <p class="vizitor-pass-h5-p " style="line-height: 30px;">Once conference room booking is made,
                         employees can conduct the meeting rightfully. The conference solutions help avoid undue
@@ -99,7 +139,7 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class=" text-center">
-                    <h5 class="vizitor-pass-h5 mt-3">Check availability for room
+                    <h5 class="vizitor-pass-h5 mt-3">Real-Time Availability & Filtering
                     </h5>
                     <p class="vizitor-pass-h5-p" style="line-height: 30px;">The next step is to check the
                         availability
@@ -115,7 +155,7 @@
         <div class="row mt-5">
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="text-center">
-                    <h5 class="vizitor-pass-h5 mt-3">Find suitable room
+                    <h5 class="vizitor-pass-h5 mt-3">Find the Ideal Space for Your Needs 
                     </h5>
                     <p class="vizitor-pass-h5-p " style="line-height: 30px;">The initial step is to find a suitable
                         conference room. Conferences are an integral part of offices. So organizations need to
@@ -131,7 +171,7 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class=" text-center">
-                    <h5 class="vizitor-pass-h5 mt-3">Be smart with your decisions
+                    <h5 class="vizitor-pass-h5 mt-3">Make Smarter Decisions: Streamline Your Space 
                     </h5>
                     <p class="vizitor-pass-h5-p" style="line-height: 30px;">The conference room scheduling software
                         is
@@ -145,54 +185,122 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!--------------------->
-<div id="bvms">
-    <div class="container">
-        <div class="row align-items-center mt-5">
-            <div class="col-md-12 col-sm-12 col-xs-12 " id="bvmsli">
-                <h3 class="bvms-size">Find a Room Without Waiting For a Long </h3>
-                <p>Waited too long to conduct a meeting? Not anymore; find and book empty conference rooms with
-                    revolutionary employee scheduling software.
-                </p>
+<!-- Tabs  -->
+<div class="container" id="bvms">
+    <div class="tile" id="tile-1">
+        <!-- Nav tabs -->
+        <h2 class="text-center my-5">Find Space, Book Fast: <br><span class="Digitize">Revolutionize Your Meeting Room</span></h2>
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="homees" role="tabpanel" aria-labelledby="home-tabes">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                                              <div class="row mt-4">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" style="width: 18px;" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Find a Room Without Waiting For a Long
+                                </h4>
+                                <p style="line-height: 30px;">Waited too long to conduct a meeting? Not anymore; find and book empty conference rooms with revolutionary employee scheduling software.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" style="width: 18px;" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">More space, More convenient
+                                </h4>
+                                <p style="line-height: 30px;"> Need help managing space? The perfect solution is to use unused spaces smartly with Vizitor meeting room booking. Check-in reminders help you choose the rooms according to the meeting size and encourage work efficiency.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" style="width: 18px;" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Believe data, Not Institution
+                                </h4>
+                        <p style="line-height: 30px;">Still, using traditional ways to confirm conference room status? Doing it all wrong, use the digitally driven data that monitors everything about room usage and scheduling insights to help employees make better space management decisions.
+                        </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <!-- <img src="/images/vizitor/attendance/empolyee-use.svg" alt="Digital-VMS11" /> -->
+                            <img src="/images/vizitor/space-management/space-dashboard-img.svg" alt="attendance-banneres" />
+
+                        </div>
+                    </div>
+                </div>
             </div>
+            <div class="tab-pane fade" id="profilees" role="tabpanel" aria-labelledby="profile-tabes">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-6 col-xs-12 Manual-top">
+                        <h3 style="font-size: 35px;color: #3f4450; line-height: 46px;">Attendance and Leaves Made Simple
+                            for
+                            Employees</h3>
+                        <div class="row mt-4">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Comprehensive Dashboard:</h4>
+                                <p style="line-height: 30px;">Dashboard displays check-in/out times, total working
+                                    hours, monthly
+                                    attendance logs, and shift tim.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Attendance Management:</h4>
+                                <p style="line-height: 30px;"> Admins can access the attendance log for presence and
+                                    absence tracking, with
+                                    available total working hours and a monthly calendar view.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-2 col-2 text-right" style="max-width: 7.666667%">
+                                <img src="/images/vizitor/bvm/gre.svg" alt="gre" />
+                            </div>
+                            <div class="col-md-10 col-10">
+                                <h4 class="Traditional-card-text">Shift Scheduling:</h4>
+                                <p style="line-height: 30px;">Admin can schedule shifts according to preferences, and
+                                    manage shifts by adding,
+                                    deleting, updating, and sending alerts to employees.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 ">
+                        <div class="center-content">
+                            <img src="/images/vizitor/attendance/admin-use.png" alt="Digital-VMS11" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <a href="/signup" class="btn-arrow">Sign Up Now</a>
         </div>
     </div>
 </div>
-<!---------------------------->
-<div id="bvms2">
-    <div class="container">
-        <div class="row align-items-center mt-5">
-            <div class="col-md-12 col-sm-12 col-xs-12 " id="bvmsli">
-                <h3 class="bvms-size">More space, More convenient </h3>
-                <p>Need help managing space? The perfect solution is to use unused spaces smartly with Vizitor
-                    meeting
-                    room booking. Check-in reminders help you choose the rooms according to the meeting size and
-                    encourage work efficiency.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-<!--------------------------->
-<div id="bvms">
-    <div class="container">
-        <div class="row align-items-center mt-5">
-            <div class="col-md-12 col-sm-12 col-xs-12 " id="bvmsli">
-                <h3 class="bvms-size">Believe data, Not Institution </h3>
-                <p>Still, using traditional ways to confirm conference room status? Doing it all wrong, use the
-                    digitally driven data that monitors everything about room usage and scheduling insights to help
-                    employees make better space management decisions.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
+
+
 <!--------------------------->
 <div id="bvms2">
     <div class="container ">
         <div class="text-center">
-            <h3 class="bvms-size"> How Conference Room<span class="Digitize"> Solution Works </span></h3>
+            <h3 class="bvms-size">Vizitor Features: Streamline  <span class="Digitize"> Your Meeting Experience </span></h3>
         </div>
         <div class="row mt-5">
             <div class="col-md-3 col-sm-3 col-xs-12">
@@ -283,27 +391,28 @@
     </div>
 </div>
 <!-------------------------->
-<div id="bvms">
-    <div class="container">
-        <div class="row align-items-center mt-5">
-            <div class="col-md-12 col-sm-12 col-xs-12 " id="bvmsli">
-                <h3 class="bvms-size text-center">“Create a workspace where people want to work” </h3>
-                <h3 class="bvms-size text-center"> Not that they need to! </h3>
-                <p>Try creating a streamlined workplace where people don’t have conflicts regarding space usage, and
-                    achieve excellence by spending on the right software.
-                </p>
+<div class="pagesection">
+    <div style="background: #ED5C18; padding: 80px 0;">
+        <div class="container">
+            <div class="content ">
+                <div class="text-center">
+                    <h2 class="color-wht mt-5 pb-3">“Create a workspace where people want to work” <br> Not that they need to!</h2>
+                    <p class="color-wht text-center" style="line-height: 30px;">Try creating a streamlined workplace where people don’t have conflicts regarding space usage, and achieve excellence by spending on the right software.
+                    </p>
+                    <div class=" text-center mt-5">
+                        <a href="/signup" class="btn-arrow attendence-white-btn">Try For Free</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    <div class=" bannerbtn mt-5 text-center">
-        <a target="_blank" href="/signup" class="btn-arrow">Get in Touch </a>
-    </div>
 </div>
+
 <!------------------------>
 <div id="bvms">
     <div class="container ">
         <div class="text-center">
-            <h3 class="bvms-size"> What sets us <span class="Digitize"> apart? </span>
+            <h3 class="bvms-size"> Why Choose <span class="Digitize"> Vizitor?</span>
             </h3>
             <p>Every organization wants an advanced, reliable, efficient room booking system for smooth workflow.
                 The

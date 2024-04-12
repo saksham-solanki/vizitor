@@ -1,6 +1,7 @@
 ---
-title: "Utilize your space right for your team"
-description : "Make the most out of all and schedule all spaces using the conference scheduling software that works effectively for all employees."
+title: "Streamline Meetings & Maximize Space: Powerful Scheduling Software"
+description : "Eliminate wasted time and optimize your space with Vizitor's conference room scheduling software. Find the perfect room instantly, boost collaboration, and make smarter decisions with data-driven insights.
+"
 keywords:
 - Conference Room Scheduling Software
 - conference scheduling software
