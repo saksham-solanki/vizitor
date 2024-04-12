@@ -2,7 +2,7 @@
 title: 4 Meeting Room Designs for a Modern Workplace
 date: 2024-04-11T07:15:12.000Z
 description: " Put employees at the heart of your workplace with meeting room designs that transform your workplace experience."
-# image: /images/blog/bookingsystem.jpg
+image: /images/blog/meetingworkplace.png
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
 ---
@@ -10,9 +10,7 @@ authorsImage: /images/authors/author.svg
 Let's face it, the traditional conference room – sterile, windowless, and filled with uncomfortable chairs – isn't exactly inspiring. But in today's dynamic work environment, where collaboration and creativity are king, meeting rooms need to be more than just boring boxes. They need to be functional, flexible, and engaging spaces that spark ideas and fuel productivity.
 Intrigued?
 
-![meetingworkplace](/images/blog/meetingworkplace.png)
-
- Here are 4 cutting-edge meeting room designs to steal inspiration from for your modern workplace:
+Here are 4 cutting-edge meeting room designs to steal inspiration from for your modern workplace:
 
 ## 1. The Huddle Room: Perfect for Brainstorming Sessions
 
