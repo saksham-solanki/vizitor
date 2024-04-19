@@ -90,3 +90,33 @@ The rise of in-person meetings highlights the need for efficient and organized m
 ## Conclusion
 
 By following these conference room etiquette guidelines and bonus tips, you can contribute to a more professional, productive, and enjoyable meeting experience for yourself and your colleagues.  Remember, a little consideration goes a long way in creating a positive and respectful workplace culture. Also implementing a meeting room management system with meeting room booking capabilities, you can create a more efficient and productive work environment. So following good etiquette and being prepared with the meeting room management system you can make your meeting more productive! [So sign up now and get a 10-day free trial!](https://www.vizitorapp.com/signup/)
+
+## FAQ section:
+
+### What is meeting room etiquette?
+
+Meeting room etiquette is a set of guidelines that ensure everyone uses shared meeting spaces professionally and considerately.
+
+### What is conference etiquette?
+
+Conference etiquette is synonymous with meeting room etiquette. It's all about fostering a respectful and productive environment during in-person meetings.
+
+### What is boardroom etiquette?
+
+Boardroom etiquette is a specific type of meeting room etiquette applicable to formal meetings held in boardrooms. It typically involves stricter dress codes and a more serious meeting tone.
+
+### What is meeting room etiquette?
+
+Meeting room etiquette is a set of guidelines that ensure everyone uses shared meeting spaces professionally and considerately.
+
+### Why do we need meeting room etiquette?
+
+Meeting room etiquette helps create a smooth and respectful experience for everyone using the space. It avoids disruptions, ensures everyone has a chance to participate, and fosters a productive work environment.
+
+### What are the 8 etiquette of the meeting?
+
+While there isn't a universally agreed-upon list of eight specific rules, some core principles of meeting etiquette include: booking early, respecting the schedule, cleaning up, minimizing distractions, dressing appropriately, being mindful of surroundings, accommodating others, and using technology effectively.
+
+### How do you clean a conference room?
+
+While cleaning a conference room typically falls under facility management's purview, basic meeting etiquette involves leaving the space as clean (or cleaner) than you found it. This includes discarding trash, putting chairs back, and logging out of any equipment.

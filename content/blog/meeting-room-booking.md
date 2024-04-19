@@ -57,6 +57,47 @@ A [meeting room booking system](https://www.vizitorapp.com/meeting-room-manageme
 
 **• Admin Alerts:** Real-time alerts for system malfunctions or unavailable rooms help maintain smooth operations.
 
+## Managing Meeting Room Bookings
+
+### How Do You Manage Meeting Room Bookings?
+
+Effective management involves using a robust booking system that integrates directly with company calendars, providing real-time availability and easy access for all employees.
+
+### How Do You Arrange Meeting Rooms?
+
+Arrangements should cater to the specific needs of the meeting, including appropriate furniture, technology setups, and accessibility considerations, all reserved through the booking system.
+
+## Types of Meeting Rooms and Reservation Systems
+
+### What are Meeting Rooms Called?
+
+Meeting rooms can vary widely in function and designation, such as boardrooms, conference rooms, huddle rooms, and video conferencing rooms.
+
+### What are the Three Types of Reservation Systems?
+
+**1. Web-Based:** Accessible through internet browsers.
+
+**2. Desktop Software:** Installed on company computers.
+
+**3. Integrated Systems:** Combined with other workplace management tools.
+
+### What is a Meeting Room Manager?
+
+This is typically a feature within a larger facility management platform that oversees the scheduling, availability, and usage of meeting spaces.
+
+## Solving Common Meeting Room Issues
+
+### How Do You Solve Meeting Room Problems?
+
+Solutions include implementing a reliable booking system, providing adequate user training, and regularly updating system features and hardware.
+
+## Using Technology to Improve Bookings
+
+### How Do You Create a Booking in Teams?
+
+Creating a booking in Microsoft Teams or similar platforms involves using calendar integration to select available rooms and times, send invites, and sync with other users’ schedules.
+
+
 ## Implementing a Meeting Room Booking System
 
 Once you've chosen a meeting room booking software, connect it with your existing [workplace calendar system.](https://workspace.google.com/intl/en_in/products/calendar/) This will allow employees to book rooms directly from their calendars.  Additionally, install easy-to-use displays outside each meeting room to show real-time availability and upcoming meetings.

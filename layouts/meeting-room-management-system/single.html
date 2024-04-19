@@ -1,39 +1,53 @@
 {{ define "main" }}
-    <div class=" pagebanneres">
+<div class="pagebanneres">
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-6 col-sm-6 col-xs-12 pr-5 ">
+                <h1 class="paint ">Encourage In-person <span class="Digitize">collaboration
+                </span> </h1>
+                <p style="line-height: 30px;">Make the proper use of unused space for your team with the smart meeting room booking system,
+                    which eases the process of finding and booking rooms for specific tasks.</p>
+                <div class="mt-5">
+                    <form id="attendanceForm">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                    <div class="mt-5 Try-free">
+                        {{range .Site.Params.apps}}
+                        <a href="{{.url}}" target="_blank"><img class="btn-app btn-apxp-mg phonetop-btn"
+                                src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 text-center mt-5">
+                <img src="/images/vizitor/meeting-room/resourcebooking.webp" alt="resourcebooking" />
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-------------------->
+<div class="pagesection">
+    <div style="background: #ED5C18; padding: 80px 0;">
         <div class="container">
-            <div class="row  align-items-center">
-                <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                    <p><span class="Digitize">MEETING ROOM BOOKING SYSTEM </span></p>
-                    <h2 class="bvms-size">Encourage In-person collaboration
+            <div class="content ">
+                <div class="text-center">
+                    <h2 class="color-wht mt-5 pb-3">One System for all your Workplace problems
                     </h2>
-                    <p style="line-height: 30px;">Make the proper use of unused space for your team with the
-                        smart meeting room booking system, <br> which eases the process of finding and booking rooms for
-                        specific
-                        tasks. </p>
-                    <div class="mt-5 text-center">
-                        <form id="attendanceForm">
-                            <input type="email" class="email-input" id="email" name="email"
-                                placeholder="Enter your email" required>
-                            <input class="btn-try-free" type="submit" value="Try for free">
-                        </form>
+                    <p class="color-wht text-center" style="line-height: 30px;">Establish a workplace that embraces teamwork, sustained by advanced data and productive <br>decisions. Focus on
+                        smooth workflow, space usage, and accurate deliverables.   
+                    </p>
+                    <div class=" text-center mt-5">
+                        <a href="/signup" class="btn-arrow attendence-white-btn">Try For Free</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-<!-------------------->
-<div id="bvms">
-    <div class="container">
-        <div class="row  align-items-center">
-            <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                <h3 class="bvms-size"> One System for all your <span class="Digitize"> Workplace problems </span></h3>
-                <p style="line-height: 30px; "> Establish a workplace that embraces teamwork, sustained by advanced data
-                    and productive decisions. Focus on <br> smooth workflow, space usage, and accurate deliverables.
-                </p>
-            </div>
-        </div>
-    </div>
 </div>
+
 <!------------------------------------>
 <div id="bvms2">
     <div class="container ">
@@ -41,21 +55,86 @@
             <p><span class="Digitize"> THE EMPLOYEES SOLUTION </span></p>
             <h3 class="bvms-size"> What is Vizitor Meeting <span class="Digitize"> Room Booking Software? </span></h3>
             <p style="line-height: 30px; ">Employees require assistance in organizing chaotic room management. The
-                solution lies in a specialized digital system – Meeting Room Booking Software.</p>
-            <p style="line-height: 30px; "> This room scheduling system offers a centralized platform designed to
+                solution lies in a specialized digital system – Meeting Room Booking Software.This room scheduling system 
+                offers a centralized platform designed to
                 streamline the reservation and management of meeting spaces within an organization. It enables employees
                 to efficiently schedule, coordinate, and optimize meeting rooms, conference facilities, and other shared
                 areas. Employees need help in streamlining chaotic room management.
             </p>
         </div>
-        <div class="row card-deck mt-5">
+        <!-- <div class="card-deck ">
+            <div class="card workplace-card">
+                <div>
+    
+                    <img src="/images/vizitor/Visitor-Management.svg" class="workplace-card-img" alt="Visitor-Management" />
+                </div>
+                <div class="card-body p-0">
+                    <p class="workplace-card-p ">Provides data and reports <br> on room utilization.</p>
+                </div>
+                <a href="/best-visitor-management-system-in-india" class="card-footer p-0">
+                    <p class="know-more p-0">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon" /></p>
+                </a>
+            </div>
+            <div class="card workplace-card">
+                <div>
+    
+                    <img src="/images/vizitor/Attendance-management.svg" class="workplace-card-img" alt="Attendance-management" />
+                </div>
+                <div class="card-body p-0">
+                    <h5 class="card-title ">Attendance Management</h5>
+                    <p class="workplace-card-p">Tracks and allocates costs<br>
+                        related to room schedulings.
+                        </p>
+                </div>
+                <a href="/touchless-attendance-management-system" class="card-footer p-0">
+                    <p class="know-more p-0">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon" /></p>
+                </a>
+            </div>
+            <div class="card workplace-card">
+                <div>
+    
+                    <img src="/images/vizitor/Deliveries-management.svg" class="workplace-card-img" alt="Deliveries-management" />
+                </div>
+                <div class="card-body p-0">
+                    <h5 class="card-title ">Deliveries Management</h5>
+                    <p class="workplace-card-p">Provide 24/7 Access
+                        Control
+                        </p>
+                </div>
+                <a href="/" class="card-footer p-0">
+                    <p class="know-more p-0">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon" /></p>
+                </a>
+            </div>
+            <div class="card workplace-card">
+                <div>
+                    <img src="/images/vizitor/Attendance-management.svg" class="workplace-card-img" alt="Attendance-management" />
+                </div>
+                <div class="card-body p-0">
+                    <h5 class="card-title ">Attendance Management</h5>
+                    <p class="workplace-card-p">Creates a cohesive<br>
+                        and efficient works ﻿
+                        </p>
+                </div>
+                <a href="/touchless-attendance-management-system" class="card-footer p-0">
+                    <p class="know-more p-0">Know more <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon" /></p>
+                </a>
+            </div>
+        </div>
+    </div> -->
+    
+    
+         <div class="row card-deck mt-5">
             <div class="col-md-6 col-sm-6 col-xs-12 card text-center">
                 <div class="card-body">
+                    <img src="/images/vizitor/space-management/Data-driven-img.svg" alt="pen-underline-fill" />
+
                     <p class="card-text">Provides data and reports <br> on room utilization.</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 card text-center">
                 <div class="card-body">
+                    <img src="/images/vizitor/space-management/money-recive.png" alt="qrcode-f" />
+
                     <p class="card-text">Tracks and allocates costs <br> related to room schedulings.
                     </p>
                 </div>
@@ -64,18 +143,22 @@
         <div class="row card-deck mt-5">
             <div class="col-md-6 col-sm-6 col-xs-12 card text-center">
                 <div class="card-body">
+                    <img src="/images/vizitor/space-management/customer-support.svg" alt="pen-underline-fill" />
+
                     <p class="card-text">Provide 24/7 Access <br> Control
                     </p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 card text-center">
                 <div class="card-body">
+                    <img src="/images/vizitor/space-management/Sustainability-img.svg" alt="pen-underline-fill" />
+
                     <p class="card-text">Creates a cohesive <br> and efficient workspace.
                     </p>
                 </div>
             </div>
         </div>
-        <div class="text-center bannerbtn mt-5">
+        <div class="text-center bannerbtn mt-5"> 
             <a target="_blank" href="/blog/signing-in-has-never-been-easier-the-benefits-of-visitor-sign-in-system"
                 class="btn-arrow"> Read more</a>
         </div>
@@ -145,83 +228,96 @@
 <!------------------------------->
 <div id="bvms2">
     <div class="container">
-        <div class="row  align-items-center">
-            <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                <p><span class="Digitize"> THE CONVENIENT WAY TO FIND AND BOOK ROOMS THAT WORK FOR EVERYONE.</span></p>
-                <h2 class="bvms-size">Vizitor Room Scheduling System Features
-                </h2>
-                <p style="line-height: 30px;">Reserve meeting rooms from your phones, email plugins, desktops, and room
-                    panels.
-                </p>
+        <div class="text-center pb-5">
+            <p><span class="Digitize">THE CONVENIENT WAY TO FIND AND BOOK ROOMS THAT WORK FOR EVERYONE.</span></p>
+            <h2>Vizitor Room Scheduling System Features
+            </h2>
+            <p>Reserve meeting rooms from your phones, email plugins, desktops, and room panels.</p>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/meeting-room/manage.webp" alt="manage" />
             </div>
-            <div class="row mt-5">
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="text-center">
-                        <h5 class="vizitor-pass-h5 mt-3">Manage Custom Space Booking
-                        </h5>
-                        <p class="vizitor-pass-h5-p" style="line-height: 30px;">With the help of a room scheduling
-                            system, employers can manage
-                            their office spaces. The software will update you on unused, vacant, and required spaces.
-                            You can just find and book the places which suit you the best. Just check the availability
-                            before making any space booking.
-
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class=" text-center">
-                        <h5 class="vizitor-pass-h5 mt-3">Resources Booking
-                        </h5>
-                        <p class="vizitor-pass-h5-p" style="line-height: 30px;">Worried about the resources usage that
-                            doesn't just justice with
-                            their potential. The organization's resources include laptops, projector screens, and
-                            meeting rooms that aren’t used sufficiently.
-                            You can see the best results if the employees check their usage and availability. They can
-                            book resources according to their needs with rightful space management software.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="text-center">
-                        <h5 class="vizitor-pass-h5 mt-3">Limitless creative categories
-                        </h5>
-                        <p class="vizitor-pass-h5-p" style="line-height: 30px;">Room scheduling systems can apply to
-                            limitless creative categories.
-                            The space utilization is teh primary reason to use the system for desk booking, parking
-                            spaces, and Dormitories. You can use the space management software for other categories that
-                            suit you.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="text-center">
-                        <h5 class="vizitor-pass-h5 mt-3">Smart Booking and availability check
-                        </h5>
-                        <p class="vizitor-pass-h5-p" style="line-height: 30px;">Simplify your booking experience with
-                            our smart scheduling system.
-                            The responsive access to space availability ensures a seamless reservation process. Enjoy
-                            the convenience of booking directly through the user-friendly app or dashboard. The
-                            streamlined process for efficient and hassle-free scheduling.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class=" text-center">
-                        <h5 class="vizitor-pass-h5 mt-3">Digitalized user check-in logs
-                        </h5>
-                        <p class="vizitor-pass-h5-p" style="line-height: 30px;">Digitalized systems are the future, and
-                            our technology represents
-                            it. The software helps in tracking user check-ins and check-outs for all spaces. It can
-                            generate reports on space usage by employees.
-                        </p>
-                    </div>
-                </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Manage Custom Space Booking</h3>
+                <p>With the help of a room scheduling system, employers can manage their office spaces. The software will update you on unused, vacant, and required spaces. You can just find and book the places which suit you the best. Just check the availability before making any space booking.</p>
             </div>
         </div>
     </div>
 </div>
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Resources Booking</h3>
+                <p>Worried about the resources usage that doesn't just justice with their potential. The organization's resources
+                     include laptops, projector screens, and meeting rooms that aren’t used sufficiently. You can see the best results if 
+                     the employees check their usage and availability. They can book resources according to
+                     their needs with rightful space management software.
+                </p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/meeting-room/resource.webp" alt="resource" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/meeting-room/limitless.webp" alt="limitless" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Limitless creative categories
+                </h3>
+            <p>Room scheduling systems can apply to limitless creative categories.
+                The space utilization is teh primary reason to use the system for desk booking, parking spaces,
+                 and Dormitories. You can use the space management software for other categories that suit you.
+      </p>
+              
+            </div>
+        </div>
+    </div>
+</div>
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Smart Booking and availability check
+                </h3>
+                <p>Simplify your booking experience with our smart scheduling system. The responsive access to 
+                    space availability ensures a seamless reservation process. Enjoy the convenience of booking directly
+                     through the user-friendly app or dashboard. The streamlined process for efficient and hassle-free 
+                     scheduling</p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/meeting-room/book.jpg" alt="book" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/meeting-room/digitize.webp" alt="digitize" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Digitalized user check-in logs
+                </h3>
+            <p>Digitalized systems are the future, and our technology represents it. The software
+                 helps in tracking user check-ins and check-outs for all spaces. It can generate reports
+                  on space usage by employees.
+            </p>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
 <!----------------------------->
 <div id="bvms">
     <div class="container ">
@@ -303,22 +399,25 @@
 </div>
 <!------------------------------->
 <div id="bvms2">
-    <div class="container">
-        <div class="row  align-items-center">
-            <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                <h3 class="bvms-size">Great Organizations Work differently! </h3>
-                <p style="line-height: 30px; "> Organizations of any size and industry trust Vizitor for an advanced
-                    makeover of workplaces
-                </p>
-                <p style="line-height: 30px; ">“After Implementing booking software, the workplace has been less
-                    chaotic, and conflicts over room booking have drastically narrowed, providing a happy place for
-                    staff and employees.”
-                </p>
-                <p>-Sam Chawla, Digicel </p>
-            </div>
+    <div class="container ">
+        <div class="text-center">
+            <p span class="Digitize"> TESTIMONIAL </span> </p>
+            <h3 class="bvms-size"> Great Organizations Work differently! 
+            </h3>
+            <p style="font-size: 24px; font-weight: 500;">Organizations of any size and industry trust Vizitor for an advanced
+                makeover of workplaces .“After Implementing booking software, the workplace has been less
+                chaotic, and conflicts over room booking have drastically narrowed, providing a happy place for
+                staff and employees.”</p>
+            <p class="mt-4" style="font-size: 18px; font-weight: 700;">-Sam Chawla, Digicel 
+            </p>
         </div>
+        <div class=" bannerbtn mt-5 text-center">
+            <a target="_blank" href="/case-studies" class="btn-arrow"> Read All Stories </a>
+        </div>
+
     </div>
 </div>
+
 <!-------------------------------->
 <div id="bvms">
     <div class="container ">
