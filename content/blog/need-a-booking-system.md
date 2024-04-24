@@ -75,7 +75,9 @@ Inefficient meeting room booking isn't just a minor annoyance – it's a costly 
 
 ## 1. Slash Time Wasted on Booking (and Boost Productivity):
 
-**• Problem:**  Employees waste precious time searching for available rooms. A Steelcase study found that 40% of employees waste up to 30 minutes daily[(https://fortune.com/2023/05/04/employees-waste-time-looking-busy-productivity/)](https://fortune.com/2023/05/04/employees-waste-time-looking-busy-productivity/) searching for meeting space. That's a staggering 10 wasted hours per month, per employee!
+**• Problem:**  Employees waste precious time searching for available rooms. A Steelcase study found that [40% of employees](https://fortune.com/2023/05/04/employees-waste-time-looking-busy-productivity/) waste up to 30 minutes daily.
+
+searching for meeting space. That's a staggering 10 wasted hours per month, per employee!
 
 **• Solution:**  Meeting room booking systems eliminate the need for endless email exchanges and frantic phone calls. Users can quickly search for and book rooms with a few clicks, freeing up valuable time for more productive tasks.
 
@@ -83,7 +85,7 @@ Inefficient meeting room booking isn't just a minor annoyance – it's a costly 
 
 ## 2. Save Money by Eliminating Communication Chaos:
 
-**• Problem:** Inefficient booking leads to a flurry of emails and communication trying to "keep everyone on the same page" about constantly changing meeting details. This can cost a significant amount in wasted time and potential misunderstandings. A report by  AIIM [(https://www.aiim.org/)](https://www.aiim.org/) estimates that poor communication costs businesses an average of $1,800 per employee annually in excess email communication alone.
+**• Problem:** Inefficient booking leads to a flurry of emails and communication trying to "keep everyone on the same page" about constantly changing meeting details. This can cost a significant amount in wasted time and potential misunderstandings. A report by [AIIM](https://www.aiim.org/)  estimates that poor communication costs businesses an average of $1,800 per employee annually in excess email communication alone.
 
 **• Solution:** Booking systems provide a single source of truth for meeting details. Everyone can see who has booked a room, for what time, and for what purpose. This transparency eliminates the need for unnecessary communication and streamlines collaboration.
 

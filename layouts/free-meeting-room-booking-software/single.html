@@ -1,0 +1,353 @@
+{{ define "main" }}
+<div class="container pagebanneres">
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-6 col-xs-12 ">
+            <h1> <span class="Digitize">Free Meeting Room Booking Software:
+                </span>Streamline Your Workspace </h1>
+            <div>
+                <p><b>Boost Collaboration and Optimize Space with Powerful Solutions!
+                    </b>
+                    <br><br>Finding an available meeting room can be a frustrating experience, wasting valuable time and
+                    disrupting workflow. Free meeting room booking software offers a simple solution, promoting seamless
+                    collaboration and efficient space utilization.
+                </p>
+                <div class="mt-5">
+                    <form id="deliveryMS">
+                        <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
+                            required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                </div>
+                <p class="no-credit Try-free mt-4">* No credit card required</p>
+                <div class="mt-4 Try-free mb-4">
+                    {{range .Site.Params.apps}}
+                    <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                            src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                    {{end}}
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <img src="/images/vizitor/delivery-management/delivery-management-system.png" alt="vizitor2" />
+        </div>
+    </div>
+</div>
+
+<!-------------->
+
+<div id="bvms2">
+    <div class="container">
+        <div class="text-center pb-5">
+            <h2>Why Choose Free Meeting <br> <span class="Digitize">Room Booking Software?</span>
+            </h2>
+            <!-- <p>Simply scan received packages to notify recipients, and easily<br> collect proof-of-handoff upon
+                collection.</p> -->
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/delivery-management/effortless-img.png" alt="effortlessly_manage_packages" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Empowering Your Team
+                </h3>
+                <ul>
+                    <li>Simplified Booking: Locate and reserve rooms effortlessly with user-friendly interfaces.
+                    </li>
+                    <li>Real-time Availability: Eliminate scheduling conflicts with instant updates on room
+                        availability.
+                    </li>
+                    <li>Improved Communication: Facilitate clear communication within teams regarding meeting locations
+                        and times.
+                    </li>
+                    <li>Increased Productivity: Minimize wasted time searching for meeting spaces and focus on core
+                        tasks.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-------------->
+
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Optimizing Your Workplace
+                </h3>
+                <ul>
+                    <li>Maximized Space Usage: Identify and utilize unused spaces, reducing workspace overhead.
+                    </li>
+                    <li>Data-driven Decisions: Gain valuable insights into meeting room usage for better space
+                        allocation.
+                    </li>
+                    <li>Resource Management: Manage additional resources like projectors and whiteboards alongside
+                        meeting rooms.
+                    </li>
+                    <li>Reduced Administration: Streamline booking processes and minimize administrative work.
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/delivery-management/delivery-empolyes-img.png" alt="3d-delivery" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-------------->
+
+<div class="py-5" style="background-color: #FCFCFC;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5 col-md-6 col-12 phone-fast">
+                <p><span class="Digitize">Embrace Flexibility and Customization
+                    </span></p>
+                <h3 class="chgh3">Open-source Solutions for Free Room Booking</h3>
+                <p>While free versions of commercial software often have limitations,
+                    open-source solutions offer a powerful and customizable alternative.
+                    Here are some popular options to consider:
+                </p>
+                <div class="my-5 ">
+                    <form id="benefitsCompany">
+                        <input type="email" class="email-input" id="emailbenefitsCompany" name="emailbenefitsCompany"
+                            placeholder="Enter your email" required>
+                        <input class="btn-try-free" type="submit" value="Try for free">
+                    </form>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-6 col-12 phone-fast">
+                <div class="card-deck ">
+                    <div class="card keyline2 keyline key-card benefits-card-b">
+                        <div class="benifts-card-center">
+                            <img class="reliable-point" src='{{"/images/vizitor/picktime.jpg" | absURL}}'
+                                alt="security">
+                            <p><b style="color: #3F4450;">picktime</b></p>
+                            <p style="font-size: 16px;">Simple and efficient, Hubbion allows unlimited room booking
+                                with real-time availability.</p>
+                        </div>
+                    </div>
+                    <div class="card keyline3 key-card benefits-card-b">
+                        <div class="benifts-card-center">
+                            <img class="reliable-point" src='{{"/images/vizitor/simplyfy.jpg" | absURL}}'
+                                alt="Multi-Platform">
+                            <p><b style="color: #3F4450;">SimplyBookMe:</b></p>
+                            <p style="font-size: 16px;">Offers free online booking with customization options for
+                                branding and integrations</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-deck ">
+                    <div class="card keyline1 key-card benefits-card-b">
+                        <div class="benifts-card-center">
+                            <img class="reliable-point" src='{{"/images/vizitor/roombelt.jpg" | absURL}}'
+                                alt="impression">
+                            <p><b style="color: #3F4450;">roombelt</b></p>
+                            <p style="font-size: 16px;"> A community-driven platform with features like room
+                                availability and resource booking.
+                            </p>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="card key-card benefits-card-b">
+                        <div class="benifts-card-center">
+                            <img class="reliable-point" src='{{"/images/vizitor/classroombookings.jpg" | absURL}}'
+                                alt="Cost-Effective">
+                            <p><b style="color: #3F4450;">classroombookings</b></p>
+                            <p style="font-size: 16px;">Visitor management solutions are specifically developed to help
+                                out people in maintaining everything properly and effectively.</p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+        </div>
+        <div class="text-center bannerbtn mt-4">
+            <a target="_blank" href="/blog/top-9-benefits-of-using-queue-management-system" class="btn-arrow"> Read more</a>
+        </div>
+
+    </div>
+</div>
+
+<!-------------->
+
+<div id="bvms2">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/delivery-management/delivery-img-pickup.svg" alt="delivery-of-boxes" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Choosing the Right Free Software
+                </h3>
+                <p>The ideal free meeting room booking software depends on your specific needs. Consider factors like:
+                </p>
+                <ul>
+                    <li>Team Size: Smaller teams may find a basic solution sufficient, while larger organizations need
+                        scalability.</li>
+                    <li>Features Required: Evaluate features like resource management, calendar integration, and user
+                        permissions.
+                    </li>
+                    <li>Technical Expertise: Open-source solutions might require some technical knowledge for setup and
+                        maintenance.
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-------------->
+
+<div class="pagesection my-5">
+    <div style="background: #ED5C18; padding: 80px 0;">
+        <div class="container">
+            <div class="content ">
+                <div class="text-center">
+                    <h2 class="color-wht mt-5 pb-3">Invest in a Smooth Workflow Today?</h2>
+                    <p class="color-wht text-center" style="line-height: 30px;">Free meeting room booking software
+                        offers a cost-effective way to enhance collaboration
+                        and optimize your workspace. Whether you choose a user-friendly commercial solution or a
+                        customizable open-source platform, the benefits are undeniable.
+                        Start your journey
+                        towards a more efficient and productive work environment today!
+                    </p>
+                    <div class=" text-center mt-5">
+                        <a href="/signup" class="btn-arrow attendence-white-btn">Try For Free</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ---------------------- -->
+<div class="container pagesection pb-5">
+    <div class="pb-5">
+        <h2 class="center-content desk font-sizeh3">Contact Tracing For Every Sector</h2>
+        <div class="center-content border-line"></div>
+        <p class="desk center-content">Digital contact tracing has become a <br>central component of every business <br>against Coronavirus.</p>
+
+    </div>
+    <div class="row ">
+        <div class="col-md-3 col-sm-3 col-xs-12 share-refer-card center-content">
+            <div class="center-content">
+                <img src="/images/vizitor/contact-tracing/Healthcare.png" class="pricingimg2 cardimg" alt="Healthcare" />
+            </div>
+            <h6>
+                Healthcare
+            </h6>
+            <p>Contact-Tracing Technology that assists the healthcare sector to screen the visitors</p>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12 share-refer-card center-content">
+            <div class="center-content">
+                <img src="/images/vizitor/contact-tracing/offices.png" class="pricingimg2 imgtop-text cardimg" alt="offices" />
+            </div>
+            <h6 class="htop-tex">
+                Offices
+            </h6>
+            <p>New coronavirus contact tracing tool could help offices reopen by tracking employees health</p>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12 share-refer-card center-content">
+            <div class="center-content">
+                <img src="/images/vizitor/contact-tracing/Industries.png" class="pricingimg2 cardimg" alt="Industries" />
+            </div>
+            <h6>
+                Industries
+            </h6>
+            <p>Visitor Screening before entering with No-touch thermometers using contact tracing app.</p>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12 share-refer-card center-content">
+            <div class="center-content">
+                <img src="/images/vizitor/contact-tracing/Government.png" class="pricingimg2 cardimg" alt="Government" />
+            </div>
+            <h6>
+                Government
+            </h6>
+            <p>Government agencies use contact tracing apps to record visitor logs with instant alerts.</p>
+        </div>
+    </div>
+</div>
+
+<!-- -------------------- -->
+<div class="Visitor-Management-System my-5">
+    <div class="container ">
+        <div class="row card-deck">
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <div class="card text-center card-shadow">
+                    <div class="center-content my-5">
+                        <img src="/images/vizitor/demo/COVID-mode.png" alt="COVID-mode">
+                    </div>
+                    <h6>COVID Mode</h6>
+                    <p>Multiple Covid-19 health Questionnaire with feature to find if user came from a contaminated
+                        zone....
+                        <a href="/contact-tracing" rel="canonical"> <span class="touchless-Read-more"><b>Read
+                                    more</b></span></a><br> <br>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <div class="card text-center card-shadow">
+                    <div class="center-content my-5">
+                        <img src="/images/vizitor/demo/live-occupancy-monitoring.png" alt="live-occupancy-monitoring"
+                            style="width: 51px;">
+                    </div>
+                    <h6>Live Occupancy Monitoring</h6>
+                    <p>Help maintain a occupancy limit inside the workplace to prevent overcrowding with live alerts....
+                        <a href="/" rel="canonical"> <span class="touchless-Read-more"><b>Read more</b></span></a><br>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-4 col-xs-12 ">
+                <div class="card text-center card-shadow">
+                    <div class="center-content my-5">
+                        <img src="/images/vizitor/demo/geo-attendance.png" alt="geo-attendance">
+                    </div>
+                    <h6>Geo Attendance</h6>
+                    <p>Contact tracing help you know the status of your visitor's Accurate Time tracing and whom they
+                        met so it's easy to back trace in case of any virus.....
+                        <a href="https://www.vizitorapp.com/blog/stop-covid-19-with-contact-tracking/" rel="canonical">
+                            <span class="touchless-Read-more"><b>Read more</b></span></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ------------------------------ -->
+    <div class="col-md-6 mx-auto">
+        <div class="row card-deck my-5">
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <div class="card text-center card-shadow">
+                    <div class="center-content my-5">
+                        <img src="/images/vizitor/demo/COVID-mode.png" alt="COVID-mode">
+                    </div>
+                    <h6>COVID Mode</h6>
+                    <p>Multiple Covid-19 health Questionnaire with feature to find if user came from a contaminated
+                        zone....
+                        <a href="/contact-tracing" rel="canonical"> <span class="touchless-Read-more"><b>Read
+                                    more</b></span></a><br> <br>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-sm-6 col-xs-12 ">
+                <div class="card text-center card-shadow">
+                    <div class="center-content my-5">
+                        <img src="/images/vizitor/demo/live-occupancy-monitoring.png" alt="live-occupancy-monitoring"
+                            style="width: 51px;">
+                    </div>
+                    <h6>Live Occupancy Monitoring</h6>
+                    <p>Help maintain a occupancy limit inside the workplace to prevent overcrowding with live alerts....
+                        <a href="/" rel="canonical"> <span class="touchless-Read-more"><b>Read more</b></span></a><br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{end}}
