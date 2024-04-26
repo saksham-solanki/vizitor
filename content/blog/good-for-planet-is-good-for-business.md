@@ -15,7 +15,7 @@ The temperatures worldwide is gradually rising, icecaps are melting and Earth is
 
 As an Entrepreneur, you too can do your bit to save the environment you live in and benefit from. By having Eco-friendly office upgrades can usually accomplish all of those goals. Because they reduce paper consumption, they often result in office digitalization.
 
-### Easy Ways to protect mother Earth
+## Easy Ways to protect mother Earth
 
 As mentioned earlier, there are multiple ways in which your business can stand to gain from going green. Visitor management software give freedom from paper logbooks and make smooth guest check-ins.
 
@@ -23,7 +23,7 @@ As mentioned earlier, there are multiple ways in which your business can stand t
 
 One way that a company can begin its “go green” process is to implement the use of a paperless working operation. [Visitor management system](https://www.vizitorapp.com/) reduces the amount of paper waste[http://www.business.com/management/its-easy-being-green-how-it-pays-to-go-green-at-your-business/](http://www.business.com/management/its-easy-being-green-how-it-pays-to-go-green-at-your-business/)and other small waste items a business has to purchase for printed documents.
 
-### Avoid Plastic Bags
+## Avoid Plastic Bags
 
 Plastic bags are many and can be accessible easily. The bags are easy to use and inexpensive. Most of the establishments offer free bags to their customers. Once used and then discarded, the bags clog landfills, sewers and spoil the ecosystems.
 
@@ -31,17 +31,17 @@ The initiative ["Karnival"](https://karnival.com/)  by The Better India is on t
 
 ## Switch to Greener Alternatives
 
-- Switch to recycling mugs.
-- Switch to PCW or Post-Consumer Waste paper for all your printing needs.
+• Switch to recycling mugs.
 
-- Switch to filtration and dispensing system instead of spending excessive amounts of money on bottled water.
-- Recycle your old IT equipment.
+• Switch to PCW or Post-Consumer Waste paper for all your printing needs.
+
+• Switch to filtration and dispensing system instead of spending excessive amounts of money on bottled water.
+
+• Recycle your old IT equipment.
 
 ## Lower Energy Consumption
 
 Utility costs are typically thousands investment for large businesses. By cutting your utility costs by changing out light fixtures to energy-efficient rated fixtures with LED light bulbs. LED light bulbs can last around 20 years, use less energy to work, and provide a purer source of light.
-
-
 
 
 ## Cut down your emissions
@@ -49,13 +49,11 @@ Utility costs are typically thousands investment for large businesses. By cuttin
 If you use a car for your business, buying one with low or zero emissions or go for better solution of carpooling. Offsetting your unavoidable CO2 emissions is a practical and immediate way to take ownership of your personal contribution to climate change.
 
 
-
-
 ## Do Business with Green vendors
 
 Showing the world that you care about who you do business with sends a positive message to your customers about what your business stands for. This applies when it comes to attracting the best employees too. Your Green partnerships are something you can talk about in your marketing materials, on your company blog, and on your Facebook page.
 
-### **Let’s take pledge!**
+## Let’s take pledge!
 
 Vizitor is pledge to commit for the protection and prevention of environment. We embrace our responsibility to provide safe, secure workplace while doing our part to make to save environment**.**
 

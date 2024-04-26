@@ -9,7 +9,7 @@ authorsImage: /images/authors/author.svg
 
 Whenever there is a new system/software out in the market, there is always a buzz. People think and analyze all the pros and cons of the system to make a wise decision. Today, there are different industries which are making a decision to step ahead with new tech savvy systems/software. Visitor management is one of the systems which these 3 top industries will be choosing to install.
 
-**HOTELS & RESTAURANTS**
+## HOTELS & RESTAURANTS
 
 In a season full of festivals what’s a better way to start with, than having a full-fledged meal with your loved ones at your favourite restaurant. Being a restaurant owner you also need to stay in touch with your favourite customers by sending them manual promotional messages individually, but with vizitor you can do it all with just an ease of touch. Every time you think of going out for having food , long waiting hours coupled with extra consumption of time makes you withdraw your thoughts! However, with a **[visitor management software](https://www.vizitorapp.com/)** such as Vizitor, you no longer need to wait for your food when you are hungry in order to have a meal at the restaurant of your choice. Just download the Vizitor app on the device installed at your restaurant’s reception and let it take care of your arrival and get your table booked in advance.
 
@@ -19,7 +19,7 @@ Hotels need to capitalize on reception desk trends and upgrade their systems reg
 
 Vizitor allows the hotel owner to send promotional messages and discounted deal prices to valuable customers by email or sms interaction. It saves time and money by making the front desk one of the most efficient areas of your hotel.
 
-**SALONS**
+## SALONS
 
 How often do you visit salons for your favourite haircut or facial treatment? Most of you would reply, frequently. But have you realized how much time it consumes making appointments, registering and waiting for your turn? Imagine, you’ve booked an appointment with your favourite salon in order to get a haircut. The first thing that comes to mind is to wait until your turn comes. After several hours of long wait, your turn comes and you finally get a haircut. 
 
@@ -27,7 +27,7 @@ Then, at the time of payment many of the salons ask you to submit your feedback 
 
 As a fully-digitized system, Vizitor streamlines the check-in process by capturing images, sending instant visitor notifications and collecting feedback – all in a few taps on the screen. You can be in touch with your customers by sending them promotional messages or interesting deals available at your salon through vizitor application. Help in making your salon stand out. 
 
-**UNIVERSITIES & SCHOOLS**
+## UNIVERSITIES & SCHOOLS
 
 Security serves as one of the most important aspects when it comes to keeping the university campus guarded from the unknown threats. It helps in providing a safe and secure environment for students, staff, visitors and ensures that the university is an enjoyable place to study, work and visit. Even as a parent or guardian of your child you would also want a safe and secure place to study. In order to have a secure premises, every university needs to make sure that it has a strong visitor management system so that the students, staff, employees and parents visiting the university needn’t bother about registering manually. 
 

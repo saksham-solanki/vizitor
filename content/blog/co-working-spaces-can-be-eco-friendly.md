@@ -15,44 +15,40 @@ The main benefit of co-working spaces is flexibility. Each has its own different
 
 We got to know about co-working, now what about sustainable co-working?Sustainable co-working is now in popular trend. Today, if co-working spaces are considered to be outdated if its not green. Large companies are moving to this trend and display their corporate social responsibility. Green Co-working means less electricity, less heating, less water consumption, less paper use etc. Many spaces have gone above and beyond to make sure their spaces are as Eco-friendly as possible.
 
-Here are a few steps that make co-working spaces more conscious of the environment
+**Here are a few steps that make co-working spaces more conscious of the environment**
 
-**Recycling Policy**
+## Recycling Policy
 
 The Recycling of waste management is suggestions for creating sustainable life. All you need is to bring a small change in your daily lifestyle to reduce waste.There are some of the things you can do to reduce the waste
 
-- Avoid using disposable plates, spoons, glasses, cups and napkins. They add to the problem and result in large amounts of waste.
-- Avoid buying items that are over-packaged with foil, paper, and plastic. This excess packaging goes to waste.
+•  Avoid using disposable plates, spoons, glasses, cups and napkins. They add to the problem and result in large amounts of waste.
 
-- Buy products from the market that are made up of recycled materials i.e. the product should be environment friendly.
-- Avoid buying hazardous materials that could pose difficulty for you to recycle. Buy non-toxic products whenever possible.
+•  Avoid buying items that are over-packaged with foil, paper, and plastic. This excess packaging goes to waste.
+
+•  Buy products from the market that are made up of recycled materials i.e. the product should be environment friendly.
+
+•  Avoid buying hazardous materials that could pose difficulty for you to recycle. Buy non-toxic products whenever possible.
 
 
-![Recycling Policy](/images/blog/recycle (1).jpg)
+## Reusable Furniture
 
+• Furniture that was not always designed for comfort but a sense of comfort might be particularly important if you want to establish a sense or luxury or put visitors at ease.
 
-**Reusable Furniture**
+• Flexible office furniture is often equipped with wheels so that it can be moved to new spaces easily.
 
-- Furniture that was not always designed for comfort but a sense of comfort might be particularly important if you want to establish a sense or luxury or put visitors at ease.
-- Flexible office furniture is often equipped with wheels so that it can be moved to new spaces easily.
+• There should be move able walls, partitions, large whiteboards, and even meeting pods.
 
-- There should be move able walls, partitions, large whiteboards, and even meeting pods.
-
-**Green Indoors**
+## Green Indoors
 
 Indoor planting is a great way to enhance your mood and act as tranquilizers. Having plants indoors not only brings a room to life, but helps to improve air quality. It enhances the aesthetic value of our workplaces.
 
-**Go Paperless**
+## Go Paperless
 
-- If your office still relies heavily on manual process, consider digitizing paper-reliant processes to clutter free office space that will save money and boost efficiency in the process.
+• If your office still relies heavily on manual process, consider digitizing paper-reliant processes to clutter free office space that will save money and boost efficiency in the process.
 
-- Of course, paper files tend to take up plenty of office space. But by going paper-free, you can avoid  things like the copy machine, heavy-duty printer, all of which can take up a lot of space.
+• Of course, paper files tend to take up plenty of office space. But by going paper-free, you can avoid  things like the copy machine, heavy-duty printer, all of which can take up a lot of space.
 
 Stop wasting paper for registering visitor details on logbooks and switch digital register- Use [**Vizitor**](https://www.vizitorapp.com/)
-
-![paperless](/images/blog/paperless (1).jpg)
-
-
 
 **Vizitor** is [visitor management software](https://www.vizitorapp.com/)  that allows easy and secure check-ins at your workplace. We have taken an initiative of [#greenbusiness.](https://www.vizitorapp.com/green-business-initiative) We promote the cause of Green India and walk towards sustainable living and work practices.
 
