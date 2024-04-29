@@ -17,18 +17,23 @@ With so much happening, not every organization can give employees work from home
 
 Following are some of the ways by which a Visitor Management System can help screening visitors:
 
-- **Custom forms **with health questionnaires like:
+## Custom forms **with health questionnaires like:
+
 1. Have you traveled to any country recently?
+
 2. Which countries have you traveled in the past 2 months?
 
 3. History of any illness since Jan 15, 2020?
-- Identify compliance issues before visitors arrive with **Pre-registration **screening
-- Inculcate guidelines and “no handshake” policies during check-in for visitors to read them.  
 
-- Print **E-badges **with completehealthinformation of visitors.
-- Alerts and [**Host Notification**](https://www.vizitorapp.com/instant-notification) to management with crucial information about visitor's health, to take necessary precautions.
+• Identify compliance issues before visitors arrive with **Pre-registration**screening
 
-**Most Important is to have a hand Sanitizer placed at your reception desk.**
+• Inculcate guidelines and “no handshake” policies during check-in for visitors to read them.  
+
+• Print **E-badges**with completehealthinformation of visitors.
+
+• Alerts and [**Host Notification**](https://www.vizitorapp.com/instant-notification) to management with crucial information about visitor's health, to take necessary precautions.
+
+## Most Important is to have a hand Sanitizer placed at your reception desk.
 
 Startups around the globe are under stress and recently Sequoia suggested startups to ensure the health of their business while dealing with potential business consequences of the spreading effects of the virus, calling it ‘[Black Swan](https://medium.com/sequoia-capital/coronavirus-the-black-swan-of-2020-7c72bdeb9753)’ of 2020. Even multiple States in India are asking tourists to fill Self-disclosure form as a preventive measure.
 

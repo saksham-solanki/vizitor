@@ -19,19 +19,19 @@ As with all past outbreaks, this one will eventually come to an end. Then next w
 
 various adequate measures each and every one of us should consider for after a coronavirus outbreak. Some of these measures include:
 
-**Moving towards Paperless Operations:**
+## Moving towards Paperless Operations:
 
 This Virus can be spread through contact with infected persons. So breaking the chain is the foremost step. Doing limited contact with surfaces that could house and spread the virus. **[Vizitor’s](https://www.vizitorapp.com/)** policy of eliminating the paper usage can help to improve the overall environment and moreover reduce the risk of spreading this deadly virus within the workplace.
 
 A visitor management system eliminates the use of pen, paper and computer ink. This means more savings for your company. Ultimately, it helps in saving trees, the environment and reducing the carbon footprint.
 
-**Visitor’s Initial Screening:**
+## Visitor’s Initial Screening:
 
 If someone who may be an infected carrier of the virus enters your premises, the initial step you need to be able to identify them and take action. Visitor screening with digital questionnaires about their health issues would be the best solution during these kinds of epidemics.
 
 Due to traditional procedures of form filling during the health emergency, can actually make the situation worse and spread the infection. Visitor management system allows host organizations to set up custom forms to prompt visitors to take speedy questionnaires on tabs at the reception or by emails- before visitors ever step foot on the premises*.*
 
-**Spreading Awareness**
+## Spreading Awareness
 
 Let’s put a stop to the rumors and start spreading reliable information. It has been observed time and again that rumors are being circulated through social media channels. These fake news are baseless and don’t have any scientific facts related to them. Any outbreak or pandemic comes with its own set of rumors and myths. In times like these, it’s not only essential to know the ‘To-dos’ but also curb the rumors and boost the myths.
 
