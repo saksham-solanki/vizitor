@@ -10,7 +10,7 @@ keywords:
 - room management
 
 draft: false
-type: "meeting-room-management-system"
+type: "meeting-room-booking-system"
 
 ---
 
