@@ -1,7 +1,7 @@
 ---
 title: "What is a guest management system"
 date: 2023-03-29T06:37:40.000Z
-description: "Today is the world where running a business not only aims at better productivity and efficiency but it means much  more than that. "
+description: "Discover the power of guest management systems for streamlining interactions with guests and customers. Elevate your business efficiency and productivity today! "
 image: /images/blog/image-8.png 
 authors: ["R.Saini"]
 authorsImage: /images/authors/author.svg

@@ -1,7 +1,7 @@
 ---
 title: Top 6 Free and Open-Source Meeting Room Booking Systems
 date: 2024-04-19T07:15:12.000Z
-description: "Use free and open source meeting room booking systems to promote collaboration, improve employee productivity, and reduce operational costs."
+description: "Use free and open source meeting room booking systems to encourage teamwork, boost productivity, and cut costs."
 image: /images/blog/meow.png
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

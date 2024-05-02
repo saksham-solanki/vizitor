@@ -1,7 +1,7 @@
 ---
 title: "Vacation Right : Calculate Your Fair Paid Time Off (and Track It with Vizitor!)"
 date: 2024-02-22T09:21:36.000Z
-description: " Explore the importance of fair Paid Time Off (PTO) and how to calculate it effectively. Discover industry standards, and benefits of adequate PTO, and track it seamlessly with Vizitor's Attendance Management System."
+description: "Calculating fair PTO: Exploring different approaches and industry standards. Benefits of adequate PTO: Examining the positive impact on employee ..."
 image: /images/blog/pto-calculate.webp
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
