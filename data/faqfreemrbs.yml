@@ -12,7 +12,7 @@ items:
     answer: "Yes, our system allows you to customize the booking process to suit your specific requirements. This includes setting minimum and maximum booking times, blocking out times for maintenance, and customizing the information required during the booking process."
   - question: "How does the system handle double bookings?"
     answer: "Our meeting room booking system is designed to prevent double bookings by showing real-time room availability to all users. Once a room is booked, it is immediately marked as unavailable for the specified timeslot."
-  - question: "Is training required to use the system?What kind of support do you offer for the free meeting room booking system?"
+  - question: "What kind of support do you offer for the free meeting room booking system?"
     answer: "We offer email support for all users of our free system. Our support team is available to help with any technical issues or questions you may have about using the system."
   - question: "Can the system integrate with other software?"
     answer: "Yes, our system is built to integrate seamlessly with various other software applications, including calendar apps, CRM systems, and ERP solutions, to enhance functionality and streamline your workflow."
