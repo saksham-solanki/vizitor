@@ -15,7 +15,7 @@ items:
   - question: "What kind of support do you offer for the free meeting room booking system?"
     answer: "We offer email support for all users of our free system. Our support team is available to help with any technical issues or questions you may have about using the system."
   - question: "Can the system integrate with other software?"
-    answer: "Yes, our system is built to integrate seamlessly with various other software applications, including calendar apps, CRM systems, and ERP solutions, to enhance functionality and streamline your workflow."
+    answer: "Yes, our system is built to integrate seamlessly with various other software applications, including calendar app, to enhance functionality and streamline your workflow."
   - question: "How secure is the free meeting room booking system?"
     answer: "Security is a priority for us. Our system uses industry-standard encryption and authentication measures to protect your data and ensure that all transactions and bookings are secure."
   - question: "What happens if I encounter a problem or error while using the system?"
