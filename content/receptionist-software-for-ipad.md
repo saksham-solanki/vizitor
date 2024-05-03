@@ -1,6 +1,6 @@
 ---
 title: "Ipad Receptionist App | Ipad Reception Software"
-description : "Ditch paper logs! Sign visitors in with iPad receptionist app. Track guests.#ipadreceptionist #receptionistapp"
+description : "iPad reception software keeps the records of the guests and wipes out the requirement for paper guest logs. It encourages you to effictively monitor who's meeting four work enviroment. With the iPad reception sign-in app, you'll know who's in your working environment consistenly. "
 keywords:
 - ipad receptionist app, ipad reception system, ipad reception software, receptionist app for ipad,visitor management system, visitor management software, Best visitor management system in india, visitor management app, ipad reception sign in app
 draft: false

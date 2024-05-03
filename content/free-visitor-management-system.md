@@ -1,6 +1,6 @@
 ---
 title: "Free Visitor Management System with Photo Capture"
-description : "Free Visitor Management System! Streamline sign-in, capture photos & notify hosts. Download our free visitor management software & see analytics. Learn more! "
+description : "Introducing our new free plan with features like photo capturing,host notification, visitors analytics and more.To check more visit us at Vizitor."
 keywords:
 - visitor management system price, best free visitor management app, free plan launch, visitor management system software free download, visitor management system cost
 draft: false
