@@ -16,13 +16,9 @@ Talking about the numbers first, some of the major companies have already starte
 Even Apple had the carbon emission of 25.2 megatons in 2018,Equals to the carbon emission of Mongolia. However, if exempt the emission generated from the production of apple goods, then it will only remain to just 0.6 megatons
 
 
+As we can understand by the numbers, IT companies do have a significant impact on carbon emissions. But, what can be done to minimize the impact?'
 
-
-
-
-As we can understand by the numbers, IT companies do have a significant impact on carbon emissions. But, what can be done to minimize the impact?
-
-**1. Use scalable architecture:**
+## 1. Use scalable architecture:
 
 With the rise in cloud computing, most of the businesses have started to migrate their infrastructure to the cloud. But this typical approach of using the cloud infrastructure involves renting 24/7 servers that will safely exceed the current peak load of business.
 
@@ -30,23 +26,23 @@ However, different people use the Internet differently and your services dependi
 
 This is where the scalability comes handy. For software running with a scalable architecture, load balancers can simply add more power to your machine depending on the requests you are receiving. That means you don't need to pay for servers running in idle mode. Most of the cloud providers provide load balancing, both in horizontal and vertical ways. But in order to do so, we need to build the services by keeping scalability in mind. But once you start, doing it will save you quite a good amount of money along with lowering your cloud infrastructure carbon footprint.
 
-**2. Use greener providers**
+## 2. Use greener providers
 
 Cloud providers use different types of energy supplies. First of all, their choices may be based on state electricity services in the region. For example companies in Sweden rely mostly on renewable energy like wind and hydro. However, France is based on nuclear power which is also a greener choice.
 
 So the carbon emissions of your server provider depend on the location of the data center. Bigger the services such as Droplet or AWS the more they pay attention to ecological sustainability.
 
-**3. Choose your programming language wisely**
+## 3. Choose your programming language wisely
 
 Programming languages differ in different ways including logic, syntax, capabilities, and more. Different programming languages also differ in terms of resource usage. Scripts in the programming languages such as JavaScript or Python consume more resources that the programs written in Fortran C++ or Rust. The more resources a programming language demands the more carbon emission will be there.
 
-It's worth understanding, that faster doesn't mean greener. In some cases, a program may need to execute longer but will consume less energy.
+• It's worth understanding, that faster doesn't mean greener. In some cases, a program may need to execute longer but will consume less energy.
 
-Of course, people are more likely to choose the programming languages based on the task they need to perform, based on the skill of your workforce, and according to the rest of the compatible technological stack, but it's worth taking the power aspect into account. A program that is written in JavaScript will consume about double resources than a program written in C.
+• Of course, people are more likely to choose the programming languages based on the task they need to perform, based on the skill of your workforce, and according to the rest of the compatible technological stack, but it's worth taking the power aspect into account. A program that is written in JavaScript will consume about double resources than a program written in C.
 
 It's something basic to understand that optimizing the code can lower the carbon footprint as well making your code run faster and become less power-hungry., no matter the language. 
 
-**4. Optimize your Web pages**
+## 4. Optimize your Web pages
 
 Lately, the size of the average webpage has exceeded more than 3 megabytes. The bigger the web page is the more power it will need to transfer the content from server to client. But this doesn't seem to be a huge part of carbon emissions, but the Green Web Foundation disagrees with the statement.
 

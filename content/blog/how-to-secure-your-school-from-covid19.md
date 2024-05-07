@@ -15,108 +15,94 @@ In order to reopen schools effectively and mitigate the spread, nation and distr
 
 
 
-### In this article, we’ll learn:
+## In this article, we’ll learn:
 
-The brief focuses on guidelines in three areas:
+• he brief focuses on guidelines in three areas:
 
-❏     Hygiene and cleaning guidelines
+•     Hygiene and cleaning guidelines
 
-❏     Attendance and Health screening with Visitor management system
+•    Attendance and Health screening with Visitor management system
 
-❏     Social distancing
+•   Social distancing
 
+• his brief provides insight into health and safety guidelines, attendance, health screening and social distancing strategies used in other countries that have successfully reopened their schools in the context of COVID-19 considerations.
 
+##   Hygiene and Cleaning guidelines
 
+•ountries have focused on the common procedures like hand wash, which are helpful regular Disease Control. Countries’ steering on cleaning products and methods varies, however; states need to seek advice from center and state steerage on using disinfectants and allowing chemicals to be used in schools.
 
+•[Hygiene and Cleaning guidelines](/images/blog/image-356.jpg)
 
-This brief provides insight into health and safety guidelines, attendance, health screening and social distancing strategies used in other countries that have successfully reopened their schools in the context of COVID-19 considerations.
+## Masks:
 
-## ❏   Hygiene and Cleaning guidelines
+•      Masks are required at all times for teachers, as well as for school kids as young as age 3.
 
-Countries have focused on the common procedures like hand wash, which are helpful regular Disease Control. Countries’ steering on cleaning products and methods varies, however; states need to seek advice from center and state steerage on using disinfectants and allowing chemicals to be used in schools.
+•      They are required every time a distance of 2 meters cannot be maintained.
 
-![Hygiene and Cleaning guidelines](/images/blog/image-356.jpg)
+ ## Handwashing:
 
+•      Frequent hand washing is usually recommended in all locations, now and again as often as every 2 hours.
 
-➢    **Masks:**
+•      Create posters and motion pictures to support faculty’s teaching of healthy habits, and steering required school employees to receive education on hygiene standards.
 
-●      Masks are required at all times for teachers, as well as for school kids as young as age 3.
+•      Use of wipes and hand sanitizer with 70–85% rubbing alcohol inside in case water aren't accessible.
 
-●      They are required every time a distance of 2 meters cannot be maintained.
+## Cleaning Areas and materials to clean:
 
-➢   **Handwashing:**
+• Cleaning is frequent, particularly in every space.
 
-●      Frequent hand washing is usually recommended in all locations, now and again as often as every 2 hours.
+•  Government has provided steerage for the cleansing and disinfecting of schools and school buses.
 
-●      Create posters and motion pictures to support faculty’s teaching of healthy habits, and steering required school employees to receive education on hygiene standards.
+• Schools in all locations are recommended to wipe down high-touch areas, including doorknobs and desks, each 2 hours.
 
-●      Use of wipes and hand sanitizer with 70–85% rubbing alcohol inside in case water aren't accessible.
+• Students wipe their own desks. Windows and doorways are left open as a good deal as viable to preserve ventilation.
 
-➢     **Cleaning Areas and materials to clean:**
+•  Toilets and sinks are anticipated to be wiped clean 2 - 4 times a day, and computers must be wiped after every use.
 
-●      Cleaning is frequent, particularly in every space.
+## Shared materials:
 
-●      Government has provided steerage for the cleansing and disinfecting of schools and school buses.
+• Shared materials are discouraged, but while used they must be cleaned earlier than being used by other school students.
 
-●      Schools in all locations are recommended to wipe down high-touch areas, including doorknobs and desks, each 2 hours.
+  •  Toys should be washed two times daily, and words that cannot be cleaned easily should not be used. Computers or tablets, while needed, have to be shared by just a few school students only.
 
-●      Students wipe their own desks. Windows and doorways are left open as a good deal as viable to preserve ventilation.
+•  Library books can be used if students wash their hands first.
 
-●      Toilets and sinks are anticipated to be wiped clean 2 - 4 times a day, and computers must be wiped after every use.
-
-➢    **Shared materials:**
-
-●      Shared materials are discouraged, but while used they must be cleaned earlier than being used by other school students.
-
-●      Toys should be washed two times daily, and words that cannot be cleaned easily should not be used. Computers or tablets, while needed, have to be shared by just a few school students only.
-
-●      Library books can be used if students wash their hands first.
-
-### ❏    Attendance and Health Screening with a visitor management system
+## Attendance and Health Screening with a visitor management system
 
 An essential step in supporting safety in schools is permitted at-risk students and staff to stay home and ensuring that all suspected or confirmed cases of COVID-19 are immediately quarantined. We can save our staff and students at the school with the School visitor management system. [School visitor management](https://www.vizitorapp.com/visitor-management-system-for-schools) is a unique visitor management software and check-in application that not only speeds up the check-in process, but also provides a modern look to your admin block’s front desk.
-
-
-
-
 
 [Vizitor](https://www.vizitorapp.com/) has the ability to track different types of people such as parents, students, volunteers, and others who enter the school premises or admin office. It also provides a safer environment to the schools as it stores all the visitor’s data in a secure admin portal.
 
 **Health Screening and Quarantine Procedures**
 
-➢     **Screening**:
+## Screening
 
-●       Health screening should be done daily for school kids and groups of workers in schools that have reopened.
+ • Health screening should be done daily for school kids and groups of workers in schools that have reopened.
 
-●      Health and protection guidelines, including temperature checks and reporting signs upon arrival, earlier than getting into the building shout be followed strictly.
+ • Health and protection guidelines, including temperature checks and reporting signs upon arrival, earlier than getting into the building shout be followed strictly.
+Staff and students Screening with Vizitor**
 
-➢     **Staff and students Screening with Vizitor**
+•    Easily ask your visitors custom yes/no questions before about their recent travel history or current state of health.
 
-●      Easily ask your visitors custom yes/no questions before about their recent travel history or current state of health.
+•   Send instant alerts to concerned people to approve their entry into your workplace.
 
-●      Send instant alerts to concerned people to approve their entry into your workplace.
+## Touchless Check-ins
 
-➢     **Touchless Check-ins**
+• Touchless check-in experience by sending them QR codes via email in advance so that they can access specific areas of your building during a given time frame.
 
-●      Touchless check-in experience by sending them QR codes via email in advance so that they can access specific areas of your building during a given time frame.
+## Automatic Alerts
 
-➢  **Automatic Alerts**
+•   Visitor sends a notification to the employees with complete visitor’s details. So the host can approve or disapprove the entry of visitors.
 
-●      Visitor sends a notification to the employees with complete visitor’s details. So the host can approve or disapprove the entry of visitors.
+##    Social Distancing
 
-### ❏    Social Distancing
+•    Studies of preceding influenza outbreaks display that faculties can safely prevent the spread of sickness in a few contexts if measures are positioned in the area to guide social distancing.
 
-●      Studies of preceding influenza outbreaks display that faculties can safely prevent the spread of sickness in a few contexts if measures are positioned in the area to guide social distancing.
+•    Retaining people at a secure distance from one another (3 to six feet) and decreasing the number of people with whom someone interact face-to-face.
 
+•      Schools will want to keep in mind how to keep students and workforce at a secure distance from one another outside of class, mainly at some stage upon arrival and dismissal, mealtimes, recess, and class changes.
 
-
-
-
-●      Retaining people at a secure distance from one another (3 to six feet) and decreasing the number of people with whom someone interact face-to-face.
-
-●      Schools will want to keep in mind how to keep students and workforce at a secure distance from one another outside of class, mainly at some stage upon arrival and dismissal, mealtimes, recess, and class changes.
-
-## **Conclusion**
+## Conclusion
 
 Research suggests that social distancing techniques, alongside with careful hygiene practices, and use of quarantine, can curb the spread of diseases in schools. In this brief, School visitor management system offer perception into how these strategies may be placed into operation in numerous contexts to guard the health and safety of students, staff, and families.
 
