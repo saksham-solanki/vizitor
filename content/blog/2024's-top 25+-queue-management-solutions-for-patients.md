@@ -1,6 +1,6 @@
 ---
 title: Top 25 Queue Management Solutions for Hospitals
-date: 2024-01-19T10:09:40.000Z
+date: 2024-05-13T10:09:40.000Z
 description: "Reduce patient wait times & boost satisfaction with top queue management systems for hospitals in 2024. Explore 15+ leading software & hardware options & key features to consider."
 image: /images/blog/queues-img.png
 authors: ["Ritika Bhagat"]

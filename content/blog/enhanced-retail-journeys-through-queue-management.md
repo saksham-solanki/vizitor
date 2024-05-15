@@ -1,6 +1,6 @@
 ---
 title: Enhanced Retail Journeys through Queue Management
-date: 2024-01-25T10:18:42.000Z
+date: 2024-05-12T10:18:42.000Z
 description: "Organizations are always searching for ways to minimize the unnecessary expenses. With saving the costs when they also improve the company’s brand."
 image: /images/blog/blog-0.png
 authors: ["Ritika Bhagat"]

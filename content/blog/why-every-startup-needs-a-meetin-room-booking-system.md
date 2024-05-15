@@ -1,7 +1,7 @@
 ---
 title: Why Every Startup Needs a Meeting Room Booking System
 date: 2024-05-06T07:47:56.000Z
-description: "Find out what software is commonly used in the hospitality industry with this article."
+description: "A conference/meeting room booking system will help the startups streamline their booking process and increase the utilization of their meeting rooms."
 image: /images/blog/track.png
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

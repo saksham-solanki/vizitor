@@ -1,6 +1,6 @@
 ---
 title: Understanding Queue Management Systems
-date: 2023-04-06T07:47:56.000Z
+date: 2024-05-13T07:47:56.000Z
 description: "Explore Queue Management Systems to streamline services, reduce wait times, and enhance customer satisfaction."
 image: /images/blog/main-queue-management.jpg
 authors: ["Ritika Bhagat"]

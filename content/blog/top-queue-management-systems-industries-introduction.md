@@ -3,7 +3,7 @@ title: The Top Queue Management Systems for Different Industries Introduction
 description: Maximize customer satisfaction and revenue growth with a
   cutting-edge Queue Management System, offering valuable insights into client
   behavior.
-date: 2023-04-10T08:43:00.000Z
+date: 2024-05-11T08:43:00.000Z
 draft: false
 authorsImage: /images/authors/author.svg
 authors:

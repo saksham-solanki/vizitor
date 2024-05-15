@@ -1,6 +1,6 @@
 ---
 title: Top 9 Benefits of Using Queue Management System
-date: 2023-04-05T07:47:56.000Z
+date: 2024-05-14T07:47:56.000Z
 description: "Shorter Waits Happier Customers!Strealine Operations And Boost Customer Satisfiation With a Queue Management System. Learn the top Benefits "
 image: /images/blog/benefits-queue-management-systems.png
 authors: ["Ritika Bhagat"]

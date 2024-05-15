@@ -1,6 +1,6 @@
 ---
 title: Guide to Choosing the Perfect Queue Management System
-date: 2024-01-26T10:18:42.000Z
+date: 2024-05-13T10:18:42.000Z
 description: "Organizations are always searching for ways to minimize the unnecessary expenses. With saving the costs when they also improve the company’s brand."
 image: /images/blog/queue.svg
 authors: ["Ritika Bhagat"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Cut Down on Hospital Queue Line"
-date: 2024-01-25T08:43:00.000Z
+date: 2024-05-10T08:43:00.000Z
 description: "Long queues can be a major source of frustration for patients and can overwhelm hospital staff. But what if I told you there's a solution that can make your hospital experience smoother and more efficient"
 image: /images/blog/blog-imgg-3.png
 authors: ["Ritika Bhagat"]

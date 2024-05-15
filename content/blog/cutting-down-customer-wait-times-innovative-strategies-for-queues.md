@@ -1,6 +1,6 @@
 ---
 title: Cutting Down Customer Wait Times:Innovative Strategies for Queues
-date: 2024-01-17T10:18:42.000Z
+date: 2024-05-10T10:18:42.000Z
 description: "Explore innovative strategies to reduce customer wait times in retail. Discover how advanced queue management systems and technologies can transform the retail customer experience, boosting satisfaction and efficiency."
 image: /images/blog/guide.png
 authors: ["Ritika Bhagat"]

@@ -1,6 +1,6 @@
 ---
 title: How Queue Management Systems Transform Hospitals
-date: 2024-04-24T07:47:56.000Z
+date: 2024-05-13T07:47:56.000Z
 description: "Ditch the long queues! Explore how Queue Management Systems can revolutionize patient journeys in hospitals, boosting efficiency and satisfaction."
 image: /images/blog/receaption.png
 authors: ["Ritika Bhagat"]

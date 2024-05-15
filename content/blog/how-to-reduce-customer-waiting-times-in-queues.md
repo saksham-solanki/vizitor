@@ -1,6 +1,6 @@
 ---
 title: How to Reduce Customer Waiting Times in Queues?
-date: 2024-04-26T10:57:29.000Z
+date: 2024-05-10T10:57:29.000Z
 description: "Minimize customer wait times for seamless experiences. Discover strategies to boost efficiency and satisfaction. Optimize your service today!"
 image: /images/blog/however.png
 authors: ["Ritika Bhagat"]
