@@ -42,7 +42,7 @@ Transparency is King: Keeping Customers Informed in Queues
 
 **Did you know that 73% of customers** say they'd abandon a queue if the wait time seems unreasonable? **Transparency is key!** When customers are kept in the dark about wait times and queue movement, frustration builds. Imagine being stuck in line, unsure of how long it'll take or why things aren't moving. It's not exactly a recipe for a happy customer experience.
 
-[![enhancecustomer](/images/blog/enhancecustomer.png)](/demo)
+<!-- [![enhancecustomer](/images/blog/enhancecustomer.png)](/demo) -->
 
 **Here's the good news:** Businesses don't need to operate like a top-secret government agency [(Area 51, anyone?).](https://www.britannica.com/story/what-is-known-and-not-known-about-area-51) Open communication with customers goes a long way.
 
@@ -78,7 +78,7 @@ Manually tracking queues can be unpredictable.[Automated Queue Management System
 
 Let's be honest: waiting in line is universally dreaded.[Did you know that a whopping 73% of customers report feeling frustrated by slow lines?](https://www.helpscout.com/75-customer-service-facts-quotes-statistics/) But what if that wait time could be transformed into a positive experience?
 
-Here's the key: **engagement is everything.** Ditch the impersonal paper tickets and silent lines that scream "boredom zone." Imagine interactive screens, engaging games, or even the chance to contribute to the entertainment[like Disney's famous Monster's Inc. Laugh Floor!](http://www.disneylists.com/2016/06/8-facts-secrets-monsters-inc-laugh-floor-disneys-magic-kingdom-park/) By keeping customers occupied and feeling valued, you achieve two major wins:
+Here's the key: **engagement is everything.** Ditch the impersonal paper tickets and silent lines that scream "boredom zone." Imagine interactive screens, engaging games, or even the chance to contribute to the entertainment [like Disney's famous Monster's Inc. Laugh Floor!](http://www.disneylists.com/2016/06/8-facts-secrets-monsters-inc-laugh-floor-disneys-magic-kingdom-park/) By keeping customers occupied and feeling valued, you achieve two major wins:
 
 [![everything](/images/blog/everything.png)](/demo)
 

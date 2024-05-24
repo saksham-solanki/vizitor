@@ -1,0 +1,23 @@
+<!-- Faq Section -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-11 mx-auto">
+            <h2 class="mb-5">Frequently Asked Questions</h2>
+            <div id="accordion" class="accordion faqaccordion">
+                <div class="faqcard mb-0">
+                    {{range $index, $elem := .Site.Data.faqvmsipad.items }}
+                    <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
+                        <a class="card-title">
+                            <b>{{.question}}</b>
+                        </a>
+                    </div>
+                    <div id="faq{{$index}}" class="card-body collapse clrmod" data-parent="#accordion">
+                        {{.answer | safeHTML}}
+                    </div>
+                    {{end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Faq Section Ends -->

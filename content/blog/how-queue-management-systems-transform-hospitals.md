@@ -15,39 +15,39 @@ Let's face it, visiting a hospital is rarely a pleasant experience. Between feel
 Hospitals are complex environments where a lot can happen at once. Appointments run late, emergencies arise, and staffing shortages can lead to bottlenecks. This often translates to long queues and frustrated patients. Here are some of the challenges hospitals face:
 
 
-**• Tight Budgets:** Many hospitals struggle to balance improving patient experience with keeping costs down.
+**1. Tight Budgets:** Many hospitals struggle to balance improving patient experience with keeping costs down.
 
-**• Limited Resources:** Streamlining the entire patient journey, from arrival to discharge, can be difficult with limited staff and equipment.
+**2. Limited Resources:** Streamlining the entire patient journey, from arrival to discharge, can be difficult with limited staff and equipment.
 
-**• Stressful Work Environment:** Long queues and unhappy patients create a stressful atmosphere for staff, impacting morale and productivity.
+**3. Stressful Work Environment:** Long queues and unhappy patients create a stressful atmosphere for staff, impacting morale and productivity.
 
-**• Lack of Data:** Without accurate data on patient flow, it's hard to identify areas for improvement.
+**4. Lack of Data:** Without accurate data on patient flow, it's hard to identify areas for improvement.
 
 ## How Can a Queue Management System Help?
 
 A QMS is a software and hardware solution designed to orchestrate the flow of patients throughout the hospital. It's more than just managing queues; it's about creating a smooth and efficient patient journey. Here's how:
 
-**• Virtual Queues:** Patients can check in remotely or upon arrival, eliminating the need to wait in physical lines.
+**1. Virtual Queues:** Patients can check in remotely or upon arrival, eliminating the need to wait in physical lines.
 
-**• Real-time Updates:** Keep patients informed of their place in line and estimated wait times through digital displays or SMS notifications.
+**2. Real-time Updates:** Keep patients informed of their place in line and estimated wait times through digital displays or SMS notifications.
 
-**• Appointment Management:** Schedule appointments effectively, minimize delays, and ensure patients see the right doctor at the right time.
+**3. Appointment Management:** Schedule appointments effectively, minimize delays, and ensure patients see the right doctor at the right time.
 
-**• Self-Service Kiosks:** Empower patients to check in, update information, and even make payments independently.
+**4. Self-Service Kiosks:** Empower patients to check in, update information, and even make payments independently.
 
-**• Data Collection:** Gather valuable data on patient flow to identify bottlenecks and optimize processes.
+**5. Data Collection:** Gather valuable data on patient flow to identify bottlenecks and optimize processes.
 
 ## The Benefits of a Queue Management System
 
 The advantages of implementing a QMS in hospitals are numerous. Here are some key benefits:
 
-**• Reduced Costs:** Streamlining patient flow minimizes wasted time and resources, leading to cost savings.
+**1. Reduced Costs:** Streamlining patient flow minimizes wasted time and resources, leading to cost savings.
 
-**• Improved Patient Experience:** Shorter wait times, better communication, and a more relaxed atmosphere lead to happier patients.
+**2. Improved Patient Experience:** Shorter wait times, better communication, and a more relaxed atmosphere lead to happier patients.
 
-**• Increased Staff Satisfaction:** A more efficient system reduces stress for staff, improving morale and productivity.
+**3. Increased Staff Satisfaction:** A more efficient system reduces stress for staff, improving morale and productivity.
 
-**• Data-Driven Decisions:** Data collected by the QMS helps hospitals identify areas for improvement and make data-driven decisions.
+**3. Data-Driven Decisions:** Data collected by the QMS helps hospitals identify areas for improvement and make data-driven decisions.
 
 ## Real-World Examples of Success
 

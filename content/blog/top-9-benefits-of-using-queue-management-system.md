@@ -15,28 +15,28 @@ Enter the powerful world of Queue Management Systems (QMS) and the benefits they
 
 ### Here's how a QMS can transform your business:
 
- **Reduced Wait Times & Enhanced Customer Satisfaction:**
+ **1. Reduced Wait Times & Enhanced Customer Satisfaction:**
  No more frustration for customers or wasted time for your staff. A QMS streamlines the flow of visitors, ensuring everyone gets served efficiently, leading to happier and more loyal customers.
 
-**Improved Operational Efficiency:** 
+**2. Improved Operational Efficiency:** 
 Free your staff to focus on what matters most – serving customers. A QMS automates tasks and optimizes resource allocation, boosting overall efficiency.
 
-**Customer Interaction Management:**
+**3. Customer Interaction Management:**
  Gain valuable insights into customer behavior. A QMS can track wait times, identify peak periods, and help personalize the customer journey.
 
-**Performance Management System Integration:** 
+**4. Performance Management System Integration:** 
 Align your QMS data with your performance management system for a holistic view of customer satisfaction and operational efficiency.
 
 ### Vizitor: Your All-in-One Queue Management Solution
 Our easy-to-use Vizitor system goes beyond just reducing wait times.  It integrates seamlessly with your existing operations systems, providing a comprehensive solution for:
 
-**. Queue Management:**
+**1. Queue Management:**
  Efficiently manage visitor flow and keep wait times minimal.
 
-**. Customer Interaction Management:**
+**2. Customer Interaction Management:**
  Gather valuable customer data to personalize the experience and improve satisfaction.
 
-**. Performance Management:**
+**3. Performance Management:**
 Track key metrics and identify areas for improvement across your entire operation.
 
 Make sure to let long lines define your customer experience.  Embrace the advantages of a queuing system and take your business to the next level with Vizitor, the all-in-one queue management solution.

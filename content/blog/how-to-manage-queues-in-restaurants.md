@@ -1,7 +1,7 @@
 ---
 title: How to Manage Queues in Restaurants
 date: 2024-05-13T07:47:56.000Z
-description: ""
+description: "The queue management system is used to manage queues in a restaurant in multiple ways. So to know more about this more then read our blog"
 image: /images/blog/manage queues.png
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
