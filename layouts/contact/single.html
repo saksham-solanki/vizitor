@@ -1,4 +1,107 @@
 {{ define "main" }}
+<div class="pagebanneres contact-v2">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <h1 class="bvms-size">Find out how Vizitor can help your company</h1>
+                <p class="contact-p">If you have anything to ask, feel free to send us a message </p>
+                <div class="mt-5 contactform ">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <input type="name" class="form-control" name="name" id="name" placeholder="Full Name" required>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <select class="countrySelect custom-select browser-default" id="country" name="country">
+                                        {{range .Site.Data.countryCode}}
+                                        <option value="{{.unicode}} - {{.name}}">{{.emoji}} {{.name}} ({{.unicode}})</option>
+                                        {{end}}
+                                    </select>
+                            </div>
+                            <div class="col-md-2 col-sm-2 col-xs-12 singnup-valu signup-input-ph singup-code">
+                                <div class="form-group">
+                                    <label for="message">code</label>
+                                    <input class="form-control" id="code" required value="+91">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="form-group">
+                                    <input type="number" class="form-control" name="phoneNumber" id="phoneNumber" placeholder="Phone number" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Email..." required>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="companyName" id="companyName" placeholder="Company Name" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" id="message" name="message" rows="3" placeholder="Message" required></textarea>
+                        </div>
+                        <div class="my-5">
+                            <button type="submit" value="Submit Now">Contact us</button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <img src="/images/vizitor/contact.svg" alt="contact" />
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5">
+        <div class="row ">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <p class="contact-addrs"> <b>India Office</b></p>
+                <p class="contact-addrs"> +91-7302582799</p>
+                <p class="contact-addrs">#694, Sec-82. JLPL Mohali (Punjab)-140307</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <p class="contact-addrs"><b>Canada Office</b></p>
+                <p class="contact-addrs">+1-416-639-2651</p>
+                <p class="contact-addrs">Canadian address : 2855 Markham Rd, Toronto, ON M1X 0C3</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <p class="contact-addrs"> <b>US Office</b></p>
+                <p class="contact-addrs">+1-416-639-2651</p>
+                <p class="contact-addrs">US address - 2500 Old Crow Canyon Road, San Ramon CA 94583</p>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-3">
+        <div class="row ">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <p class="contact-addrs">Email : hello@vizitorapp.com</p>
+
+                <div class="mt-3">
+                    <div style="float: left;padding-right: 10px;">
+                        <p style="color: #ED5C18;" class="contact-addrs">Follow us on</p>
+                    </div>
+                    <div class="contact-social ">
+                        <a href="https://twitter.com/vizitorapp" class="twitter"><img src="/images/vizitor/Twitter-v.svg" alt="Twitter" /></a>
+                        <a href="https://www.facebook.com/vizitorapp/" class="facebook"><img src="/images/vizitor/facebook-v.svg" alt="facebook" /></a>
+                        <a href="https://www.instagram.com/vizitorapp/?hl=en" class="instagram"><img src="/images/vizitor/instagram-v.svg" alt="instagram" /></a>
+                        <a href="https://www.linkedin.com/company/28998047/" class="linkedin"><img src="/images/vizitor/linkedin-v.svg" alt="linkedin" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5">
+        <div style="margin-top: -15px;">
+            <p class="center-content"><b>Trusted by :</b></p>
+        </div>
+        <div>{{- partial "clients.html" . -}}</div>
+    </div>
+</div>
 
 
 
