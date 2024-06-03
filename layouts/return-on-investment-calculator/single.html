@@ -1,0 +1,385 @@
+{{ define "main" }}
+    <div class="container pagebanneres">
+        <div class="calculator">
+            <div class="row ">
+                <div class="col-lg-6 col-md-6 col-12" id="left-column">
+                    <div class="scrollable-content roi-cards">
+                        <div class="card">
+                            <h2>Basic ROI</h2>
+                            <form id="basic-roi-form">
+                                <div class="form-group">
+                                    <label for="invested-amount">Invested amount (₹):</label>
+                                    <input type="number" id="invested-amount" name="invested-amount" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="returned-amount">Returned amount (₹):</label>
+                                    <input type="number" id="returned-amount" name="returned-amount" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="gain-loss">Gain or loss (₹):</label>
+                                    <input type="number" id="gain-loss" name="gain-loss" readonly>
+                                </div>
+                                <div class="form-group">
+                                    <label for="roi">ROI (%):</label>
+                                    <input type="number" id="roi" name="roi" readonly>
+                                </div>
+                                <button type="submit">Calculate</button>
+                            </form>
+                        </div>
+                        <div class="card">
+                            <h2>Annualized ROI</h2>
+                            <form id="annualized-roi-form">
+                                <div class="form-group">
+                                    <label for="annualized-roi">Annualized ROI:</label>
+                                    <input type="number" id="annualized-roi" name="annualized-roi">
+                                </div>
+                                <div class="form-group">
+                                    <label for="time-difference">Time difference (yrs):</label>
+                                    <input type="number" id="time-difference" name="time-difference">
+                                </div>
+                                <div class="form-group">
+                                    <label for="start-date">Start date:</label>
+                                    <input type="text" id="start-date" name="start-date" value="May 28, 2024" readonly>
+                                </div>
+                                <div class="form-group">
+                                    <label for="end-date">End date:</label>
+                                    <input type="text" id="end-date" name="end-date">
+                                </div>
+                                <div class="form-group">
+                                    <label for="annualized-roi-result">Annualized ROI (%):</label>
+                                    <input type="number" id="annualized-roi-result" name="annualized-roi-result"
+                                        readonly>
+                                </div>
+                                <button type="submit">Calculate</button>
+                            </form>
+                        </div>
+                        <div class="card">
+                            <h2>Comparison</h2>
+                            <form id="comparison-form">
+                                <div class="form-group">
+                                    <label for="compare-investment">Do you want to compare it to another
+                                        investment?</label>
+                                    <select id="compare-investment" name="compare-investment">
+                                        <option value="yes">Yes</option>
+                                        <option value="no" selected>No</option>
+                                    </select>
+                                </div>
+                                <button type="submit">Compare</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6" id="right-column">
+                    <div class="scrollable-content">
+                        <!-- <h3>How to Calculate ROI and Use an ROI Calculator </h3>
+                        <p>In finance, Return on Investment, commonly known as ROI, is a crucial metric used to evaluate the forecasted profitability of various investments. Whether considering stocks, real estate, employees, or even a sheep farm, ROI is a reliable starting point. Despite the existence of more complex formulas for accurately determining the rate of return, ROI remains popular for its simplicity and broad applicability. Discussions about potential investments often revolve around ROI calculations, highlighting its significance in financial decision-making.
+                        </p>
+                        <h3>What is ROI?  </h3>
+                        <p>ROI, or Return on Investment, reveals the return generated from your investments. It helps you select the best investment options based on your financial goals and risk tolerance. By evaluating the cost and potential gains, ROI assists in identifying any hidden charges that might impact your returns. ROI is typically expressed as a percentage and can be calculated using the formula:
+                        </p>
+                        <h3>ROI = (Gain - Cost) / Cost × 100</h3>
+                        <p>For investors, ROI showcases the profitability of their investments, such as mutual funds, where a positive ROI indicates gains and a negative ROI indicates losses. The goal is to pick investments that offer the highest returns over time.
+                        </p>
+                        <h3>What is an ROI Calculator?</h3>
+<p>An ROI calculator is a tool that helps you determine the profitability of your investments. The ROI calculator provides a comprehensive view of your investment's performance by entering details such as the initial investment amount, the amount returned, and the investment period. It shows the absolute return on investment, annualized return on investment, and the Compound Annual Growth Rate (CAGR).</p>
+
+<h3>How Does an ROI Calculator Work?</h3>
+<P>Understanding the difference between absolute and annualized returns is essential. The absolute return can be calculated using:</P>
+
+<p>Absolute Return = (End Value - Initial Value) / Initial Value × 100
+
+For instance, if you invest Rs 25,000 and it grows to Rs 30,000, the absolute return is:
+
+Absolute Return = (30,000 - 25,000) / 25,000 × 100 = 20%
+
+The absolute return measures performance over a specific period. To assess performance over varying periods, the annualized return is calculated with:
+
+Annualized Return = (End Value - Initial Value) / Initial Value × 100 × (1 / Holding Period)
+
+For example, if you bought a house for Rs 30 lakh in 2010 and sold it for Rs 50 lakh in 2020, the annualized return is:
+
+Annualized Return = (50,00,000 - 30,00,000) / 30,00,000 × 100 × (1 / 10) = 6.67%</p>
+
+<h3>ROI Calculation Formula</h3>
+
+<p>To accurately gauge the efficiency of investments, understanding the ROI calculation formula is vital. The formula is:
+ROI = (Gain - Cost) / Cost × 100
+
+Where:
+
+Gain is the money you earned from the investment.
+
+Cost is the money you spent on the investment.
+This formula, however, does not account for the risks associated with investments.
+Examples of ROI Calculation
+Example 1: Real Estate Investment
+If you purchase a property for $600,000 and sell it for $900,000 after three years, the ROI is:
+ROI = (900,000 - 600,000) / 600,000 × 100 = 50%
+
+Example 2: Marketing Program
+For a marketing program with a $250,000 budget yielding $200,000 in profits each year for two years:
+Total Gain = 200,000 + 200,000 = 400,000
+ROI = (400,000 - 250,000) / 250,000 × 100 = 60%
+
+Example 3: Stock Investment
+If you buy 150 shares at $12.67 each and sell them at $15.23 each after nine months:
+Total Cost = 150 × 12.67 = $1,900.50
+Total Value = 150 × 15.23 = $2,284.50
+ROI = (2,284.50 - 1,900.50) / 1,900.50 × 100 = 20.21%
+How to Use ROI Calculators
+To use an ROI calculator, enter the investment amount, the return amount, and the holding period. The calculator will display the absolute and annualized returns, helping you compare different investments and choose the most profitable ones based on your financial goals and risk tolerance.
+Advantages and Disadvantages of ROI
+Advantages of ROI
+Simplicity: Easy to calculate and understand.
+Versatility: Can be applied to various types of investments.
+Quick Assessment: Useful for quick comparisons between investment options.
+Disadvantages of ROI
+No Risk Consideration: Does not factor in investment risks.
+Time Value of Money Ignored: Does not account for the time value of money.
+Limited Insight: A higher ROI does not always mean a better investment when considering time and other factors.
+Frequently Asked Questions
+Why does the ClearTax ROI Calculator show both the annualized return and the absolute return?
+The ClearTax ROI calculator provides both metrics to give a clearer picture of investment performance over various holding periods.
+How does the ClearTax ROI Calculator help you?
+It compares returns from different investments and benchmarks, aiding in the selection of profitable projects and real estate investments.
+Is the ClearTax ROI Calculator easy to use?
+Yes, it is user-friendly and can be used from home by entering basic investment details to evaluate performance.
+How to calculate the ROI percentage?
+Subtract the initial value from the final value, divide by the initial value, and multiply by 100.
+How to calculate the ROI on real estate investment?
+Subtract the purchase price from the selling price, divide by the purchase price, and multiply by 100.
+What does a 30% ROI mean?
+A 30% ROI indicates a 30% gain on the investment. For example, a $100 investment returns $130, yielding a $30 profit.</p> -->
+
+
+
+                        <p>
+                            This is the scrollable content on the right side. You can add more text here as needed.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
+                            labore et dolore magna aliqua.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus nostrum voluptates error
+                            beatae hic. Aliquam, at nisi. Delectus, in architecto pariatur omnis iure qui quas fugiat
+                            error
+                            voluptatibus repellendus rem.
+                        </p>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nesciunt maxime eaque
+                            vero,
+                            et debitis! Praesentium obcaecati, nostrum suscipit dolore quibusdam corrupti quasi ex fugit
+                            labore magni, sint ducimus exercitationem.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat ducimus atque nihil
+                            soluta
+                            laborum inventore at mollitia dignissimos quas maxime in reprehenderit accusamus odio unde,
+                            explicabo, omnis distinctio blanditiis dicta.
+                        </p>
+                        <p>
+                            This is the scrollable content on the right side. You can add more text here as needed.
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
+                            labore et dolore magna aliqua.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum cumque,
+                            eveniet ad
+                            adipisci cupiditate repellendus dolores facilis nam ex dicta sit, incidunt, error quidem rem
+                            quibusdam? Facilis, at sed.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, voluptas sint nam at
+                            deserunt
+                            assumenda explicabo nobis quis similique laudantium vitae molestiae unde iusto labore
+                            distinctio! Ut at quam quaerat.
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam enim alias ea eligendi,
+                            eveniet,
+                            at libero minima velit, ipsum rerum laudantium et aperiam nam exercitationem temporibus sed
+                            adipisci itaque tempore?
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    /* .body{
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        overflow: hidden; 
+        
+    }  */
+
+    .calculator {
+        /* width: 80%; */
+        height: 80%;
+        display: flex;
+        flex-direction: row;
+        /* border: 1px solid #ccc; */
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .row {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    .col-md-6 {
+        flex: 1;
+        /* overflow-y: auto; */
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .scrollable-content {
+        height: 100vh;
+        overflow-y:scroll;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+    }
+
+    /* position: fixed;
+    width: 150px;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0; */
+
+    .roi-cards {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        background-color: #ffffff;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 8px;
+        /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input,
+    select {
+        width: calc(100% - 20px);
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #0056b3;
+    }
+</style>
+
+<script>
+    document.getElementById('basic-roi-form').addEventListener('submit', function (event) {
+        event.preventDefault();
+
+        const investedAmount = parseFloat(document.getElementById('invested-amount').value);
+        const returnedAmount = parseFloat(document.getElementById('returned-amount').value);
+        const gainLossInput = document.getElementById('gain-loss');
+        const roiInput = document.getElementById('roi');
+
+        if (isNaN(investedAmount) || isNaN(returnedAmount)) {
+            alert('Please enter valid numbers');
+            return;
+        }
+
+        const gainLoss = returnedAmount - investedAmount;
+        const roi = (gainLoss / investedAmount) * 100;
+
+        gainLossInput.value = gainLoss.toFixed(2);
+        roiInput.value = roi.toFixed(2);
+    });
+
+    document.getElementById('annualized-roi-form').addEventListener('submit', function (event) {
+        event.preventDefault();
+        // Perform annualized ROI calculation here
+    });
+
+    document.getElementById('comparison-form').addEventListener('submit', function (event) {
+        event.preventDefault();
+        const compareInvestment = document.getElementById('compare-investment').value;
+        alert('Comparison: ' + compareInvestment);
+    });
+
+</script>
+
+{{end}}
