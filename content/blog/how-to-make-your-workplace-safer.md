@@ -33,7 +33,7 @@ Ensuring workplace safety is not merely a legal requirement; it's a fundamental 
 
 ## How To Make Your Workplace Safer?
 
-[![](/images/blog/safety.png)](/demo) 
+[![safety](/images/blog/safety.png)](/demo) 
 
 
 Making your workplace safer involves implementing a comprehensive approach that addresses various aspects of safety, including physical, psychological, and organizational factors. Here are some strategies to enhance workplace safety:
