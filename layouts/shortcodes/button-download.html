@@ -123,9 +123,100 @@
                 {{ else if eq $formId "dbtn2" }}
 
 
-                <div>
-                    <h2>saini</h2>
+                <div class="contactform">
+                    <form id="emergencyNumbers">
+                        <div class="row mt-4">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="name2" id="name2" placeholder="Full Name">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-1">
+                            <div class="col-md-4 pr-0">
+                                <select class="countrySelect custom-select browser-default" id="country2" name="country2">
+                                    {{range .Site.Data.countryCode}}
+                                    <option value="{{.unicode}} - {{.name}}">{{.name}} {{.unicode}}</option>
+                                    {{end}}
+                                </select>
+                            </div>
+                            <div class="col-md-2 singnup-valu signup-input-ph singup-code">
+                                <div class="form-group">
+                                    <label for="code">code</label>
+                                    <input class="form-control" id="code" value="+91" readonly>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" name="phoneNumber2" id="phoneNumber2" placeholder="Phone number">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-1">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="email2" name="email2" placeholder="Email">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary" style="padding: 14px 20px;">Submit</button>
+                            </div>
+                        </div>
+                    </form>
                 </div>
+
+                <script lazyload>
+                    $(function() {
+                        $("#emergencyNumbers").on("submit", function(event) {
+
+                            event.preventDefault();
+                            var message = window.location.href;
+                            var countryCode = $("#country").val().split('-')[0].trim();
+                            var phoneNumber = $("#phoneNumber").val();
+
+                            // Check if the selected country is India
+                            if (countryCode === "+91" && phoneNumber.length > 10) {
+                                toastr.error("Phone number should not exceed 10 digits.");
+                                return;
+                            }
+
+                            var data = {
+                                name: $("#name2").val(),
+                                email: $("#email2").val(),
+                                phoneNumber: $("#country2").val().split('-')[0].trim() + $("#phoneNumber2").val(),
+                                country: $("#country2").val().split('-')[1].trim(),
+                                message: window.location.href,
+                                pdfUrl: "https://docs.google.com/spreadsheets/d/1TJEXj5qqNvZYtpVFDPk0UpOlVMVa00ewfZBjEOyBvMk/edit#gid=0",
+                            }
+                            var emergencyNumbers = JSON.stringify(data)
+                            console.log("----55555----", data)
+                            $.ajax({
+                                url: "https://v2api.vizitorapp.com/v1/contact",
+                                headers: {
+                                    'Content-Type': 'application/json',
+
+                                },
+                                type: "post",
+                                data: emergencyNumbers,
+                                success: function(d) {
+                                    $('input[name=email2]').val("")
+                                    $('input[name=name2]').val("")
+                                    $('input[name=phoneNumber2]').val("")
+                                    if (d) {
+                                        console.log("dddd--ddd---dd", d)
+                                        toastr.success(d.message);
+                                        window.location = "/contact-submitted";
+                                    }
+                                },
+                                error: function(e) {
+                                    console.log("eeee--eee---eee", e)
+                                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                                    toastr.error(errorMessage);
+                                }
+                            });
+                        });
+                    })
+                </script>
 
                 {{ end }}
 

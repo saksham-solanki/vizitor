@@ -1,5 +1,5 @@
 ---
-title: "10 Easy Productivity Hacks to Boost Your Efficiency"
+title: "10 Easy productivity hacks to boost your efficiency"
 date: 2024-06-04T07:02:00.000Z
 description: "Boost your efficiency with these 10 easy productivity hacks! Download our free PDF guide and start transforming your daily routine today."
 image: /images/blog/productivity-hacks-checklist1.png
