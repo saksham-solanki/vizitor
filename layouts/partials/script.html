@@ -1120,46 +1120,6 @@
 </script>
 
 <!-- --------------------------blog Form api---------------------------------------- -->
-<!-- <script>
-    $(function () {
-        $("#blogForm").on("submit", function (event) {
-            event.preventDefault();
-            var message = window.location.href;
-            // alert(loc)
-            var data = {
-                name: $("#name").val(),
-                email: $("#email").val(),
-                phoneNumber: $("#phoneNumber").val(),
-                message: window.location.href,
-            }
-            console.log("data---", data)
-            var blogForm = JSON.stringify(data)
-            $.ajax({
-                url: "https://v2api.vizitorapp.com/v1/contact",
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                type: "post",
-                data: blogForm,
-                success: function (d) {
-                    $('input[name=email]').val("")
-                    $('input[name=name]').val("")
-                    $('input[name=phoneNumber]').val("")
-                    if (d) {
-                        console.log("dddd--ddd---dd", d)
-                        toastr.success(d.message);
-                        window.location = "/signup";
-                    }
-                },
-                error: function (e) {
-                    console.log("eeee--eee---eee", e)
-                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
-                    toastr.error(errorMessage);
-                }
-            });
-        });
-    })
-</script> -->
 
 <script lazyload>
     $(function() {
@@ -1831,3 +1791,5 @@
   	} );
 });
 </script> -->
+
+<!-- -------------------------------------Download pdf blogs------------------------------- -->

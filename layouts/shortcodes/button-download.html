@@ -1,0 +1,138 @@
+{{$heading := .Get "heading" }} {{$formId := .Get "formid" | lower }} {{$btnpos := .Get "postion" | default "left" }}
+
+<script src="/js/jquery.js"></script>
+<script src="/js/jqueryui.js"></script>
+<script src="/js/bootstrap.js"></script>
+<script src="/js/master.js" lazyload></script>
+<script src='{{ "/owlcarousel/owl.carousel.js" | absURL }}'></script>
+
+<div class="mb-4 mt-4 {{with $btnpos}} d-block text-{{.}}{{end}}">
+    <button type="button" class="btn btn-arrow but-download" data-toggle="modal" data-target="#{{replace $formId " " "- " }}">
+        {{.Inner | default "Download Now"}}
+    </button>
+</div>
+
+<!-- Modal HTML Markup -->
+<div id="{{replace $formId " " "- " }}" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header" style="padding: 0px 10px 0px 10px;border-bottom: 0px solid #dee2e6;justify-content: center;">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="position: absolute; right: 10px; top: 10px; color: #ed5c18;">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" style="margin-right: 40px;">{{$heading}}</h4>
+            </div>
+            <div class="modal-body pl-5 pr-5 pb-5">
+                {{ if eq $formId "dbtn1" }}
+
+                <div class="contactform">
+                    <form id="hacksChecklist">
+                        <div class="row mt-4">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="name1" id="name1" placeholder="Full Name">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-1">
+                            <div class="col-md-4 pr-0">
+                                <select class="countrySelect custom-select browser-default" id="country1" name="country1">
+                                    {{range .Site.Data.countryCode}}
+                                    <option value="{{.unicode}} - {{.name}}">{{.name}} {{.unicode}}</option>
+                                    {{end}}
+                                </select>
+                            </div>
+                            <div class="col-md-2 singnup-valu signup-input-ph singup-code">
+                                <div class="form-group">
+                                    <label for="code">code</label>
+                                    <input class="form-control" id="code" value="+91" readonly>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" name="phoneNumber1" id="phoneNumber1" placeholder="Phone number">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-1">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="email1" name="email1" placeholder="Email">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary" style="padding: 14px 20px;">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <script lazyload>
+                    $(function() {
+                        $("#hacksChecklist").on("submit", function(event) {
+
+                            event.preventDefault();
+                            var message = window.location.href;
+                            var countryCode = $("#country").val().split('-')[0].trim();
+                            var phoneNumber = $("#phoneNumber").val();
+
+                            // Check if the selected country is India
+                            if (countryCode === "+91" && phoneNumber.length > 10) {
+                                toastr.error("Phone number should not exceed 10 digits.");
+                                return;
+                            }
+
+                            var data = {
+                                name: $("#name1").val(),
+                                email: $("#email1").val(),
+                                phoneNumber: $("#country1").val().split('-')[0].trim() + $("#phoneNumber1").val(),
+                                country: $("#country1").val().split('-')[1].trim(),
+                                message: window.location.href,
+                                pdfUrl: "https://drive.google.com/file/d/1FfJxlSjj2XPVjp5qXJjgNPml86ru_PIW/view",
+                            }
+                            var hacksChecklist = JSON.stringify(data)
+                            console.log("----55555----", data)
+                            $.ajax({
+                                url: "https://v2api.vizitorapp.com/v1/contact",
+                                headers: {
+                                    'Content-Type': 'application/json',
+
+                                },
+                                type: "post",
+                                data: hacksChecklist,
+                                success: function(d) {
+                                    $('input[name=email1]').val("")
+                                    $('input[name=name1]').val("")
+                                    $('input[name=phoneNumber1]').val("")
+                                    if (d) {
+                                        console.log("dddd--ddd---dd", d)
+                                        toastr.success(d.message);
+                                        window.location = "/contact-submitted";
+                                    }
+                                },
+                                error: function(e) {
+                                    console.log("eeee--eee---eee", e)
+                                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                                    toastr.error(errorMessage);
+                                }
+                            });
+                        });
+                    })
+                </script>
+
+                {{ else if eq $formId "dbtn2" }}
+
+
+                <div>
+                    <h2>saini</h2>
+                </div>
+
+                {{ end }}
+
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
