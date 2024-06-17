@@ -42,7 +42,7 @@ Meeting room reservation software is available in various forms, including stand
 
 ## What Is the Purpose of the Meeting Room Reservation System?
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXddyHSbJpq4D-GGhl95skAi1-rIG9T6W2H5uz_7zmFqY77ysoKls2WwpsvmAvsEuq28p9cYS6GMS38hhKOYgO0ikcLWWDpqsjXESvujYeVnN32OKcHnhmgOY_Ua_d2sMqr8si6u6Z9TQ4x5VXUN2q6ThdU8?key=TnVHMjzUn9RjmO1-sr7Fog)
+![Purpose of the Meeting Room Reservation System](https://lh7-us.googleusercontent.com/docsz/AD_4nXddyHSbJpq4D-GGhl95skAi1-rIG9T6W2H5uz_7zmFqY77ysoKls2WwpsvmAvsEuq28p9cYS6GMS38hhKOYgO0ikcLWWDpqsjXESvujYeVnN32OKcHnhmgOY_Ua_d2sMqr8si6u6Z9TQ4x5VXUN2q6ThdU8?key=TnVHMjzUn9RjmO1-sr7Fog "What Is the Purpose of the Meeting Room Reservation System?")
 
 A meeting room reservation system serves several key purposes within an organization:
 
