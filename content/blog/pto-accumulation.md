@@ -43,10 +43,10 @@ Paid Time Off (PTO) accrual is a system that allows employees to earn and accumu
 
 ## How PTO Accrual Works
 
-1. Accrual Rate: The rate at which employees earn PTO is determined by company policy. For example, an employee might earn 1.5 hours of PTO for every 40 hours worked.
-2. Carryover Policies: Some companies allow employees to carry over unused PTO to the next year, while others may have a "use it or lose it" policy where unused PTO is forfeited at the end of the year.
-3. Caps on Accrual: To prevent excessive accumulation of unused PTO, many organizations set a cap on the maximum amount of PTO an employee can accrue.
-4. Usage: Employees can use accrued PTO for various purposes, such as vacations, personal days, or illness, depending on company policies.
+1. **Accrual Rate:** The rate at which employees earn PTO is determined by company policy. For example, an employee might earn 1.5 hours of PTO for every 40 hours worked.
+2. **Carryover Policies:** Some companies allow employees to carry over unused PTO to the next year, while others may have a "use it or lose it" policy where unused PTO is forfeited at the end of the year.
+3. **Caps on Accrual:** To prevent excessive accumulation of unused PTO, many organizations set a cap on the maximum amount of PTO an employee can accrue.
+4. **Usage:** Employees can use accrued PTO for various purposes, such as vacations, personal days, or illness, depending on company policies.
 
 ## Example of PTO Accrual Calculation
 
@@ -58,12 +58,12 @@ Imagine an employee earns 1.5 hours of PTO for every 40 hours worked. If the emp
 
 Implementing a Paid Time Off (PTO) policy is a significant decision that can impact various aspects of your business, from employee satisfaction to overall productivity. Understanding whether PTO is right for your business involves evaluating its potential benefits, challenges, and how it aligns with your company's culture and operational needs.
 
-Benefits of Implementing PTO
+**Benefits of Implementing PTO**
 
-* Enhanced Employee Well-being: PTO allows employees to take necessary breaks to recharge, leading to improved mental and physical health. This can result in higher levels of job satisfaction and reduced burnout.
-* Increased Productivity: Well-rested employees are more focused and productive. By ensuring your team has the opportunity to take time off, you can maintain a high level of efficiency and performance.
-* Attracting and Retaining Talent: A competitive PTO policy can be a strong selling point when recruiting new talent. It demonstrates that your company values work-life balance, which can help retain current employees and attract top candidates.
-* Flexibility and Autonomy: PTO provides employees with the flexibility to use their time off as they see fit, whether for vacations, personal matters, or illness. This autonomy can boost morale and foster a sense of trust and respect between employees and management.
+* **Enhanced Employee Well-being:** PTO allows employees to take necessary breaks to recharge, leading to improved mental and physical health. This can result in higher levels of job satisfaction and reduced burnout.
+* **Increased Productivity:** Well-rested employees are more focused and productive. By ensuring your team has the opportunity to take time off, you can maintain a high level of efficiency and performance.
+* **Attracting and Retaining Talent:** A competitive PTO policy can be a strong selling point when recruiting new talent. It demonstrates that your company values work-life balance, which can help retain current employees and attract top candidates.
+* **Flexibility and Autonomy:** PTO provides employees with the flexibility to use their time off as they see fit, whether for vacations, personal matters, or illness. This autonomy can boost morale and foster a sense of trust and respect between employees and management.
 
 Consider the example of HubSpot, a company known for its strong culture and employee benefits. HubSpot offers unlimited PTO, allowing employees to take as much time off as they need, provided their work is covered and their manager approves. 
 
