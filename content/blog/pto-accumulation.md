@@ -157,9 +157,9 @@ There are 24 pay periods in a Calendar Year.
 
 * Calculation: PTO Earned per Pay Period = 120 hours / 24 pay periods = 5 hours of PTO per pay period
 
-![Understanding PTO Accrual]( "What is PTO Accrual?")
-
 ## **Easily Track PTO Accrual With Vizitor**
+
+![PTO Accrual With Vizitor](/images/blog/pto-accum.webp "Easily Track PTO Accrual With Vizitor")
 
 At Vizitor, we believe in offering a fair and transparent PTO policy. Here's how our PTO accrual system works:
 
