@@ -58,7 +58,7 @@ While the shift toa paperless environment requires some initial effort, the long
 
 ## Types of Paperless Solutions
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfQUdlvsAq6h1Ci3OvlxBoTQBhmQJF6Xy-WJJ3h7fGT8SDlJAuD29VhHKt5gXQ1Ae_uOwhl4Z_nBfeosqcCDYBNl857F-u_JStfnd-99rK3Swqvitk7SLdw4k7HbwFZq6kmXmIMlSSTcxAZT0HAwNm0PW97?key=K22yUlDG6qGpSXuTYLWlXg)
+![Types of Paperless Solutions](https://lh7-us.googleusercontent.com/docsz/AD_4nXfQUdlvsAq6h1Ci3OvlxBoTQBhmQJF6Xy-WJJ3h7fGT8SDlJAuD29VhHKt5gXQ1Ae_uOwhl4Z_nBfeosqcCDYBNl857F-u_JStfnd-99rK3Swqvitk7SLdw4k7HbwFZq6kmXmIMlSSTcxAZT0HAwNm0PW97?key=K22yUlDG6qGpSXuTYLWlXg "What Are The Types of Paperless Solutions?")
 
 Many types of paperless solutions can help individuals and organizations reduce their use of paper. 
 
