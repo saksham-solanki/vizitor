@@ -54,7 +54,7 @@ Imagine an employee earns 1.5 hours of PTO for every 40 hours worked. If the emp
 
 ## Is Paid Time Off Right For Your Business?
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfmvUK5TFDPR4Y-9qJHpAkeex7BWkXZNTtgdtXd2zHZ52uvTL6XQyWxQ0ysk-qycA3Heod-r9q7ZUW87TmllEROIF0NrrK-ZFhYO4o-SIpo5OdFEr5lUOy10crJYCgRpM6YBtiUByLD11LRsj3mtqC0BClD?key=wQkyx-mzjfzEyOahxicoKg)
+![Paid Time Off For Your Business](https://lh7-us.googleusercontent.com/docsz/AD_4nXfmvUK5TFDPR4Y-9qJHpAkeex7BWkXZNTtgdtXd2zHZ52uvTL6XQyWxQ0ysk-qycA3Heod-r9q7ZUW87TmllEROIF0NrrK-ZFhYO4o-SIpo5OdFEr5lUOy10crJYCgRpM6YBtiUByLD11LRsj3mtqC0BClD?key=wQkyx-mzjfzEyOahxicoKg " Is Paid Time Off Right For Your Business?")
 
 Implementing a Paid Time Off (PTO) policy is a significant decision that can impact various aspects of your business, from employee satisfaction to overall productivity. Understanding whether PTO is right for your business involves evaluating its potential benefits, challenges, and how it aligns with your company's culture and operational needs.
 
