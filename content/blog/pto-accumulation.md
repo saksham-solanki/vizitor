@@ -183,26 +183,26 @@ Vizitor not only excels in providing transparent PTO benefits but also offers a 
 
 ## Frequently Asked Questions
 
-## How Does Accrued Paid Time Off Work?
+### How Does Accrued Paid Time Off Work?
 
 Accrued Paid Time Off (PTO) works by allowing employees to earn PTO incrementally based on the hours they work or their tenure with the company, accumulating over time.
 
-## Are Accrued Time Off and Outstanding Time Off the Same?
+### Are Accrued Time Off and Outstanding Time Off the Same?
 
 No, accrued time off is the PTO earned but not yet used, while outstanding time off typically refers to the total PTO balance available, including both accrued and unused time.
 
-## What’s the Difference Between Lump-Sum and Accrued PTO?
+### What’s the Difference Between Lump-Sum and Accrued PTO?
 
 Lump-sum PTO is granted all at once at the beginning of a period, while accrued PTO is earned gradually over time based on hours worked or length of service.
 
-## How does PTO Accrue for full-time employees?
+### How does PTO Accrue for full-time employees?
 
 Full-time employees usually accrue PTO based on the company's accrual policy, which might be per hour worked, per pay period, or annually.
 
-## What happens to PTO hours when an employee leaves the company?
+### What happens to PTO hours when an employee leaves the company?
 
 When an employee leaves the company, accrued but unused PTO hours may be paid out, depending on the company’s policy and local labor laws.
 
-## How do you calculate the number of PTO hours an employee has?
+### How do you calculate the number of PTO hours an employee has?
 
 To calculate the number of PTO hours, multiply the employee’s accrual rate by the total number of hours worked or the duration of their employment.
