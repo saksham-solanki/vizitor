@@ -158,7 +158,7 @@ Optix, developed by ShareDesk, isn't just coworking management software—it's a
 
  A fully integrated system for coworking spaces
 
-andcards is one of the fully integrated and flexible coworking softwares built to operate user-friendly coworking spaces and flexible offices.andards is stable and reliable providing a seamless user experience without the need to troubleshoot or contact support. andcards is a user-friendly, straightforward platform including various functional features providing the best services to its customers and is focused on achieving customer satisfaction. 
+Andcards is one of the fully integrated and flexible coworking softwares built to operate user-friendly coworking spaces and flexible offices.andards is stable and reliable providing a seamless user experience without the need to troubleshoot or contact support. andcards is a user-friendly, straightforward platform including various functional features providing the best services to its customers and is focused on achieving customer satisfaction. 
 
 **Key features of andcards are:**
 
