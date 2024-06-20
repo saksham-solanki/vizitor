@@ -131,24 +131,24 @@ Optix, developed by ShareDesk, isn't just coworking management software—it's a
 
 **Key Features of Optix:**
 
-*  **Effortless Operations Management**: 
-   Handle day-to-day tasks with ease, keeping your workspace running smoothly.
-*  **Performance Tracking**: 
-   Measure key metrics to understand how your space is performing and identify areas for improvement.
-*  **Revenue Growth**: 
+* **Effortless Operations Management**: 
+  Handle day-to-day tasks with ease, keeping your workspace running smoothly.
+* **Performance Tracking**: 
+  Measure key metrics to understand how your space is performing and identify areas for improvement.
+* **Revenue Growth**: 
   Utilize Optix's tools and insights to maximize revenue opportunities and drive business growth.
-*  **Brand Enhancement**: 
-   Elevate your brand with Optix's customizable features, ensuring a unique and memorable experience for your members.
+* **Brand Enhancement**: 
+  Elevate your brand with Optix's customizable features, ensuring a unique and memorable experience for your members.
 * **Mobile Connectivity**: 
   Optix's white-labeled apps allow users to connect with coworking spaces right from their mobile devices, offering convenience and flexibility.
 
   ### **Additional Features**
-*  **Booking Management**: 
+* **Booking Management**: 
   Streamline the booking process for both members and guests, ensuring efficient space utilization.
-*  **Invoicing**: 
+* **Invoicing**: 
   Simplify billing and invoicing processes, saving time and reducing administrative overhead.
-*  **Member-to-Member Messaging**: 
-   Foster collaboration and community building with built-in messaging capabilities.
+* **Member-to-Member Messaging**: 
+  Foster collaboration and community building with built-in messaging capabilities.
 * **Support CRM**: 
    Provide exceptional customer support with Optix's integrated CRM functionalities, ensuring member satisfaction and retention.
 
@@ -158,21 +158,23 @@ Optix, developed by ShareDesk, isn't just coworking management software—it's a
 
  A fully integrated system for coworking spaces
 
-Andcards is one of the fully integrated and flexible coworking softwares built to operate user-friendly coworking spaces and flexible offices.andards is stable and reliable providing a seamless user experience without the need to troubleshoot or contact support. andcards is a user-friendly, straightforward platform including various functional features providing the best services to its customers and is focused on achieving customer satisfaction. 
+Andcards is one of the fully integrated and flexible coworking softwares built to operate user-friendly coworking spaces and flexible offices. Andards is stable and reliable providing a seamless user experience without the need to troubleshoot or contact support. Andcards is a user-friendly, straightforward platform including various functional features providing the best services to its customers and is focused on achieving customer satisfaction. 
 
-**Key features of andcards are:**
+### **Key features of Andcards are:**
 
-**• Meeting room booking**
+Booking System:Members can book meeting rooms, hot desks, and other resources easily through the platform. Real-time availability and instant booking confirmations. 
 
-**• Desk booking**
+Membership Management:Manage member profiles, membership plans, and access rights. Automated billing and invoicing for seamless financial management. 
 
-**• Reporting**
+Community Engagement:Community feed and event management to foster interaction and networking among members. Members can post updates, events, and announcements. 
 
-**• Analytics**
+Payments and Invoicing:Integrated payment gateways for hassle-free transactions. Automated invoicing and billing cycles. 
 
-**• Invoicing**
+Resource Management:Efficient management of office resources like printers, lockers, and more. Tracking and reporting usage to optimize resource allocation. 
 
-### [4. Engage Apps](https://engageapps.work/)
+White-Label Customization:Custom branding options to match the software with the coworking space’s brand identity. Personalized member portal and mobile app appearance 
+
+## [4. Engage Apps](https://engageapps.work/)
 
 Empower Your Work Space
 
