@@ -87,11 +87,11 @@ We've compiled a selection of top-notch coworking software options for you to ex
 
 ![Coworking Software Solutions](/images/blog/vizitor.png "Vizitor Is The Best Coworking Software Solutions")
 
-**Your Complete Coworking Solution**
+### **Your Complete Coworking Solution**
 
 At Vizitor, we understand the needs of modern coworking spaces. That's why we offer an **all-in-one solution** designed to streamline your operations and enhance the coworking experience for both members and guests.
 
-**Why Choose Vizitor?**
+### **Why Choose Vizitor?**
 
 With Vizitor, you get more than just a visitor management system. Our comprehensive suite of features includes:
 
@@ -114,7 +114,7 @@ With Vizitor, you get more than just a visitor management system. Our comprehens
 * **Detailed Analytics and Reporting**: 
   Gain valuable insights into visitor traffic, space utilization, and more with our detailed analytics and reporting tools.
 
-**Why It Matters**
+### **Why It Matters**
 
 * **Enhanced Efficiency**: 
   With Vizitor, you can streamline operations and eliminate manual processes, saving time and resources.
@@ -126,6 +126,8 @@ With Vizitor, you get more than just a visitor management system. Our comprehens
   Our detailed analytics and reporting tools empower you to make informed decisions about space utilization, member engagement, and more.
 
 ## 2.[ Optix](https://www.optixapp.com/)
+
+![Best Coworking Software](/images/blog/optix.jpeg "Look Out For Optix Coworking Software")
 
 **Intour Complete Coworking Management Solution**
 
