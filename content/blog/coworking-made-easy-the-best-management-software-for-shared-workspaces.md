@@ -162,17 +162,12 @@ Andcards is one of the fully integrated and flexible coworking softwares built t
 
 ### **Key features of Andcards are:**
 
-Booking System:Members can book meeting rooms, hot desks, and other resources easily through the platform. Real-time availability and instant booking confirmations. 
-
-Membership Management:Manage member profiles, membership plans, and access rights. Automated billing and invoicing for seamless financial management. 
-
-Community Engagement:Community feed and event management to foster interaction and networking among members. Members can post updates, events, and announcements. 
-
-Payments and Invoicing:Integrated payment gateways for hassle-free transactions. Automated invoicing and billing cycles. 
-
-Resource Management:Efficient management of office resources like printers, lockers, and more. Tracking and reporting usage to optimize resource allocation. 
-
-White-Label Customization:Custom branding options to match the software with the coworking space’s brand identity. Personalized member portal and mobile app appearance 
+* **Booking System:** Members can book meeting rooms, hot desks, and other resources easily through the platform. Real-time availability and instant booking confirmations. 
+* **Membership Management:**Manage member profiles, membership plans, and access rights. Automated billing and invoicing for seamless financial management. 
+* **Community Engagement:**Community feed and event management to foster interaction and networking among members. Members can post updates, events, and announcements. 
+* **Payments and Invoicing:**Integrated payment gateways for hassle-free transactions. Automated invoicing and billing cycles. 
+* **Resource Management:**Efficient management of office resources like printers, lockers, and more. Tracking and reporting usage to optimize resource allocation. 
+* **White-Label Customization:**Custom branding options to match the software with the coworking space’s brand identity. Personalized member portal and mobile app appearance 
 
 ## [4. Engage Apps](https://engageapps.work/)
 
