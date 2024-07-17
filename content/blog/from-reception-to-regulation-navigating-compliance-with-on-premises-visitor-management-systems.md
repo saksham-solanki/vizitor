@@ -5,7 +5,7 @@ description: On-Premises Visitor Management System (VMS) is a software solution
   designed to manage and track visitors within an organization's physical
   premises. Let's understand more today
 date: 2024-07-07T19:09:25.792Z
-draft: true
+draft: false
 authors:
   - Rebekah Pais
 image: /images/blog/on-premises-visitor-management-systems.jpg

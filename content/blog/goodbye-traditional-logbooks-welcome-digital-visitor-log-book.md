@@ -3,7 +3,7 @@ title: Goodbye Traditional logbooks, Welcome Digital Visitor Log Book
 description: Let us understand why using a digital visitor logbook is smart for
   improving security, saving time, and staying current in the digital world.
 date: 2024-07-08T05:45:09.624Z
-draft: true
+draft: false
 authors:
   - Rebekah Pais
 image: /images/blog/digital-visitor-logbook.jpg

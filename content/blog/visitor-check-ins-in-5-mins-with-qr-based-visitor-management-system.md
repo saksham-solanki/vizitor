@@ -4,7 +4,7 @@ description: Let's understand the benefits, features, and real-world
   applications of QR-based visitor management, and discover why Vizitor is the
   best choice for your business
 date: 2024-07-08T05:11:47.281Z
-draft: true
+draft: false
 authors:
   - Rebekah Pais
 image: /images/blog/qr-based-visitor-management-system.jpg

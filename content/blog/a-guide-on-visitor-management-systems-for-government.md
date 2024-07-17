@@ -3,7 +3,7 @@ title: A Guide On Visitor Management Systems for Government
 description: Let's look into the importance of Visitor Management Systems for
   government entities, including the defense and aerospace sectors in one guide.
 date: 2024-07-08T05:04:15.834Z
-draft: true
+draft: false
 authors:
   - Rebekah Pais
 image: /images/blog/a-guide-on-visitor-management-systems-for-government.jpg
