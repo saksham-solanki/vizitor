@@ -74,9 +74,7 @@ hr {
 .box textarea,
 .box-touchless,
 .signup-shadow,
-.slick-
-
-,
+.slick-,
 ::after,
 ::before {
     box-sizing: border-box
@@ -1340,8 +1338,23 @@ a:not([href]):not([tabindex]):hover {
     margin-bottom: -5px
 }
 
-.innercontentarea ul {
-    color: #2f313b
+.innercontentarea ul li {
+    font-weight: 500 !important;
+    font-size: 18px;
+    line-height: 32px !important;
+    color: #687888;
+    margin-bottom: 20px;
+    font-family: Satoshi-Medium !important;
+}
+
+.innercontentarea p b,
+strong {
+    font-weight: bolder;
+}
+
+.innercontentarea .dropdown-menu,
+li {
+    list-style: disc;
 }
 
 .footbtm p a:hover {
@@ -5234,7 +5247,10 @@ body .no-padding {
     font-size: 27px;
 }
 
+
 /* ---------- */
+
+
 /* #slider-boost {
     display: inline-block;
     width: 30px;
@@ -5244,6 +5260,8 @@ body .no-padding {
     background-color: #ed5c18;
     position: absolute;
     /* z-index: 1200; */
-    /* bottom: 0;
+
+
+/* bottom: 0;
     transition: all 0.4s linear;
 } */

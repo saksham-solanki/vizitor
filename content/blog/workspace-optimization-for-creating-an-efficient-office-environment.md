@@ -49,7 +49,7 @@ In conclusion, optimizing your office space is vital for fostering a productive,
 
 Optimizing your office layout is crucial for creating a productive, efficient, and comfortable work environment. Here’s how you can do it effectively:
 
-### **1. Open vs. Private Spaces**
+### 1. Open vs. Private Spaces
 
 A study by Harvard Business School found that open offices can reduce face-to-face interactions by 70% and increase email communication by 50%. Balancing open and private spaces can mitigate these effects.
 
@@ -261,7 +261,7 @@ Improving your office environment by focusing on natural lighting, effective dec
 
 By investing in continuous learning and leadership training, you can cultivate a well-skilled and motivated workforce that contributes to a positive and productive office environment.
 
-#### 1. Continuous Learning Opportunities
+### 1. Continuous Learning Opportunities
 
 **Importance of Ongoing Training:**
 
