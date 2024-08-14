@@ -3,7 +3,7 @@ title: Top 10 Clock-In Clock-Out Apps for Efficient Time Management (2024)
 date: 2024-02-21T09:21:36.000Z
 description: " Top 10 Clock-In Clock-Out Apps for Efficient Time Management (2024) · 1. Vizitor: · 2. Buddy Punch: · 3. Connecteam: · 4. Hubstaff: · 5. QuickBooks ..."
 image: /images/blog/clock.webp
-authors: ["Ritika Bhagat"]
+authors: ["Rebekah Pais"]
 authorsImage: /images/authors/author.svg
 keywords:
 - workforce management software, 
