@@ -189,10 +189,15 @@ Did you know that businesses using [Vizitor](https://www.vizitorapp.com/) report
 
 ### Benefits of Choosing Vizitor
 
+
 1. Enhanced Security: Vizitor's state-of-the-art features like facial recognition and real-time alerts ensure a high level of security, protecting your premises from unauthorized access.
+
 2. Improved Efficiency: The system automates and streamlines the check-in process, reducing wait times and minimizing errors, which boosts overall operational efficiency.
+
 3. Comprehensive Data Management: Vizitor provides robust tools for tracking and analyzing visitor data, offering valuable insights and improving decision-making.
+
 4. Seamless Integration: The system integrates effortlessly with existing security infrastructure and digital tools, providing a cohesive and effective solution.
+
 5. User-Friendly Experience: With an intuitive interface, Vizitor is easy to use for both staff and visitors, ensuring a smooth and efficient experience.
 
 Choosing Vizitor means investing in a solution that enhances security, improves efficiency, and offers valuable insights, as demonstrated by successful implementations at Hard Rock Cafe, Snapdeal, and Retina Centre.
