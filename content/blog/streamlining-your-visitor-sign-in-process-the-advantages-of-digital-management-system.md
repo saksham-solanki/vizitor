@@ -4,7 +4,7 @@ title: "Streamlining Your Visitor Sign-in Process: The Advantages of Digital
 description: Elevate security & efficiency with digital visitor management
   system, tracking and managing visitor activity electronically
 date: 2023-01-03T13:12:28.000Z
-draft: true
+draft: false
 authors:
   - Ritika Bhagat
 image: /images/blog/a-guide-to-the-advantages-of-digital-visitor-management-system.png

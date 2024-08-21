@@ -2,7 +2,7 @@
 description: Discover how Vizitor revolutionizes smart office with smart space
   management solutions, technologies, and tools and boosts efficiency and
   connectivity
-draft: true
+draft: false
 authors:
   - Anjali khurana
 keywords:

@@ -1338,14 +1338,15 @@ a:not([href]):not([tabindex]):hover {
     margin-bottom: -5px
 }
 
-.innercontentarea ul li {
+
+/* .innercontentarea ul li {
     font-weight: 500 !important;
     font-size: 18px;
     line-height: 32px !important;
     color: #687888;
     margin-bottom: 20px;
     font-family: Satoshi-Medium !important;
-}
+} */
 
 .innercontentarea p b,
 strong {
@@ -1354,7 +1355,7 @@ strong {
 
 .innercontentarea .dropdown-menu,
 li {
-    list-style: disc;
+    color: #687888;
 }
 
 .footbtm p a:hover {
