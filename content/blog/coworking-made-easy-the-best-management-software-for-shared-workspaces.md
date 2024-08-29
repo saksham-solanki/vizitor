@@ -174,14 +174,22 @@ Vizitor's [Touchless Visitor Management System](https://www.vizitorapp.com/visit
 
 
 
-* Instant Notifications: The system provides real-time notifications to hosts when visitors arrive, ensuring seamless communication and timely acknowledgements.
-* Pre-Registrations: Vizitor enables pre-registration of visitors, allowing for a smoother and expedited check-in process, reducing wait times, and enhancing overall efficiency.
-* Member Directory: The system includes a member directory, making it easier for hosts and other members to identify and connect with visitors, fostering a sense of community and collaboration.
-* Easy Badge Printing: Vizitor facilitates easy printing of visitor badges, enhancing security and providing a professional and welcoming experience for visitors.
-* Get Registered: Vizitor's system streamlines the visitor registration process, making it quick and convenient for guests to sign in, reducing administrative burden and improving the visitor experience.
-* Image Capturing: The system captures visitor images, adding an extra layer of security and identification, and ensuring a visual record of visitor interactions.
-* Host Notification: Hosts are promptly notified of their visitors' arrival, allowing them to greet guests promptly, improving overall visitor experience and satisfaction.
-* Know Your Visitor: [Vizitor](https://www.vizitorapp.com/) system helps in understanding and tracking visitor patterns, providing valuable insights for workspace management and security purposes.
+
+**Instant Notifications:** The system provides real-time notifications to hosts when visitors arrive, ensuring seamless communication and timely acknowledgements.
+
+**Pre-Registrations:** Vizitor enables pre-registration of visitors, allowing for a smoother and expedited check-in process, reducing wait times, and enhancing overall efficiency.
+
+**Member Directory:** The system includes a member directory, making it easier for hosts and other members to identify and connect with visitors, fostering a sense of community and collaboration.
+
+**Easy Badge Printing:** Vizitor facilitates easy printing of visitor badges, enhancing security and providing a professional and welcoming experience for visitors.
+
+**Get Registered:** Vizitor's system streamlines the visitor registration process, making it quick and convenient for guests to sign in, reducing administrative burden and improving the visitor experience.
+
+**Image Capturing:** The system captures visitor images, adding an extra layer of security and identification, and ensuring a visual record of visitor interactions.
+
+**Host Notification:** Hosts are promptly notified of their visitors' arrival, allowing them to greet guests promptly, improving overall visitor experience and satisfaction.
+
+**Know Your Visitor:** [Vizitor](https://www.vizitorapp.com/) system helps in understanding and tracking visitor patterns, providing valuable insights for workspace management and security purposes.
 
 
 

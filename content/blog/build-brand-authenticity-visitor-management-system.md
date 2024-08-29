@@ -3,7 +3,7 @@ title: How Visitor Management System Improves Workplace Security
 description: visitor registration and tracking with an advanced visitor
   management system? Check out how Vizitor's solution is the best choice.
 date: 2024-05-23T08:43:00.000Z
-draft: true
+draft: false
 authors:
   - Rebekah Pais
 image: /images/blog/digital-india.jpg

@@ -3,16 +3,16 @@ title: 7 Reasons Why You Should Shift to Cloud-Based Visitor Management System
 description: Discover the advantages of cloud-based Visitor Management System
   with check-ins, enhance security, access real-time data, with our guide.
 date: 2019-06-24T17:19:03.000Z
-draft: true
+draft: false
 authors:
   - Rebekah Paise
 image: /images/blog/benefits-of-shifting-to-a-cloud-based-visitor-management-system.png
 authorsImage: /images/authors/author.svg
 ---
-## \
+## 
 **How Does A Cloud-Based Visitor Management System Function?**
 
-\
+
 A cloud-based Visitor Management System (VMS) functions through a combination of software, hardware, and cloud infrastructure to streamline the visitor check-in process and enhance overall security. Here's a breakdown of how it typically works:
 
 
