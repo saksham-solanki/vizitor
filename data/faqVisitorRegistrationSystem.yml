@@ -1,0 +1,27 @@
+items:  
+  - question: "What is a Visitor Registration System?"
+    answer: "A Visitor Registration System is a tool used by businesses to manage and track visitors efficiently. It streamlines the check-in process, enhances security, and helps communicate with hosts. Visitors typically use a tablet or kiosk to enter their details, receive a badge, and notify their host automatically."
+  - question: "How does a Visitor Registration System work?"
+    answer: "When a visitor arrives, they check in using a tablet or kiosk where they enter their personal information and the name of the person they are visiting. The system prints a visitor badge and sends a notification to the host. It also tracks visitor information in real-time and keeps records of their visit."
+  - question: "What are the benefits of using a Visitor Registration System?"
+    answer: " <p>Using a Visitor Registration System offers several benefits:</p>
+              <p><strong>Faster and more efficient check-ins.</strong></p>
+              <p><strong>Improved security and tracking of who is on-site.</strong></p>
+              <p><strong>Automated notifications to hosts.</strong></p>
+              <p><strong>Enhanced visitor experience with quick processing and easy check-in.</strong></p>
+              <p><strong>Customizable options to fit specific business needs.</strong></p>
+              <p><strong>Detailed data and reports for better visitor management and planning.</strong></p>"
+  - question: "Can visitors pre-register before arriving?"
+    answer: "Yes, many Visitor Registration Systems allow visitors to pre-register online. This means they can enter their information and the purpose of their visit before arriving, which speeds up the check-in process and reduces wait times." 
+  - question: "How does the system improve security?"
+    answer: "The system improves security by maintaining a digital record of all visitors, including their entry and exit times. It helps ensure that only authorized individuals have access to certain areas. Some systems also integrate with access control systems to manage visitor access more effectively."
+  - question: "What kind of information do visitors need to provide?"
+    answer: "Visitors typically need to provide basic information such as their name, contact details, and the name of the person they are visiting. Some systems might also ask for additional information, such as the purpose of the visit or a photo."
+  - question: "How are visitor badges used?"
+    answer: "Visitor badges include the visitor’s name, photo (if applicable), and the name of the host. They help staff identify visitors quickly and ensure that guests know where to go or what areas they are authorized to access."
+  - question: "Can the system send notifications to hosts?"
+    answer: "Yes, the system automatically sends notifications to the host when their guest checks in. Notifications can be sent via email, text message, or through messaging apps like Slack or Microsoft Teams."
+  - question: "Is the system customizable?"
+    answer: "Yes, most Visitor Registration Systems are customizable. Businesses can adjust the system to collect specific information, design visitor badges with custom logos or details, and configure notification settings to meet their unique needs." 
+  - question: "How does the system handle emergencies?"
+    answer: "In case of an emergency, the system helps by providing up-to-date records of who is on-site. This information is crucial for conducting accurate headcounts and ensuring everyone’s safety during evacuation procedures."
