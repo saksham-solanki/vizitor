@@ -1793,3 +1793,83 @@
 </script> -->
 
 <!-- -------------------------------------Download pdf blogs------------------------------- -->
+<script>
+    $(document).ready(function() {
+        // Track whether the dropdown is open
+        let isDropdownOpen = false;
+
+        $('#productDropdown').on('click', function(e) {
+            e.preventDefault();
+            var $dropdownMenu = $('#productDropdownMenu');
+            var $arrow = $('#dropdownArrow');
+
+            if (isDropdownOpen) {
+                // If the dropdown is open, close it
+                $dropdownMenu.slideUp();
+                $arrow.removeClass('open'); // Change arrow class or style to closed
+                isDropdownOpen = false; // Update the state
+            } else {
+                // If the dropdown is closed, open it
+                $dropdownMenu.slideDown();
+                $arrow.addClass('open'); // Change arrow class or style to open
+                isDropdownOpen = true; // Update the state
+
+                // Close any other open dropdowns
+                $('.dropdown-menu').not($dropdownMenu).slideUp();
+                // Update other dropdown states
+                isDropdownOpen = true;
+            }
+        });
+
+        // Close the dropdown when clicking outside
+        $(document).on('click', function(e) {
+            if (!$(e.target).closest('#productDropdown, #productDropdownMenu').length) {
+                $('#productDropdownMenu').slideUp();
+                $('#dropdownArrow').removeClass('open'); // Reset the arrow to closed
+                isDropdownOpen = false; // Update the state
+            }
+        });
+    });
+</script>
+
+
+<!-- -------------2--------------------------- -->
+
+<script>
+    $(document).ready(function() {
+        // Track whether the dropdown is open
+        let isDropdownOpen = false;
+
+        $('#productDropdown2').on('click', function(e) {
+            e.preventDefault();
+            var $dropdownMenu = $('#productDropdownMenu2');
+            var $arrow = $('#dropdownArrow2');
+
+            if (isDropdownOpen) {
+                // If the dropdown is open, close it
+                $dropdownMenu.slideUp();
+                $arrow.removeClass('open'); // Change arrow class or style to closed
+                isDropdownOpen = false; // Update the state
+            } else {
+                // If the dropdown is closed, open it
+                $dropdownMenu.slideDown();
+                $arrow.addClass('open'); // Change arrow class or style to open
+                isDropdownOpen = true; // Update the state
+
+                // Close any other open dropdowns
+                $('.dropdown-menu').not($dropdownMenu).slideUp();
+                // Update other dropdown states
+                isDropdownOpen = true;
+            }
+        });
+
+        // Close the dropdown when clicking outside
+        $(document).on('click', function(e) {
+            if (!$(e.target).closest('#productDropdown2, #productDropdownMenu2').length) {
+                $('#productDropdownMenu2').slideUp();
+                $('#dropdownArrow2').removeClass('open'); // Reset the arrow to closed
+                isDropdownOpen = false; // Update the state
+            }
+        });
+    });
+</script>
