@@ -436,7 +436,8 @@ section {
 }
 
 .header-covid-19-background {
-    background: linear-gradient(to right, #f58753 30%, #f15e5f 110%);
+    /* background: linear-gradient(to right, #f58753 30%, #f15e5f 110%); */
+    background-color: #f58753;
     padding: 1px
 }
 
