@@ -2,7 +2,7 @@
 title: Transform Hospital Visits with Advanced Visitor Management Systems
 description: Discover how our Hospital Visitor Management System enhances
   security, simplifies check-ins, and improves visitor experience.
-date: 2024-08-20T10:07:15.185Z
+date: 2024-09-12T10:07:15.185Z
 draft: false
 authors:
   - Rebekah Paise

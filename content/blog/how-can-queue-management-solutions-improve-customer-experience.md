@@ -2,7 +2,7 @@
 title: How Can Queue Management Solutions Improve Customer Experience?
 description: Discover how Vizitor’s queue management solutions streamline
   customer flow, reduce wait times, and improve service efficiency
-date: 2024-08-20T09:33:54.949Z
+date: 2024-08-29T09:33:54.949Z
 draft: false
 authors:
   - Rebekah Paise

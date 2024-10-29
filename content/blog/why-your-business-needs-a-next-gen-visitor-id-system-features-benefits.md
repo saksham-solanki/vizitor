@@ -3,7 +3,7 @@ title: "Why Your Business Needs a Next-Gen Visitor ID System: Features & Benefit
 description: "Find out why Vizitor's modern visitor ID system is essential for
   your business. Learn about features like facial recognition, real-time alerts,
   and improved security. "
-date: 2024-08-20T09:29:35.216Z
+date: 2024-08-26T09:29:35.216Z
 draft: false
 authors:
   - Rebekah Paise

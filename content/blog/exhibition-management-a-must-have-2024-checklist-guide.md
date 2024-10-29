@@ -3,7 +3,7 @@ title: "Exhibition Management: A Must-Have 2024 Checklist Guide"
 description: " Find the best exhibition management software to make event
   planning easy. Simplify registration, manage booths, engage attendees, and
   track results with our guide"
-date: 2024-08-20T09:38:01.743Z
+date: 2024-09-02T09:38:01.743Z
 draft: false
 authors:
   - Rebekah Paise

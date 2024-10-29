@@ -3,7 +3,7 @@ title: Virtual Reception Systems For Good Visitor Experience
 description: Discover Vizitor, the leading virtual receptionist solution with
   AI-powered assistants, biometric authentication, and augmented reality
   wayfinding
-date: 2024-08-20T09:50:26.836Z
+date: 2024-09-04T09:50:26.836Z
 draft: false
 authors:
   - Rebekah Paise

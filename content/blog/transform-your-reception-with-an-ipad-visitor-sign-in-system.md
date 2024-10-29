@@ -3,7 +3,7 @@ title: Transform Your Reception with an iPad Visitor Sign-In System
 description: Enhance your front desk efficiency with our iPad Visitor Sign-In
   System. Fast, secure, and user-friendly manage visitor check-ins and improve
   your office security.
-date: 2024-08-20T10:02:14.057Z
+date: 2024-09-09T10:02:14.057Z
 draft: false
 authors:
   - Rebekah Paise

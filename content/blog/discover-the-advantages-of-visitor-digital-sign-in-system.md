@@ -3,7 +3,7 @@ title: Discover the Advantages of Visitor Digital Sign-In System
 description: Discover our Visitor Digital Sign-In System that streamlines
   check-ins and enhances security. Enjoy quick, contactless check-in, real-time
   tracking
-date: 2024-08-20T09:58:08.404Z
+date: 2024-09-06T09:58:08.404Z
 draft: false
 authors:
   - Rebekah Paise
