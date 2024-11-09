@@ -7,7 +7,7 @@ description: In a world where customer experience is king, businesses must go
   emerged as a powerful tool in this context, enabling businesses to streamline
   the customer journey, reduce wait times, and improve the overall service
   experience.
-date: 2024-11-09T04:33:22.908Z
+date: 2024-10-07T04:33:22.908Z
 draft: false
 authors:
   - Ritika Bhagat
@@ -85,9 +85,11 @@ A busy healthcare clinic introduced Vizitor’s virtual queuing system to manage
 
 Implementing Vizitor’s virtual queuing system is simple:
 
-1. Sign Up for a Free Trial: Click here to start your free trial with Vizitor and explore the virtual queuing features.
-2. Customize Your Queue Settings: Tailor the queueing experience to match your brand’s needs, setting up custom wait times, notifications, and priority options.
-3. Monitor and Optimize: Use Vizitor’s analytics to track queue lengths, wait times, and customer feedback to continually improve your service.
+**1. Sign Up for a Free Trial:** Click here to start your free trial with Vizitor and explore the virtual queuing features.
+
+**2. Customize Your Queue Settings:** Tailor the queueing experience to match your brand’s needs, setting up custom wait times, notifications, and priority options.
+
+**3. Monitor and Optimize:** Use Vizitor’s analytics to track queue lengths, wait times, and customer feedback to continually improve your service.
 
 ### 7. Tips for Effective Virtual Queue Management
 

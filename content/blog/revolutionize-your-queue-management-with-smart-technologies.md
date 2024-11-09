@@ -2,7 +2,7 @@
 title: Revolutionize your queue management with smart technologies
 description: Explore the latest innovations in queue management and how smart
   technology is leading the way to better solutions.
-date: 2024-11-09T04:39:20.555Z
+date: 2024-10-04T04:39:20.555Z
 draft: false
 authors:
   - Ritika Bhagat
