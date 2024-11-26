@@ -1,6 +1,6 @@
 ---
-title: "Vizitor 5 Global"
-description : "Vizitor 5 Global"
+title: "Vizitor at Big5Global: Transforming Visitor Management for Modern Businesses"
+description : "Join Vizitor at Big5Global 2024 to explore the future of visitor management. Live demos, innovative features, and networking await you at the Middle East’s top PropTech event."
 keywords:
 - Vizitor 5 Global
 draft: false
