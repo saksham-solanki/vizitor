@@ -22,7 +22,10 @@ With the [visitor management system](https://www.vizitorapp.com/) you can meet t
 
 ### **#Pre-Screen Visitors**
 
-You can now screen the infected person before they enter the building. Vizitor have created a self-registration page that allows visitors to fill out a customized questionnaire. Visitors can check-in with themselves without the help of the other person using the QR code.You can posted it outside with instructions for the visitor to follow when they come up to the front entrance. Then they can scan the QR code and after scanning the QR code a customized form will pop up. Just fill in the required details and submit the form to check-in.For enhanced security ask your visitor for a photo. Visitors can simply capture their photo with their mobile phone.When visitors  answers  the pre-screening questions correctly,then they can be permitted to enter. Staff can approve and disapprove the entry of the visitor on the basis of answers.
+A pre-screening process allows hospitals to assess the health status of visitors before they even step inside. Vizitor provides a self-registration page that allows visitors to fill out a customized health questionnaire. Visitors can easily check in by scanning a QR code placed outside the entrance. Upon scanning, a form appears for the visitor to fill out, including required details such as health symptoms or exposure risks.
+
+To enhance security, visitors can also take a photo using their mobile phone. Based on the responses to the health questionnaire, staff can approve or deny entry, ensuring that only those with no symptoms or risk factors are allowed inside.
+
 
 ### **#Visitor Tracking**
 
@@ -52,16 +55,21 @@ After scanning the QR code a customized form will pop up. Just fill in the requi
 
 ### 3 Health Screening Form
 
-Once a visitor has submitted all the required details you can ask them to fill a Health Screening Form right on their mobile phone. This let’s you understand the health condition of your visitors.
+Once the basic details are entered, visitors must complete a Health Screening Form. This form helps hospitals assess the visitor’s health condition and determine if they are at risk of carrying or transmitting COVID-19. The form is accessible on visitors' smartphones, ensuring ease of use and preventing contact with physical documents.
 
 
 
 
 ### 4 Visitor e-Pass
 
-After filling out all the required details visitors and employees will be issued an E-Pass which will let them enter the facility with ease.
+Upon successful registration and health screening, visitors are issued an e-pass that allows them entry into the hospital. The e-pass is digital and can be shown to security personnel at the entrance, speeding up the process and ensuring that only authorized visitors are allowed access.
 
 
-**In conclusion**, during the corona-virus pandemic, it's really important to screen each and every visitor that comes into the hospital.The Solution is a [Touchless visitor management system for hospitals](https://www.vizitorapp.com/touchless-visitor-management-system). This software is a complete system for  hospitals to enable your front desk to be fully ready and prepared to manage visitors through various screening processes, while keeping facilities, employees, and their data safe and secure.
 
-[![save](/images/blog/premium-save.svg)](/demo)
+## In Conclusion
+
+The COVID-19 pandemic has underscored the importance of hospital safety, and Visitor Management Systems like Vizitor play a crucial role in maintaining that safety. By automating and digitizing the visitor check-in process, hospitals can effectively manage the flow of visitors, monitor health risks, and enhance security, all while minimizing human contact.
+    
+Investing in a touchless visitor management system ensures that your hospital is well-equipped to handle the challenges of the pandemic and beyond, protecting both patients and staff from potential health threats.
+
+
