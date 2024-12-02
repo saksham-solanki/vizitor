@@ -73,19 +73,18 @@ Visitor management system is a new change!
 Visitor Management Systems brings out a revolution of digital technologies and innovations in modern enterprises.Traditional old visitor badges now almost got replaced by new customisable digital visitor badges.There are different types of visitor badges used today  beyond our imagination.
 Some of them are–
 
-## E-badges
+### E-badges
 
 Now, whenever a visitor visits a company they directly tab to digital check-ins. The E-Badges are generated and sent to visitors via an SMS with complete information and data is stored in a secure cloud server. This is an eco-friendly solution that saves paper.
 
 After this, the visitor, as well as the host, are notified about the meeting and then based on the availability of the host, can approve/disapprove the meeting using Vizitor PASS.The e-badges are used for better visibility over visitors while optimizing the identification procedures.
 
-## Customisable badges
+### Customisable badges
 
 Visitor Management System now offers options to customize your badges as per  requirements like you can customize badges with multiple color options, changeable fonts, badge orientation that gives custom friendly user experience.
 
 ## Need of Visitor badges in Workplaces for more security
 
-## Benefits of using visitor badges in workplaces
 
 Visitor badges are a crucial part of any successful workplace security strategy. Let’s go over why badges are important, how you can use them to enhance security and safety and how you can customize visitor badges to provide an amazing experience for your visitors.
 They serve as authentication identity cards which enable secure access to your workplace.
