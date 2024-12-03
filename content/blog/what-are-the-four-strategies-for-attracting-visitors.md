@@ -38,7 +38,7 @@ Ever stepped into a new place and felt totally lost? It happens more often than 
 
 Well, recognizing guests is super important. It's like saying, "**Hey, we're glad you're here!"** without even saying a word. You can do this in lots of ways, like having a sign that says "Welcome Visitors" or just giving a friendly "hello".
 
-\    ![Instant Notification | Vizitor](https://www.vizitorapp.com/images/vizitor/notificationn/welcome-notification.png)
+![Instant Notification | Vizitor](https://www.vizitorapp.com/images/vizitor/notificationn/welcome-notification.png)
 
 **Friendly Faces or Helpful Signs?**
 
@@ -119,6 +119,19 @@ Keep your workplace running smoothly implementing a convenient[ Visitor Manageme
 • Go paperless as much as possible. Mounds of paper definitely imparts a negative impression on your guests. 
 
 By taking proactive steps to promote their workplace environment, companies can showcase their unique culture and values while gaining the attention of potential clients, investors, or even new talent.
+
+## Some Other Tips to Drive More Visitors
+
+In addition to the four strategies mentioned above, here are a few more ways to increase the flow of visitors to your business:
+
+**Go Paperless:** Implement digital check-ins and self-service kiosks to eliminate the need for paper forms. Not only does this make the process faster, but it also gives a modern and eco-friendly impression to your visitors.
+
+**Improve Your Website:** Your website should be an extension of your physical business. Make sure it’s user-friendly, provides all the necessary information, and is easy to navigate. Offering online booking or pre-registration options can also attract more visitors.
+
+**Offer Free Wi-Fi:** People like to feel connected. Offering free Wi-Fi in your business, especially in waiting areas, encourages visitors to stay longer and browse your offerings online.
+
+**Create a Comfortable Waiting Area:** Visitors often spend time in the waiting area. Make sure it’s comfortable, with seating, clear directions, and information about what they can expect during their visit.
+
 
 ## Conclusion!
 
