@@ -1440,7 +1440,14 @@ li {
 .innercontentarea h3 {
     font-weight: 500;
     font-size: 26px;
-    line-height: 27px
+    line-height: 27px;
+    margin-left: 30px;
+    /* Add 20px left margin */
+}
+
+.innercontentarea h3~p {
+    margin-left: 30px !important;
+    /* Apply left margin to all paragraphs following h3 */
 }
 
 .innercontentarea h4 {
@@ -1448,7 +1455,13 @@ li {
     font-size: 20px;
     line-height: 27px;
     color: #33475b;
-    margin-top: 30px
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.innercontentarea h4~p {
+    margin-left: 30px !important;
+    /* Apply left margin to all paragraphs following h3 */
 }
 
 .innercontentarea p {
@@ -3361,7 +3374,8 @@ label {
     color: #33475b
 }
 
-.Tablescroll {
+
+/* .Tablescroll {
     height: 200px;
     overflow-y: scroll
 }
@@ -3382,7 +3396,68 @@ label {
 .Tablescroll::-webkit-scrollbar-thumb {
     border-radius: 10px;
     background-color: #ebe9f3
+} */
+
+.Tablescroll {
+    /* height: 200px; */
+    /* overflow-y: scroll; */
 }
+
+.Tablescroll::-webkit-scrollbar-track {
+    padding: 2px 0;
+}
+
+.Tablescroll::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 10px;
+}
+
+.Tablescroll::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #ebe9f3;
+}
+
+.toc-item.active>.sub-items {
+    display: block;
+}
+
+.force-overflow {
+    min-height: 450px
+}
+
+
+/* ------------------- */
+
+
+/* Highlight active links */
+
+#toc a.active {
+    /* font-weight: bold; */
+    color: #ed5c18;
+    /* Desired highlight color */
+}
+
+
+/* Show nested lists for `h3` when visible */
+
+#toc ul ul {
+    display: none;
+    /* Initially hidden */
+}
+
+#toc ul ul li a.active {
+    /* font-weight: bold; */
+    color: #ed5c18;
+    /* Ensure h3 links get the correct color */
+}
+
+#toc ul ul li a {
+    color: inherit;
+    /* Reset to inherit default styles */
+}
+
+
+/* --------------- */
 
 #TableOfContents {
     display: block;
@@ -3403,12 +3478,12 @@ label {
 #TableOfContents li {
     color: #7c778a;
     padding: 3px;
-    list-style-type: disc;
+    list-style-type: none;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0;
     margin-inline-end: 0;
-    margin: 0 0 0 18px
+    margin: 0 0 0 0px
 }
 
 #TableOfContents a {

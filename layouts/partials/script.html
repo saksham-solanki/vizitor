@@ -1873,3 +1873,49 @@
         });
     });
 </script>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const tocLinks = document.querySelectorAll("#toc a");
+        const headings = document.querySelectorAll("h2, h3");
+
+        const observer = new IntersectionObserver(
+            (entries) => {
+                entries.forEach((entry) => {
+                    const id = entry.target.getAttribute("id");
+                    if (entry.isIntersecting) {
+                        tocLinks.forEach((link) => {
+                            // Remove 'active' class from all links
+                            link.classList.remove("active");
+
+                            if (link.getAttribute("href") === `#${id}`) {
+                                // Add 'active' class to the current link
+                                link.classList.add("active");
+
+                                // Expand parent `ul` for active `h3`
+                                if (entry.target.tagName === "H3") {
+                                    const parentUl = link.closest("ul");
+                                    if (parentUl) parentUl.style.display = "block";
+                                }
+
+                                // Expand sub-items for active `h2`
+                                if (entry.target.tagName === "H2") {
+                                    document
+                                        .querySelectorAll("#toc ul ul")
+                                        .forEach((ul) => (ul.style.display = "none"));
+                                    const subList = link.closest("li").querySelector("ul");
+                                    if (subList) subList.style.display = "block";
+                                }
+                            }
+                        });
+                    }
+                });
+            }, {
+                threshold: 0.6
+            } // Adjust threshold for better visibility handling
+        );
+
+        headings.forEach((heading) => observer.observe(heading));
+    });
+</script>

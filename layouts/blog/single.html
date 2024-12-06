@@ -98,6 +98,28 @@
 
         </div>
     </div>
+    <hr>
+    <div class="my-5">
+        <div class="container">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <h4 class=" ">Latest Blog</h4>
+                    </div>
+                </div>
+                <div class="row ">
+                    {{ range first 3 (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+                    <div class="col-lg-4 col-md-4 col-12  mt-4">
+                        <div>
+                            {{ .Render "lii"}}
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+
+            </div>
+        </div>
+    </div>
 </div>
 
 
