@@ -33,9 +33,13 @@ Virtual queuing is a modern system that allows customers to join a queue digital
 
 Instead of standing in line, customers can now:
 
+
 * Join a queue remotely using smartphones or digital kiosks 
+
 * Track their place in line
+
 * Receive real-time updates
+
 * Wait comfortably wherever they choose
 
 This not only makes the process more convenient for customers but also reduces overcrowding and improves the efficiency of businesses.
@@ -178,9 +182,13 @@ A customer visiting the bank for a loan consultation or to open an account can j
 
 ### Research and Statistics
 
+
 * Studies show that businesses using virtual queuing systems can improve efficiency by 25% and boost customer retention by 30%.
+
 * A recent survey found that 80% of customers prefer businesses that offer digital queue management solutions.
+
 * Reduced wait times from 90 minutes to 30 minutes
+
 * 85% increase in patient satisfaction
 
 
