@@ -9,6 +9,7 @@ authors:
   - Rimpy saini
 image: /images/blog/group-3.png
 ---
+
 Imagine walking into a hospital and finding the waiting room packed with people. The line at the registration desk seems never-ending, and you start wondering, "How long will this take?"
 
  This situation is all too common in many hospitals. But what if there was a way to remove the uncertainty, improve the flow of patients, and make the experience much more pleasant?
