@@ -1441,12 +1441,12 @@ li {
     font-weight: 500;
     font-size: 26px;
     line-height: 27px;
-    margin-left: 30px;
+    margin-left: 15px;
     /* Add 20px left margin */
 }
 
 .innercontentarea h3~p {
-    margin-left: 30px !important;
+    margin-left: 15px !important;
     /* Apply left margin to all paragraphs following h3 */
 }
 

@@ -34,13 +34,13 @@ Virtual queuing is a modern system that allows customers to join a queue digital
 Instead of standing in line, customers can now:
 
 
-* Join a queue remotely using smartphones or digital kiosks 
+• Join a queue remotely using smartphones or digital kiosks 
 
-* Track their place in line
+• Track their place in line
 
-* Receive real-time updates
+• Receive real-time updates
 
-* Wait comfortably wherever they choose
+• Wait comfortably wherever they choose
 
 This not only makes the process more convenient for customers but also reduces overcrowding and improves the efficiency of businesses.
 
@@ -52,31 +52,31 @@ Virtual queuing follows a straightforward and intuitive process:
 
 
 
-### 1)Digital Check-In:
+### 1. Digital Check-In:
 
 Customers can join a queue through various channels, such as scanning a QR code, accessing a mobile app, or using a [self-service kiosk](https://www.vizitorapp.com/blog/how-to-reduce-queue-times-with-self-service-kiosks/) placed on-site.
 
 
 
-### 2)Digital Queue Tracking:
+### 2. Digital Queue Tracking:
 
 Once registered, customers receive a virtual token with their queue position and estimated wait time.
 
 
 
-### 3)Real-Time Notifications:
+### 3. Real-Time Notifications:
 
 The system sends updates via [SMS, email, or notifications](https://www.vizitorapp.com/instant-notification/) on the app to keep customers informed.They receive instant notifications about their queue status and estimated wait time.
 
 
 
-### 4)Flexible Waiting: 
+### 4. Flexible Waiting: 
 
 People can move around, shop, or relax while maintaining their place in line.
 
 
 
-### 5) Proceed to Service:
+### 5. Proceed to Service:
 
 When it’s their turn, they receive an alert to proceed to the service point or counter.
 
@@ -183,13 +183,13 @@ A customer visiting the bank for a loan consultation or to open an account can j
 ### Research and Statistics
 
 
-* Studies show that businesses using virtual queuing systems can improve efficiency by 25% and boost customer retention by 30%.
+•  Studies show that businesses using virtual queuing systems can improve efficiency by 25% and boost customer retention by 30%.
 
-* A recent survey found that 80% of customers prefer businesses that offer digital queue management solutions.
+•  A recent survey found that 80% of customers prefer businesses that offer digital queue management solutions.
 
-* Reduced wait times from 90 minutes to 30 minutes
+•  Reduced wait times from 90 minutes to 30 minutes
 
-* 85% increase in patient satisfaction
+• 85% increase in patient satisfaction
 
 
 
