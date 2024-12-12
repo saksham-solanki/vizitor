@@ -44,7 +44,7 @@ Instead of standing in line, customers can now:
 
 This not only makes the process more convenient for customers but also reduces overcrowding and improves the efficiency of businesses.
 
-![What is Virtual Queuing?](/images/blog/group-5.png)
+<!-- ![What is Virtual Queuing?](/images/blog/group-5.png) -->
 
 ## How Does Virtual Queuing Work?
 
@@ -158,23 +158,11 @@ Government offices, such as post offices, often have long queues. Virtual queuin
 
 A [busy restaurant](https://www.vizitorapp.com/blog/how-to-manage-queues-in-restaurants/) might use virtual queuing to notify customers when their table is ready, allowing them to wait in a nearby café or shop rather than crowding the entrance.
 
-![Food and Hospitality](/images/blog/group-6.png)
-
-### 5. Airports
-
-Airports are busy hubs, with long lines for check-in, security, and boarding. Virtual queuing can help passengers manage their time better by allowing them to join a queue digitally and receive notifications about their boarding status.
+<!-- ![Food and Hospitality](/images/blog/group-6.png) -->
 
 
 
-“ViaGuide implemented a virtual queuing system at airports, allowing passengers to join security lines remotely via smartphones. This innovation reduces crowding, improves passenger flow, and allows travelers to wait in more comfortable areas until their turn”
-
-
-
-For more details, visit [ViaGuide - Virtual Queue at Airport Security.](https://www.viaguide.com/en/virtual-guidance/virtual-queue-airport-security)
-
-
-
-### 6. Banks 
+### 5. Banks 
 
 A customer visiting the bank for a loan consultation or to open an account can join the queue remotely and be alerted when a representative is available to assist them.
 
