@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Office Space Management 
 description: "Discover the ultimate guide to office space management. Learn strategies, benefits, and the best tools like office space management software to optimize productivity, reduce costs, and enhance employee satisfaction"
-date: 2024-12-16T06:37:40.000Z
+date: 2024-12-15T06:37:40.000Z
 draft: false
 authorsImage: /images/authors/author.svg
 authors: ["Rimpy saini"]
