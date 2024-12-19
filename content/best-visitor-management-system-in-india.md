@@ -1,6 +1,6 @@
 ---
-title: "Best Visitor Management System 2024 | Vizitor"
-description : "What is a visitor management system? How can it benefit your workplace? Get best visitor management software in India. Discover here."
+title: "Best Visitor Management Software 2024"
+description : "Visitor Management system handles your vistors with appointments, invites and more at your office workplace. Sign up to avail for free."
 
 draft: false
 type: "best-visitor-management-system-in-india"
