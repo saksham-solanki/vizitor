@@ -1359,6 +1359,17 @@ li {
     color: #687888;
 }
 
+.innercontentarea li {
+    color: #687888;
+    list-style: outside;
+    font-weight: 500 !important;
+    font-size: 18px;
+    line-height: 32px !important;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: Satoshi-Medium !important;
+}
+
 .footbtm p a:hover {
     text-decoration: underline
 }
@@ -3374,35 +3385,6 @@ label {
     color: #33475b
 }
 
-
-/* .Tablescroll {
-    height: 200px;
-    overflow-y: scroll
-}
-
-.force-overflow {
-    min-height: 450px
-}
-
-.Tablescroll::-webkit-scrollbar-track {
-    padding: 2px 0
-}
-
-.Tablescroll::-webkit-scrollbar {
-    width: 5px;
-    border-radius: 10px
-}
-
-.Tablescroll::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    background-color: #ebe9f3
-} */
-
-.Tablescroll {
-    /* height: 200px; */
-    /* overflow-y: scroll; */
-}
-
 .Tablescroll::-webkit-scrollbar-track {
     padding: 2px 0;
 }
@@ -3471,8 +3453,18 @@ label {
     padding-left: 0
 }
 
+.Tablescroll ul ul {
+    margin-left: 15px;
+    list-style-type: none;
+}
+
+#TableOfContents ul ul li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
 #TableOfContents ul :not(:first-child) {
-    padding-top: 8px
+    padding-top: 0px
 }
 
 #TableOfContents li {
