@@ -3,7 +3,7 @@ title: 6 Tasks a Visitor Management System Handles for Your Receptionist
 description: Your receptionist manages countless tasks every day. Discover how
   Vizitor, an advanced visitor management system, can simplify their workload
   and enhance office efficiency.
-date: 2024-12-24T17:16:57.196Z
+date: 2024-12-23T17:16:57.196Z
 draft: false
 authors:
   - Ritika Bhagat
