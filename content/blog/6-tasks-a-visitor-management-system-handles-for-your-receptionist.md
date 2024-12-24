@@ -23,13 +23,12 @@ Our system offers [intuitive self-check-ins](https://www.vizitorapp.com/best-vis
 
 Vizitor’s [smart delivery alerts](https://www.vizitorapp.com/delivery-management-system/) notify recipients directly or notify a group of employees to claim the package. This not only streamlines operations but also ensures your receptionist doesn’t need to manually manage the flow of office traffic.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXchlr9i4lmzWxNd3eYz2wUUvWo9PWSR6cGX-AR58TqX_08Er0Hg_KbjLF5yJSTYVH94nDVyTs_ubXspWP628mjIjuwbky5r4qNBT7cn2LRs9b7LZAu95DLqtUF4Vz6K8cQH-wqnHw?key=sG0w_O6mhUWPk1BhrFsK19cK)
 
+![ Automating Badge Printing](/images/blog/vizitor-24.png)
 
 
 ## 2. Ensuring Office Safety and Seamless Communication
 
-\
 Vizitor takes [workplace safety](https://www.vizitorapp.com/blog/touchless-workplace/) and communication to the next level. With the Notifications feature, real-time alerts can be sent to employees and visitors through multiple channels like Slack, Teams, or email. Whether it's a simple announcement like "Lunch is served" or urgent situations like evacuations, everyone in the building—including checked-in guests—is informed instantly, ensuring safety remains a top priority.
 
 Additionally, Vizitor supports [health and security protocols](https://www.vizitorapp.com/blog/a-comprehensive-way-of-safety-in-the-workplace-2/) vital in today's environment. Customizable health questionnaires and temperature checks during visitor registration help maintain health standards. For added security, watchlist integrations discreetly notify your security team if flagged individuals attempt to check in, ensuring a safe and secure office environment without unnecessary tension.
@@ -42,7 +41,9 @@ No more manual badge preparation! Vizitor automates the process, [printing badge
 
 The badges can include the visitor’s name, photo, host details, and the purpose of their visit. You can design badges to suit your brand while ensuring professional visitor identification. You can refer to this blog to learn more about “ [How to enable Badge Printing?”](https://www.vizitorapp.com/help/how-to-enable-badge-printing/)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqvH5HwJsBBlQpPFDgBBKh9PeGiOoSiH4ylaJ7683WsjsCFqKjiFla3rCR-8YlqskU26aMHYEAbbljvxxoh0vbRkgmeb7wMvsmZN7CILgcV6qhpZ77tKX7dIebt7Ht3F9i-Grg6g?key=sG0w_O6mhUWPk1BhrFsK19cK)
+
+
+![ Automating Badge Printing](/images/blog/Badge-24.png)
 
 ## 4. Simplifying Document Signing
 
@@ -50,8 +51,8 @@ From NDAs to safety waivers, Vizitor allows [visitors to sign documents digitall
 
 This feature not only saves time but also protects your organization from potential liabilities by ensuring that critical agreements are in place before the visit.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHDA7d9xA5c9SGUPS_klxD9AGMz3jWVYgpcFtZ9n466mASrtmU_8o0Q4wAsld5hjKAKOsVbwmSlP9ynciEU4TQ2EMwBi43z5juf9gKPLBrXQN3iXFguzumgT7aujGYXkJigYckAw?key=sG0w_O6mhUWPk1BhrFsK19cK)
 
+![ Simplifying Document Signing](/images/blog/Document-Signing.png)
 
 
 ## 5. Breaking Language Barriers
