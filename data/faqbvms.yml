@@ -1,6 +1,10 @@
 items:  
-  - question: "What is visitor management software? "
-    answer: "This software streamlines how organizations handle guests. It digitizes sign-in, verifies identities, and grants access permissions through digital badges. Plus, it tracks activity and visitor trends for valuable insights."
+  - question: "What is a Visitor Management System?"
+    answer: "A visitor management system is software that tracks and manages visitors entering your premises, ensuring enhanced security, efficiency, and compliance."
+  - question: "How does a visitor management system improve security?"
+    answer: "By tracking visitor data in real time, issuing ID badges, and restricting access to authorized personnel."
+  - question: "Can I use Vizitor on multiple devices?"
+    answer: "Yes, Vizitor supports iOS, Android, and web platforms, ensuring seamless access across devices."
     answer: "The free version of a management solution for guests usually comes with essential features like registration, check-in/out, and badge printing. Additionally, some of these solutions in their free plan may include extra capabilities like screening and reporting."
   - question: "How Does Contactless Check-In Work?"
     answer: " Contactless check-in allows visitors to register and check in without having to touch any physical surfaces. This can be done using a variety of methods, such as QR codes, Pre-invitation, or mobile apps."
