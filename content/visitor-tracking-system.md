@@ -1,6 +1,6 @@
 ---
 title: "Visitor Tracking System | Visitor Monitoring System"
-description : "Visitor tracking systems help you to track guests that enter your premises. Visitor tracking software help to strengthen your security."
+description : "Visitor tracking systems enable you to monitor and manage guests entering your premises. Strengthen security with advanced visitor tracking software."
 draft: false
 type: "visitor-tracking-system"
 

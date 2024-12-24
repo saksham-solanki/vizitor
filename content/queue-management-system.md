@@ -1,6 +1,6 @@
 ---
 title: "Leading Queue Management System | Vizitor"
-description : "What is queue management software? Use Queue management system software to help your customers, and save costs. Discover here to know more."
+description : "Queue management software streamlines customer flow, reduces wait times, and improves efficiency. Enhance experiences and save costs with smart solutions!"
 draft: false
 type: "queue-management-system"
 

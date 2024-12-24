@@ -1,8 +1,7 @@
 ---
 title: "Office Space Management Software & Solutions for Office Space Utilization"
-description : "Elevate your workspace with VizitorApp! Revolutionize your efficiency with cutting-edge Space Planning Management Software & Solutions. Optimize, organize, and inspire today!"
+description : "Optimize your workspace with Vizitor's Space Management System. Enhance efficiency, stay organized, and boost productivity with smart solutions"
 keywords:
-
 draft: false
 type: "space-management-software"
 

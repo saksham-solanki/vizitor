@@ -1,6 +1,6 @@
 ---
 title: "Visitor Check-in System | Visitor Check in Software"
-description : "Vizitor is your one-stop shop for visitor check-in, guest check-in systems, and visitor-checking software. Try Vizitor free today!"
+description : "Streamline visitor check-ins with Vizitor's all-in-one visitor check-in and guest management system. Enhance security and efficiency. Try it free today!"
 keywords:
 - visitor check in systems,
 - Visitor management system, 

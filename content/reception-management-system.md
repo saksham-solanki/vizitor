@@ -1,6 +1,6 @@
 ---
 title: "Reception Management System | Front Desk Management | Vizitor"
-description : "Enhance your customer experience and reception by installing reception management system; Register, invite customers digitally.You can install on school, office or hospital reception.Sign up now!!"
+description : "Enhance customer experience with Vizitor's reception management system. Digitally register and invite visitors for schools, offices, or hospitals. Sign up now!"
 
 draft: false
 type: "reception-management-system"

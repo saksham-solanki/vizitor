@@ -1,7 +1,6 @@
 ---
 title: "Streamline Meetings & Maximize Space: Powerful Scheduling Software"
-description : "Eliminate wasted time and optimize your space with Vizitor's conference room scheduling software. Find the perfect room instantly, boost collaboration, and make smarter decisions with data-driven insights.
-"
+description : "Eliminate wasted time with Vizitor's conference room scheduling software. Instantly find the perfect room, boost collaboration, and optimize your space!"
 keywords:
 - Conference Room Scheduling Software
 - conference scheduling software

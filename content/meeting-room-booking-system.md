@@ -1,6 +1,6 @@
 ---
 title: "Smart Conference Meeting Room Scheduling System Software | Get Free Demo Now!"
-description : "Transform your meetings with Vizitor"
+description : "Transform your meetings with Vizitor's smart meeting room booking system. Simplify scheduling, optimize room reservations, and enhance collaboration effortlessly"
 keywords:
 - meeting room booking system, 
 - Room Scheduling Software,
