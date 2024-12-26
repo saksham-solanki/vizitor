@@ -1,5 +1,5 @@
 ---
-title: "5 Essential Tools for Facility Managers: Elevate Your Facility Operations"
+title: 5 Must-Have Tools for Facility Managers to Optimize Operations
 description: " Facility managers juggle multiple responsibilities daily.
   Discover the 5 essential tools that streamline tasks, improve efficiency, and
   help facilities operate smoothly."
