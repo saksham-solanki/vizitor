@@ -86,8 +86,6 @@ Receptionists often act as the heart of the office, taking on tasks that boost e
 
 By fostering a positive work environment, receptionists contribute to employee satisfaction and retention.
 
-- - -
-
 ### 8. The Tech-Savvy Receptionist
 
 In some cases, businesses may opt for a fully automated front office instead of a traditional receptionist. Tools like Vizitor’s visitor management system make this transition seamless by:
