@@ -538,7 +538,7 @@ section {
     background-clip: padding-box;
     border: 1px solid #fff;
     border-radius: .25rem;
-    margin-top: -5px;
+    margin-top: 1px;
 }
 
 .bsnav-sticky.bsnav-sticky-slide {
