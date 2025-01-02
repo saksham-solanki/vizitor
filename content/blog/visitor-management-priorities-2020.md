@@ -3,7 +3,7 @@ title: "The Future of Visitor Management: Top Trends for 2025"
 description: What to expect with Visitor Management in 2025. The top trends and
   innovations to expect in future and how you can benefit from them.
 date: 2020-01-30T06:14:15.000Z
-draft: true
+draft: false
 authors:
   - Ritika Bhagat
 image: /images/blog/VSM-priorities.jpg
