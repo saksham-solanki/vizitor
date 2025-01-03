@@ -167,7 +167,7 @@ Reach out to users early to ensure they have all the resources they need to succ
 
 
 
-### 5.Interactive and Engaging Tutorials
+### 5. Interactive and Engaging Tutorials
 
 Offer customers interactive and hands-on tutorials to help them become familiar with your product. 
 
@@ -179,7 +179,7 @@ Similar to how [queue systems](https://www.vizitorapp.com/blog/8-key-benefits-of
 
 
 
-### 6.Break Down Complex Tasks into Small Steps
+### 6. Break Down Complex Tasks into Small Steps
 
 A complex, lengthy onboarding process can overwhelm users. Instead, break it down into smaller, manageable tasks, just like how a queue management system breaks down long waits into shorter intervals by segmenting users based on categories. 
 
@@ -189,7 +189,7 @@ This helps customers feel more in control and motivated to continue the process.
 
 
 
-### 7.Offer Self-Service Options
+### 7. Offer Self-Service Options
 
 While offering live support is important, allowing customers to self-serve and find answers on their own is equally valuable. 
 
@@ -199,7 +199,7 @@ Provide a comprehensive knowledge base, FAQs, or a user forum where customers ca
 
 
 
-### 8.Track Progress and Celebrate Milestones
+### 8. Track Progress and Celebrate Milestones
 
 Show users their progress throughout the onboarding process.
 
@@ -209,7 +209,7 @@ Celebrate each milestone they achieve to keep them motivated and engaged. This w
 
 
 
-### 9.Collect Feedback for Improvement
+### 9. Collect Feedback for Improvement
 
 Customer onboarding should be a dynamic process. Encourage new users to share their feedback on the experience, allowing you to make continuous improvements. 
 
@@ -271,7 +271,7 @@ Poor Communication: Clear, concise communication is key to guiding customers thr
 
 By addressing these challenges, businesses can improve their onboarding process and build stronger customer relationships.
 
-![](/images/blog/the-importance-of-feedback-in-the-onboarding-process.jpg)
+![the-importance-of-feedback-in-the-onboarding-process](/images/blog/the-importance-of-feedback-in-the-onboarding-process.jpg)
 
 ## The Importance of Feedback in the Onboarding Process
 
@@ -381,7 +381,7 @@ For guests, the app shows the easiest way to book a home, offering clear instruc
 
 
 
-**2.[Duolingo’s Gamified Onboarding](https://goodux.appcues.com/blog/duolingo-user-onboarding)**
+**2. [Duolingo’s Gamified Onboarding](https://goodux.appcues.com/blog/duolingo-user-onboarding)**
 
 Duolingo employs a gamified onboarding process where new users are encouraged to complete lessons, and every step feels like a mini-achievement. 
 
