@@ -4,7 +4,7 @@ description: Discover the best clock-in clock-out apps for 2025. Explore
   solution for your business.
 draft: true
 authors:
-  - Rebekah Pais
+  - Ritika
 keywords:
   - workforce management software,
   - time and attendance system,
