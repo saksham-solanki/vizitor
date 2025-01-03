@@ -3,7 +3,7 @@ title: The remaining 2025 workplace trends!
 description: Workplace trends are evolving as organizations adapt to  technology
   to foster safety, flexibility, and innovation in 2025
 date: 2021-09-06T12:23:51.000Z
-draft: true
+draft: false
 authors:
   - Ritika Bhagat
 image: /images/blog/workpalace.jpg
