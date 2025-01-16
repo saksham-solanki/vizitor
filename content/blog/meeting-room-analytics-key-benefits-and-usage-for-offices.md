@@ -3,7 +3,7 @@ title: "Meeting Room Analytics: Key Benefits and Usage for Offices"
 description: Explore the benefits of Meeting Room Analytics for offices.
   Optimize space, improve scheduling, and boost productivity with Vizitor’s
   smart meeting room management system.
-date: 2025-01-15T16:51:38.645Z
+date: 2025-01-16T16:51:38.645Z
 draft: false
 authors:
   - Rimpy saini
