@@ -90,12 +90,12 @@ Common Areas: Designing open areas where employees can interact without disturbi
 
 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+|   Metrics                 |  Before Office Space Planning    |   After Office Space Planning |
+| ---                       | ---         | ---         |
+|   Space Utilization       |   45%      |   90%        |
+|   Employees Satisfaction  |   40%      |    85%        |
+|   Cost Savings            |   Minimal  |  Significant   |
+
 
 
 
