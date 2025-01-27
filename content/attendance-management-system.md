@@ -1,6 +1,6 @@
 ---
 title: "Attendance management system| Vizitor"
-description : "What is attendance management system? How can you use Attendance or HR Management to track employees. Visit to know."
+description : "Automate employee attendance with Vizitor’s Attendance Management System. Track attendance, manage shifts, and approve leaves seamlessly. Try it free today!"
 keywords:
 - visitors app,
 - Attendance management system, 
