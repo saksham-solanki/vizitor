@@ -4,7 +4,7 @@ description: Office security is more critical than ever. Discover how modern
   visitor tracking solutions can enhance workplace security, prevent
   unauthorized access, and streamline visitor management. Learn more!
 date: 2023-04-14T06:30:40.401Z
-draft: false
+draft: true
 authors:
   - Ritika
 image: /images/blog/global-data.avif
