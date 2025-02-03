@@ -137,18 +137,18 @@ When deciding between a traditional and smart office, it's essential to understa
 
 
 
-|     |     |     |
+|  Features   | Traditional Office Spaces    |  Smart Office Spaces    |
 | --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+|  **Space Layout**    | Fixed designs    |   Flexible and dynamic designs  |
+|  **Technology**  |  Minimal, basic infrastructure   |   Smart Office technologies   |
+|  **Cost Efficiency**   | Higher operational costs due to unused space    |  More cost-effective by optimizing space usage and resources   |
+|  **Employee Experience**   | May lack personalization, standardized settings    |  Adjustable lighting, temperature control, ergonomic furniture   |
+|  **Flexibility**   |  Limited flexibility, difficult to scale   |  Highly flexible    |
+|  **Space Utilization**   | Often results in wasted space    |   Optimized with real-time tracking and analytics for better space management  |
+|  **Sustainability**    | Can lead to more energy consumption and waste    | Sustainable and energy efficient spaces    |
+|  **Maintenance**    |  Regular maintenance for physical infrastructure   |  Office remote monitoring    |
+|  **Upfront costs**   | Lower initial costs    |    May cost higher initially  |
+
 
 
 
