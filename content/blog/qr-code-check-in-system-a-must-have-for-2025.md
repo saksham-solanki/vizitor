@@ -355,14 +355,14 @@ If you're looking for a smart, secure, and seamless visitor management system, V
 
 
 
-|     |     |     |
+|  Feature   |  Vizitor QR Check-ins   |   Traditional Check-in Systems  |
 | --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+|  **Contactless & Paperless**   |  Yes   |  NO   |
+|  **Automated Visitor Logs**   |  Yes   |   NO  |
+|  **Real-Time Security Alerts**  | Yes    |  NO   |
+|  **Multi-Location Support**  |  Yes   |   NO  |
+|  **Integration with other systems**  |  Yes   |  NO   |
+
 
 
 
