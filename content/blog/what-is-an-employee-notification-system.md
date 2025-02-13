@@ -219,15 +219,15 @@ Experience how [Vizitor](https://www.vizitorapp.com/) can transform your workpla
 
 
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
-1)What is an Employee Notification System?
+### 1) What is an Employee Notification System?
 
 An employee notification system is a tool used by companies to send alerts and updates to employees via multiple communication channels, ensuring they receive important information on time.
 
 
 
-2)What Are the Different Types of Notification Systems?
+### 2) What Are the Different Types of Notification Systems?
 
 Some common types include:
 
@@ -240,6 +240,6 @@ Some common types include:
 
 
 
-3) Why is an Employee Notification System Important?
+### 3) Why is an Employee Notification System Important?
 
 A notification system improves workplace safety, enhances communication, increases employee engagement, and ensures compliance by delivering real-time alerts when needed.
