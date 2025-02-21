@@ -104,7 +104,7 @@ In today’s digital pharmaceutical and biotech sectors, maintaining a secure en
 
 
 
- [Advanced surveillance and real-time monitoring systems](https://www.vizitorapp.com/visitor-management-system/) play a pivotal role in achieving this level of security. 
+ Advanced surveillance and real-time monitoring systems play a pivotal role in achieving this level of security. 
 
 These systems go beyond traditional CCTV cameras and provide proactive, automated threat detection, enabling immediate responses to potential risks.
 
