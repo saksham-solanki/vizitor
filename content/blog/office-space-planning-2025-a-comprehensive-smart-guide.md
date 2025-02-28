@@ -3,7 +3,7 @@ title: "Office Space Planning 2025: A Comprehensive & Smart Guide"
 description: Discover the future of office space planning in 2025 with smart
   strategies, flexible layouts, and tech-driven solutions. Optimize your
   workspace for productivity and efficiency.
-date: 2025-02-28T05:04:04.792Z
+date: 2025-02-24T05:04:04.792Z
 draft: false
 authors:
   - Rimpy saini
