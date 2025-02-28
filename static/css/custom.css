@@ -1527,8 +1527,8 @@ li {
 
 .carousel {
     background: #d75518;
-    border-radius: 21px;
-    margin-top: -2px
+    border-radius: 0px 0px 20px 20px;
+    /* margin-top: -2px */
 }
 
 .carousel .carousel-item {
