@@ -4681,6 +4681,9 @@ button:active {
     .whatsapp-ico {
         margin-top: 10px
     }
+    .header-topbar {
+        font-size: 11px;
+    }
     #traditional2 .card-body {
         padding: 40px 10px 40px 10px;
         background-color: #fef9f4;
