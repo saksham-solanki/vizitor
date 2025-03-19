@@ -1,6 +1,5 @@
 ---
-title: "Enhancing School Security: How Visitor Management Systems Improve Safety
-  and Efficiency"
+title: How Visitor Management Systems Improve Safety and Efficiency
 description: Improve school security with a Visitor Management System (VMS).
   Enhance visitor tracking, health screening, and access control for a safer
   school environment. Learn how VMS ensures compliance, prevents unauthorized
