@@ -92,7 +92,7 @@ Unlock These Game-Changing Benefits with Vizitor
 ### Conversion Boosters: Why Wait?
 
 * Risk-Free Trial: Test Vizitor free for 14 days—no credit card required.
-* Trusted by 500+ Companies: Join Indian leaders like \[Insert Real Brand if Available] who’ve switched to Vizitor.
+* Trusted by 500+ Companies: Join Indian leaders who’ve switched to Vizitor.
 * 24/7 Support: Get help anytime from a team that understands your needs.
 
 ### How to Get Started with Vizitor
