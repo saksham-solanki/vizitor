@@ -74,7 +74,10 @@ According to the Occupational Safety and Health Administration (OSHA), ergonomic
 
 **Importance of Ergonomic Furniture:**
 
-* Prevents physical strain, reduces the risk of musculoskeletal disorders, and increases comfort and productivity.
+
+* Prevents physical strain, <a href="https://www.firstmats.co.uk/blogs/buying-guides/ergonomic-workstations-things-you-need-to-know-when-setting-one-up" target="_blank" rel="noopener noreferrer">reduces the risk of musculoskeletal disorders,</a> and increases comfort and productivity.
+
+
 
 **Tips for Selecting Ergonomic Chairs and Desks:**
 

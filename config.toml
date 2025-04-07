@@ -33,6 +33,11 @@ image= "/images/vizitor/appstore-footer.svg"
 uglyURLs = true
   
 enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   
  
 
