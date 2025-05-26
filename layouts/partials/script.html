@@ -1486,7 +1486,8 @@
                     if (d) {
                         console.log("dddd--ddd---dd", d)
                         toastr.success(d.message);
-                        window.location = "/demo-requested";
+                        // window.location = "/demo-requested";
+                        $('#staticBackdrop').modal('show');
                     }
                 },
                 error: function(e) {

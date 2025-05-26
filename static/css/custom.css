@@ -101,7 +101,7 @@ html {
 body {
     color: #fff;
     background-color: #fff;
-    font-family: SofiaPro-Medium
+    font-family: Poppins-Medium !important;
 }
 
 .container {
@@ -150,6 +150,18 @@ body {
     font-display: swap
 }
 
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../css/fonts/Poppins/Poppins-Medium.ttf);
+    font-display: swap
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../css/fonts/Poppins/Poppins-SemiBold.ttf);
+    font-display: swap
+}
+
 h1,
 h2,
 h3,
@@ -157,7 +169,7 @@ h4,
 h5,
 h6 {
     color: #3f4450;
-    font-family: SofiaPro-Bold !important
+    font-family: Poppins-SemiBold;
 }
 
 .chgh3,
@@ -216,7 +228,8 @@ b {
     padding: 5px 12px;
     -webkit-transition: .5s;
     transition: .5s;
-    outline: 0
+    outline: 0;
+    width: 260px;
 }
 
 input[type=text]:focus {
@@ -229,8 +242,8 @@ input[type=text]:focus {
     color: #fff;
     height: 43px;
     border: none;
-    padding: 0 25px;
-    margin-left: -10px
+    padding: 10px 15px;
+    margin-left: -10px;
 }
 
 .headingsub {
