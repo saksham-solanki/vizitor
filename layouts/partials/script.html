@@ -1920,3 +1920,28 @@
         headings.forEach((heading) => observer.observe(heading));
     });
 </script>
+
+
+<!-- ...existing code... -->
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Only show modal if not already shown in this tab
+    if (!sessionStorage.getItem('modalShown')) {
+        let modalShown = false;
+        function checkScroll() {
+            const scrollTop = window.scrollY;
+            const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const scrollPercent = (scrollTop / docHeight) * 100;
+            if (scrollPercent >= 20 && !modalShown) {
+                modalShown = true;
+                sessionStorage.setItem('modalShown', 'true');
+                $('#scrollModal').modal('show');
+                window.removeEventListener('scroll', checkScroll);
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+    }
+});
+</script>
+<!-- ...existing code... -->

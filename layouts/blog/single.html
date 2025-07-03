@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="my-5"> <a href="/" style="color: #687888; font-size: 18px;">
-                    Home
-                </a>
+                        Home
+                    </a>
                     <a href="/blog" style=" font-size: 18px;">
                         <span style="color: #687888;"> > </span> <span style="color: #ed5c18;">Blog</span>
                     </a>
@@ -16,7 +16,8 @@
                 <div class="row mt-2 mb-3">
                     <div class="col-lg-6 col-md-6 col-4 ">
                         <div>
-                            {{ if .Params.authorsImage }}<img class="authors-img" src="{{ .Params.authorsImage }}" alt="{{ .Title }}" />{{ end }}
+                            {{ if .Params.authorsImage }}<img class="authors-img" src="{{ .Params.authorsImage }}"
+                                alt="{{ .Title }}" />{{ end }}
                         </div>
                         <p class="name-authors"> By {{ range .Param "authors" }} {{ . }} {{ end }}
                         </p>
@@ -24,10 +25,14 @@
                     <div class="col-lg-6 col-md-6 col-8">
                         <div class="blog-icon-pages" style="text-align: end;">
                             <!-- <a href="JavaScript:void(0)" class="copyLink"><i class="bx bx-copy"></i></a> -->
-                            <a href="JavaScript:void(0)" class="shareTwitter twitter blog-icon-share"><img src="/images/vizitor/share/Twitter.svg" alt="Twitter" /></a>
-                            <a href="JavaScript:void(0)" class="sharefacebook facebook blog-icon-share"><img src="/images/vizitor/share/facebook.svg" alt="facebook" /></a>
-                            <a href="JavaScript:void(0)" class="sharelinkedin linkedin blog-icon-share"><img src="/images/vizitor/share/linkedin.svg" alt="linkedin" /></a>
-                            <a href="JavaScript:void(0)" class="sharewhatsapp Whatsapp blog-icon-share"><img src="/images/vizitor/share/whatapp.svg" alt="whatapp" /></a>
+                            <a href="JavaScript:void(0)" class="shareTwitter twitter blog-icon-share"><img
+                                    src="/images/vizitor/share/Twitter.svg" alt="Twitter" /></a>
+                            <a href="JavaScript:void(0)" class="sharefacebook facebook blog-icon-share"><img
+                                    src="/images/vizitor/share/facebook.svg" alt="facebook" /></a>
+                            <a href="JavaScript:void(0)" class="sharelinkedin linkedin blog-icon-share"><img
+                                    src="/images/vizitor/share/linkedin.svg" alt="linkedin" /></a>
+                            <a href="JavaScript:void(0)" class="sharewhatsapp Whatsapp blog-icon-share"><img
+                                    src="/images/vizitor/share/whatapp.svg" alt="whatapp" /></a>
                         </div>
                     </div>
                 </div>
@@ -74,7 +79,8 @@
                 </div>
                 <div class="col-md-8 mt-2 imgcontent">
                     <div class="blogs-img-bg">
-                        {{ if .Params.image }}<img class="blogs-img-head" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+                        {{ if .Params.image }}<img class="blogs-img-head" src="{{ .Params.image }}"
+                            alt="{{ .Title }}" />{{ end }}
                     </div>
                     <div class="d-flex justify-content-between mt-1">
                         <div class="d-flex flex-row align-items-center">
@@ -123,7 +129,66 @@
 </div>
 
 
+<!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#scrollModal">
+    Open modal
+</button> -->
+<!-- The Modal -->
+<div class="modal fade" id="scrollModal">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
 
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <div class="modal-body pt-0">
+                <div class="text-center">
+                    <img src="/images/vizitor/logo.png" alt="logo">
+                    <h4>Ready to enhance your workplace and security?</h4>
+
+                    <div class="text-center mt-4">
+                        <a target="_blank" href="/signup" class="btn-arrow">Yes, I want a free trial now!</a>
+                    </div>
+                    <img src="/images/vizitor/vizitor.webp" alt="vizitor">
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+<style>
+   #scrollModal .modal-header {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 20px 20px 0px 0px;
+    border-bottom: 0px solid #dee2e6;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+#scrollModal .close {
+    float: right;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    color: #ed5c18;
+    text-shadow: 0 1px 0 #fff;
+    opacity: 1;
+}
+    @media (min-width: 576px) {
+       #scrollModal .modal-dialog {
+            max-width: 1200px;
+            margin: 1.75rem auto;
+        }
+    }
+</style>
 
 
 {{ end }}
