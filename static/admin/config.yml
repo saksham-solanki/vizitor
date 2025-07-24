@@ -11,6 +11,13 @@ show_preview_links: false
 
 site_url: https://vizitor.netlify.app/
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      table: true
+
 collections:
   - name: "blog"
     label: "Blog"

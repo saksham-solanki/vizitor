@@ -129,16 +129,15 @@ vizitor’s support team is available round-the-clock and onboarding takes just 
 
 Let’s see how vizitor stacks up:(in table form)
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| Feature                           | Must-Have | Vizitor Delivers |
+|----------------------------------|-----------|------------------|
+| Cloud-based, mobile access       | Yes       | Yes              |
+| Integrated direct booking engine | Yes       | Yes              |
+| Channel manager for OTAs         | Yes       | Yes              |
+| Guest profiles + CRM             | Yes       | Yes              |
+| Staff coordination tools         | Yes       | Yes              |
+| Revenue analytics and reports    | Yes       | Yes              |
+| Transparent pricing              | Yes       | Yes              |
 
 
 
