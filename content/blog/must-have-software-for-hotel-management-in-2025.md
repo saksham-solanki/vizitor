@@ -5,7 +5,7 @@ description: Running a hotel in 2025? Explore the 12 must-have software systems
 date: 2025-07-28T06:56:33.816Z
 draft: false
 authors:
-  - ""
+  - "Sukriti"
 image: /images/blog/gemini_generated_image_39g1u539g1u539g1.png
 ---
 <!--StartFragment-->
