@@ -107,7 +107,7 @@ Virtual check-ins offer the flexibility to personalize the attendee experience.Â
 
 
 
-Organizers can send personalized invitations, event updates, and reminders through the virtual system, ensuring a more tailored experience for each participant.
+Organizers can send and [print custom invitations](https://www.adobe.com/express/create/print/invitation), event updates, and reminders through the virtual system, ensuring a more tailored experience for each participant.
 
 
 
