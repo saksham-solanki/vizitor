@@ -134,14 +134,14 @@ Want to know how to enhance guest experience in hotels? 
 
 Start by being intentional. Every touchpoint is a chance to turn a guest into a promoter.
 
-Make it easy\
-Make it fast\
-Make it memorable
+Make it easy.\
+Make it fast.\
+Make it memorable.
 
-Vizitor helps you do all three: with automation, personalization, and seamless guest management
+Vizitor helps you do all three: with automation, personalization, and seamless guest management.
 
 Ready to improve guest satisfaction with Vizitor?\
-Book your free [demo ](https://www.vizitorapp.com/)today and experience hotel tech that actually feels human.
+Book your free [demo](https://www.vizitorapp.com/) today and experience hotel tech that actually feels human.
 
 
 
