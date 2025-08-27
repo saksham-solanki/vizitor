@@ -1,7 +1,7 @@
 ---
-title: Visitor Management Software For Making Check-In And Check-Out Of Visitor Effective
+title: "Visitor Management Software: Simplifying Check-In & Check-Out"
 date: 2018-12-10T18:24:00.000Z
-description: "The visitor management system is an app or software that helps the front office or reception to track the usage of the site or building."
+description: "Find out how visitor management software transforms the check-in and check-out process with automation, digital logs, and real-time tracking."
 image: /images/blog/Working-of-vizitor (1).jpeg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

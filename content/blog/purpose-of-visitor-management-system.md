@@ -1,8 +1,6 @@
 ---
 title: What Is The Purpose of a Visitor Management System?
-description: What Is The Purpose of a Visitor Management System and how does it
-  benefit different other industries? Let us understand about it in Vizitor's
-  guide.
+description: Learn why businesses use visitor management systems to improve security, track visitors, and simplify the check-in process for a modern workplace
 date: 2024-07-17T09:21:36.000Z
 draft: false
 authors:

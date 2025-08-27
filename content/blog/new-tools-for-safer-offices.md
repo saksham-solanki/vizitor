@@ -1,7 +1,7 @@
 ---
-title: New Tools for Safer offices!
+title: New Digital Tools for Safer Workplaces After COVID-19
 date: 2020-12-22T10:06:32.000Z
-description: "People are back to their work after the Coronavirus. If you want days that were before the Coronavirus. Then you have to avoid the Contactacting."
+description: "Safer workplaces in the post-COVID era rely on digital tools; find out how businesses are using automation and contactless solutions to protect employees."
 image: /images/blog/safer.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

@@ -1,7 +1,7 @@
 ---
 title: 5 Myths to be mistaken about the Visitor Management System
 date: 2020-02-14T05:57:50.000Z
-description: "Is your organisation beginning to think about taking a move from paper to digital form of check-in for your visitor management process?"
+description: "Uncover the top 5 myths about visitor management systems and learn why businesses need them for security, compliance, and efficiency."
 image: /images/blog/5myths-abt-VSM.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

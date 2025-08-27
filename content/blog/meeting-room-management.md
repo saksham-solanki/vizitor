@@ -1,7 +1,7 @@
 ---
-title: Meeting Room Management Tips
+title: Essential Meeting Room Management Tips
 date: 2024-04-04T07:15:12.000Z
-description: "Discover the top five ways to improve your meeting room management and better enable your team on-site."
+description: "Discover the best meeting room management tips to improve efficiency, avoid double bookings, and create a seamless workplace experience."
 image: /images/blog/bookingsystem.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg

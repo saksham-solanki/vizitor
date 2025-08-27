@@ -1,5 +1,5 @@
 ---
-title: How to do web check-in ?
+title: "Step-by-Step Guide: How to Do Web Check-In with Vizitor" 
 date: 2022-10-04T10:00:30.000Z
 tags: user guide
 description: " Discover the simplicity of web check-in with Vizitor. Follow our step-by-step guide to conveniently complete the check-in process online. Streamline your arrival and save time with Vizitor's web check-in feature."

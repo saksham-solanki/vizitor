@@ -1,6 +1,6 @@
 ---
-title: "Vizitor Sign Up | Efficient Visitor Management"
-description : "Start your free 10 days trial today. See for yourself what vizitor can do to improve your business environment. Signup for a demo if you need."
+title: "Sign Up for Vizitor | No.1 Visitor Management System Free Trial"
+description : "Sign up for Vizitor, the No.1 Visitor Management System. Get a free trial of our smart, touchless check-in software to streamline and secure your front desk"
 keywords:
 - signup, 
 - visitor signup, 

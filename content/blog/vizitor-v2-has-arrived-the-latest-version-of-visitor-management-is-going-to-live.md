@@ -1,7 +1,7 @@
 ---
-title: Vizitor 2.0 is Live!
+title: "Introducing Vizitor 2.0: A New Era of Workplace Security"
 date: 2022-10-14T06:32:49.000Z
-description: "Vizitor 2.0 is live!  Our upgraded visitor management app offers contactless check-in, enhanced security & more. Get started today!"
+description: "Discover the power of a next-gen visitor management system. Smarter check-ins, enhanced security, and a seamless front desk experience await."
 image: /images/blog/visitor_baneer_linkdin-02.jpg
 authors: ["Ritika Bhagat"]
 authorsImage: /images/authors/author.svg
