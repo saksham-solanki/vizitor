@@ -30,6 +30,8 @@ Often referred to as a “paper-light” office, the goal is to drastically cut 
 
 **For example:** Vizitor’s smart visitor management system helps businesses go paperless by digitizing the visitor check-in process, reducing administrative overhead and paper waste. This not only enhances security but also aligns with sustainability goals.
 
+Many modern organizations are also turning to productivity tools like [apps for second brain](https://www.constella.app/blog/second-brain-apps), which help employees organize, store, and retrieve knowledge digitally—further reducing the need for paper-based systems.
+
 ### Want to reduce paper waste with smarter visitor management?
 
 [Book a demo to see how Vizitor can transform your business operations while contributing to a sustainable future.](https://www.vizitorapp.com/signup)
