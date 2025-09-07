@@ -1973,9 +1973,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll("img:not([loading])").forEach(function(img) {
-      img.setAttribute("loading", "lazy");
-    });
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("img:not([loading])").forEach(function(img) {
+    img.setAttribute("loading", "lazy");
+    
+    if(!img.hasAttribute("width") || !img.hasAttribute("height")) {
+      img.onload = function() {
+        img.setAttribute("width", img.naturalWidth);
+        img.setAttribute("height", img.naturalHeight);
+      };
+    }
   });
+});
 </script>
