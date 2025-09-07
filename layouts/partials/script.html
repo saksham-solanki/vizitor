@@ -1764,7 +1764,7 @@
     });
 </script>
 <!----------------------->
-<script>
+<!-- <script>
     $("#tile-1 .nav-tabs a").click(function() {
         var position = $(this).parent().position();
         var width = $(this).parent().width();
@@ -1779,6 +1779,31 @@
         "left": +actPosition.left,
         "width": actWidth
     });
+</script> -->
+
+<script>
+$(document).ready(function() {
+    // On tab click
+    $("#tile-1 .nav-tabs a").click(function() {
+        var position = $(this).parent().position();
+        var width = $(this).parent().width();
+        $("#tile-1 .slider").css({
+            "left": position.left,
+            "width": width
+        });
+    });
+
+    // On page load
+    var $active = $("#tile-1 .nav-tabs .active");
+    if ($active.length) {
+        var actWidth = $active.parent("li").width();
+        var actPosition = $active.position();
+        $("#tile-1 .slider").css({
+            "left": actPosition.left,
+            "width": actWidth
+        });
+    }
+});
 </script>
 
 <!-- 
