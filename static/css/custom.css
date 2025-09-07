@@ -1352,6 +1352,23 @@ a:not([href]):not([tabindex]):hover {
     margin-bottom: -5px
 }
 
+.text-type-animation {
+    display: inline-block;
+    position: relative;
+    max-width: 100%; /* responsive */
+}
+
+/* CLS fix using longest possible text */
+.text-type-animation::before {
+    visibility: hidden;
+    white-space: nowrap;
+}
+
+/* Existing cursor styling */
+.txt-rotate > .wrap {
+    border-right: 3px solid #ED5C18;
+}
+
 
 /* .innercontentarea ul li {
     font-weight: 500 !important;

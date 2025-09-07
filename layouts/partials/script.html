@@ -1970,3 +1970,12 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <!-- ...existing code... -->
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll("img:not([loading])").forEach(function(img) {
+      img.setAttribute("loading", "lazy");
+    });
+  });
+</script>

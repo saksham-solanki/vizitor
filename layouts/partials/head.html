@@ -6,11 +6,14 @@
     <title>{{ .Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1,"> -->
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}"> {{ with .Site.Params.author }}
+    <meta name="description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    {{ with .Site.Params.author }}
     <meta name="author" content="Gaurav Saini">{{ end }} {{ hugo.Generator }}
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+    <meta property="og:description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
     <meta property="og:site_name" content="Vizitor - Visitor Management System" />
     <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/vizitor2.png" />
     <link rel="stylesheet" rel="preload" href="/css/others.css">
@@ -24,10 +27,11 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="article:modified_time" content="{{ now.Format " 2006-01-02T15:04:05-07:00 " }}" />
-    <link rel="stylesheet" href='{{ "/owlcarousel/owl.carousel.min.css" | absURL }}'>
-    <link rel="stylesheet" href='{{ "/owlcarousel/owl.theme.default.min.css" | absURL }}'>
+    <!-- <link rel="stylesheet" href='{{ "/owlcarousel/owl.carousel.min.css" | absURL }}'>
+    <link rel="stylesheet" href='{{ "/owlcarousel/owl.theme.default.min.css" | absURL }}'> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="alternate" href="/gaurav_vizitor.txt" type="text/plain">
+    <link rel="preload" href="/fonts/custom.woff2" as="font" type="font/woff2" crossorigin>
 
     <script type="application/ld+json">
         {
@@ -50,8 +54,8 @@
         }
     </script>
     <script type="text/javascript">
-        (function(c, l, a, r, i, t, y) {
-            c[a] = c[a] || function() {
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () {
                 (c[a].q = c[a].q || []).push(arguments)
             };
             t = l.createElement(r);
@@ -83,7 +87,7 @@
 
     <script>
         function loadGTM() {
-            (function(w, d, s, l, i) {
+            (function (w, d, s, l, i) {
                 w[l] = w[l] || [];
                 w[l].push({
                     'gtm.start': new Date().getTime(),
@@ -109,3 +113,11 @@
 
 
     <!-- Google tag (gtag.js) -->
+
+    <style>
+        @font-face {
+            font-family: 'CustomFont';
+            src: url('/fonts/custom.woff2') format('woff2');
+            font-display: swap;
+        }
+    </style>
