@@ -1,4 +1,5 @@
 @charset "utf-8";
+
 #hero h1,
 #hero h4,
 .chgh2,
@@ -221,29 +222,52 @@ b {
     font-family: SofiaPro-Bold
 }
 
+/* Wrapper to align input and button side-by-side */
+.form-inline {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    /* center in parent */
+    gap: 0;
+    /* no gap between input and button */
+}
+.form-inline2 {
+    display: flex;
+    flex-wrap: nowrap;
+    /* center in parent */
+    gap: 0;
+    /* no gap between input and button */
+}
+
+/* Email input */
 .email-input {
     border: 2px solid #f17a39;
-    border-radius: 5px;
+    border-radius: 5px 0 0 5px;
     height: 43px;
     padding: 5px 12px;
-    -webkit-transition: .5s;
-    transition: .5s;
+    transition: 0.5s;
     outline: 0;
     width: 260px;
+    box-sizing: border-box;
+    font-size: 16px;
 }
 
-input[type=text]:focus {
-    border: 2px solid #f17a39
-}
-
+/* Button */
 .btn-try-free {
     background: #ed5c18;
     border-radius: 0 5px 5px 0;
     color: #fff;
     height: 43px;
     border: none;
-    padding: 10px 15px;
-    margin-left: -10px;
+    padding: 0 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Focus state fix */
+input[type="email"]:focus {
+    border: 2px solid #f17a39;
 }
 
 .headingsub {
@@ -674,6 +698,8 @@ section {
     font-size: 12px !important
 }
 
+
+
 .mainbanneres {
     padding-top: 235px;
     z-index: 1
@@ -684,6 +710,14 @@ section {
     padding-bottom: 100px;
     z-index: 1
 }
+
+
+
+ .pagebanneres-hero {
+    padding-top: 180px;
+    padding-bottom: 100px;
+    z-index: 1
+}   
 
 .pagesection {
     padding-top: 80px;
@@ -728,6 +762,39 @@ section {
     background: url(../images/vizitor/vizitor1.svg) 0 0/contain no-repeat;
     padding: 0 0 400px
 }
+
+
+/* ------------------------------------ */
+/* Hide all sections by default */
+.pagebanneres-hero {
+    display: none;
+}
+
+/* Show on Laptop/Desktop (min-width: 1025px) */
+@media screen and (min-width: 1025px) {
+    .pagebanneres-hero:nth-of-type(1) {
+        display: block;
+    }
+}
+
+/* Show on Phone (max-width: 767px) */
+@media screen and (max-width: 767px) {
+    .pagebanneres-hero {
+        padding-top: 100px
+    }
+    .pagebanneres-hero:nth-of-type(2) {
+        display: block;
+    }
+}
+
+/* Show on Tablet (768px to 1024px) */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .pagebanneres-hero:nth-of-type(3) {
+        display: block;
+    }
+}
+
+/* --------------------------------------- */
 
 .box-shadow-hero1,
 .box-shadow-hero2,
@@ -1153,14 +1220,16 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .accordion .card-header:after {
-    content: "▼"; /* Downward arrow */
+    content: "▼";
+    /* Downward arrow */
     float: right;
     color: #2c2b30;
     font-weight: normal;
 }
 
 .accordion .card-header.collapsed:after {
-    content: "►"; /* Rightward arrow */
+    content: "►";
+    /* Rightward arrow */
     color: #000;
 }
 
@@ -1353,7 +1422,8 @@ a:not([href]):not([tabindex]):hover {
 .text-type-animation {
     display: inline-block;
     position: relative;
-    max-width: 100%; /* responsive */
+    max-width: 100%;
+    /* responsive */
 }
 
 /* CLS fix using longest possible text */
@@ -1363,7 +1433,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 /* Existing cursor styling */
-.txt-rotate > .wrap {
+.txt-rotate>.wrap {
     border-right: 3px solid #ED5C18;
 }
 
@@ -2853,6 +2923,7 @@ label {
         bottom: 0;
         opacity: 0
     }
+
     to {
         bottom: 30px;
         opacity: 1
@@ -2864,6 +2935,7 @@ label {
         bottom: 0;
         opacity: 0
     }
+
     to {
         bottom: 30px;
         opacity: 1
@@ -2875,6 +2947,7 @@ label {
         bottom: 30px;
         opacity: 1
     }
+
     to {
         bottom: 0;
         opacity: 0
@@ -2886,6 +2959,7 @@ label {
         bottom: 30px;
         opacity: 1
     }
+
     to {
         bottom: 0;
         opacity: 0
@@ -3583,15 +3657,19 @@ label {
         border: 1px solid transparent;
         box-shadow: none;
     }
+
     .innercontentarea table thead {
         display: none;
     }
+
     .innercontentarea table tbody tr {
         border-bottom: 45px solid #f8f8f8;
     }
+
     .innercontentarea table tbody tr td:first-child {
         padding-left: 10px;
     }
+
     .innercontentarea table tbody tr td:before {
         content: attr(data-label);
         float: left;
@@ -3599,6 +3677,7 @@ label {
         text-transform: uppercase;
         font-weight: bold;
     }
+
     .innercontentarea table tbody tr td {
         display: block;
         text-align: left;
@@ -3682,22 +3761,27 @@ label {
         -webkit-transform: translateX(6px);
         transform: translateX(6px)
     }
+
     33.3% {
         -webkit-transform: translateX(-5px);
         transform: translateX(-5px)
     }
+
     49.95% {
         -webkit-transform: translateX(4px);
         transform: translateX(4px)
     }
+
     66.6% {
         -webkit-transform: translateX(-2px);
         transform: translateX(-2px)
     }
+
     83.25% {
         -webkit-transform: translateX(1px);
         transform: translateX(1px)
     }
+
     100% {
         -webkit-transform: translateX(0);
         transform: translateX(0)
@@ -3709,22 +3793,27 @@ label {
         -webkit-transform: translateX(6px);
         transform: translateX(6px)
     }
+
     33.3% {
         -webkit-transform: translateX(-5px);
         transform: translateX(-5px)
     }
+
     49.95% {
         -webkit-transform: translateX(4px);
         transform: translateX(4px)
     }
+
     66.6% {
         -webkit-transform: translateX(-2px);
         transform: translateX(-2px)
     }
+
     83.25% {
         -webkit-transform: translateX(1px);
         transform: translateX(1px)
     }
+
     100% {
         -webkit-transform: translateX(0);
         transform: translateX(0)
@@ -3853,6 +3942,11 @@ label {
     max-height: 550px
 }
 
+
+.arrowdown,
+.arrowup {
+    transition: transform .1s ease-in-out
+}
 .email-input-footer {
     border: 2px solid transparent;
     border-radius: 5px;
@@ -3861,11 +3955,6 @@ label {
     -webkit-transition: .5s;
     transition: .5s;
     outline: 0
-}
-
-.arrowdown,
-.arrowup {
-    transition: transform .1s ease-in-out
 }
 
 .btn-try-free-footer {
@@ -3877,6 +3966,45 @@ label {
     padding: 0 40px;
     margin-left: -10px
 }
+
+
+.form-inline {
+    display: flex;
+    flex-wrap: nowrap;
+    /* center in parent */
+    gap: 0;
+    /* no gap between input and button */
+}
+
+/* Email input */
+.email-input-footer {
+    border: 2px solid transparent;
+    border-radius: 5px;
+    height: 55px;
+    padding: 5px 70px 5px 15px;
+    -webkit-transition: .5s;
+    transition: .5s;
+    outline: 0
+}
+
+/* Button */
+.btn-try-free-footer {
+     background: #33475b;
+    border-radius: 0 5px 5px 0;
+    color: #fff;
+    height: 55px;
+    border: none;
+    padding: 0 40px;
+    margin-left: -10px;
+    cursor: pointer;
+}
+
+/* Focus state fix */
+input[type="email"]:focus {
+    border: 2px solid #f17a39;
+}
+
+
 
 .detail-page {
     display: flex;
@@ -4126,6 +4254,7 @@ label {
     0% {
         transform: translateX(0)
     }
+
     100% {
         transform: translateX(calc(-250px * 7))
     }
@@ -4429,11 +4558,13 @@ button:active {
 }
 
 @media only screen and (max-width:1360px) {
+
     .tooltip1 .tooltiptext1,
     .tooltip2 .tooltiptext2 {
         margin-left: -40px;
         position: absolute
     }
+
     .tooltip1 .tooltiptext1,
     .tooltip2 .tooltiptext2,
     .tooltip3 .tooltiptext3 {
@@ -4447,19 +4578,23 @@ button:active {
         left: 50%;
         font-weight: 400 !important
     }
+
     .container {
         max-width: 1060px
     }
+
     .vistor-hr {
         border: 0;
         border-top: 2px solid #33475b
     }
+
     .box-shadow-hero1,
     .box-shadow-hero2 {
         background: #fff;
         border-radius: 2px;
         box-shadow: 0 0 20px rgb(203 201 201 / 25%)
     }
+
     .tooltip1 .tooltiptext1::after,
     .tooltip2 .tooltiptext2::after,
     .tooltip3 .tooltiptext3::after {
@@ -4471,27 +4606,33 @@ button:active {
         border-style: solid;
         border-color: #fff transparent transparent
     }
+
     .box-shadow-hero1 {
         width: 120px;
         margin: -76px 0 0 200px
     }
+
     .box-shadow-hero2 {
         width: 280px;
         margin: -51px 0 0 116px
     }
+
     .box-shadow-hero3,
     .tooltip1 .tooltiptext1 {
         width: 120px;
         background: #fff;
         border-radius: 2px
     }
+
     .box-shadow-hero3 {
         box-shadow: 0 0 20px rgb(203 201 201 / 25%);
         margin: 0 0 0 75px
     }
+
     .tooltip-sec1 {
         margin: -330px 0 0
     }
+
     .tooltip1,
     .tooltip2,
     .tooltip3 {
@@ -4499,20 +4640,24 @@ button:active {
         display: inline-block;
         opacity: 1
     }
+
     .tooltip1 .tooltiptext1::after,
     .tooltip2 .tooltiptext2::after {
         margin-left: -5px
     }
+
     .tooltip1:hover .tooltiptext1,
     .tooltip2:hover .tooltiptext2,
     .tooltip3:hover .tooltiptext3 {
         visibility: visible
     }
+
     .tooltip2 .tooltiptext2 {
         background: #fff;
         border-radius: 2px;
         width: 250px
     }
+
     .tooltip3 .tooltiptext3 {
         background: #fff;
         border-radius: 2px;
@@ -4521,36 +4666,44 @@ button:active {
         margin-left: -90px;
         margin-bottom: -50px
     }
+
     .tooltip3 .tooltiptext3::after {
         margin-left: 15px
     }
+
     .whychoose-text {
         font-weight: 400 !important;
         font-size: 13px !important;
         font-family: Englebert !important
     }
+
     .m-text {
         margin-top: 85px
     }
+
     .hint1 {
         width: 70%;
         margin-left: 90px
     }
+
     .hint2 {
         width: 75%;
         margin-top: -100px;
         margin-left: -125px
     }
+
     .hint3 {
         width: 50%;
         margin-top: 50px;
         margin-left: -40px
     }
+
     .active .headimg-color {
         color: #ed5c18;
         font-size: 16px;
         font-weight: 700
     }
+
     .title {
         display: inline-block;
         padding: 0 5px;
@@ -4564,20 +4717,25 @@ button:active {
     .bsnav-sticky-slide .navbar-nav .nav-link {
         padding: 5px 8px
     }
+
     .influencebanner,
     .mainbanner {
         background-size: 50%
     }
+
     #hero h4 {
         font-size: 18px
     }
+
     #hero h1 {
         font-size: 30px
     }
+
     .slickslide h2 {
         color: #2c2b30;
         font-size: 22px !important
     }
+
     .social::after,
     .social::before {
         width: 125px
@@ -4585,14 +4743,17 @@ button:active {
 }
 
 @media screen and (max-width:1023px) {
+
     #hero h1,
     h1,
     h2 {
         font-weight: 600
     }
+
     .bsnav-sticky.bsnav-sticky-slide {
         background: 0 0 !important
     }
+
     .keyline1:before,
     .keyline2:after,
     .keyline3:after,
@@ -4605,52 +4766,65 @@ button:active {
         left: 0;
         top: 0
     }
+
     .social::after,
     .social::before {
         width: 125px
     }
+
     .heroimg {
         margin-top: 35px
     }
+
     #whychoose .grids {
         padding: 0 8px 20px
     }
+
     .influencebanner,
     .mainbanner {
         background-size: 50%
     }
+
     .navbar-nav {
         background: #fff
     }
+
     #whychoose .grids figure img {
         width: 100%;
         margin-top: 0
     }
+
     .keyline:before {
         width: 100%;
         transform: translateY(0)
     }
+
     .keyline1:before {
         width: 100%;
         transform: translateY(-50%)
     }
+
     .keyline2:after,
     .keyline3:after {
         width: 100%;
         bottom: 0
     }
+
     .VisitorManagement-System-in-India {
         padding-top: 100px;
         padding-bottom: 100px
     }
+
     .bvms-size {
         font-size: 38px;
         line-height: 48px
     }
+
     .phone-hid,
     .slide-text-phone {
         display: none
     }
+
     .workplace-card {
         border: transparent;
         max-width: 100%;
@@ -4659,67 +4833,83 @@ button:active {
         border-radius: 16px !important;
         padding: 10px
     }
+
     .Try-free,
     .features-img-tabs,
     .for-img {
         text-align: center
     }
+
     .Try-for-free-btn-features {
         margin-top: 10%
     }
+
     .key-card {
         padding: 0
     }
+
     .detail-page-section {
         width: 25%
     }
+
     h2 {
         font-size: 25px;
         line-height: 34px
     }
+
     .card-img-top {
         width: 100%;
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
         height: 150px
     }
+
     .whychoose {
         background: #536cba
     }
+
     h1 {
         font-size: 36px;
         line-height: 46px
     }
+
     #hero h1 {
         color: #33475b;
         font-style: normal;
         font-size: 40px;
         line-height: 50px
     }
+
     .md-hide {
         display: none !important
     }
+
     .navbar-phone {
         display: block !important
     }
 }
 
 @media screen and (max-width:767px) {
+
     .visitorpass-row,
     .whatsapp-ico {
         margin-top: 10px
     }
+
     .header-topbar {
         font-size: 11px;
     }
+
     #traditional2 .card-body {
         padding: 40px 10px 40px 10px;
         background-color: #fef9f4;
     }
+
     #traditional .card-body {
         padding: 40px 10px 40px 10px;
         background-color: #fef9f4;
     }
+
     .whatsapp_float {
         position: fixed;
         width: 40px;
@@ -4734,6 +4924,7 @@ button:active {
         box-shadow: 2px 2px 3px #999;
         z-index: 100
     }
+
     .GreenBusiness-p,
     .Try-free,
     .benifts-card-center,
@@ -4742,49 +4933,61 @@ button:active {
     .vizitor-pass-h2 {
         text-align: center
     }
+
     .pagebanneres,
     .pagesection {
         position: relative;
         z-index: 1
     }
+
     .keyline1:before,
     .keyline:before,
     .vertical-center {
         position: absolute
     }
+
     #hero h1,
     .bvms-size,
     h1,
     h2 {
         font-weight: 600
     }
+
     #hero h1,
     #hero p {
         text-align: initial
     }
+
     .heromanbiner,
     .manbineroverflow {
         overflow: hidden
     }
+
     .blogs-img-head {
         width: auto;
         height: auto
     }
+
     .get-p {
         padding-right: 15px
     }
+
     .whatap-img {
         width: 35px
     }
+
     .phone-signup {
         margin-top: 60px
     }
+
     .singnup-valu {
         padding: 0 15px
     }
+
     .signup-input-ph {
         margin-top: 30px
     }
+
     .line-phone,
     .mobhide,
     .phone-hid,
@@ -4793,6 +4996,7 @@ button:active {
     .social::before {
         display: none
     }
+
     .keyline1:before,
     .keyline2:after,
     .keyline3:after,
@@ -4803,32 +5007,41 @@ button:active {
         display: block;
         left: 0
     }
+
     #hero {
         height: auto;
         padding: 235px 0 0;
         width: 100%;
         float: left
     }
+
     .pagebanneres {
         padding-top: 135px
     }
+
+    
+
     .pagesection {
         padding-top: 50px
     }
+
     .dropdown-item {
         padding: 15px 0 10px
     }
+
     .keyline:before {
         background: no-repeat;
         top: 0;
         transform: translateY(0)
     }
+
     .clients-h2:after,
     .keyline1:before {
         background: no-repeat;
         top: 0;
         transform: translateY(-50%)
     }
+
     .keyline2:after,
     .keyline3:after {
         background: no-repeat;
@@ -4836,48 +5049,58 @@ button:active {
         top: 0;
         bottom: 0
     }
+
     .vertical-center {
         top: 0;
         left: 5%;
         right: 5%;
         transform: translate(0, 50%)
     }
+
     .box-shadow-hero1,
     .box-shadow-hero2,
     .box-shadow-hero3 {
         box-shadow: 0 0 20px rgb(203 201 201 / 25%);
         position: relative
     }
+
     .rowitems {
         flex-direction: column
     }
+
     .darkdes1,
     .rowitems:nth-child(odd) .gridcontent {
         order: 2
     }
+
     .darkdes2,
     .rowitems:nth-child(2n) .gridcontent {
         order: 1
     }
+
     .influencebanner,
     .mainbanner {
         padding: 0 15px 55px;
         background-size: 50%
     }
+
     #hero h1 {
         color: #33475b;
         font-style: normal;
         font-size: 37px;
         line-height: 42px
     }
+
     #hero h4 {
         font-size: 19px;
         line-height: 1.7rem
     }
+
     #businessaccess h3,
     #hero h3 {
         font-size: 18px
     }
+
     .p-text {
         color: #687888;
         font-size: 9px !important;
@@ -4885,6 +5108,7 @@ button:active {
         margin: 15px 0;
         padding: 5px
     }
+
     .bvms-size,
     .greenbs,
     .vizitor-pass-h2,
@@ -4892,6 +5116,7 @@ button:active {
         font-size: 32px;
         line-height: 38px
     }
+
     .chgh3,
     .chgh4,
     h1,
@@ -4900,12 +5125,14 @@ button:active {
         font-size: 32px;
         line-height: 35px
     }
+
     .box-shadow-hero1 {
         background: #fff;
         border-radius: 2px;
         width: 118px;
         margin: -76px 0 0
     }
+
     .box-shadow-hero1:before {
         border: solid;
         border-color: #fff transparent;
@@ -4915,26 +5142,32 @@ button:active {
         bottom: -10px;
         position: absolute
     }
+
     .vistor-card {
         padding: 20px 0
     }
+
     .features-Effortless,
     .rowitems .imgcontent img {
         margin-bottom: 15px
     }
+
     .Try-for-free-btn-features {
         margin-top: 10%
     }
+
     .vistor-hr {
         border: 0;
         border-top: 2px solid #33475b
     }
+
     .box-shadow-hero2 {
         background: #fff;
         border-radius: 2px;
         width: 125px;
         margin: -62px 0 0 125px
     }
+
     .box-shadow-hero2:before {
         border: solid;
         border-color: #fff transparent;
@@ -4944,12 +5177,14 @@ button:active {
         bottom: -10px;
         position: absolute
     }
+
     .box-shadow-hero3 {
         background: #fff;
         border-radius: 2px;
         width: 90px;
         margin: -46px 0 0 263px
     }
+
     .box-shadow-hero3:before {
         border: solid;
         border-color: #fff transparent;
@@ -4959,29 +5194,35 @@ button:active {
         bottom: -10px;
         position: absolute
     }
+
     .VisitorManagement-System-in-India {
         padding-top: 235px;
         padding-bottom: 100px
     }
+
     .vizitor-pass-h2 {
         font-weight: 700 !important;
         color: #33475b
     }
+
     .GreenBusiness-p {
         font-weight: 500;
         font-size: 25px;
         line-height: 28px;
         color: #fff
     }
+
     #keysection .keybottom img,
     .bvmsbtn-learn,
     .footer-newsletter {
         margin-top: 25px
     }
+
     .Survey-Analysis-line {
         border-right: none;
         padding: 0
     }
+
     #Benefits,
     #Download-Vizitor-Pass,
     #Eco-friendly-Blogs,
@@ -4994,118 +5235,149 @@ button:active {
         padding-top: 50px;
         padding-bottom: 50px
     }
+
     #bvms2 {
         background: #fef9f4
     }
+
     #Vizitor-PASS {
         background: #f1fff7
     }
+
     #Download-Vizitor-Pass {
         background: #00a850
     }
+
     #Benefits,
     #Eco-friendly-Blogs {
         background: #fff
     }
+
     .Visitor-Management-System {
         background: #5a74c7
     }
+
     .saypb {
         padding-bottom: 15px
     }
+
     .hear-img {
         background: url(../images/vizitor/vizitor1.svg) 0 0/contain no-repeat;
         padding: 0 0 125px
     }
+
     .bannerleft {
         margin-top: 331px
     }
+
     .bannerleft h3 {
         font-size: 16px
     }
+
     .followersection {
         font-size: 16px;
         margin-top: 40px
     }
+
     .followersection img {
         max-width: 50%
     }
+
     .panel-default>.panel-heading a,
     .topblocktxt h3,
     h3 {
         font-size: 22px
     }
+
     .rowitems .gridcontent,
     .social {
         margin-top: 0
     }
+
     .creativecol,
     .navbar-nav {
         margin-top: 15px
     }
+
     #whyinfluence h3,
     .aboutpage h2,
     .rowitems .gridcontent h2 {
         font-size: 22px !important
     }
+
     .rowitems .gridcontent h5 {
         font-size: 16px;
         line-height: 1.3
     }
+
     #toolsection .rightcolcontent {
         padding: 30px 15px
     }
+
     .getimg-txt {
         position: absolute;
         top: 37%;
         right: 0;
         left: -2%
     }
+
     .followersection1 .fstxt2 {
         left: 170px
     }
+
     .banner-download {
         width: 100%
     }
+
     #hero.influencebanner h2 {
         font-size: 20px !important;
         line-height: 21px !important
     }
+
     #influencertop h3,
     .customerservicesection h4 {
         font-size: 20px
     }
+
     .customerservicesection {
         padding-bottom: 50px;
         text-align: center
     }
+
     .customerservicesection h1,
     .inspiresection h2 {
         font-size: 19px
     }
+
     .customerservicesection .get-arrow {
         margin-bottom: 20px;
         margin-top: 12px
     }
+
     .inspiresection .col-md-6.pl-5 {
         padding-left: 15px !important
     }
+
     .happycustomer .col-md-6.pl-0 {
         padding-left: 15px !important;
         margin-top: 20px
     }
+
     .carouselsection .owl-theme .owl-nav,
     .navbar-dis {
         display: none !important
     }
+
     .carouselsection .owl-carousel .owl-dots {
         display: block;
         margin-top: 20px
     }
+
     .creativecol {
         border-left: 10px solid #f7f5ff;
         border-top: 10px solid #f7f5ff
     }
+
     .footer h2 {
         font-size: 24px !important;
         color: #fff;
@@ -5114,107 +5386,136 @@ button:active {
         margin-bottom: 0;
         padding: 0
     }
+
     #hero .bannerbtn a,
     #scholor .darkimg p,
     .imagetext p {
         font-size: 12px !important
     }
+
     .imagetext p {
         line-height: 13px !important
     }
+
     .imagetext h1 {
         font-size: 40px;
         margin-bottom: 0
     }
+
     #bottombg .imagetext {
         top: 34%
     }
+
     .client-logo {
         display: flex;
         flex-wrap: wrap
     }
+
     .client-logo li {
         flex: 50%;
         width: 50%
     }
+
     #clientscroll li {
         margin: 10px 0 0
     }
+
     .topblocktxt h3 {
         line-height: 24px
     }
+
     #scholor .darkimg p {
         line-height: 12px !important
     }
+
     .banner-download form input[type=submit] {
         font-size: 13px;
         padding: 0 13px
     }
+
     .topblockimg img {
         align-items: center;
         margin-left: 0;
         max-width: 100%
     }
+
     .pinkbar .newbtn {
         font-size: 11px
     }
+
     .inspiresection h2 {
         font-size: 20px !important
     }
+
     #clientscroll h2,
     .innercontentarea h2 {
         font-size: 22px !important;
         font-weight: 600 !important
     }
+
     .nav-tabs {
         height: 70px
     }
+
     #toolsection .toolscol figure::after {
         content: none
     }
+
     #hero {
         padding-left: 0;
         padding-bottom: 0
     }
+
     .navbar-brand img {
         max-width: 130px
     }
+
     .influencers-hero li img {
         max-width: 60px
     }
+
     .innercontentarea h2 {
         line-height: 25px !important;
         margin-top: 25px
     }
+
     .innercontentarea h3 {
         font-size: 21px !important;
         font-weight: 500 !important
     }
+
     .image-p {
         font-size: 14px !important;
         line-height: 18px !important
     }
+
     .dbba {
         padding-bottom: 150px
     }
+
     .btnfloat {
         position: static;
         bottom: -53px
     }
+
     .brdisplay {
         display: block
     }
+
     .card-deck .card {
         margin-bottom: 20px;
         margin-left: 0
     }
+
     .benefits-card-b {
         background-color: transparent;
         box-shadow: 0 16px 24px rgb(0 0 0 / 6%), 0 2px 6px rgb(0 0 0 / 4%), 0 0 1px rgb(0 0 0 / 4%)
     }
+
     .detail-page-section {
         width: 33%
     }
+
     .email-input-footer {
         border: 2px solid transparent;
         border-radius: 5px;
@@ -5224,6 +5525,7 @@ button:active {
         transition: .5s;
         outline: 0
     }
+
     .btn-try-free-footer {
         background: #33475b;
         border-radius: 0 5px 5px 0;
@@ -5233,18 +5535,22 @@ button:active {
         padding: 0 15px;
         margin-left: -10px
     }
+
     .whychoose {
         background: #536cba
     }
+
     .heromanbiner {
         height: 328px;
         width: auto;
         max-width: none;
         position: relative
     }
+
     .nocredit {
         text-align: center !important
     }
+
     .clients-h2:after {
         height: 0;
         width: 0;
@@ -5253,17 +5559,21 @@ button:active {
         position: absolute;
         right: 0
     }
+
     .navbar-phone {
         display: block !important
     }
+
     .singup-page {
         padding-top: 150px;
         position: relative;
         z-index: 1
     }
+
     .logphone {
         margin-bottom: 25px
     }
+
     .dropdown-menu {
         position: absolute;
         right: auto;
@@ -5282,6 +5592,7 @@ button:active {
         border: 1px solid #fff;
         border-radius: .25rem
     }
+
     .dropdown-item p {
         font-weight: 400;
         font-size: 16px;
@@ -5290,29 +5601,30 @@ button:active {
         margin: 5px 0;
         display: none
     }
+
     .social a {
         color: #fff;
         padding: 5px 15px;
         margin: 0 7px 0 0
     }
+
+
     .email-input {
-        border: 2px solid #33475b;
-        border-radius: 5px;
-        height: 43px;
-        padding: 5px 12px;
-        -webkit-transition: .5s;
-        transition: .5s;
-        outline: 0
+        width: 60%;
+        font-size: 14px;
     }
+
     .btn-try-free {
-        background: #ed5c18;
-        border-radius: 0 5px 5px 0;
-        color: #fff;
-        height: 43px;
-        border: none;
-        padding: 0 25px;
-        margin-left: -10px
+        padding: 0 12px;
+        font-size: 14px;
+        margin-left: -10px;
+
     }
+
+    .form-inline {
+        justify-content: center;
+    }
+
     .footer-btn-try {
         background: #425568 !important
     }
@@ -5413,9 +5725,11 @@ body .no-padding {
     .imgcontent {
         order: 1
     }
+
     .gridcontent {
         order: 2
     }
+
     .influencebanner,
     .mainbanner {
         padding: 0 15px 55px;
@@ -5424,21 +5738,26 @@ body .no-padding {
 }
 
 @media only screen and (max-width:767px) {
+
     .b-bottom,
     .b-right-bottom {
         border-bottom: none
     }
+
     .b-right,
     .b-right-bottom {
         border-right: none
     }
+
     .color-h {
         font-size: 20px;
         color: #3f4450;
     }
+
     .modal.fade.bd-example-modal-sm.blog-pop-cus.show {
         padding-right: 0 !important
     }
+
     .blog-pop-cus h3 {
         font-size: 18px;
         width: 100%;
@@ -5446,10 +5765,12 @@ body .no-padding {
         line-height: 26px;
         padding: 0 10px
     }
+
     /******neha*********/
     .img_challenges {
         display: none;
     }
+
     .img_hero {
         display: block;
     }

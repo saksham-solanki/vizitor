@@ -6,11 +6,15 @@
                 <div class="row">
                     <div class="col-md-11 col-12">
                         <h2>Ready to get started?</h2>
-                        <p style="font-family:Sofia-Pro-Regular ;">Vizitor is accessible on both the platforms (Android & iOS)</p>
+                        <p style="font-family:Sofia-Pro-Regular ;">Vizitor is accessible on both the platforms (Android
+                            & iOS)</p>
 
                         <form id="footerForm">
-                            <input type="email" class="email-input" id="emailfooter" name="emailfooter" placeholder="Enter your email" required>
-                            <input class="btn-try-free footer-btn-try" type="submit" value="Try for free">
+                            <div class="form-inline2">
+                                <input type="email" class="email-input" id="emailfooter" name="emailfooter"
+                                    placeholder="Enter your email" required>
+                                <input class="btn-try-free footer-btn-try" type="submit" value="Try for free">
+                            </div>
                         </form>
                         <div class="mt-3">
                             <div style="float: left;">
@@ -19,10 +23,14 @@
                             </div>
 
                             <div class="social" style="padding: 5px 0px 0px 11px;">
-                                <a href="https://twitter.com/vizitorapp" class="twitter"><img src="/images/vizitor/Twitter.svg" alt="Screenshot" /></a>
-                                <a href="https://www.facebook.com/vizitorapp/" class="facebook"><img src="/images/vizitor/facebook.svg" alt="Screenshot" /></a>
-                                <a href="https://www.instagram.com/vizitorapp/?hl=en" class="instagram"><img src="/images/vizitor/instagram.svg" alt="Screenshot" /></a>
-                                <a href="https://www.linkedin.com/company/28998047/" class="linkedin"><img src="/images/vizitor/linkedin.svg" alt="Screenshot" /></a>
+                                <a href="https://twitter.com/vizitorapp" class="twitter"><img
+                                        src="/images/vizitor/Twitter.svg" alt="Screenshot" /></a>
+                                <a href="https://www.facebook.com/vizitorapp/" class="facebook"><img
+                                        src="/images/vizitor/facebook.svg" alt="Screenshot" /></a>
+                                <a href="https://www.instagram.com/vizitorapp/?hl=en" class="instagram"><img
+                                        src="/images/vizitor/instagram.svg" alt="Screenshot" /></a>
+                                <a href="https://www.linkedin.com/company/28998047/" class="linkedin"><img
+                                        src="/images/vizitor/linkedin.svg" alt="Screenshot" /></a>
                             </div>
                         </div>
 
@@ -30,7 +38,8 @@
 
                         <div class=" mb-4">
                             {{range .Site.Params.appsbtn}}
-                            <a href="{{.url}}" target="_blank"><img class="btn-app-footer btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                            <a href="{{.url}}" target="_blank"><img class="btn-app-footer btn-app-mg phonetop-btn"
+                                    src="{{.image  | absURL}}" alt="{{.title}}"></a>
                             {{end}}
                         </div>
 
@@ -104,7 +113,8 @@
                         <p>CONTACT US</p>
                         <ul>
 
-                            <li><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hello@vizitorapp.com" target="_">Email : hello@vizitorapp.com</a></li>
+                            <li><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hello@vizitorapp.com"
+                                    target="_">Email : hello@vizitorapp.com</a></li>
                             <li><a href="tel:+91-7302582799">India : +91-7302582799</a></li>
                             <li><a href="tel:+1 (416)-639-2651">Canada : +1-416-639-2651</a></li>
                             <li><a href="tel:+1 (416)-639-2651">US : +1-416-639-2651</a></li>
@@ -117,7 +127,8 @@
         <div class="mt-5 mb-3" style="border: 1px solid #4F657B;"></div>
         <div class="row ">
             <div class="col-md-12 ">
-                <p style="font-family:Sofia-Pro-Regular ;">© Copyright {{ now.Format "2006" }} Vizitor All rights reserved</p>
+                <p style="font-family:Sofia-Pro-Regular ;">© Copyright {{ now.Format "2006" }} Vizitor All rights
+                    reserved</p>
             </div>
         </div>
     </div>
