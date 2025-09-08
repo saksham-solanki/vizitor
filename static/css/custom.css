@@ -1153,17 +1153,15 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .accordion .card-header:after {
-    font-family: FontAwesome;
-    content: "\f078";
+    content: "▼"; /* Downward arrow */
     float: right;
     color: #2c2b30;
-    border: 0;
-    font-weight: 100
+    font-weight: normal;
 }
 
 .accordion .card-header.collapsed:after {
-    content: "\f054";
-    color: #000
+    content: "►"; /* Rightward arrow */
+    color: #000;
 }
 
 .accordion .card-header.collapsed:before {
