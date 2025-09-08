@@ -12,9 +12,9 @@ summary: Managing conference/Meeting rooms isn’t as easy as it sounds. From
   frustrate employees and waste time and share practical solutions (including
   smart booking systems like Vizitor) to optimize space utilization, streamline
   scheduling, and boost workplace collaboration.
-update: update
+update: Update
 authors:
-  - Rimpy saini
+  - sukriti
 image: /images/blog/7-common-struggles-of-office-conference-room-management.jpg
 ---
 
