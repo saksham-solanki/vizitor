@@ -7,4 +7,14 @@ items:
     answer: "Typical setups include boardroom, U-shape, and theater-style configurations."
   - question: "How do I create a room booking system?"
     answer: "Implement a user-friendly tool like Vizitor, integrate it with calendars, and customize it to your organization’s needs."
-       
+  - question: "What is a meeting room booking system?"
+    answer: "A meeting room booking system is software that allows organizations to reserve, schedule, and manage rooms digitally to avoid conflicts and maximize usage."
+  - question: "How does Vizitor prevent double bookings?"
+    answer: "Vizitor syncs with calendars and updates reservations in real time, ensuring no two people can book the same room at once."
+  - question: "Is Vizitor suitable for small businesses?"
+    answer: "Yes, Vizitor is affordable and scalable, making it a perfect solution for startups, SMEs, and enterprises."
+  - question: "Can I manage multiple office locations?"
+    answer: "Absolutely. Vizitor supports multi-location room scheduling, making it easy to manage spaces across different offices."
+  - question: "How does Vizitor compare to other meeting room software?"
+    answer: "Unlike complex enterprise tools, Vizitor is simple, cost-effective, and integrates visitor management features for a complete workplace solution."
+  

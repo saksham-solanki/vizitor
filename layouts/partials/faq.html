@@ -6,8 +6,9 @@
             <div id="accordion" class="accordion faqaccordion">
                 <div class="faqcard mb-0">
                     {{range $index, $elem := .Site.Data.faq.items }}
-                    <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
-                        <a class="card-title">
+                     <div class="card-header collapsed" data-toggle="collapse">
+                        <a class="card-title" data-toggle="collapse" href="#faq{{$index}}" aria-expanded="false"
+                            aria-controls="faq{{$index}}">
                             <b>{{.question}}</b>
                         </a>
                     </div>

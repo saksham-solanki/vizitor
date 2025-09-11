@@ -1,6 +1,5 @@
 ---
-title: "Don't Get Left Behind: Why Your Competitors are Already Using Visitor
-  Management Systems"
+title: "Visitor Management Systems: Stay Ahead of Competitors"
 description: What Is A Visitor Management System and Its Benefits For Workplace?
   Let’s Go Through Vizitor's Comprehensive Guide to learn more.
 date: 2023-03-21T06:37:40.000Z
