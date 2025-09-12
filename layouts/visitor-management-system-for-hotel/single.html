@@ -4,13 +4,9 @@
         <div class="row align-items-center">
 
             <div class="col-md-6 col-sm-6 col-xs-12 ">
-                <h1>Reimagine <span class="Digitize">Hotel Check-Ins</span> Fast, Safe, and Paperless</h1>
+                <h1>Hotel Visitor Management & Digital Check-In System</h1>
                 <div>
-                    <p>A cloud-based check-in system built to streamline operations and enhance
-                        security.Give your guests a smooth, modern check-in with Vizitor.
-                        No lines, no paperwork: just fast, secure, contactless check-ins from their
-                        phones in under a minute. Trusted by boutique hotels and big chains alike
-                        to streamline operations and elevate guest experience.
+                    <p>Simplify guest arrivals with Vizitor’s hotel check-in software. Our cloud-based visitor management system for hotels ensures fast, secure, and paperless check-ins. Trusted by boutique hotels and leading chains, Vizitor enhances security, reduces wait times, and elevates the guest experience.
                     </p>
                     <div class="mt-5">
                         <form id="vms">
@@ -41,9 +37,8 @@
     <div id="bvms2">
         <div class="container ">
             <div class="text-center">
-                <h3 class="bvms-size">Why Choose Vizitor for Your Hotel?</h3>
-                <p>Vizitor is your all-in-one hotel OS from managing reservations and check-ins to housekeeping and
-                    billing, <br> everything runs smoother, faster, and smarter.</p>
+                <h3 class="bvms-size">Why Hotels Choose Vizitor for Smarter Guest Management</h3>
+                <p>Vizitor is more than a visitor management system, it’s your all-in-one digital hotel check-in and guest management solution. From reservations to check-ins, security to billing, everything runs smoother, faster, and smarter with our cloud-based system.</p>
             </div>
             <div class="row card-deck mt-5">
                 <div class="col-md-6 col-sm-6 col-xs-12 card" style="background-color:transparent;">
@@ -359,6 +354,32 @@
 
 
 </div>
+
+<!-- Faq Section -->
+<div id="bvms2">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-11 mx-auto">
+                <h2 class="mb-5">Frequently Asked Questions</h2>
+                <div id="accordion" class="accordion faqaccordion">
+                    <div class="faqcard mb-0">
+                        {{range $index, $elem := .Site.Data.faqhotel.items }}
+                        <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
+                            <a class="card-title">
+                                <b>{{.question}}</b>
+                            </a>
+                        </div>
+                        <div id="faq{{$index}}" class="card-body collapse clrmod" data-parent="#accordion">
+                            {{.answer | safeHTML}}
+                        </div>
+                        {{end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Faq Section Ends -->
 
 
 
