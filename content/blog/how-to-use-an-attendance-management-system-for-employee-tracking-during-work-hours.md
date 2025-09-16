@@ -1,6 +1,5 @@
 ---
-title: How to Use an Attendance Management System for Employee Tracking During
-  Work Hours
+title: How to Use an Attendance Management System Effectively
 description: Learn how businesses can use attendance management systems to
   effectively track employee work hours and improve efficiency
 date: 2024-11-28T05:14:45.407Z
