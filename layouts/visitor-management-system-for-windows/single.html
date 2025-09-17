@@ -1,38 +1,206 @@
 {{ define "main" }}
-
-<section>
+<div class="container pagebanneres">
+    <div class="row align-items-center">
+        <div class="col-md-6 col-sm-6 col-xs-12 ">
+            <h1>Visitor Management System For <span class="Digitize">Windows</span></h1>
+            <div>
+                <p><b>Fast, Secure & Paperless Check-Ins with Vizitor</b>
+                    <br>Give your front desk the power of smart technology. Vizitor’s Windows-based visitor management
+                    system makes check-ins faster, safer, and completely paperless. Replace manual logbooks with a
+                    cloud-powered solution designed to streamline visitor registration, enhance security, and improve
+                    guest experience.
+                </p>
+                <p>Trusted by offices, hospitals, schools, coworking spaces, and enterprises worldwide.</p>
+                <div class="mt-5">
+                    <form id="deliveryMS">
+                        <div class="form-inline2">
+                            <input type="email" class="email-input" id="email" name="email"
+                                placeholder="Enter your email" required>
+                            <input class="btn-try-free" type="submit" value="Try for free">
+                        </div>
+                    </form>
+                </div>
+                <p class="no-credit Try-free mt-4">* No credit card required</p>
+                <div class="mt-4 Try-free mb-4">
+                    {{range .Site.Params.apps}}
+                    <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
+                            src="{{.image  | absURL}}" alt="{{.title}}"></a>
+                    {{end}}
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <img src="/images/vizitor/vms-windows/windows.png" alt="vizitor2" />
+        </div>
+    </div>
+</div>
+<div id="bvms2">
     <div class="container">
+        <!-- <div class="text-center pb-5">
+            <h2>Revolutionize the way manage<br> <span class="Digitize">Delivery with Vizitor</span>
+            </h2>
+            <p>Simply scan received packages to notify recipients, and easily<br> collect proof-of-handoff upon
+                collection.</p>
+        </div> -->
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <img src="/images/vizitor/vms-windows/windows2.png" alt="effortlessly_manage_packages" />
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Why Choose Vizitor for Windows?</h3>
+                <p>Traditional visitor logs are messy, insecure, and time-consuming. Vizitor transforms your Windows
+                    system into a modern digital reception desk.</p>
+                <ul>
+                    <li><b>Faster Check-Ins-</b> Register guests in under a minute with simple, digital steps.</li>
+                    <li><b>Enhanced Security-</b> Capture visitor photos, IDs, and signatures securely.</li>
+                    <li><b>Smart Dashboard-</b> Monitor all visitor activity in real-time from one screen.</li>
+                    <li><b>Cloud-Powered-</b> Access records anytime, anywhere, with data securely stored.</li>
+                    <li><b>Seamless Integration-</b> Runs smoothly on Windows devices with easy setup.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms">
+    <div class="container">
+        <div class="text-center pb-5">
+            <h2>Key Features of Vizitor on Windows</h2>
+        </div>
+        <div class="row ">
+
+            <div class="col-md-4 col-sm-4 col-xs-4 ">
+                <h6> Digital & Paperless Check-In</h6>
+                <p>No more registers or spreadsheets. Guests check in with a few taps on your Windows device.</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-4 ">
+                <h6>Visitor Pre-Registration</h6>
+                <p>Hosts can invite guests in advance, sending them QR codes for faster entry.</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-4 ">
+                <h6>Photo & ID Capture</h6>
+                <p>Boost workplace security with photo badges and ID verification.</p>
+                Boost workplace security with photo badges and ID verification.
+
+            </div>
+
+        </div>
+        <div class="row  mt-4">
+
+            <div class="col-md-4 col-sm-4 col-xs-4 ">
+                <h6>Instant Notifications</h6>
+                <p>Employees get real-time alerts when their visitors arrive.</p>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-4 ">
+                <h6>Centralized Dashboard</h6>
+                <p>Track visitor data, peak times, and detailed reports, all from your Windows system.</p>
+
+
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-4 ">
+                <h6>Compliance & Data Security</h6>
+                <p>Ensure GDPR-compliant, encrypted storage of visitor data.</p>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div id="bvms2">
+    <div class="container">
+        <!-- <div class="text-center pb-5">
+            <h2>Revolutionize the way manage<br> <span class="Digitize">Delivery with Vizitor</span>
+            </h2>
+            <p>Simply scan received packages to notify recipients, and easily<br> collect proof-of-handoff upon
+                collection.</p>
+        </div> -->
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <!-- <img src="/images/vizitor/vms-windows/windows2.png" alt="effortlessly_manage_packages" /> -->
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">Benefits of Using Vizitor on Windows</h3>
+                
+                <ul>
+                    <li><b>Save Time-</b> Reduce front desk workload with automation.</li>
+                    <li><b>Improve Security-</b> Every visitor is verified and tracked.</li>
+                    <li><b>Enhance Guest Experience-</b> No waiting, no paper forms, just smooth entry.</li>
+                    <li><b>Smart Insights-</b> Use analytics to optimize operations and staff planning.</li>
+                    <li><b>Scalable-</b> From startups to enterprises, Vizitor grows with your needs.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">How It Works on Windows</h3>
+                <ul>
+                    <li><b>Go to vizitorapp.com</b> on your Windows device.</li>
+                    <li><b>Set up your account</b> and customize your check-in flow, add visitor fields, enable ID capture, and security rules.</li>
+                    <li><b>Visitors check in digitally</b> using your Windows system or via pre-registered QR codes.</li>
+                    <li><b>Hosts get notified instantly</b> while all guest data is securely stored in the cloud.</li>
+                </ul>
+                <p>No downloads. No installation. Just log in and start managing visitors seamlessly.</p>
+            </div>
+             <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <!-- <img src="/images/vizitor/vms-windows/windows2.png" alt="effortlessly_manage_packages" /> -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bvms">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-6 col-xs-12 center-content">
+                <!-- <img src="/images/vizitor/vms-windows/windows2.png" alt="effortlessly_manage_packages" /> -->
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 " id="Delivery">
+                <h3 class="bvms-size">What Sets Vizitor Apart?</h3>
+                <p>Unlike generic visitor log software, Vizitor is built for security, speed, and scale.</p>
+                <ul>
+                    <li><b>Designed for Windows Devices-</b> Simple installation, seamless performance.</li>
+                    <li><b>Contactless Options-</b> QR-based check-ins for safety & hygiene.</li>
+                    <li><b>All-in-One Platform-</b> Visitor management, pre-registration, reporting, and security in one.</li>
+                    <li><b>Trusted by Leading Companies-</b> Used in industries like healthcare, education, corporate offices, and government.</li>
+                </ul>
+            </div>
+             
+        </div>
+    </div>
+</div>
+
+<!-- Faq Section -->
+<div id="bvms2">
+    <div class="container mb-5">
         <div class="row">
-            <div class="main_des_third_contant">
-                <div class="col-md-12 col-sm-12 col-xs-12 ">
-                    <div>
-                        <h1 class="center-content">visitor management system for windows</h1>
-                    </div>
-                    <div>
-                        <p>How many visitors are present in your office right now? How many did you have yesterday? What about on 30th December, 2018? You probably struggled to answer the last question, if not the former one. And if you could answer them
-                            all, you likely had to go through several sheets in your manual logbook that holds your visitor’s details or find an old Excel spreadsheet in your computer and manually count the entries.
-                        </p>
-                        <p>If you are facing such challenges then we have a solution just for you! Vizitor, a highly customisable visitor management system that allows you to modernise your front desk by giving your guests the welcome they deserve, is capable
-                            of being installed in every device, be it iPad, Windows or Android. </p>
-                        <p>Windows is an operating system that is utilised by a large section of the society because it is affordable, easy to use and customizable to a certain extent. Hence, a windows based Vizitor can be be of great use and public service.
-                            It offers a simple, smart and secure visitor experience by making the process of registration easy and quick.</p>
-                        <p><span>&#8226;</span> It is equipped with features that saves time of the receptionist and other employees through visitor’s pre-registration and windows based self-registration process.</p>
-                        <p><span>&#8226;</span> Vizitor installed in a windows based device also helps in making the organization’s premise secure by capturing the visitor’s photo and registering their verified phone number. </p>
-                        <p><span>&#8226;</span> Installing a visitor management software such as Vizitor in your Windows device, minimises the requirement of hardware since it leverages the power of cloud.</p>
-                        <p>The Vizitor ecosystem consists of the Vizitor Terminal that sits at your reception area for guests to check-in, uses apps for your employees and visitors for pre-registrations & superfast check-ins, and the Vizitor Dashboard for
-                            your admin team to keep a bird’s eye view on visitor movement. </p>
-                        <p>Along with photo capturing and mobile number verification, Vizitor also allows you to print badges of guests, visiting your premise. Vizitor terminals can be customized to reflect your brand identity and create a positive first
-                            impression on your visitors. Apart from all these features, it sends an instant notification to the host as the visitor registers on the device. </p>
-                        <p>It is equipped with a real time dashboard tracking every visitors’ movement in your premise. It also sends an emergency notification to all the hosts and visitors in case of an emergency.</p>
-                        <p>With Vizitor you can maximise your team’s efficiency by powering up your guest management system and windows based mobile app that allows your employees, receptionists and visitors to be in sync at all time. </p>
-                        <p>Hence, a visitor management system that works perfectly in the most used operating system maximising your organization’s efficiency along with minimising the time required can upgrade your guest management system to another level
-                            and should definitely be installed at your reception desk. </p>
+            <div class="col-md-11 mx-auto">
+                <h2 class="mb-5">Frequently Asked Questions</h2>
+                <div id="accordion" class="accordion faqaccordion">
+                    <div class="faqcard mb-0">
+                        {{range $index, $elem := .Site.Data.vmsWindows.items }}
+                        <div class="card-header collapsed" data-toggle="collapse">
+                            <a class="card-title" data-toggle="collapse" href="#faq{{$index}}" aria-expanded="false"
+                                aria-controls="faq{{$index}}">
+                                <b>{{.question}}</b>
+                            </a>
+                        </div>
+                        <div id="faq{{$index}}" class="card-body collapse clrmod" data-parent="#accordion">
+                            {{.answer | safeHTML}}
+                        </div>
+                        {{end }}
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</div>
 
-<div>{{- partial "upgrade.html" . -}}</div>
+
 {{end}}

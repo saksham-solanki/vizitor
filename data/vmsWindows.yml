@@ -1,0 +1,12 @@
+items:  
+  - question: "What is a visitor management system for Windows?"
+    answer:  "It’s software that replaces manual registers with a digital check-in process on Windows devices. Vizitor ensures faster, safer, and more efficient visitor handling."
+  - question: "Can Vizitor integrate with my existing Windows hardware?"
+    answer: "Yes, Vizitor runs smoothly on most Windows desktops, laptops, and tablets without requiring special hardware."
+  - question: "How secure is visitor data?"
+    answer: "Vizitor uses encryption and cloud storage with compliance standards like GDPR to ensure complete data security."
+  - question: "Can I pre-register guests using Vizitor?"
+    answer: "Yes, Hosts can pre-register guests and send QR codes for seamless check-ins."
+  - question: "Is Vizitor suitable for enterprises as well as small businesses?"
+    answer: "Yes, Vizitor is scalable, from startups to large enterprises, it adapts to your needs."
+  
