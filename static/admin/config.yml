@@ -31,7 +31,8 @@ collections:
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false}
       - { label: "Summary", name: "summary", widget: "text", required: false}
-      - { label: "Update", name: "update", widget: "text", required: false}
+      # - { label: "Update", name: "update", widget: "text", required: false}
+      - { label: "Update", name: "update", widget: "datetime", format: "YYYY-MM-DD", default: "", required: false }
       - { label: "authors", name: "authors", widget: "list", allow_add: true, default: [""], required: false }
       - { label: "image", name: "image", widget: "image"}
       - { label: "Body", name: "body", widget: "markdown" }
