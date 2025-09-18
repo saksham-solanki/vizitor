@@ -1,6 +1,6 @@
 ---
-title: "Visitor Management System Ipad  | Ipad Check in System"
-description : "Welcome visitors in style with Vizitor, a smart and secure iPad check-in system. Fully customizable and cloud-managed for a seamless experience"
+title: "Visitor Management Software for iPad | Fast & Secure"
+description : "Upgrade your front desk with an iPad visitor check-in system. Simple, secure, and paperless visitor management designed for modern businesses."
 keywords:
 - Visitor management system for ipad, 
 - ipad visitor managemnent system, 
