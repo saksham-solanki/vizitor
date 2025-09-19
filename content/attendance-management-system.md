@@ -1,6 +1,6 @@
 ---
-title: "Attendance management system| Vizitor"
-description : "Automate employee attendance with Vizitor’s Attendance Management System. Track attendance, manage shifts, and approve leaves seamlessly. Try it free today!"
+title: "Attendance Management System | Employee Attendance Software"
+description : "Simplify employee attendance with Vizitor’s Attendance Management System. Track hours, manage shifts, approve leaves & ensure GPS enabled accuracy"
 keywords:
 - visitors app,
 - Attendance management system, 
