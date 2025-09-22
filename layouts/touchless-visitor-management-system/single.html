@@ -1,15 +1,13 @@
 {{ define "main" }}
 <div class="container pagebanneres">
     <div class="row align-items-center">
-        <div class="col-md-6 col-sm-6 col-xs-12 ">
-            <h2>
-                Helping businesses
-                <span class="Digitize">re-open safely</span>
-            </h2>
-            <h1 class="visitor-mgt">Touchless Visitor Management System</h1>
+        <div class="col-md-7 col-sm-6 col-xs-12 ">
+            <h1>Touchless Visitor Management System | Vizitor</h1>
             <div>
+                <p><b>Ensure Safe, Contactless Visitor Check-ins</b></p>
                 <p class="visitor-Smoothen">
-                    Protect your employees & visitors safe with Vizitor's touchless check-in solution. Vizitor, let’s you manage both your visitors registration and employees attendance in a contactless manner with active occupancy monitoring.
+                    Keep your workplace safe and efficient with Vizitor’s touchless visitor management system. Say goodbye to manual logbooks and long queues. Our platform ensures contactless check-ins, real-time visitor tracking, and seamless host notifications, all from one cloud-based dashboard.
+
                 </p>
             </div>
             <div class=" mt-4">
@@ -19,7 +17,7 @@
                 </form>
             </div>
         </div>
-        <div class="col-md-6 col-sm-6 col-xs-12 ">
+        <div class="col-md-5 col-sm-6 col-xs-12 ">
             <img src="/images/vizitor/Touchless-check/Make-your-workplace.png" alt="Make-your-workplace" />
         </div>
     </div>
@@ -196,4 +194,28 @@
 
 
 <div>{{- partial "upgrade.html" . -}}</div>
+
+    <div id="bvms2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-11 mx-auto">
+                    <h2 class="mb-5">Frequently Asked Questions</h2>
+                    <div id="accordion" class="accordion faqaccordion">
+                        <div class="faqcard mb-0">
+                            {{range $index, $elem := .Site.Data.touchlessvmsFaq.items }}
+                            <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
+                                <a class="card-title">
+                                    <b>{{.question}}</b>
+                                </a>
+                            </div>
+                            <div id="faq{{$index}}" class="card-body collapse clrmod" data-parent="#accordion">
+                                {{.answer | safeHTML}}
+                            </div>
+                            {{end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 {{end}}

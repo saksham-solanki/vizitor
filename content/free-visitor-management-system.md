@@ -1,6 +1,6 @@
 ---
-title: "Free Visitor Management System with Photo Capture"
-description : "Introducing our new free plan with features like photo capturing,host notification, visitors analytics and more.To check more visit us at Vizitor."
+title: "Free Visitor Management System for Startups | Vizitor"
+description : "Free visitor management system for startups. Enjoy secure visitor logs, pre-registration & alerts with Vizitor. Easy setup, no credit card."
 keywords:
 - visitor management system price, best free visitor management app, free plan launch, visitor management system software free download, visitor management system cost
 draft: false

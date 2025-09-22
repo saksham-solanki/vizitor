@@ -1,6 +1,6 @@
 ---
-title: "Visitor Management & Contactless Sign in | Vizitor"
-description : "Protect workplace and employees with the power of touchless check-in. Vizitor, let’s you check-in both your visitors and employees in a contactless manner."
+title: "Touchless Visitor Management | Go Digital with Vizitor"
+description : "Upgrade your workplace with Vizitor’s touchless visitor management. Fast, secure check-ins, real-time tracking, and badge printing. Try for free!"
 keywords:
 - Touchless visitor management system, 
 - Visitor management system, 
