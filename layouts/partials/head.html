@@ -16,8 +16,8 @@
         content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
     <meta property="og:site_name" content="Vizitor - Visitor Management System" />
     <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/vizitor2.png" />
-    <link rel="stylesheet" rel="preload" href="/css/others.css">
-    <link rel="stylesheet" rel="preload" href="/css/custom.css">
+    <link rel="stylesheet" rel="preload" href="/css/others.css" as="style">
+    <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
     <link rel="shortcut icon" href="/images/vizitor/favicon.ico" type="image/x-icon">
     <link rel='shortlink' href='https://www.vizitorapp.com/' />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -31,6 +31,18 @@
     <link rel="stylesheet" href='{{ "/owlcarousel/owl.theme.default.min.css" | absURL }}'> -->
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
     <link rel="alternate" href="/gaurav_vizitor.txt" type="text/plain">
+
+    <!-- ------------hreflang--------------- -->
+    <link rel="alternate" href="https://www.vizitorapp.com/" hreflang="en-us" />
+<link rel="alternate" href="https://www.vizitorapp.com/" hreflang="en-ca" />
+<link rel="alternate" href="https://www.vizitorapp.com/" hreflang="en-gb" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="en_CA" />
+<meta property="og:locale:alternate" content="en_GB" />
+<link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.vizitorapp.com/sitemap.xml">
+
+    <!-- ------------hreflang--------------- -->
 
     <script type="application/ld+json">
         {

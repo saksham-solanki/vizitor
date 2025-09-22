@@ -1,5 +1,5 @@
 ---
-title: 8 Key Roles and Responsibilities of a Front Office Team
+title: Top 8 Roles Every Front Office Team Must Handle Effectively
 description: "Description: Wondering if your business needs a receptionist?
   Learn about 8 essential front office roles and how they can streamline
   operations and boost productivity."
