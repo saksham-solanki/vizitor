@@ -1,10 +1,10 @@
 ---
-title: How to Make your Event Safer with Vizitor!
+title: How to Improve Punctuality in the Workplace | Tips & Strategies
 description: Discover actionable strategies to improve punctuality in the
   workplace. Learn how employees and managers can boost productivity, reduce
   lateness, and cultivate a culture of timeliness.
 date: 2021-02-10T16:41:38.000Z
-draft: true
+draft: false
 summary: This blog explores how to improve punctuality in the workplace,
   highlighting why timeliness matters for productivity, professionalism, and
   team morale. It covers common reasons for lateness, practical strategies for

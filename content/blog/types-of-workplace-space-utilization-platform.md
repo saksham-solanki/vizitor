@@ -1,5 +1,5 @@
 ---
-title: Types of Workplace Space Utilization Platform
+title: "Workplace Space Utilization Platforms: Optimize Office Efficiency"
 description: Maximize office efficiency with workplace space utilization
   platforms. Boost productivity, save costs, and improve safety with Vizitor
   solutions.

@@ -4,7 +4,7 @@ description: Transform retail customer journeys with Vizitor’s queue managemen
   system. Reduce wait times, boost engagement, and improve operational
   efficiency.
 date: 2024-05-12T10:18:42.000Z
-draft: true
+draft: false
 summary: >-
   In today’s fast-paced retail environment, long waiting times can significantly
   impact customer satisfaction and sales. Shoppers expect speed, convenience,
