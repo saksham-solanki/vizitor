@@ -1,0 +1,15 @@
+items:  
+  - question: "What is a visitor badge management system?"
+    answer: "A visitor badge management system is a digital solution that helps organizations print, issue, and track visitor badges. It streamlines office check-ins, improves security, and ensures a professional experience for all guests."
+  - question: "How does Vizitor’s visitor badge system work?"
+    answer: "Vizitor allows you to instantly print and customize badges, track visitor activity, and integrate with existing access control or calendar systems. It also supports touchless check-ins and NDA signing for secure visits."
+  - question: "Can I customize visitor badges with logos and colors?"
+    answer: "Yes, Vizitor enables fully customizable visitor badges including company logos, brand colors, visitor photos, QR codes, and access levels to match your workplace branding and security requirements."
+  - question: "How can I prevent no-shows and manage large visitor groups?"
+    answer: "Vizitor’s system includes automated reminders, pre-printed badges, and bulk check-in features, which help reduce no-shows and efficiently manage large groups or event visitors."
+  - question: "Is Vizitor secure for sensitive workplaces?"
+    answer: "Absolutely, Every visitor is logged digitally, access levels can be restricted, and NDAs can be signed electronically. This ensures full visitor tracking, compliance, and workplace security."
+  - question: "Does Vizitor integrate with other office systems?"
+    answer: "Vizitor integrates seamlessly with calendar apps, access control systems, and others, allowing real-time updates, automated scheduling, and a unified workplace management experience."
+
+  

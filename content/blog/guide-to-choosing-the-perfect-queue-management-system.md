@@ -4,7 +4,7 @@ description: Discover how to select the best queue management system for your
   business, reduce wait times, boost customer satisfaction, and improve staff
   efficiency.
 date: 2024-05-13T10:18:42.000Z
-draft: true
+draft: false
 summary: Efficient queue management is no longer optional, it's essential. This
   guide explores how a QMS can reduce wait times, boost customer satisfaction,
   and empower staff, with practical tips for selecting the perfect solution.

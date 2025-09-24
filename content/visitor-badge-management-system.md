@@ -1,6 +1,6 @@
 ---
-title: "Visitor Badge Management software | Vizitor"
-description : "Visitor badges with photos for easy identification. Print badges & manage visitors with our visitor management system. Learn more!"
+title: "Simplify Visitor management with Badge Management Solution"
+description : "Simplify office visitor management with Vizitor. Instant badge printing, customizable designs, and secure check-ins for every guest."
 draft: false
 type: "visitor-badge-management-system"
 

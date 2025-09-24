@@ -1,0 +1,12 @@
+items:  
+  - question: "What is a visitor check-in system?"
+    answer: "A visitor check-in system is a digital platform that automates visitor registration, badge printing, and tracking to ensure secure and efficient workplace or campus access."
+  - question: "How does Vizitor’s system work?"
+    answer: "Visitors check in via kiosks, pre-registered invitations, or mobile apps. Badges are printed instantly, hosts are notified, and every visitor is tracked digitally."
+  - question: "Can I customize badges and visitor forms?"
+    answer: "Yes, Add logos, colors, QR codes, and collect information like NDAs digitally to suit your organization’s requirements."
+  - question: "Is the system secure for schools and offices?"
+    answer: "Absolutely, Each visitor is logged, access levels are controlled, and digital records ensure safety and compliance."
+  - question: "Can it handle large events?"
+    answer: "Yes, Vizitor supports bulk registration, pre-printed badges, and fast check-ins for conferences, events, and parking management."
+  

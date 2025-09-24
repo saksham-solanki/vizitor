@@ -2,14 +2,11 @@
 <div class="container pagebanneres">
     <div class="row ">
         <div class="col-md-6 col-sm-6 col-xs-12 ">
-            <h1 class="desk">
-                Visitor
-                <span class="Digitize">Badge</span> Management System
+            <h1>
+               Instant Visitor Badge Management for Safe, Organized Offices
             </h1>
-            <p>We at Vizitor know and understand what it means to manage large number of guests. It is difficult to identify each and every Guest present inside your office which may lead to breach in the security of your premises. Someone who is completely
-                unknown can also enter without any authentication at the front desk.</p>
-            <p>Vizitor allows you to print visitor badges instantly. As the visitor enter their details, Vizitor will input all the information and print visitor badges which include custom fields such as host name, company name etc. This will help hosts
-                to identify the particular visitors easily and also helps to manage them without any confusion</p>
+            <p>Print and customize visitor badges instantly for a secure, efficient, and professional workplace experience</p>
+            <p>Welcome to Vizitor’s Visitor Badge Management System, the easiest way to streamline office guest check-ins. Instantly print and customize visitor badges, track guest activity in real time, and ensure secure, efficient access for every visitor. Perfect for busy front desks, corporate offices, and secure workplaces, Vizitor makes every visitor experience seamless and professional.</p>
             <div class="bannerbtn mt-4">
                 <a href="/signup" class="btn-arrow">Get Started</a>
             </div>
@@ -22,29 +19,73 @@
     </div>
 </div>
 
+<div class="Visitor-Management-System ">
+        <div class="container ">
+            <div class="center-content ">
+                <h2 class="color-wht mb-5">Why You Need a Visitor Badge System</h2>
+                <p class="What-Visitor mb-4">Managing visitors isn’t just about checking them in, it’s about creating a safe, organized, and professional environment. Without a proper badge system, offices face:</p>
+                <p class="text-white">• Confusion at the front desk during peak hours</p>
+                <p class="text-white">• Security risks from unverified visitors</p>
+                <p class="text-white">• Wasted time with manual check-ins</p>
+                <p class="text-white">• Lack of tracking for compliance and audits</p>
+
+                <p class="text-white">With Vizitor, every visitor gets a badge instantly, ensuring fast, secure, and hassle-free access.</p>
+
+                <div class=" text-center mt-5">
+                    <a href="/signup" class="btn-arrow bvms-white-btn">Try for free</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
 <div class="container pagesection">
+    <div class="text-center mb-5">
+        <h2>How Vizitor Enhances Workplace Productivity</h2>
+    </div>
     <div class="row align-items-center">
         <div class="col-md-6 col-sm-6 col-xs-12">
             <img src="/images/vizitor/badge-management-system/vms--badge2.png" alt="vms--badge2">
         </div>
         <div class="col-md-6 col-sm-6 col-xs-12 custom-header-photo">
-            <h6>Badge Printing</h6>
-            <p>Vizitor automatically prints detailed visitor badges when guests sign-in. High quality visitors badges are printed instantly to identify them in your organisation premises.</p>
+            <h6>Faster Check-Ins:</h6>
+            <p> Reduce wait times with instant or pre-printed badges</p>
 
-            <h6>Badge Pre Printing</h6>
-            <p>You can choose the option to preprint the badges for invited guests. It saves time and help to minimize your clients waiting hours.</p>
+            <h6>Better Security:</h6>
+            <p>Track all visitors with unique badges and access levels</p>
 
-            <h6>Badge Reprinting</h6>
-            <p>If you want to reprint a badge at any time, go to dashboard to do so. Gives your customers hassle free experience.</p>
+            <h6>Compliance Ready:</h6>
+            <p>Digital records of NDAs and visitor logs</p>
 
-            <h6>Customizable Badges</h6>
-            <p>Customize your badges with multiple colour options, changeable fonts, badge orientation that gives custom friendly user experience.</p>
-
-            <h6>Sign NDA’s</h6>
-            <p>Make visitors sign documents upon check-in. Signed NDAs/ security protocols etc available via dashboard. To sign NDAs so they don’t disclose critical information.</p>
+            <h6>Seamless Integration:</h6>
+            <p>Works with your existing visitor management system, calendars, and access controls</p>
         </div>
     </div>
 </div>
 
 <div>{{- partial "upgrade.html" . -}}</div>
+
+    <div id="bvms2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-11 mx-auto">
+                    <h2 class="mb-5">Frequently Asked Questions</h2>
+                    <div id="accordion" class="accordion faqaccordion">
+                        <div class="faqcard mb-0">
+                            {{range $index, $elem := .Site.Data.badgevms.items }}
+                            <div class="card-header collapsed" data-toggle="collapse" href="#faq{{$index}}">
+                                <a class="card-title">
+                                    <b>{{.question}}</b>
+                                </a>
+                            </div>
+                            <div id="faq{{$index}}" class="card-body collapse clrmod" data-parent="#accordion">
+                                {{.answer | safeHTML}}
+                            </div>
+                            {{end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 {{end}}

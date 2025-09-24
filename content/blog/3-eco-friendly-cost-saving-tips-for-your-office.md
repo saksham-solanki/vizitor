@@ -4,7 +4,7 @@ description: Discover eco-friendly ways to save costs in your office while
   boosting efficiency, sustainability, and employee satisfaction. Learn top tips
   from remote work to cloud computing.
 date: 2021-01-15T10:18:42.000Z
-draft: true
+draft: false
 summary: "Reducing costs and supporting sustainability don’t have to be separate
   goals. This guide explores three eco-friendly strategies: remote work, cloud
   computing, and going paper-free that help your office save money, increase
