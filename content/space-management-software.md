@@ -1,6 +1,6 @@
 ---
-title: "Office Space Management Software & Solutions for Office Space Utilization"
-description : "Transform your office with Vizitor’s Space Management Software. Optimize workspace utilization, reduce costs, and boost employee productivity. Try it free today"
+title: "Office Space Management Software | Smart Workspace Solutions"
+description : "Reduce wasted office space and improve productivity. Vizitor space management software helps track usage, schedule rooms, and manage workplaces effectively."
 keywords:
 draft: false
 type: "space-management-software"
