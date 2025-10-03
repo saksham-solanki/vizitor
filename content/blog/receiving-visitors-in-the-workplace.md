@@ -1,6 +1,5 @@
 ---
-title: How to Receive Visitors in the Workplace – Professional Reception &
-  Visitor Welcome Tips
+title: "Receiving Visitors in the Workplace: Best Practices & Modern"
 description: Learn how to receive visitors professionally, enhance security, and
   streamline office check-ins with digital visitor management systems like
   Vizitor.
