@@ -1,6 +1,6 @@
 ---
-title: "Pricing | Affordable Visitor Management | Vizitor Solutions"
-description : "Get Started with a Free 10-Day Trial - Experience the Power of Vizitor for Your Business. Request a Demo if Needed."
+title: "Visitor Management System Pricing | Vizitor Plans"
+description : "Explore Vizitor’s visitor management system pricing. Affordable plans for every industry. Touchless check-ins, compliance, and workplace efficiency."
 keywords:
 - signup, 
 - visitor signup, 
