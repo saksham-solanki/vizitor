@@ -790,6 +790,16 @@ section {
     }
 } */
 
+
+
+
+@media screen and (max-width: 767px) {
+    .pagebanneres-hero {
+        padding-top: 100px
+    }
+   
+}
+
 /* --------------------------------------- */
 
 .box-shadow-hero1,
