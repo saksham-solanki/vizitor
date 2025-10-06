@@ -1,14 +1,49 @@
 {{if .IsHome }}
 <!--laptop Hero Section -->
-<div class="pagebanneres-hero pagebanner-laptop">
+<div class="pagebanneres-hero">
+    <div class="container ">
+        <div class="text-center">
+            <h1>Streamline Workplace Efficiency & <br> 
+                <span class="Digitize">Visitor Management with Vizitor</span>
+            </h1>
+            <p>From digital visitor management to workplace safety and compliance, 
+               <br> manage it all effortlessly with Vizitor</p>
+
+            <form id="homeForm">
+                <div class="form-inline">
+                    <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email" required>
+                    <input class="btn-try-free" type="submit" value="Try for free">
+                </div>
+            </form>
+
+            <p class="no-credit mt-3 nocredit">* No credit card required</p>
+
+            <div class="manbineroverflow">
+                <picture>
+                    <!-- Phone -->
+                    <source srcset="/images/vizitor/vizitor-480.webp" media="(max-width: 767px)">
+                    <!-- Tablet -->
+                    <source srcset="/images/vizitor/vizitor-780.webp" media="(max-width: 1024px)">
+                    <!-- Laptop/Desktop -->
+                    <img class="heromanbiner" src="/images/vizitor/vizitor.webp" alt="vizitor">
+                </picture>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-4 pb-5">
+        {{range .Site.Params.apps}}
+        <a href="{{.url}}" target="_blank">
+            <img class="btn-app btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}">
+        </a>
+        {{end}}
+    </div>
+</div>
+<!-- <div class="pagebanneres-hero pagebanner-laptop">
     <div class="container ">
         <div class="text-center">
             <h1>Streamline Workplace Efficiency & <br> <span class="Digitize">Visitor Management with Vizitor </span></h1>
             <p>From digital visitor management to workplace safety and compliance, <br> manage it all effortlessly with Vizitor</p>
-            <!-- <form id="homeForm">
-                <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email" required>
-                <input class="btn-try-free" type="submit" value="Try for free">
-            </form> -->
             <form id="homeForm">
                 <div class="form-inline">
                     <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
@@ -28,10 +63,10 @@
                 alt="{{.title}}"></a>
         {{end}}
     </div>
-</div>
+</div> -->
 <!--laptop Hero Section  End-->
 <!--phone Hero Section -->
-<div class="pagebanneres-hero pagebanner-phone">
+<!-- <div class="pagebanneres-hero pagebanner-phone">
     <div class="container ">
         <div class="text-center">
             <h1>Streamline your Frontdesk and Keep your workplace Safe</h1>
@@ -52,10 +87,10 @@
                 alt="{{.title}}"></a>
         {{end}}
     </div>
-</div>
+</div> -->
 <!--phone Hero Section End-->
 <!--Tab Hero Section -->
-<div class="pagebanneres-hero pagebanner-tab">
+<!-- <div class="pagebanneres-hero pagebanner-tab">
     <div class="container ">
         <div class="text-center">
             <h1>Streamline your Frontdesk and Keep your workplace Safe</h1>
@@ -76,7 +111,7 @@
                 alt="{{.title}}"></a>
         {{end}}
     </div>
-</div>
+</div> -->
 <!--Tab Hero Section End -->
 
 

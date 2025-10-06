@@ -765,19 +765,16 @@ section {
 
 
 /* ------------------------------------ */
-/* Hide all sections by default */
-.pagebanneres-hero {
+/* .pagebanneres-hero {
     display: none;
 }
 
-/* Show on Laptop/Desktop (min-width: 1025px) */
 @media screen and (min-width: 1025px) {
     .pagebanneres-hero:nth-of-type(1) {
         display: block;
     }
 }
 
-/* Show on Phone (max-width: 767px) */
 @media screen and (max-width: 767px) {
     .pagebanneres-hero {
         padding-top: 100px
@@ -787,12 +784,11 @@ section {
     }
 }
 
-/* Show on Tablet (768px to 1024px) */
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .pagebanneres-hero:nth-of-type(3) {
         display: block;
     }
-}
+} */
 
 /* --------------------------------------- */
 
@@ -5523,7 +5519,8 @@ button:active {
         padding: 5px 20px 5px 15px;
         -webkit-transition: .5s;
         transition: .5s;
-        outline: 0
+        outline: 0;
+        width: 260px;
     }
 
     .btn-try-free-footer {
