@@ -80,14 +80,12 @@
   </style>
 
   <!-- ✅ Preload Non-Critical CSS -->
-  <link rel="preload" href="/css/bootstrap.css" as="style" rel='stylesheet'>
-  <link rel="preload" href="/css/others.css" as="style" rel='stylesheet'>
-  <link rel="preload" href="/css/custom.css" as="style" rel='stylesheet'>
+ <link rel="stylesheet" rel="preload" href="/css/others.css" as="style">
+ <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
 
   <noscript>
-    <link rel="stylesheet" href="/css/bootstrap.css">
-    <link rel="stylesheet" href="/css/others.css">
-    <link rel="stylesheet" href="/css/custom.css">
+    <link rel="stylesheet" rel="preload" href="/css/others.css" as="style">
+ <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
   </noscript>
 
   <!-- ✅ Preload JS -->
