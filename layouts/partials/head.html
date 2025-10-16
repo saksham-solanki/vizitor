@@ -45,12 +45,52 @@
   <link rel="preconnect" href="https://www.clarity.ms" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
 
-  <!-- Preload Critical CSS -->
+  <!-- ✅ Inline Critical Above-the-Fold CSS -->
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #333;
+    }
+
+    header,
+    nav,
+    .hero {
+      min-height: 70px;
+      visibility: visible;
+    }
+
+    .btn,
+    .cta {
+      display: inline-block;
+      background-color: #0563bb;
+      color: #fff;
+      padding: 10px 22px;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background 0.3s ease;
+    }
+
+    .btn:hover,
+    .cta:hover {
+      background-color: #044c8f;
+    }
+  </style>
+
+  <!-- ✅ Preload Non-Critical CSS -->
   <link rel="preload" href="/css/bootstrap.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <link rel="preload" href="/css/others.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <link rel="preload" href="/css/custom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
-  <!-- ✅ Preload JS (breaks dependency chain) -->
+  <noscript>
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/others.css">
+    <link rel="stylesheet" href="/css/custom.css">
+  </noscript>
+
+  <!-- ✅ Preload JS -->
   <link rel="preload" href="/js/jquery.js" as="script">
   <link rel="preload" href="/js/jqueryui.js" as="script">
   <link rel="preload" href="/js/bootstrap.js" as="script">
@@ -80,7 +120,7 @@
     }
   </script>
 
-  <!-- ✅ Clarity (asynchronous) -->
+  <!-- ✅ Clarity -->
   <script defer>
     (function (c, l, a, r, i, t, y) {
       c[a] = c[a] || function () {
@@ -94,7 +134,7 @@
     })(window, document, "clarity", "script", "mub6tednqf");
   </script>
 
-  <!-- ✅ Google Tag Manager (deferred load) -->
+  <!-- ✅ Google Tag Manager -->
   <script defer>
     function loadGTM() {
       (function (w, d, s, l, i) {
@@ -114,7 +154,7 @@
     window.addEventListener('load', loadGTM);
   </script>
 
-  <!-- ✅ Local Font Optimization -->
+  <!-- ✅ Local Font -->
   <style>
     @font-face {
       font-family: 'CustomFont';
