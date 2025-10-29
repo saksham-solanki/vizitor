@@ -165,9 +165,7 @@ Here's a breakdown of key considerations to guide your choice:
 
 **• Core Functionality:** Focus on essential features like room booking, real-time availability, and integrations with your calendar or communication tools.
 
-**• Advanced Features:** Consider additional features like resource booking (projectors, whiteboards), custom space booking for unique areas, and digital check-in logs for tracking space utilization.
-
-For AV planning, a quick look at the [best 8K projectors](https://fixthephoto.com/best-8k-projectors.html) can help you choose hardware that keeps presentations crisp in larger rooms.
+**• Advanced Features:** Consider additional features like resource booking (projectors, whiteboards), custom space booking for unique areas, and digital check-in logs for tracking space utilization. For AV planning, a quick look at the [best 8K projectors](https://fixthephoto.com/best-8k-projectors.html) can help you choose hardware that keeps presentations crisp in larger rooms.
 
 **• Visitor Management:** Does the system integrate with visitor management tools to streamline the process for guests?
 
