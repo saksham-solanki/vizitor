@@ -2,7 +2,6 @@
 title: "Streamlining Check-in Process: A descriptive guide to Hotel Check-in System"
 date: 2023-03-18T06:37:40.000Z
 description: "Hotel industry is always dominated by delivering seamless customer services but increasing number of visitors."
-image: /images/blog/18mar23.avif
 authors:
   - Rebekah Paise
 image: /images/blog/mastering-your-hotel-check-in-system.png

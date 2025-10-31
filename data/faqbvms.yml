@@ -5,14 +5,12 @@ items:
     answer: "By tracking visitor data in real time, issuing ID badges, and restricting access to authorized personnel."
   - question: "Can I use Vizitor on multiple devices?"
     answer: "Yes, Vizitor supports iOS, Android, and web platforms, ensuring seamless access across devices."
-    answer: "The free version of a management solution for guests usually comes with essential features like registration, check-in/out, and badge printing. Additionally, some of these solutions in their free plan may include extra capabilities like screening and reporting."
   - question: "How Does Contactless Check-In Work?"
     answer: " Contactless check-in allows visitors to register and check in without having to touch any physical surfaces. This can be done using a variety of methods, such as QR codes, Pre-invitation, or mobile apps."
   - question: "Is the app compatible with android devices? "
     answer: "Yes, most visitor management solutions are compatible with Android devices. You can check the app's description on the <a href='https://play.google.com/store/apps/details?id=com.vizitor.app&pli=1'> Google Play Store </a> to confirm compatibility."
   - question: " what are the feature do you have? "
-    answer: "
-    Visitor management software usually comes with several features, including <a href ='https://www.vizitorapp.com/visitor-registration-system/'> registration </a>, digital check-in/out, badge printing, screening, reporting, and tracking.
+    answer: "Visitor management software usually comes with several features, including <a href ='https://www.vizitorapp.com/visitor-registration-system/'> registration </a>, digital check-in/out, badge printing, screening, reporting, and tracking.
        To know more visit the <a href ='https://www.vizitorapp.com/features/'> feature page.</a>"
   - question: "What is 'employee association' on the dashboard? "
     answer: "The employee association feature on the dashboard allows you to associate visitors with specific employees. This can be helpful for tracking who is visiting your organization and for sending notifications to employees when their guests arrive."
