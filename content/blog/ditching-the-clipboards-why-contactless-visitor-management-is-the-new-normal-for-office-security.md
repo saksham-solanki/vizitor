@@ -7,7 +7,7 @@ date: 2025-11-11T09:50:30.196Z
 draft: false
 update: ""
 authors:
-  - ""
+  - Anonymous
 image: /images/blog/blog-post-opal.png
 ---
 ## Hello, Future! What's Contactless Visitor Management Anyway?
