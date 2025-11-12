@@ -16,7 +16,7 @@
 </script>
 
 <script lazyload>
-    $(".newbtn").click(function() {
+    $(".newbtn").click(function () {
         if ($(this).data("closedAll")) {
             $(".howitworkssection .collapse").collapse("show");
         } else {
@@ -32,7 +32,7 @@
 </script>
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs").tabs({
             show: {
                 // effect: "blind",
@@ -45,7 +45,7 @@
         var btn = $('#accordion li a');
         var wrapper = $('#accordion li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -58,7 +58,7 @@
 
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs1").tabs({
             show: {
                 duration: 300
@@ -69,7 +69,7 @@
         var btn = $('#accordion1 li a');
         var wrapper = $('#accordion1 li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -80,7 +80,7 @@
 </script>
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs2").tabs({
             show: {
                 // direction: "left",
@@ -92,7 +92,7 @@
         var btn = $('#accordion2 li a');
         var wrapper = $('#accordion2 li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -103,7 +103,7 @@
 </script>
 
 <script lazyload>
-    $(function() {
+    $(function () {
         $("#tabs3").tabs({
             show: {
                 // direction: "left",
@@ -115,7 +115,7 @@
         var btn = $('#accordion3 li a');
         var wrapper = $('#accordion3 li');
 
-        $(btn).on('click', function() {
+        $(btn).on('click', function () {
             $(btn).removeClass('active');
             $(btn).parent().find('.addon').removeClass('fadein');
 
@@ -135,7 +135,7 @@
     }
 
     for (let i = 0; btns && i < btns.length; i++) {
-        btns[i].addEventListener("click", function() {
+        btns[i].addEventListener("click", function () {
             var current = document.getElementsByClassName("active");
             current[0].className = current[0].className.replace(" active", "");
             this.className += " active";
@@ -143,249 +143,156 @@
     }
 </script>
 
-<!-- functionality of click event of pricing -->
+<!-- ================================================================
+pricing
+=============================================================== -->
 
-<script lazyload>
-    // JavaScript for the pricing page
+<script>
+const pricingData = {
+  monthly: {
+    inr: { starter: "₹2,000", premium: "₹4,000" },
+    usd: { starter: "$45", premium: "$90" },
+    eur: { starter: "€45", premium: "€90" },
+    gbp: { starter: "£45", premium: "£90" },
+  },
+  yearly: {
+    inr: { starter: "₹1,600", premium: "₹3,200" },
+    usd: { starter: "$36", premium: "$72" },
+    eur: { starter: "€36", premium: "€72" },
+    gbp: { starter: "£36", premium: "£72" },
+  },
+};
 
-    let prices = {
-        // monthly pricing for the different plans
+const yearlyDetails = {
+  inr: [
+    "<s>₹24,000/year if paid monthly</s> → <b>₹19,200/year</b>",
+    "<s>₹48,000/year if paid monthly</s> → <b>₹38,400/year</b>",
+  ],
+  usd: [
+    "<s>$540/year if paid monthly</s> → <b>$432/year</b>",
+    "<s>$1080/year if paid monthly</s> → <b>$864/year</b>",
+  ],
+  eur: [
+    "<s>€540/year if paid monthly</s> → <b>€432/year</b>",
+    "<s>€1080/year if paid monthly</s> → <b>€864/year</b>",
+  ],
+  gbp: [
+    "<s>£540/year if paid monthly</s> → <b>£432/year</b>",
+    "<s>£1080/year if paid monthly</s> → <b>£864/year</b>",
+  ],
+};
 
-        monthly: {
-            inr: ['Rs.2,000 ', "Rs.4,000 "],
-            usd: ["$45 ", "$90 "],
-            eur: ["€45 ", "€90 "],
-            gbp: ["£45 ", "£90 "]
+const monthlyAnnualText = {
+  inr: ["Or ₹1,600/mo if billed annually", "Or ₹3,200/mo if billed annually"],
+  usd: ["Or $36/mo if billed annually", "Or $72/mo if billed annually"],
+  eur: ["Or €36/mo if billed annually", "Or €72/mo if billed annually"],
+  gbp: ["Or £36/mo if billed annually", "Or £72/mo if billed annually"],
+};
 
-        },
-        // yearly pricing for the different plans
+const saveText = {
+  inr: ["Save ₹4800 (3 months free)", "Save ₹9600 (3 months free)"],
+  usd: ["Save $108 (3 months free)", "Save $216 (3 months free)"],
+  eur: ["Save €108 (3 months free)", "Save €216 (3 months free)"],
+  gbp: ["Save £108 (3 months free)", "Save £216 (3 months free)"],
+};
 
-        yearly: {
-            inr: ["Rs.1,600 ", "Rs.3,200 "],
-            usd: ["$36 ", "$72 "],
-            eur: ["€36 ", "€72 "],
-            gbp: ["£36 ", "£72 "]
-        },
+let currentCurrency = "inr";
+let isYearly = true;
 
+function updatePricing() {
+  const planType = isYearly ? "yearly" : "monthly";
 
-    }
+  document.getElementById("start-price").textContent =
+    pricingData[planType][currentCurrency].starter;
+  document.getElementById("premium-price").textContent =
+    pricingData[planType][currentCurrency].premium;
 
+  if (isYearly) {
+    // YEARLY VIEW
+    document.getElementById("day-monthly").innerHTML =
+      yearlyDetails[currentCurrency][0];
+    document.getElementById("day-annually").innerHTML =
+      yearlyDetails[currentCurrency][1];
 
-    function testOne() {
-        document.querySelector(".switch").click();
-        console.log(document.getElementById("toggle").checked)
-    }
+    document.getElementById("starter-save").innerText =
+      saveText[currentCurrency][0];
+    document.getElementById("premium-save").innerText =
+      saveText[currentCurrency][1];
 
-    document.addEventListener("DOMContentLoaded", function() {
-        let yearlyToggle = document.querySelector(".yearlytoggle");
-        let monthlyToggle = document.querySelector(".monthlyToggle");
+    document.getElementById("starter-save").style.display = "block";
+    document.getElementById("premium-save").style.display = "block";
 
-        if (yearlyToggle) {
-            yearlyToggle.onclick = testOne;
-        }
+    document.getElementById("starter-annual-monthly").style.display = "none";
+    document.getElementById("premium-annual-monthly").style.display = "none";
 
-        if (monthlyToggle) {
-            monthlyToggle.onclick = testOne;
-        }
+    document.getElementById("day-type").style.display = "none";
+    document.getElementById("day-type-premium").style.display = "none";
+  } else {
+    // MONTHLY VIEW
+    document.getElementById("day-type").style.display = "block";
+    document.getElementById("day-type-premium").style.display = "block";
 
-        // Rest of your code...
+    document.getElementById("starter-save").style.display = "none";
+    document.getElementById("premium-save").style.display = "none";
+
+    document.getElementById("starter-annual-monthly").innerText =
+      monthlyAnnualText[currentCurrency][0];
+    document.getElementById("premium-annual-monthly").innerText =
+      monthlyAnnualText[currentCurrency][1];
+
+    document.getElementById("starter-annual-monthly").style.display = "block";
+    document.getElementById("premium-annual-monthly").style.display = "block";
+
+    document.getElementById("day-monthly").innerHTML = "";
+    document.getElementById("day-annually").innerHTML = "";
+  }
+
+  document.querySelector(".offButton").innerText = isYearly
+    ? "3 months free"
+    : "View annual savings";
+  document.getElementById("yearly-btn").classList.toggle("active", isYearly);
+  document.getElementById("monthly-btn").classList.toggle("active", !isYearly);
+  document.getElementById("toggle").checked = isYearly;
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  updatePricing();
+
+  document.getElementById("toggle").addEventListener("change", (e) => {
+    isYearly = e.target.checked;
+    updatePricing();
+  });
+
+  document.getElementById("monthly-btn").addEventListener("click", () => {
+    isYearly = false;
+    updatePricing();
+  });
+
+  document.getElementById("yearly-btn").addEventListener("click", () => {
+    isYearly = true;
+    updatePricing();
+  });
+
+  ["inr", "usd", "eur", "gbp"].forEach((cur) => {
+    document.getElementById(cur + "-btn").addEventListener("click", () => {
+      currentCurrency = cur;
+      document
+        .querySelectorAll(".currency-type")
+        .forEach((b) => b.classList.remove("active"));
+      document.getElementById(cur + "-btn").classList.add("active");
+      updatePricing();
     });
-
-    // set pricing
-    function setPricing(currency = 'inr', plan = 'monthly') {
-        let basicPrice = 0,
-            premiumPrice = 0;
-        dayType = "";
-        if (plan == 'monthly') {
-            dayType = "per month*";
-            BilledType = "Billed monthly"
-            switch (currency) {
-                case 'inr':
-                    basicPrice = prices.monthly.inr[0];
-                    premiumPrice = prices.monthly.inr[1];
-                    break;
-                case 'usd':
-                    basicPrice = prices.monthly.usd[0];
-                    premiumPrice = prices.monthly.usd[1];
-                    break;
-                case 'eur':
-                    basicPrice = prices.monthly.eur[0];
-                    premiumPrice = prices.monthly.eur[1];
-                    break;
-                case 'gbp':
-                    basicPrice = prices.monthly.gbp[0];
-                    premiumPrice = prices.monthly.gbp[1];
-                    break;
-            }
-        } else if (plan == 'yearly') {
-            dayType = "per month*";
-            BilledType = "Billed yearly"
-            switch (currency) {
-                case 'inr':
-                    basicPrice = prices.yearly.inr[0];
-                    premiumPrice = prices.yearly.inr[1];
-                    break;
-                case 'usd':
-                    basicPrice = prices.yearly.usd[0];
-                    premiumPrice = prices.yearly.usd[1];
-                    break;
-                case 'eur':
-                    basicPrice = prices.yearly.eur[0];
-                    premiumPrice = prices.yearly.eur[1];
-                    break;
-                case 'gbp':
-                    basicPrice = prices.yearly.gbp[0];
-                    premiumPrice = prices.yearly.gbp[1];
-                    break;
-            }
-        }
-        updatePricing(basicPrice, premiumPrice, dayType, BilledType);
-    }
-    // Set the initial pricing to annual and INR
-    let currentCurrency = 'inr';
-    let currentPlan = 'yearly';
-
-    function checkToggle(element) {
-        // console.log('Agreement changed to ' + element.checked);
-        if (element.checked) {
-            currentPlan = 'yearly';
-            setPricing(currentCurrency, currentPlan);
-            // Remove the active class from the other button and add it to this button
-            document.getElementById('monthly-btn').classList.remove('active');
-            // this.classList.add('active');
-        } else {
-            currentPlan = 'monthly';
-            setPricing(currentCurrency, currentPlan);
-            // Remove the active class from the other button and add it to this button
-            document.getElementById('yearly-btn').classList.remove('active');
-            // this.classList.add('active');
-        }
-    }
-
-    // Update the pricing on the page
-    function updatePricing(basicPrice, premiumPrice, dayType, BilledType) {
-
-        let startPriceElement = document.getElementById('start-price');
-        if (startPriceElement) {
-            startPriceElement.innerText = basicPrice;
-        }
-
-        let premiumPriceElement = document.getElementById('premium-price');
-        if (premiumPriceElement) {
-            premiumPriceElement.innerText = premiumPrice;
-        }
-
-        let dayTypeElement = document.getElementById('day-type');
-        if (dayTypeElement) {
-            dayTypeElement.innerText = dayType;
-        }
-
-        let dayTypePremiumElement = document.getElementById('day-type-premium');
-        if (dayTypePremiumElement) {
-            dayTypePremiumElement.innerText = dayType;
-        }
-
-        let dayMonthlyElement = document.getElementById('day-monthly');
-        if (dayMonthlyElement) {
-            dayMonthlyElement.innerText = BilledType;
-        }
-
-        let dayAnnuallyElement = document.getElementById('day-annually');
-        if (dayAnnuallyElement) {
-            dayAnnuallyElement.innerText = BilledType;
-        }
-    }
-
-    // Toggle the pricing between yearly and monthly
-    document.addEventListener("DOMContentLoaded", function() {
-
-        let yearlyButton = document.getElementById('yearly-btn');
-        let monthlyButton = document.getElementById('monthly-btn');
-        let inrButton = document.getElementById('inr-btn');
-        let usdButton = document.getElementById('usd-btn');
-        let eurButton = document.getElementById('eur-btn');
-        let gbpButton = document.getElementById('gbp-btn');
-
-
-        // Toggle the currency between INR and USD EUR GBP
-        if (yearlyButton) {
-            yearlyButton.addEventListener('click', function() {
-                currentPlan = 'yearly';
-                setPricing(currentCurrency, currentPlan);
-                // Remove the active class from the other button and add it to this button
-                let monthlyButton = document.getElementById('monthly-btn');
-                if (monthlyButton) {
-                    monthlyButton.classList.remove('active');
-                }
-                this.classList.add('active');
-            });
-        }
-
-        if (monthlyButton) {
-            monthlyButton.addEventListener('click', function() {
-                currentPlan = 'monthly';
-                setPricing(currentCurrency, currentPlan);
-                // Remove the active class from the other button and add it to this button
-                let yearlyButton = document.getElementById('yearly-btn');
-                if (yearlyButton) {
-                    yearlyButton.classList.remove('active');
-                }
-                this.classList.add('active');
-            });
-        }
-
-        if (inrButton) {
-            inrButton.addEventListener('click', function() {
-                currentCurrency = 'inr';
-                setPricing(currentCurrency, currentPlan);
-                // Remove the active class from the other button and add it to this button
-                document.getElementById('usd-btn').classList.remove('active');
-                this.classList.add('active');
-                // currentCurrency = usdPrices;
-            });
-        }
-        if (usdButton) {
-            usdButton.addEventListener('click', function() {
-                currentCurrency = 'usd';
-                setPricing(currentCurrency, currentPlan);
-                // Remove the active class from the other button and add it to this button
-                document.getElementById('inr-btn').classList.remove('active');
-                this.classList.add('active');
-            });
-
-        }
-
-        if (eurButton) {
-            eurButton.addEventListener('click', function() {
-                currentCurrency = 'eur';
-                setPricing(currentCurrency, currentPlan);
-                // Remove the active class from the other button and add it to this button
-                document.getElementById('inr-btn').classList.remove('active');
-                this.classList.add('active');
-            });
-
-        }
-
-        if (gbpButton) {
-            gbpButton.addEventListener('click', function() {
-                currentCurrency = 'gbp';
-                setPricing(currentCurrency, currentPlan);
-                // Remove the active class from the other button and add it to this button
-                document.getElementById('inr-btn').classList.remove('active');
-                this.classList.add('active');
-            });
-
-        }
-
-        setPricing(currentCurrency, currentPlan);
-    })
+  });
+});
 </script>
+
+
 
 
 <!-- --------------------------contact Form api---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#contactForm").on("submit", function(event) {
+    $(function () {
+        $("#contactForm").on("submit", function (event) {
 
             event.preventDefault();
 
@@ -416,7 +323,7 @@
                 },
                 type: "post",
                 data: contactForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -428,7 +335,7 @@
                         window.location = "/contact-submitted";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -468,8 +375,8 @@
 <!-- -------------------------------------------------signup api ------------------------------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#signupForm").on("submit", function(event) {
+    $(function () {
+        $("#signupForm").on("submit", function (event) {
             event.preventDefault();
 
             var countryCode = $("#country").val().split('-')[0].trim();
@@ -506,7 +413,7 @@
                 },
                 type: "post",
                 data: signupForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -521,7 +428,7 @@
                         window.location = "/thank-you";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -535,8 +442,8 @@
 
 <!-- --------------------------home Form api---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#homeForm").on("submit", function(event) {
+    $(function () {
+        $("#homeForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -552,14 +459,14 @@
                 },
                 type: "post",
                 data: homeForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -571,8 +478,8 @@
 
 <!-- ------------------------iPad and Android based-------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#iPadAndroid").on("submit", function(event) {
+    $(function () {
+        $("#iPadAndroid").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -587,14 +494,14 @@
                 },
                 type: "post",
                 data: iPadAndroid,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -605,8 +512,8 @@
 
 <!-- ------------------------Touchless Visitor Management System-------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#touchlessVMS").on("submit", function(event) {
+    $(function () {
+        $("#touchlessVMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -621,14 +528,14 @@
                 },
                 type: "post",
                 data: touchlessVMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -640,8 +547,8 @@
 <!-- ----------------------------visitormanagement---------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#visitormanagement").on("submit", function(event) {
+    $(function () {
+        $("#visitormanagement").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -656,14 +563,14 @@
                 },
                 type: "post",
                 data: visitormanagement,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -675,8 +582,8 @@
 <!-- ----------------------------webBasedVMS---------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#webBasedVMS").on("submit", function(event) {
+    $(function () {
+        $("#webBasedVMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -691,14 +598,14 @@
                 },
                 type: "post",
                 data: webBasedVMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -709,8 +616,8 @@
 
 <!-- ----------------------------required---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#required").on("submit", function(event) {
+    $(function () {
+        $("#required").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -725,14 +632,14 @@
                 },
                 type: "post",
                 data: required,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -743,8 +650,8 @@
 
 <!-- ----------------------------Free_VMS---------------------------------------- -->
 <script lazyload>
-    $(function() {
-        $("#FreeVMS").on("submit", function(event) {
+    $(function () {
+        $("#FreeVMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -759,14 +666,14 @@
                 },
                 type: "post",
                 data: FreeVMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -777,8 +684,8 @@
 
 <!-- ------------------------------green-business-initiative-------------------------------------- -->
 <script>
-    $(function() {
-        $("#greenBI").on("submit", function(event) {
+    $(function () {
+        $("#greenBI").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -793,14 +700,14 @@
                 },
                 type: "post",
                 data: greenBI,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -811,8 +718,8 @@
 
 <!-- ------------------------------footerForm-------------------------------------- -->
 <script>
-    $(function() {
-        $("#footerForm").on("submit", function(event) {
+    $(function () {
+        $("#footerForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -828,14 +735,14 @@
                 },
                 type: "post",
                 data: footerForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailfooter]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -846,8 +753,8 @@
 
 <!-- ------------------------------getStartedForm-------------------------------------- -->
 <script>
-    $(function() {
-        $("#getStartedForm").on("submit", function(event) {
+    $(function () {
+        $("#getStartedForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -862,14 +769,14 @@
                 },
                 type: "post",
                 data: getStartedForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailgetStarted]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -880,8 +787,8 @@
 
 <!-- ------------------------------benefitsCompany-------------------------------------- -->
 <script>
-    $(function() {
-        $("#benefitsCompany").on("submit", function(event) {
+    $(function () {
+        $("#benefitsCompany").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -896,14 +803,14 @@
                 },
                 type: "post",
                 data: benefitsCompany,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailbenefitsCompany]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -916,8 +823,8 @@
 <!-- 1 -->
 
 <script>
-    $(function() {
-        $("#BVMSinIndia").on("submit", function(event) {
+    $(function () {
+        $("#BVMSinIndia").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -932,14 +839,14 @@
                 },
                 type: "post",
                 data: BVMSinIndia,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -951,8 +858,8 @@
 <!-- 2 -->
 
 <script>
-    $(function() {
-        $("#BVMdigitalVMSwork").on("submit", function(event) {
+    $(function () {
+        $("#BVMdigitalVMSwork").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -967,14 +874,14 @@
                 },
                 type: "post",
                 data: BVMdigitalVMSwork,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emaildigital]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -986,8 +893,8 @@
 <!-- 3 -->
 
 <script>
-    $(function() {
-        $("#VizitorPass").on("submit", function(event) {
+    $(function () {
+        $("#VizitorPass").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1002,14 +909,14 @@
                 },
                 type: "post",
                 data: VizitorPass,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=emailVizitorPass]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1020,8 +927,8 @@
 
 <!-- ------------------------------contact-Tracing-------------------------------------- -->
 <script>
-    $(function() {
-        $("#contactTracing").on("submit", function(event) {
+    $(function () {
+        $("#contactTracing").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1036,14 +943,14 @@
                 },
                 type: "post",
                 data: contactTracing,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1054,8 +961,8 @@
 
 <!-- ------------------------------VisitorCovidScreening-------------------------------------- -->
 <script>
-    $(function() {
-        $("#VisitorCovidScreening").on("submit", function(event) {
+    $(function () {
+        $("#VisitorCovidScreening").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1070,14 +977,14 @@
                 },
                 type: "post",
                 data: VisitorCovidScreening,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1087,8 +994,8 @@
 </script>
 <!-- ------------------------------attendance-------------------------------------- -->
 <script>
-    $(function() {
-        $("#attendanceForm").on("submit", function(event) {
+    $(function () {
+        $("#attendanceForm").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1103,14 +1010,14 @@
                 },
                 type: "post",
                 data: attendanceForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1122,8 +1029,8 @@
 <!-- --------------------------blog Form api---------------------------------------- -->
 
 <script lazyload>
-    $(function() {
-        $("#blogForm").on("submit", function(event) {
+    $(function () {
+        $("#blogForm").on("submit", function (event) {
 
             event.preventDefault();
             var message = window.location.href;
@@ -1153,7 +1060,7 @@
                 },
                 type: "post",
                 data: blogForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -1163,7 +1070,7 @@
                         window.location = "/contact-submitted";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -1175,8 +1082,8 @@
 
 <!-- --------------------------deliveryMS Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#deliveryMS").on("submit", function(event) {
+    $(function () {
+        $("#deliveryMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1191,14 +1098,14 @@
                 },
                 type: "post",
                 data: deliveryMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1209,8 +1116,8 @@
 
 <!-- --------------------------vms Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#vms").on("submit", function(event) {
+    $(function () {
+        $("#vms").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1225,14 +1132,14 @@
                 },
                 type: "post",
                 data: vms,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1242,8 +1149,8 @@
 </script>
 <!-- --------------------------workflowvms Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#workflowvms").on("submit", function(event) {
+    $(function () {
+        $("#workflowvms").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1258,14 +1165,14 @@
                 },
                 type: "post",
                 data: workflowvms,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1275,8 +1182,8 @@
 </script>
 <!-- --------------------------QMSworkflow Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#QMSworkflow").on("submit", function(event) {
+    $(function () {
+        $("#QMSworkflow").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1291,14 +1198,14 @@
                 },
                 type: "post",
                 data: QMSworkflow,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1308,8 +1215,8 @@
 </script>
 <!-- --------------------------featuresApi Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#featuresApi").on("submit", function(event) {
+    $(function () {
+        $("#featuresApi").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1324,14 +1231,14 @@
                 },
                 type: "post",
                 data: featuresApi,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1344,8 +1251,8 @@
 
 <!-- --------------------------mailroom Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#mailroom").on("submit", function(event) {
+    $(function () {
+        $("#mailroom").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1360,14 +1267,14 @@
                 },
                 type: "post",
                 data: mailroom,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1378,8 +1285,8 @@
 
 <!-- --------------------------entryMS Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#entryMS").on("submit", function(event) {
+    $(function () {
+        $("#entryMS").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1394,14 +1301,14 @@
                 },
                 type: "post",
                 data: entryMS,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1411,8 +1318,8 @@
 </script>
 <!-- --------------------------entryMS-Workflow Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#entryMsWorkflow").on("submit", function(event) {
+    $(function () {
+        $("#entryMsWorkflow").on("submit", function (event) {
             event.preventDefault();
             // var email = $('input[name=email]').val();
             var data = {
@@ -1427,14 +1334,14 @@
                 },
                 type: "post",
                 data: entryMsWorkflow,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     if (d) {
                         toastr.success(d.message);
                         window.location = "/signup";
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
                 }
@@ -1446,8 +1353,8 @@
 
 <!-- --------------------------demoForm Form api---------------------------------------- -->
 <script>
-    $(function() {
-        $("#demoForm").on("submit", function(event) {
+    $(function () {
+        $("#demoForm").on("submit", function (event) {
             event.preventDefault();
 
             var countryCode = $("#country").val().split('-')[0].trim();
@@ -1476,7 +1383,7 @@
                 },
                 type: "post",
                 data: demoForm,
-                success: function(d) {
+                success: function (d) {
                     $('input[name=email]').val("")
                     $('input[name=name]').val("")
                     $('input[name=phoneNumber]').val("")
@@ -1490,7 +1397,7 @@
                         $('#staticBackdrop').modal('show');
                     }
                 },
-                error: function(e) {
+                error: function (e) {
                     console.log("eeee--eee---eee", e)
                     const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
                     toastr.error(errorMessage);
@@ -1504,7 +1411,7 @@
 
 <!-- Twitter -->
 <script>
-    $(".shareTwitter").click(function() {
+    $(".shareTwitter").click(function () {
         console.log("click", window.location.href)
         window.open("https://twitter.com/intent/tweet?url=" + window.location.href, '_blank');
     });
@@ -1517,7 +1424,7 @@
 </script>
 <!-- facebook -->
 <script>
-    $(".sharefacebook").click(function() {
+    $(".sharefacebook").click(function () {
         console.log("click", window.location.href)
         window.open("https://www.facebook.com/sharer/sharer.php?u=" + window.location.href, '_blank');
     });
@@ -1530,7 +1437,7 @@
 </script>
 <!-- linkedin -->
 <script>
-    $(".sharelinkedin").click(function() {
+    $(".sharelinkedin").click(function () {
         console.log("click", window.location.href)
         window.open("https://www.linkedin.com/shareArticle?mini=true&url=" + window.location.href, '_blank');
     });
@@ -1543,9 +1450,9 @@
 </script>
 <!-- Whatsapp -->
 <script>
-    $(".sharewhatsapp").click(function() {
+    $(".sharewhatsapp").click(function () {
         console.log("click", window.location.href)
-        window.open("https://wa.me/?text=Awesome%20Blog%20" + window.location.href, );
+        window.open("https://wa.me/?text=Awesome%20Blog%20" + window.location.href,);
     });
 
     // $(".copyLink").click(function() {
@@ -1557,7 +1464,7 @@
 
 <!-- =============================================== -->
 <script>
-    var TxtRotate = function(el, toRotate, period) {
+    var TxtRotate = function (el, toRotate, period) {
         this.toRotate = toRotate;
         this.el = el;
         this.loopNum = 0;
@@ -1567,7 +1474,7 @@
         this.isDeleting = false;
     };
 
-    TxtRotate.prototype.tick = function() {
+    TxtRotate.prototype.tick = function () {
         var i = this.loopNum % this.toRotate.length;
         var fullTxt = this.toRotate[i];
 
@@ -1595,12 +1502,12 @@
             delta = 500;
         }
 
-        setTimeout(function() {
+        setTimeout(function () {
             that.tick();
         }, delta);
     };
 
-    window.onload = function() {
+    window.onload = function () {
         var elements = document.getElementsByClassName('txt-rotate');
         for (var i = 0; i < elements.length; i++) {
             var toRotate = elements[i].getAttribute('data-rotate');
@@ -1619,9 +1526,9 @@
 
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
 
-        $('.titleclear').each(function(f) {
+        $('.titleclear').each(function (f) {
 
             var newstr = $(this).text().substring(0, 45) + "...";
             $(this).text(newstr);
@@ -1631,9 +1538,9 @@
 </script>
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
 
-        $('.descriptionclear').each(function(f) {
+        $('.descriptionclear').each(function (f) {
 
             var newstr = $(this).text().substring(0, 100) + "...";
             $(this).text(newstr);
@@ -1643,7 +1550,7 @@
 </script>
 
 <script>
-    $('.slide-toggle').on("click", function() {
+    $('.slide-toggle').on("click", function () {
         $('.slide-toggle img').toggleClass('arrowdown arrowup');
         $('.read-more').toggleClass('show hide ');
         $('.headerbottombardiv').toggleClass('show ');
@@ -1655,7 +1562,7 @@
 
 <script>
     var getSelectedPlan = window.location.href.split('=')[1];
-    $(function() {
+    $(function () {
         let List = "";
         if (getSelectedPlan === 'starter') {
             List = "<option value='61d5613a8d6a714e368e9728' selected>STARTER</option><option value='61d5613a8d6a714e368e9734'>PREMIUM</option>";
@@ -1678,7 +1585,7 @@
 
 <!-- ---------------# tag------------ -->
 <script>
-    $(window).on('hashchange', function(e) {
+    $(window).on('hashchange', function (e) {
         history.replaceState("", document.title, e.originalEvent.oldURL);
     });
 </script>
@@ -1691,7 +1598,7 @@
     })
 
     // Modify each slide to contain five columns of images
-    jQuery('#gallery.carousel .carousel-item').each(function() {
+    jQuery('#gallery.carousel .carousel-item').each(function () {
         var minPerSlide = 4;
         var next = jQuery(this).next();
         if (!next.length) {
@@ -1781,28 +1688,28 @@
 </script> -->
 
 <script>
-$(document).ready(function() {
-    // On tab click
-    $("#tile-1 .nav-tabs a").click(function() {
-        var position = $(this).parent().position();
-        var width = $(this).parent().width();
-        $("#tile-1 .slider").css({
-            "left": position.left,
-            "width": width
+    $(document).ready(function () {
+        // On tab click
+        $("#tile-1 .nav-tabs a").click(function () {
+            var position = $(this).parent().position();
+            var width = $(this).parent().width();
+            $("#tile-1 .slider").css({
+                "left": position.left,
+                "width": width
+            });
         });
-    });
 
-    // On page load
-    var $active = $("#tile-1 .nav-tabs .active");
-    if ($active.length) {
-        var actWidth = $active.parent("li").width();
-        var actPosition = $active.position();
-        $("#tile-1 .slider").css({
-            "left": actPosition.left,
-            "width": actWidth
-        });
-    }
-});
+        // On page load
+        var $active = $("#tile-1 .nav-tabs .active");
+        if ($active.length) {
+            var actWidth = $active.parent("li").width();
+            var actPosition = $active.position();
+            $("#tile-1 .slider").css({
+                "left": actPosition.left,
+                "width": actWidth
+            });
+        }
+    });
 </script>
 
 <!-- 
@@ -1819,11 +1726,11 @@ $(document).ready(function() {
 
 <!-- -------------------------------------Download pdf blogs------------------------------- -->
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         // Track whether the dropdown is open
         let isDropdownOpen = false;
 
-        $('#productDropdown').on('click', function(e) {
+        $('#productDropdown').on('click', function (e) {
             e.preventDefault();
             var $dropdownMenu = $('#productDropdownMenu');
             var $arrow = $('#dropdownArrow');
@@ -1847,7 +1754,7 @@ $(document).ready(function() {
         });
 
         // Close the dropdown when clicking outside
-        $(document).on('click', function(e) {
+        $(document).on('click', function (e) {
             if (!$(e.target).closest('#productDropdown, #productDropdownMenu').length) {
                 $('#productDropdownMenu').slideUp();
                 $('#dropdownArrow').removeClass('open'); // Reset the arrow to closed
@@ -1861,11 +1768,11 @@ $(document).ready(function() {
 <!-- -------------2--------------------------- -->
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         // Track whether the dropdown is open
         let isDropdownOpen = false;
 
-        $('#productDropdown2').on('click', function(e) {
+        $('#productDropdown2').on('click', function (e) {
             e.preventDefault();
             var $dropdownMenu = $('#productDropdownMenu2');
             var $arrow = $('#dropdownArrow2');
@@ -1889,7 +1796,7 @@ $(document).ready(function() {
         });
 
         // Close the dropdown when clicking outside
-        $(document).on('click', function(e) {
+        $(document).on('click', function (e) {
             if (!$(e.target).closest('#productDropdown2, #productDropdownMenu2').length) {
                 $('#productDropdownMenu2').slideUp();
                 $('#dropdownArrow2').removeClass('open'); // Reset the arrow to closed
@@ -1901,7 +1808,7 @@ $(document).ready(function() {
 
 
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function () {
         const tocLinks = document.querySelectorAll("#toc a");
         const headings = document.querySelectorAll("h2, h3");
 
@@ -1937,8 +1844,8 @@ $(document).ready(function() {
                     }
                 });
             }, {
-                threshold: 0.6
-            } // Adjust threshold for better visibility handling
+            threshold: 0.6
+        } // Adjust threshold for better visibility handling
         );
 
         headings.forEach((heading) => observer.observe(heading));
@@ -1949,24 +1856,24 @@ $(document).ready(function() {
 <!-- ...existing code... -->
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Only show modal if not already shown in this tab
-    if (!sessionStorage.getItem('modalShown')) {
-        let modalShown = false;
-        function checkScroll() {
-            const scrollTop = window.scrollY;
-            const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-            const scrollPercent = (scrollTop / docHeight) * 100;
-            if (scrollPercent >= 20 && !modalShown) {
-                modalShown = true;
-                sessionStorage.setItem('modalShown', 'true');
-                $('#scrollModal').modal('show');
-                window.removeEventListener('scroll', checkScroll);
+    document.addEventListener('DOMContentLoaded', function () {
+        // Only show modal if not already shown in this tab
+        if (!sessionStorage.getItem('modalShown')) {
+            let modalShown = false;
+            function checkScroll() {
+                const scrollTop = window.scrollY;
+                const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+                const scrollPercent = (scrollTop / docHeight) * 100;
+                if (scrollPercent >= 20 && !modalShown) {
+                    modalShown = true;
+                    sessionStorage.setItem('modalShown', 'true');
+                    $('#scrollModal').modal('show');
+                    window.removeEventListener('scroll', checkScroll);
+                }
             }
+            window.addEventListener('scroll', checkScroll);
         }
-        window.addEventListener('scroll', checkScroll);
-    }
-});
+    });
 </script>
 <!-- ...existing code... -->
 

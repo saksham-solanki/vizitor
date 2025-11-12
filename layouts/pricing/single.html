@@ -1,145 +1,130 @@
 {{ define "main" }}
 
 <div style="background-color: #FEF9F4;padding-bottom: 60px;">
-    <div class="container pagebanneres">
-        <div class="first">
-            <div class="text-center">
-                <h1 class="text-center">Choose the Right Vizitor Plan for Your Workplace</h1>
-                <!-- <p class="mt-4 text-center" style="color: #ED5C18;">Pricing Update: Plan prices will increase by 30% on April 1st. Lock in current rates by March 31st!</p> -->
-                <p class="mt-4 text-center">Simple Pricing | No Hidden Fees | Advanced Features For Business</p>
-                <p class="mt-4 text-center">Create a safer, more efficient workplace with Vizitor. Our flexible pricing plans <br> make digital visitor management affordable for every industry and organization size.</p>
+   <div class="container pagebanneres">
+  <div class="first">
+    <div class="text-center">
+      <h1 class="text-center">Choose the Right Vizitor Plan for Your Workplace</h1>
+      <p class="mt-4 text-center">Simple Pricing | No Hidden Fees | Advanced Features For Business</p>
+      <p class="mt-4 text-center">
+        Create a safer, more efficient workplace with Vizitor. Our flexible pricing plans <br />
+        make digital visitor management affordable for every industry and organization size.
+      </p>
 
-                <div class="currency mt-4" id="myDIV">
-                    <button class="btn active currency-type" value="inr" id="inr-btn">INR</button>
-                    <button class="btn  currency-type" id="usd-btn" value="usd">USD</button>
-                    <button class="btn  currency-type" id="eur-btn" value="eur">EUR</button>
-                    <button class="btn currency-type" id="gbp-btn" value="gbp">GBP</button>
-                </div>
+      <!-- Currency Buttons -->
+      <div class="currency mt-4" id="myDIV">
+        <button class="btn active currency-type" value="inr" id="inr-btn">INR</button>
+        <button class="btn currency-type" id="usd-btn" value="usd">USD</button>
+        <button class="btn currency-type" id="eur-btn" value="eur">EUR</button>
+        <button class="btn currency-type" id="gbp-btn" value="gbp">GBP</button>
+      </div>
 
-                <div class="currency mt-4">
-                    <p id="monthly-btn" class="monthlyToggle">Monthly</p>
-                    <label class="switch">
-                    <input id="toggle" type="checkbox" checked onChange="checkToggle(this)">
-                    <span class="slider round"></span>
-                    </label>
-                    <p id="yearly-btn" class="active yearlytoggle">Yearly</p>
-                    <button class="offButton">20% Off on annual billing</button>
-                </div>
-                <!-- --------------- -->
+      <!-- Monthly / Yearly Toggle -->
+      <div class="currency mt-4" id="toggleDiv">
+        <p id="monthly-btn" class="monthlyToggle">Monthly</p>
+        <label class="switch">
+          <input id="toggle" type="checkbox" checked />
+          <span class="slider round"></span>
+        </label>
+        <p id="yearly-btn" class="active yearlytoggle">Yearly</p>
+        <button class="offButton"></button>
+      </div>
 
-                <div>
-                    <div class="grid-container mt-5">
-                        <div class="card" id="card1">
-                            <div class="card-body">
-                                <p class="pricetext features-pricing">Starter</p>
-                                <h2 class="pricestarter text-center mt-4" id="start-price">₹19,200</h2>
-                                <p class="parstarter" id="day-type"></p>
-                                <p class="checkInsText">300 check-ins /month</p>
-                                <p class="billedannually" id="day-monthly">
-                                </p>
-                                <p class="free-trial">Free trial for 10 days</p>
-                                <div class="mt-5">
-                                    <a href="/signup?id=starter" class="signUp">Sign Up</a>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="upcard">
-                            <div class="card" id="card3">
-                                <div class="recomended">
-                                    <img src="/images/vizitor/pricing/star.svg" alt="star" class="starimage">
-                                    <h4 class="recomendedText">Recommended</h4>
-                                </div>
-                                <div class="card-body">
-                                    <p class="premiumtext features-pricing">Premium</p>
-                                    <p class="textPrice mt-4" id="premium-price">₹38,400
-                                    </p>
-                                    <p class="parpremium" style="color: #fff;" id="day-type-premium"></p>
-                                    <p class="perYear">1000 check-ins /month
-                                    </p>
-                                    <p class="perYear " id="day-annually"></p>
-                                    <p class="free-trial-premium"> Free trial for 10 days</p>
-                                    <div class="mt-5">
-                                        <a href="/signup?id=premium" class="Premiumbtn signUp">Sign Up</a>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card" id="card4">
-                                <div class="card-body">
-                                    <p class="pricetext">Enterprise</p>
-                                    <h2 class="mt-4 contact">Contact</h2>
-                                    <p class="mt-5">Ready to assist your enterprise needs?</p>
-                                    <p class="unlimit">Unlimited visitors</p>
-                                    <div class="mt-5">
-                                        <a href="/contact" class="signUp">Connect</a>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-
+      <!-- Pricing Cards -->
+      <div>
+        <div class="grid-container mt-5">
+          <!-- Starter -->
+          <div class="card" id="card1">
+            <div class="card-body">
+              <p class="pricetext text-center features-pricing mb-5">Starter</p>
+              <h2 class="pricestarter text-center mb-4" id="start-price"></h2>
+              <p class="parstarter text-center mb-4" id="day-type">per month*</p>
+              <p class="annualDiscountText text-center mb-4" id="starter-annual-monthly" style="display:none;"></p>
+              <p class="saveText text-center mb-4" id="starter-save" style="display:none;">Save ₹4800 (3 months free)</p>
+              <p class="billedannually text-center mb-4" id="day-monthly"></p>
+              <p class="checkInsText"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="" /> 300 check-ins /month</p>
+              <p class="checkInsText"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="" /> Up to 50 Employees</p>
+              <p class="checkInsText"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="" /> Single location</p>
+              <div class="mt-5 text-center"><a href="/signup?id=starter" class="signUp">Sign Up</a></div>
             </div>
-        </div>
-        <div class="text-center mt-5 ">
-            {{range .Site.Params.apps}}
-            <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn" src="{{.image  | absURL}}" alt="{{.title}}"></a>
-            {{end}}
-        </div>
-        <!-- <div id="bvms">
-            <h2 class="center-content my-5">
-                <span class="Digitize">AddOns</span> available to add to any plan
-            </h2>
-            <div class="card-group mt-5">
-                <div class="card" style="border: 1px solid #33475B;border-radius: 10px 0px 0px 10px;">
-                    <div class="card-body text-center">
-                        <img src="/images/vizitor/touchless-Check-ins-vizitor.svg" class="Features-img" alt="touchless-Check-ins">
-                        <p><b>Checkin</b> $15 per month, billed annually</p>
-                        <p>Or $19 billed monthly
-                        </p>
-                    </div>
-                </div>
-                <div class="card" style="border: 1px solid #33475B;border-radius: 0px 0px 0px 0px;">
-                    <div class="card-body text-center">
-                        <img src="/images/vizitor/customized-Form-vizitor.svg" class="Features-img" alt="customized-Form">
-                        <p><b>Deliveries</b> $25 per month, billed annually</p>
-                        <p>Or $29 billed monthly</p>
-                    </div>
-                </div>
-                <div class="card" style="border: 1px solid #33475B;border-radius: 0px 10px 10px 0px;">
-                    <div class="card-body text-center">
-                        <img src="/images/vizitor/send-Invites-vizitor.svg" class="Features-img" alt="send-Invites">
-                        <p><b>Unlimited</b> SMS $20 per month, billed annually</p>
-                        <p>Or $25 billed monthly</p>
-                    </div>
-                </div>
-            </div>
-        </div> -->
+          </div>
 
-
-        <div id="call-sales-wrapper" class="center-content mt-5">
-            <div id="call-sales-bubble" class="h4 py2 px4 border">
-                <strong class="slate bold">Questions about the best plan for you?</strong> <span style="white-space: nowrap"><span class="slate op-85">Call us at</span> <a href="tel:7302582799">+91-7302582799</a></span>
+          <!-- Premium -->
+          <div class="upcard">
+            <div class="card" id="card3">
+              <div class="recomended">
+                <img src="/images/vizitor/pricing/star.svg" alt="star" class="starimage" />
+                <h4 class="recomendedText">Recommended</h4>
+              </div>
+              <div class="card-body">
+                <p class="premiumtext text-center features-pricing mb-5">Premium</p>
+                <h2 class="textPrice text-center mb-4" id="premium-price"></h2>
+                <p class="parpremium text-center mb-4" id="day-type-premium">per month*</p>
+                <p class="annualDiscountText text-center mb-4" id="premium-annual-monthly" style="display:none;"></p>
+                <p class="saveText text-center mb-4" id="premium-save" style="display:none;">Save ₹9600 (3 months free)</p>
+                <p class="text-center text-white billedannually mb-4" id="day-annually"></p>
+                <p class="perYear"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> 1000 check-ins /month</p>
+                <p class="perYear"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Up to 200 Employees</p>
+                <p class="perYear"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Multiple locations</p>
+                <div class="mt-5 text-center"><a href="/signup?id=premium" class="signUp">Sign Up</a></div>
+              </div>
             </div>
-        </div>
+          </div>
+
+          <!-- Enterprise -->
+          <div>
+            <div class="card" id="card4">
+              <div class="card-body">
+                <p class="pricetext text-center mb-5">Enterprise</p>
+                <h2 class="mt-3 contact text-center mb-4">Connect</h2>
+                <p class="unlimit"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Ready to assist your enterprise needs?</p>
+                <p class="unlimit mb-5"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Unlimited visitors</p>
+                <div class="mt-5 text-center"><a href="/contact" class="signUp">Connect</a></div>
+              </div>
+            </div>
+          </div>
+        </div> <!-- grid-container -->
+      </div>
     </div>
+  </div>
+</div>
     <!-- -------------------------------------------------- -->
 </div>
+
+<style>
+  .switch { position: relative; display: inline-block; width: 50px; height: 25px; margin: 0 10px; }
+  .switch input { opacity: 0; width: 0; height: 0; }
+  .slider { position: absolute; cursor: pointer; inset: 0; background-color: #ccc; transition: .4s; border-radius: 34px; }
+  .slider:before { position: absolute; content: ""; height: 18px; width: 18px; left: 4px; bottom: 3.5px; background-color: white; transition: .4s; border-radius: 50%; }
+  input:checked + .slider { background-color: #DF6D27; }
+  input:checked + .slider:before { transform: translateX(24px); }
+  .offButton { background-color: #DF6D27; color: #fff; border: none; border-radius: 20px; padding: 4px 12px; font-size: 13px; }
+  .active { color: #DF6D27; font-weight: 600; }
+  #day-annually s{
+    color: #fff;
+  }
+  s { color: #777; }
+
+  #day-annually .size{
+    font-size: 16px;
+  }
+
+  #day-monthly .size{
+    font-size: 16px;
+  }
+</style>
+
 
 <div id="bvms">
     <div class="container">
         <div id="accordion" class="accordion faqaccordion">
             <div class=" mb-0">
                 <!-- Overview -->
-                <div class="card-header collapsed active" style="background: #fff;" data-toggle="collapse" href="#Overview">
+                <div class="card-header collapsed active" style="background: #fff;" data-toggle="collapse"
+                    href="#Overview">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/overview.png" class="pricin-icons" alt="customizable-check-in" />Overview
+                        <img src="/images/vizitor/pricing/overview.png" class="pricin-icons"
+                            alt="customizable-check-in" />Overview
                     </a>
                 </div>
                 <div id="Overview" class="card-body card-body-pricing collapse clrmod show" data-parent="#accordion">
@@ -378,9 +363,11 @@
                     </table>
                 </div>
                 <!-- Customizable Check-in -->
-                <div class="card-header collapsed " style="background: #fff;" data-toggle="collapse" href="#Customizable">
+                <div class="card-header collapsed " style="background: #fff;" data-toggle="collapse"
+                    href="#Customizable">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/customizable-check-in.png" class="pricin-icons" alt="customizable-check-in" />Customizable Check-in
+                        <img src="/images/vizitor/pricing/customizable-check-in.png" class="pricin-icons"
+                            alt="customizable-check-in" />Customizable Check-in
                     </a>
                 </div>
                 <div id="Customizable" class="card-body card-body-pricing collapse clrmod " data-parent="#accordion">
@@ -454,9 +441,11 @@
                     </table>
                 </div>
                 <!-- Sign-in-Flow -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#Sign-in-Flow">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#Sign-in-Flow">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/sign-in-flow.png" class="pricin-icons" alt="sign-in-flow " />Sign-in Flow
+                        <img src="/images/vizitor/pricing/sign-in-flow.png" class="pricin-icons"
+                            alt="sign-in-flow " />Sign-in Flow
                     </a>
                 </div>
                 <div id="Sign-in-Flow" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -547,12 +536,15 @@
                     </table>
                 </div>
                 <!-- Visitor-dashboard -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#Visitor-dashboard">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#Visitor-dashboard">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/dashboard.png" class="pricin-icons" alt="dashboard" />Visitor dashboard
+                        <img src="/images/vizitor/pricing/dashboard.png" class="pricin-icons" alt="dashboard" />Visitor
+                        dashboard
                     </a>
                 </div>
-                <div id="Visitor-dashboard" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
+                <div id="Visitor-dashboard" class="card-body card-body-pricing collapse clrmod"
+                    data-parent="#accordion">
                     <table class="table ">
                         <tr class="center-content" style="background: #f5f3f3;">
                             <th>
@@ -672,9 +664,11 @@
                     </table>
                 </div>
                 <!-- Badge-printing -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#Badge-printing">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#Badge-printing">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/badge-printing.png" class="pricin-icons" alt="dashboard" />Badge printing
+                        <img src="/images/vizitor/pricing/badge-printing.png" class="pricin-icons"
+                            alt="dashboard" />Badge printing
                     </a>
                 </div>
                 <div id="Badge-printing" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -765,9 +759,11 @@
                     </table>
                 </div>
                 <!-- -------Notifications--------- -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#Notifications">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#Notifications">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/notification.png" class="pricin-icons" alt="dashboard" />Notifications
+                        <img src="/images/vizitor/pricing/notification.png" class="pricin-icons"
+                            alt="dashboard" />Notifications
                     </a>
                 </div>
                 <div id="Notifications" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -877,9 +873,11 @@
                     </table>
                 </div>
                 <!-- pre-registration -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#pre-registration">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#pre-registration">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/pre-registration.png" class="pricin-icons" alt="dashboard" />Pre-registration
+                        <img src="/images/vizitor/pricing/pre-registration.png" class="pricin-icons"
+                            alt="dashboard" />Pre-registration
                     </a>
                 </div>
                 <div id="pre-registration" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1031,9 +1029,11 @@
                     </table>
                 </div>
                 <!-- vizitor-pass -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#vizitor-pass">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#vizitor-pass">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/vizitor-pass.png" class="pricin-icons" alt="dashboard" />Vizitor PASS mobile app
+                        <img src="/images/vizitor/pricing/vizitor-pass.png" class="pricin-icons"
+                            alt="dashboard" />Vizitor PASS mobile app
                     </a>
                 </div>
                 <div id="vizitor-pass" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1108,9 +1108,11 @@
                     </table>
                 </div>
                 <!-- vizitor-pass -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#cyber-security">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#cyber-security">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/cyber-security.png" class="pricin-icons" alt="dashboard" />Security and Compliance
+                        <img src="/images/vizitor/pricing/cyber-security.png" class="pricin-icons"
+                            alt="dashboard" />Security and Compliance
                     </a>
                 </div>
                 <div id="cyber-security" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1168,9 +1170,11 @@
                     </table>
                 </div>
                 <!-- Multi-location management -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#multi-location">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#multi-location">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/multi-location.png" class="pricin-icons" alt="dashboard" />Multi-location management
+                        <img src="/images/vizitor/pricing/multi-location.png" class="pricin-icons"
+                            alt="dashboard" />Multi-location management
                     </a>
                 </div>
                 <div id="multi-location" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1215,9 +1219,11 @@
                     </table>
                 </div>
                 <!-- Multi-device management -->
-                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#multi-device">
+                <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse"
+                    href="#multi-device">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/multi-device.png" class="pricin-icons" alt="dashboard" />Multi-device management
+                        <img src="/images/vizitor/pricing/multi-device.png" class="pricin-icons"
+                            alt="dashboard" />Multi-device management
                     </a>
                 </div>
                 <div id="multi-device" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1266,7 +1272,8 @@
                 <!-- Integrations -->
                 <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#integration">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/integration.png" class="pricin-icons" alt="dashboard" />Integrations
+                        <img src="/images/vizitor/pricing/integration.png" class="pricin-icons"
+                            alt="dashboard" />Integrations
                     </a>
                 </div>
                 <div id="integration" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1325,7 +1332,8 @@
                 <!-- Enterprise -->
                 <div class="card-header collapsed" style="background: #fff;" data-toggle="collapse" href="#Enterprise">
                     <a class="features-pricing">
-                        <img src="/images/vizitor/pricing/Enterprise.png" style="width: 39px;" class="pricin-icons" alt="dashboard" />Enterprise
+                        <img src="/images/vizitor/pricing/Enterprise.png" style="width: 39px;" class="pricin-icons"
+                            alt="dashboard" />Enterprise
                     </a>
                 </div>
                 <div id="Enterprise" class="card-body card-body-pricing collapse clrmod" data-parent="#accordion">
@@ -1348,7 +1356,8 @@
                         <!---->
                         <tr>
                             <td>
-                                <img src="/images/vizitor/pricing/evacuation-alert.png" class="pricin-icons" alt="evacuation-alert" />
+                                <img src="/images/vizitor/pricing/evacuation-alert.png" class="pricin-icons"
+                                    alt="evacuation-alert" />
                                 <p class=" pricing-table">
                                     Evacuation Alerts
                                 </p>
@@ -1366,7 +1375,8 @@
                         <!---->
                         <tr>
                             <td>
-                                <img src="/images/vizitor/pricing/black-listing.png" class="pricin-icons" alt="black-listing" />
+                                <img src="/images/vizitor/pricing/black-listing.png" class="pricin-icons"
+                                    alt="black-listing" />
                                 <p class=" pricing-table">
                                     Black listing
                                 </p>
@@ -1383,7 +1393,8 @@
                         </tr>
                         <!---->
                         <tr>
-                            <td><img src="/images/vizitor/pricing/outstay-alert.png" class="pricin-icons" alt="outstay-alert" />
+                            <td><img src="/images/vizitor/pricing/outstay-alert.png" class="pricin-icons"
+                                    alt="outstay-alert" />
                                 <p class=" pricing-table">
                                     OutStay Alerts
                                 </p>
@@ -1400,7 +1411,8 @@
                         </tr>
                         <!---->
                         <tr>
-                            <td><img src="/images/vizitor/pricing/overstay-alert.png" class="pricin-icons" alt="overstay-alert" />
+                            <td><img src="/images/vizitor/pricing/overstay-alert.png" class="pricin-icons"
+                                    alt="overstay-alert" />
                                 <p class=" pricing-table">
                                     Overstay Alerts
                                 </p>
@@ -1427,7 +1439,8 @@
     <div class="container">
         <div class="center-content">
             <h2>Need help or have specific requirements? </h2>
-            <p>Schedule a call <a href="tel:7302582799">+91-7302582799</a> with our team or book a <a href="/demo">demo.</a></p>
+            <p>Schedule a call <a href="tel:7302582799">+91-7302582799</a> with our team or book a <a
+                    href="/demo">demo.</a></p>
             <div class="mt-5">
                 <a href="/signup" class="btn-arrow">Try for free</a>
             </div>
@@ -1444,13 +1457,16 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <p><span class="Digitize">TESTIMONIALS</span></p>
-                <h5 class="chgh5">Efficient and Secure: Vizitor's Digital Solution Enhances Visitor Management for Snapdeal</h5>
-                <p>Vizitor has enabled Snapdeal to create a safer and more efficient workplace, while improving the overall visitor experience
+                <h5 class="chgh5">Efficient and Secure: Vizitor's Digital Solution Enhances Visitor Management for
+                    Snapdeal</h5>
+                <p>Vizitor has enabled Snapdeal to create a safer and more efficient workplace, while improving the
+                    overall visitor experience
                 </p>
                 <p><b>Manish</b></p>
                 <p><b>IT Manager, Snapdeal</b></p>
                 <br>
-                <a class="blog-btn-arrow " href="/signup" style="color: #ED5C18;">Sign up for free  <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon"></a>
+                <a class="blog-btn-arrow " href="/signup" style="color: #ED5C18;">Sign up for free <img
+                        style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon"></a>
             </div>
         </div>
     </div>
@@ -1490,13 +1506,13 @@
 
 <style>
     /* pricingPage css start */
-    
+
     .first {
         /* background-color: #F5F5F5; */
         padding-top: 20px;
         padding-bottom: 20px;
     }
-    
+
     #btn2 {
         padding: 1.2%;
         margin: 0px;
@@ -1504,7 +1520,7 @@
         border: 0px;
         color: white;
     }
-    
+
     #btn3 {
         padding: 1.2%;
         margin: none;
@@ -1516,7 +1532,7 @@
         /* border: 1px solid black; */
         margin-left: 0% !important;
     }
-    
+
     #btn4 {
         padding: 1.2%;
         width: 220px;
@@ -1524,45 +1540,68 @@
         border: 0px;
         color: white;
     }
-    
+
     #btn5 {
         padding: 1.2%;
         background-color: #f15e5f;
         border: 0px;
         color: white;
     }
-    
+
     .parstarter {
         margin-top: -5px;
     }
-    
+
     .parpremium {
-        margin-top: -12px;
+        margin-top: -5px;
+        color: #fff;
     }
-    
+
     .free-trial {
         font-weight: 500;
         font-size: 16px;
         margin-top: -18px;
     }
-    
+
     .free-trial-premium {
         font-weight: 500;
         font-size: 16px;
         margin-top: -18px;
         color: #fff;
     }
-    
+
     .Premiumbtn {
         border: 1px solid transparent !important;
     }
-    
+
     .months {
         text-align: center;
         display: flex;
         justify-content: center;
     }
-    
+
+    .saveText {
+        color: #28a745;
+        font-weight: 500;
+        /* margin-top: 6px; */
+        font-size: 22px;
+    }
+
+    #card3 .saveText {
+        color: #fff;
+    }
+
+    #card3 .annualDiscountText {
+        color: #fff;
+    }
+
+    .annualDiscountText {
+        color: #1A9F45;
+        font-weight: 500;
+        margin-top: -4px;
+        font-size: 23px;
+    }
+
     #month {
         width: 5%;
         border: none;
@@ -1572,7 +1611,7 @@
         height: 42px;
         margin-left: 0%;
     }
-    
+
     #year {
         width: 5%;
         height: 42px;
@@ -1582,26 +1621,41 @@
         background-color: transparent;
         outline: none;
     }
-    
+
     .grid-container {
         display: grid;
-        grid-template-columns: 35% 30% 35%;
-        /* grid-gap: 10px; */
-        padding-left: 50px;
-        padding-right: 50px;
+        grid-template-columns: 33% 33% 33%;
+        grid-gap: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        align-items: stretch;
+        /* all grid items same height */
     }
-    
+
+    .card {
+        height: 100%;
+        /* important for equal height */
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-body {
+        flex: 1;
+        /* card-body pura height fill karega */
+    }
+
     .checkInsText {
         color: #33475B;
+        margin: 8px 0px;
     }
-    
+
     .textPrice {
-        color: white;
-        font-weight: 700;
-        font-size: 35px;
+        color: #fff;
+        font-weight: 800;
+        font-size: 42px;
         line-height: 35px;
     }
-    
+
     .presignup {
         border-radius: 5px;
         background: #FFFFFF;
@@ -1616,24 +1670,24 @@
         color: #33475B;
         border: none;
     }
-    
+
     .pricetext {
-        font-weight: 500;
+        font-weight: 600;
         font-size: 24px;
-        line-height: 24px;
+        /* line-height: 24px; */
         color: #ED5C18;
     }
-    
+
     .unlimit {
         font-weight: 400;
         font-size: 16px;
         line-height: 16px;
         color: #687888;
     }
-    
+
     .signUp {
         border: 1px solid #33475B;
-        border-radius: 5px;
+        border-radius: 12px;
         background: #FFFFFF;
         font-style: normal;
         font-weight: 500;
@@ -1645,42 +1699,42 @@
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    
+
     .pricestarter {
-        font-weight: 700;
-        font-size: 35px;
+        font-weight: 800;
+        font-size: 42px;
         line-height: 35px;
         color: #33475B;
     }
-    
+
     .perYear {
-        color: white;
+        color: #fff;
         font-weight: 500;
         font-size: 16px;
     }
-    
+
     .billedannually {
         font-weight: 500;
         font-size: 16px;
         line-height: 25px;
-        text-align: center;
+        text-align: left;
         color: #687888;
     }
-    
+
     .recomended {
         /* padding-left: 5px;
         padding-right: 10px; */
-        padding-top: 14px;
-        padding-bottom: 5px;
+        padding-top: 10px;
+        padding-bottom: 2px;
         /* padding-right: 4px; */
         display: flex;
         align-items: baseline;
         background-color: #33475B;
-        border-radius: 10px 10px 0px 0px;
+        border-radius: 12px 12px 0px 0px;
         gap: 8px;
         justify-content: center;
     }
-    
+
     .recomendedText {
         color: white;
         font-weight: 500;
@@ -1689,7 +1743,7 @@
         line-height: 5px;
         text-align: center;
     }
-    
+
     .offButton {
         background-color: #ED5C18 !important;
         padding-left: 10px;
@@ -1703,12 +1757,12 @@
         font-weight: 500;
         font-size: 15px;
     }
-    
+
     .currency-button {
         color: rgb(107, 124, 147);
         padding: 1px 0px 0px 0px;
     }
-    
+
     .currency {
         text-align: center;
         display: flex;
@@ -1716,14 +1770,14 @@
         align-items: baseline;
         gap: 10px;
     }
-    
+
     .switch {
         position: relative;
         display: inline-block;
         width: 50px;
         height: 25px;
     }
-    
+
     .slider {
         position: absolute;
         cursor: pointer;
@@ -1735,7 +1789,7 @@
         -webkit-transition: .4s;
         transition: .4s;
     }
-    
+
     .slider:before {
         position: absolute;
         content: "";
@@ -1747,30 +1801,47 @@
         -webkit-transition: .4s;
         transition: .4s;
     }
-    
-    input:checked+.slider {
-        background-color: #ED5C18;
-    }
-    
+
+
+
     input:focus+.slider {
-        box-shadow: 0 0 1px #ED5C18;
+        box-shadow: 0 0 1px #28a745;
     }
-    
+
     input:checked+.slider:before {
         -webkit-transform: translateX(26px);
         -ms-transform: translateX(26px);
         transform: translateX(26px);
     }
+
+    input:not(:checked)+.slider {
+        background-color: #ccc !important;
+    }
+
+    input:checked+.slider {
+        background-color: #28a745 !important;
+    }
+
+    .monthlyToggle,
+    .yearlytoggle {
+        color: #687888;
+    }
+
+    #toggleDiv .active {
+        color: #ED5C18 !important;
+        font-weight: 600;
+    }
+
     /* Rounded sliders */
-    
+
     .slider.round {
         border-radius: 34px;
     }
-    
+
     .slider.round:before {
         border-radius: 50%;
     }
-    
+
     #indian {
         width: 5%;
         border: none;
@@ -1780,7 +1851,7 @@
         height: 42px;
         outline: none;
     }
-    
+
     .btn {
         color: rgb(107, 124, 147);
         border-bottom: 3px solid;
@@ -1788,35 +1859,43 @@
         margin-right: -17px;
         font-size: 18px;
     }
-    
+
     .active:hover {
         color: #ED5C18;
     }
-    
+
     .premiumtext {
-        color: white;
-        font-weight: 500;
+        color: #fff;
+        font-weight: 600;
         font-size: 24px;
-        line-height: 27px;
+        /* line-height: 30px; */
     }
-    
+
     .active,
     .btn:hover {
-        /* background-color: white; */
         color: #ED5C18;
         box-shadow: none !important;
         cursor: pointer;
-        /* color: white; */
     }
-    
+
+
+
+    .country-div {
+        border: 1px solid #dee2e6;
+        padding: 10px 20px;
+        background-color: white;
+        border-radius: 20px;
+
+    }
+
     .contact {
-        font-weight: 700;
-        font-size: 28px;
+        font-weight: 600;
+        font-size: 35px;
         line-height: 30px;
-        text-align: center;
+        text-align: left;
         color: #33475B;
     }
-    
+
     #united {
         width: 5%;
         outline: none;
@@ -1824,7 +1903,7 @@
         border: none;
         border-bottom: 3px solid;
     }
-    
+
     #eur {
         width: 5%;
         height: 42px;
@@ -1832,7 +1911,7 @@
         border: none;
         border-bottom: 3px solid;
     }
-    
+
     #gbp {
         width: 5%;
         height: 42px;
@@ -1840,7 +1919,7 @@
         border: none;
         border-bottom: 3px solid;
     }
-    
+
     .pricing-off {
         background-color: #ED5C18;
         color: white;
@@ -1848,16 +1927,9 @@
         padding: 5px 10px 0px 10px;
         margin-left: 10px;
     }
-    
-    #card1 {
-        border: 2px solid #33475B;
-        border-radius: 5%;
-        margin-top: 2%;
-        Width: 282px;
-        Height: 361px;
-        margin-left: auto;
-    }
-    
+
+
+
     .tablecard {
         /* padding-top: 5px; */
         /* width: 1315px; */
@@ -1866,30 +1938,32 @@
         border-radius: 10px;
         margin: auto;
     }
+
     /* tr:nth-child(even) {
         background-color: #FEF9F4;
     } */
-    
+
     .table-backgroundcolor {
         background-color: #FEF9F4;
     }
-    
+
     .table th {
         padding: 2px !important;
         vertical-align: inherit !important;
         border-top: none !important;
     }
-    
+
     .table td {
         padding: 2px !important;
         vertical-align: inherit !important;
     }
-    
+
     #card2 {
         border: 2px solid #33475B;
         border-radius: 5%;
         margin-top: 2%;
     }
+
     /* .table {
         font-family: arial, sans-serif;
     }
@@ -1943,82 +2017,137 @@
         border-top: 0px !important;
         color: #687888;
     } */
-    
-    #card3 {
-        border-radius: 5%;
-        /* margin-top: 2%; */
-        background-color: #ED5C18;
-        Width: 282px !important;
-        Height: 394px !important;
-        text-align: center;
-        margin: auto;
-        padding-bottom: 3px;
+
+    /* ----------------- */
+
+
+    .card {
+        border-radius: 16px;
+        border: 2px solid #D6D6D6;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        background: #fff;
     }
-    
+
+    .card-body {
+        flex: 1;
+        /* text area equalize */
+        /* display: flex;
+        flex-direction: column;
+        justify-content: space-between; */
+    }
+
+    #card2 {
+        border: 2px solid #2E3A4E;
+        transform: translateY(-20px);
+    }
+
+    .recommended-badge {
+        background: #2E3A4E;
+        color: #fff;
+        text-align: center;
+        font-size: 14px;
+        padding: 8px 0;
+        border-radius: 16px 16px 0 0;
+    }
+
+    /* Mobile responsive */
+    @media (max-width: 991px) {
+        .pricing-cards-row {
+            grid-template-columns: 1fr;
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        #card2 {
+            transform: translateY(0);
+        }
+    }
+
+    /* ----------------- */
+
+    #card1 {
+        border: 2px solid #33475B;
+        border-radius: 12px;
+        text-align: left;
+    }
+
+    #card3 {
+        border-radius: 12px;
+        /* margin-top: 2%; */
+        color: white !important;
+        background-color: #ED5C18;
+        text-align: left;
+        padding-bottom: 3px;
+        border: 0px solid #ED5C18;
+
+    }
+
     .upcard {
         margin-top: -24px;
     }
-    
+
     #card4 {
         border: 2px solid #33475B;
-        border-radius: 5%;
-        margin-top: 2%;
-        Width: 282px !important;
-        Height: 361px !important;
-        text-align: center;
+        border-radius: 12px;
+        text-align: left;
         margin-right: auto;
     }
-    
+
     .cards {
         display: flex;
         text-align: center;
         margin-left: 15%;
     }
-    
+
     #monthly-btn {
         cursor: pointer;
     }
-    
+
     #yearly-btn {
         cursor: pointer;
     }
-    
+
     #premium {
         color: white !important;
         font-size: large;
     }
-    
+
     .billed {
         color: white !important;
     }
-    
+
     #free {
         font-size: large;
     }
+
     /* media query */
     /* @media (min-width: 768px) {
         .first {
             width: 1315px !important;
         }
     } */
-    
+
     .tabletb {
         margin-top: 100px;
         margin-bottom: 150px;
     }
-    
+
     @media (max-width: 575px) {
         .grid-container {
             margin: auto !important;
             display: grid !important;
-            grid-template-columns: auto!important;
+            grid-template-columns: auto !important;
             grid-gap: 40px !important;
             padding-left: 50px !important;
             padding-right: 50px !important;
         }
+
         .upcard {
             margin-top: 0px !important;
         }
+
         .tablecard {
             width: 80%;
             overflow-x: auto;
