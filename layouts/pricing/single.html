@@ -1,117 +1,224 @@
 {{ define "main" }}
 
 <div style="background-color: #FEF9F4;padding-bottom: 60px;">
-   <div class="container pagebanneres">
-  <div class="first">
-    <div class="text-center">
-      <h1 class="text-center">Choose the Right Vizitor Plan for Your Workplace</h1>
-      <p class="mt-4 text-center">Simple Pricing | No Hidden Fees | Advanced Features For Business</p>
-      <p class="mt-4 text-center">
-        Create a safer, more efficient workplace with Vizitor. Our flexible pricing plans <br />
-        make digital visitor management affordable for every industry and organization size.
-      </p>
+    <div class="container pagebanneres">
+        <div class="first col-md-10 mx-auto">
+            <div class="text-center">
+                <h1 class="text-center">Choose the Right Vizitor Plan for Your Workplace</h1>
+                <p class="mt-4 text-center">
+                    Simple Pricing | No Hidden Fees | Advanced Features For Business
+                </p>
+                <p class="mt-4 text-center">
+                    Create a safer, more efficient workplace with Vizitor. Our flexible
+                    pricing plans <br />
+                    make digital visitor management affordable for every industry and
+                    organization size.
+                </p>
 
-      <!-- Currency Buttons -->
-      <div class="currency mt-4" id="myDIV">
-        <button class="btn active currency-type" value="inr" id="inr-btn">INR</button>
-        <button class="btn currency-type" id="usd-btn" value="usd">USD</button>
-        <button class="btn currency-type" id="eur-btn" value="eur">EUR</button>
-        <button class="btn currency-type" id="gbp-btn" value="gbp">GBP</button>
-      </div>
+                <!-- Currency Buttons -->
+                <div class="currency mt-4" id="myDIV">
+                    <button class="btn active currency-type" value="inr" id="inr-btn">INR</button>
+                    <button class="btn currency-type" value="usd" id="usd-btn">USD</button>
+                    <button class="btn currency-type" value="eur" id="eur-btn">EUR</button>
+                    <button class="btn currency-type" value="gbp" id="gbp-btn">GBP</button>
+                </div>
 
-      <!-- Monthly / Yearly Toggle -->
-      <div class="currency mt-4" id="toggleDiv">
-        <p id="monthly-btn" class="monthlyToggle">Monthly</p>
-        <label class="switch">
-          <input id="toggle" type="checkbox" checked />
-          <span class="slider round"></span>
-        </label>
-        <p id="yearly-btn" class="active yearlytoggle">Yearly</p>
-        <button class="offButton"></button>
-      </div>
+                <div id="toggle-container" class="col-md-6 mx-auto ">
+                    <!-- Monthly / Yearly Toggle -->
+                    <div class="currency mt-4 pl" id="toggleDiv">
+                        <p id="monthly-btn" class="monthlyToggle">Monthly</p>
+                        <label class="switch">
+                            <input id="toggle" type="checkbox" checked />
+                            <span class="slider round"></span>
+                        </label>
+                        <p id="yearly-btn" class="active yearlytoggle">Annual</p>
+                        <button class="offButton"></button>
+                    </div>
+                </div>
 
-      <!-- Pricing Cards -->
-      <div>
-        <div class="grid-container mt-5">
-          <!-- Starter -->
-          <div class="card" id="card1">
-            <div class="card-body">
-              <p class="pricetext text-center features-pricing mb-5">Starter</p>
-              <h2 class="pricestarter text-center mb-4" id="start-price"></h2>
-              <p class="parstarter text-center mb-4" id="day-type">per month*</p>
-              <p class="annualDiscountText text-center mb-4" id="starter-annual-monthly" style="display:none;"></p>
-              <p class="saveText text-center mb-4" id="starter-save" style="display:none;">Save ₹4800 (3 months free)</p>
-              <p class="billedannually text-center mb-4" id="day-monthly"></p>
-              <p class="checkInsText"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="" /> 300 check-ins /month</p>
-              <p class="checkInsText"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="" /> Up to 50 Employees</p>
-              <p class="checkInsText"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="" /> Single location</p>
-              <div class="mt-5 text-center"><a href="/signup?id=starter" class="signUp">Sign Up</a></div>
+
+                <!-- Pricing Cards -->
+                <div class="grid-container mt-5">
+                    <!-- Starter -->
+                    <div class="card" id="card1">
+                        <div class="card-body">
+                            <p class="pricetext features-pricing mb-4">Starter</p>
+                            <h2 class="pricestarter mb-3" id="start-price"></h2>
+                            <p class="parstarter mb-3 textgray" id="day-type">/month</p>
+
+                            <p class="billedText mb-2 textgray" id="billed-text-starter"></p>
+                            <p class="annualText mb-2 " id="starter-annual-text"></p>
+                            <p class="saveText mb-2" id="starter-save"></p>
+                            <p class="crossLine mb-4" id="starter-cross"></p>
+
+                            <p class="checkInsText">
+                                <img src="/images/vizitor/pricing/pricing-icon.svg" alt="" />
+                                300 check-ins /month
+                            </p>
+                            <p class="checkInsText">
+                                <img src="/images/vizitor/pricing/pricing-icon.svg" alt="" />
+                                Up to 50 Employees
+                            </p>
+                            <p class="checkInsText">
+                                <img src="/images/vizitor/pricing/pricing-icon.svg" alt="" />
+                                Single location
+                            </p>
+
+                            <div class="mt-5">
+                                <a href="/signup?id=starter" class="signUp">Sign Up</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Premium -->
+                    <div class="upcard">
+                        <div class="card" id="card3">
+                            <div class="recomended">
+                                <img src="/images/vizitor/pricing/star.svg" alt="star" class="starimage" />
+                                <h4 class="recomendedText">Recommended</h4>
+                            </div>
+                            <div class="card-body">
+                                <p class="premiumtext features-pricing mb-4">Premium</p>
+                                <h2 class="textPrice  mb-3" id="premium-price"></h2>
+                                <p class="parpremium  mb-3" id="day-type-premium">/month</p>
+                                <p class="billedText text-white mb-2" id="billed-text-premium"></p>
+                                <p class="annualText  mb-2" id="premium-annual-text"></p>
+                                <p class="saveText  mb-2" id="premium-save"></p>
+                                <p class="crossLine text-white  mb-4" id="premium-cross"></p>
+
+                                <p class="perYear">
+                                    <img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" />
+                                    1000 check-ins /month
+                                </p>
+                                <p class="perYear">
+                                    <img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" />
+                                    Up to 200 Employees
+                                </p>
+                                <p class="perYear">
+                                    <img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" />
+                                    Multiple locations
+                                </p>
+                                <div class="mt-5 ">
+                                    <a href="/signup?id=premium" class="signUp">Sign Up</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Enterprise -->
+                    <div>
+                        <div class="card" id="card4">
+                            <div class="card-body">
+                                <p class="pricetext  mb-5">Enterprise</p>
+                                <h2 class="mt-3 contact  mb-4">Connect</h2>
+                                <p class="unlimit">
+                                    <img class="pr-2" src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" />
+                                    Ready to assist your <br> enterprise needs?
+                                </p>
+                                <p class="unlimit mb-5">
+                                    <img class="pr-2" src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" />
+                                    Unlimited visitors
+                                </p>
+                                <div class="mt-5 ">
+                                    <a href="/contact" class="signUp">Connect</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- grid-container -->
             </div>
-          </div>
-
-          <!-- Premium -->
-          <div class="upcard">
-            <div class="card" id="card3">
-              <div class="recomended">
-                <img src="/images/vizitor/pricing/star.svg" alt="star" class="starimage" />
-                <h4 class="recomendedText">Recommended</h4>
-              </div>
-              <div class="card-body">
-                <p class="premiumtext text-center features-pricing mb-5">Premium</p>
-                <h2 class="textPrice text-center mb-4" id="premium-price"></h2>
-                <p class="parpremium text-center mb-4" id="day-type-premium">per month*</p>
-                <p class="annualDiscountText text-center mb-4" id="premium-annual-monthly" style="display:none;"></p>
-                <p class="saveText text-center mb-4" id="premium-save" style="display:none;">Save ₹9600 (3 months free)</p>
-                <p class="text-center text-white billedannually mb-4" id="day-annually"></p>
-                <p class="perYear"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> 1000 check-ins /month</p>
-                <p class="perYear"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Up to 200 Employees</p>
-                <p class="perYear"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Multiple locations</p>
-                <div class="mt-5 text-center"><a href="/signup?id=premium" class="signUp">Sign Up</a></div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Enterprise -->
-          <div>
-            <div class="card" id="card4">
-              <div class="card-body">
-                <p class="pricetext text-center mb-5">Enterprise</p>
-                <h2 class="mt-3 contact text-center mb-4">Connect</h2>
-                <p class="unlimit"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Ready to assist your enterprise needs?</p>
-                <p class="unlimit mb-5"><img src="/images/vizitor/pricing/pricing-icon.svg" alt="pricing-icon" /> Unlimited visitors</p>
-                <div class="mt-5 text-center"><a href="/contact" class="signUp">Connect</a></div>
-              </div>
-            </div>
-          </div>
-        </div> <!-- grid-container -->
-      </div>
+        </div>
     </div>
-  </div>
-</div>
+
     <!-- -------------------------------------------------- -->
 </div>
 
 <style>
-  .switch { position: relative; display: inline-block; width: 50px; height: 25px; margin: 0 10px; }
-  .switch input { opacity: 0; width: 0; height: 0; }
-  .slider { position: absolute; cursor: pointer; inset: 0; background-color: #ccc; transition: .4s; border-radius: 34px; }
-  .slider:before { position: absolute; content: ""; height: 18px; width: 18px; left: 4px; bottom: 3.5px; background-color: white; transition: .4s; border-radius: 50%; }
-  input:checked + .slider { background-color: #DF6D27; }
-  input:checked + .slider:before { transform: translateX(24px); }
-  .offButton { background-color: #DF6D27; color: #fff; border: none; border-radius: 20px; padding: 4px 12px; font-size: 13px; }
-  .active { color: #DF6D27; font-weight: 600; }
-  #day-annually s{
-    color: #fff;
-  }
-  s { color: #777; }
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        height: 25px;
+        margin: 0 10px;
+    }
 
-  #day-annually .size{
-    font-size: 16px;
-  }
+    .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
 
-  #day-monthly .size{
-    font-size: 16px;
-  }
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        inset: 0;
+        background-color: #ccc;
+        transition: .4s;
+        border-radius: 34px;
+    }
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 18px;
+        width: 18px;
+        left: 4px;
+        bottom: 3.5px;
+        background-color: white;
+        transition: .4s;
+        border-radius: 50%;
+    }
+
+    input:checked+.slider {
+        background-color: #DF6D27;
+    }
+
+    input:checked+.slider:before {
+        transform: translateX(24px);
+    }
+
+    .offButton {
+        background-color: #DF6D27;
+        color: #fff;
+        border: none;
+        border-radius: 20px;
+        padding: 4px 12px;
+        font-size: 13px;
+    }
+
+    .active {
+        color: #DF6D27;
+        font-weight: 600;
+    }
+
+    #premium-cross s {
+        color: #fff;
+    }
+
+    s {
+        color: #777;
+    }
+
+    #day-annually .size {
+        font-size: 16px;
+    }
+
+    #day-monthly .size {
+        font-size: 16px;
+    }
+
+    .textgray {
+        color: gray !important;
+    }
+
+    #starter-annual-text,
+    #premium-annual-text {
+        color: green;
+    }
+
+    #premium-annual-text {
+        color: #fff;
+    }
 </style>
 
 
@@ -1581,10 +1688,10 @@
     }
 
     .saveText {
-        color: #28a745;
+        color: green;
         font-weight: 500;
         /* margin-top: 6px; */
-        font-size: 22px;
+        font-size: 18px;
     }
 
     #card3 .saveText {
@@ -1596,7 +1703,7 @@
     }
 
     .annualDiscountText {
-        color: #1A9F45;
+        color: green;
         font-weight: 500;
         margin-top: -4px;
         font-size: 23px;
@@ -1686,8 +1793,8 @@
     }
 
     .signUp {
-        border: 1px solid #33475B;
-        border-radius: 12px;
+        border: 1px solid #000;
+        border-radius: 6px;
         background: #FFFFFF;
         font-style: normal;
         font-weight: 500;
@@ -1769,6 +1876,17 @@
         justify-content: center;
         align-items: baseline;
         gap: 10px;
+    }
+
+    #toggle-container .currency {
+        display: flex;
+        justify-content: normal;
+        align-items: baseline;
+        gap: 10px;
+    }
+
+    #toggle-container .pl {
+        padding-left: 60px;
     }
 
     .switch {
@@ -2093,6 +2211,14 @@
         border-radius: 12px;
         text-align: left;
         margin-right: auto;
+    }
+
+    #card4 .unlimit {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 16px;
+        color: #687888;
+        display: flex;
     }
 
     .cards {
