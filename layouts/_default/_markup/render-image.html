@@ -1,11 +1,13 @@
 {{- $src := .Destination -}}
 {{- $alt := .Text | default "" -}}
 
-{{/* Safely get class attribute (not always available) */}}
+{{/* Safe class extraction */}}
 {{- $class := "" -}}
-{{- with .Attributes }}
-    {{- $class = .class | default "" -}}
-{{- end }}
+{{- if isset . "Attributes" -}}
+    {{- if isset .Attributes "class" -}}
+        {{- $class = index .Attributes "class" -}}
+    {{- end -}}
+{{- end -}}
 
 {{- $clean := replace $src "/images/" "" -}}
 
