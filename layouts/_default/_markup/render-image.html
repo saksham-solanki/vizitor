@@ -1,8 +1,9 @@
-{{ $src := .Destination }}
-{{ $alt := .Text }}
-{{ $class := .Attributes.class }}
 
-{{ $clean := replace $src "/images/" "" }}
+{{- $src := .Destination -}}
+{{- $alt := .Text -}}
+{{- $class := .Attributes.class -}}
+
+{{- $clean := replace $src "/images/" "" -}}
 
 {{ partial "img.html" (dict
     "src" $clean
