@@ -1,143 +1,73 @@
-<!-- test -->
-<!-- <div id="clientscroll">
-    <section class="owl-carousel-featuredin owl-theme slider">
-        {{ range .Site.Data.clients.items }}
-        <div class="slide">
-            <div class="client-slide grayscale"><img src="{{ .image | absURL }}" alt="{{.brand}}" class="img-fluid"></div>
-        </div>
-        {{end}}
-    </section>
-</div> -->
-
-<!-- <div class="container">
-    <div class="slider-logo">
-        <div class="slide-track">
-            {{ range .Site.Data.clients.items }}
-            <div class="slidelogo">
-                <img src="{{ .image | absURL }}" alt="{{.brand}}"  >
-            </div>
-            {{end}}
-        </div>
-    </div>
-</div> -->
-
 <div class="container text-center mb-5">
     <h2>Trusted by secure workplaces worldwide</h2>
 </div>
 
 <div class="slider-logo">
     <div class="slide-track">
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/hardrock.svg"
-                "alt" "hardrock"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/hardrock.svg" alt="hardrock" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/hardrock.svg" "alt" "hardrock" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/hng.svg"
-                "alt" "hng"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/hng.svg" alt="hng" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/hng.svg" "alt" "hng" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/veolia.svg"
-                "alt" "veolia"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/veolia.svg" alt="veolia" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/veolia.svg" "alt" "veolia" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/digicel.svg"
-                "alt" "digicel"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/digicel.svg" alt="digicel" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/digicel.svg" "alt" "digicel" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/nestie.svg"
-                "alt" "nestie"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/nestie.svg" alt="nestie" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/nestie.svg" "alt" "nestie" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/shiprocket.svg"
-                "alt" "shiprocket"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/shiprocket.svg" alt="shiprocket" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/shiprocket.svg" "alt" "shiprocket" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/axio.svg"
-                "alt" "axio"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/axio.svg" alt="axio" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/axio.svg" "alt" "axio" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/hardrock.svg"
-                "alt" "hardrock"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/hardrock.svg" alt="hardrock" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/hardrock.svg" "alt" "hardrock" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/hng.svg"
-                "alt" "hng"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/hng.svg" alt="hng" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/hng.svg" "alt" "hng" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/veolia.svg"
-                "alt" "veolia"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/veolia.svg" alt="veolia" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/veolia.svg" "alt" "veolia" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/digicel.svg"
-                "alt" "digicel"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/digicel.svg" alt="digicel" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/digicel.svg" "alt" "digicel" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/shiprocket.svg"
-                "alt" "shiprocket"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/shiprocket.svg" alt="shiprocket" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/shiprocket.svg" "alt" "shiprocket" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/axio.svg"
-                "alt" "axio"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/axio.svg" alt="axio" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/axio.svg" "alt" "axio" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/digicel.svg"
-                "alt" "digicel"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/digicel.svg" alt="digicel" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/digicel.svg" "alt" "digicel" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/veolia.svg"
-                "alt" "veolia"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/veolia.svg" alt="veolia" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/veolia.svg" "alt" "veolia" "class" "") }}
         </div>
+
         <div class="slidelogo">
-             {{ partial "img.html" (dict
-                "src" "vizitor/vizitor-clint/shiprocket.svg"
-                "alt" "shiprocket"
-                ) }}
-            <!-- <img src="/images/vizitor/vizitor-clint/shiprocket.svg" alt="shiprocket" /> -->
+            {{ partial "img.html" (dict "src" "vizitor/vizitor-clint/shiprocket.svg" "alt" "shiprocket" "class" "") }}
         </div>
+
     </div>
 </div>
