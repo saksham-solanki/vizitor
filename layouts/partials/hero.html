@@ -4,29 +4,28 @@
     <div class="container">
         <div class="text-center">
             <h1>Smart Workplace Tools <br> Built to Keep Everything in Sync.</h1>
-            <p>From visitor management to meeting rooms and deliveries, <br> Vizitor brings your workplace together,
-                securely and seamlessly.</p>
+            <p>From visitor management to meeting rooms and deliveries, <br>
+                Vizitor brings your workplace together, securely and seamlessly.</p>
+
             <form id="homeForm">
                 <div class="form-inline">
-                    <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
-                        required>
+                    <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email" required>
                     <input class="btn-try-free" type="submit" value="Try for free">
                 </div>
             </form>
+
             <p class="no-credit mt-3 nocredit">* No credit card required</p>
+
             <div class="manbineroverflow d-none d-md-block">
-                {{ partial "img.html" (dict
-                "src" "vizitor/vizitor.webp"
-                "alt" "vizitor"
-                "class" "heromanbiner"
-                ) }}
+                {{ partial "img.html" (dict "src" "vizitor/vizitor.webp" "alt" "vizitor" "class" "heromanbiner") }}
             </div>
 
-            <div class=" mt-4 pb-5">
-                {{range .Site.Params.apps}}
-                <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
-                        src="{{.image  | absURL}}" alt="{{.title}}"></a>
-                {{end}}
+            <div class="mt-4 pb-5">
+                {{ range .Site.Params.apps }}
+                <a href="{{ .url }}" target="_blank">
+                    <img class="btn-app btn-app-mg phonetop-btn" src="{{ .image | absURL }}" alt="{{ .title }}">
+                </a>
+                {{ end }}
             </div>
         </div>
     </div>
