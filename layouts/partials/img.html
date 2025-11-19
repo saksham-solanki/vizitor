@@ -1,0 +1,23 @@
+{{ $path  := .src }}
+{{ $alt   := .alt }}
+{{ $class := .class }}
+
+{{ $img := index site.Data.imageDimensions $path }}
+
+{{ if eq $img.type "svg" }}
+  <img 
+    src="/images/{{ $path }}" 
+    alt="{{ $alt }}" 
+    loading="lazy" 
+    decoding="async" 
+    class="{{ $class }}">
+{{ else }}
+  <img 
+    src="/images/{{ $path }}"
+    width="{{ $img.width }}"
+    height="{{ $img.height }}"
+    loading="lazy"
+    decoding="async"
+    alt="{{ $alt }}"
+    class="{{ $class }}">
+{{ end }}

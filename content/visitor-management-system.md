@@ -1,6 +1,6 @@
 ---
 title: "Best Visitor Management System | Try for free"
-description : "Simplify visitor check-ins with Vizitor’s Visitor Management System. Boost security, ensure compliance & enhance guest experience. Try it free today!"
+description : "Improve workplace security and make check-ins effortless with Vizitor, a global visitor management system with QR check-ins, host alerts, pre-registration, badge printing, and real-time visitor logs. Try free today."
 keywords:
 - web-based visitor management system, 
 - Visitor management software free, 

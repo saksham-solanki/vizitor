@@ -4,7 +4,8 @@
     <div class="container">
         <div class="text-center">
             <h1>Smart Workplace Tools <br> Built to Keep Everything in Sync.</h1>
-            <p>From visitor management to meeting rooms and deliveries, <br> Vizitor brings your workplace together, securely and seamlessly.</p>
+            <p>From visitor management to meeting rooms and deliveries, <br> Vizitor brings your workplace together,
+                securely and seamlessly.</p>
             <form id="homeForm">
                 <div class="form-inline">
                     <input type="email" class="email-input" id="email" name="email" placeholder="Enter your email"
@@ -14,7 +15,11 @@
             </form>
             <p class="no-credit mt-3 nocredit">* No credit card required</p>
             <div class="manbineroverflow d-none d-md-block">
-                <img class="heromanbiner" src="/images/vizitor/vizitor.webp" alt="vizitor" />
+                {{ partial "img.html" (dict
+                "src" "vizitor/vizitor.webp"
+                "alt" "vizitor"
+                "class" "heromanbiner"
+                ) }}
             </div>
 
             <div class=" mt-4 pb-5">
@@ -29,7 +34,7 @@
 <!--laptop Hero Section  End-->
 
 <style>
-    .heropagemain{
+    .heropagemain {
         padding-top: 120px;
     }
 </style>

@@ -1,0 +1,11 @@
+{{ $src := .Destination }}
+{{ $alt := .Text }}
+{{ $class := .Attributes.class }}
+
+{{ $clean := replace $src "/images/" "" }}
+
+{{ partial "img.html" (dict
+    "src" $clean
+    "alt" $alt
+    "class" $class
+) }}
