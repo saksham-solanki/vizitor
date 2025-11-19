@@ -1,6 +1,11 @@
 {{- $src := .Destination -}}
-{{- $alt := .Text -}}
-{{- $class := .Attributes.class -}}
+{{- $alt := .Text | default "" -}}
+
+{{/* Safely get class attribute (not always available) */}}
+{{- $class := "" -}}
+{{- with .Attributes }}
+    {{- $class = .class | default "" -}}
+{{- end }}
 
 {{- $clean := replace $src "/images/" "" -}}
 
