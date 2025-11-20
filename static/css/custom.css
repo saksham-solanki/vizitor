@@ -3153,7 +3153,7 @@ input[type=email]:focus {
 }
 }
 .slider-logo {
-	height:100px;
+	height:150px;
 	margin:auto;
 	overflow:hidden;
 	position:relative;
@@ -3162,11 +3162,11 @@ input[type=email]:focus {
 .slider-logo .slide-track {
 	animation:40s linear infinite scroll;
 	display:flex;
-	width:calc(250px * 14)
+	width:calc(200px * 20)
 }
 .slider-logo .slidelogo {
 	height:100px;
-	width:250px
+	width:200px;
 }
 .eeswp_section_two {
 	position:relative;
