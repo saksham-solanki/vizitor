@@ -17,7 +17,7 @@
                 <img class="heromanbiner" src="/images/vizitor/vizitor.webp" alt="vizitor" />
             </div>
 
-            <div class=" mt-4 pb-5">
+            <div class="mt-4 pb-5" id="stor">
                 {{range .Site.Params.apps}}
                 <a href="{{.url}}" target="_blank"><img class="btn-app btn-app-mg phonetop-btn"
                         src="{{.image  | absURL}}" alt="{{.title}}"></a>
@@ -31,6 +31,10 @@
 <style>
     .heropagemain{
         padding-top: 120px;
+    }
+    #stor img.btn-app-mg {
+        width: 128px;
+        margin-right: 15px;
     }
 </style>
 

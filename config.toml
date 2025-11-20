@@ -12,12 +12,12 @@ logo = "/images/vizitor/logo.png"
 [[params.apps]]
 title = "googlePlay"
 url = "https://play.google.com/store/apps/details?id=com.vizitor.app"
-image= "/images/vizitor/playstore.svg"
+image= "/images/vizitor/playstore.webp"
 
 [[params.apps]]
 title = "IOSapp"
 url = "https://apps.apple.com/us/app/vizitor/id1408560525?ls=1"
-image= "/images/vizitor/appstore.svg"
+image= "/images/vizitor/appstore.webp"
 
 [[params.appsbtn]]
 title = "googlePlay"

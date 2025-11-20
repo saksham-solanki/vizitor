@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="singup-page contact-v2">
+<div class="singup-page contact-v2 pb-5">
     <div class="container">
 
         <div class="row ">
@@ -14,10 +14,10 @@
                         <!-- <select id="planId" class="form-control custom-select browser-default">
                             </select> -->
                         <select class="form-control custom-select browser-default" id="planId" name="planId" required>
-                                <!-- <option value selected disabled hidden>Choose your Plan</option>
+                            <!-- <option value selected disabled hidden>Choose your Plan</option>
                                 <option value="61d5613a8d6a714e368e9728">STARTER</option>
                                 <option value="61d5613a8d6a714e368e9734">PREMIUM</option> -->
-                            </select>
+                        </select>
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12"></div>
                 </div>
@@ -27,13 +27,15 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="form-group">
                                 <!-- <label for="name">Full Name</label> -->
-                                <input type="text" class="form-control" name="adminName" id="adminName" placeholder="Full Name" required>
+                                <input type="text" class="form-control" name="adminName" id="adminName"
+                                    placeholder="Full Name" required>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="form-group">
                                 <!-- <label for="phoneNumber">Company Name</label> -->
-                                <input type="text" class="form-control" name="name" id="name" placeholder="Company Name" required>
+                                <input type="text" class="form-control" name="name" id="name" placeholder="Company Name"
+                                    required>
                             </div>
                         </div>
                     </div>
@@ -41,10 +43,10 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <!-- <label for="country">Country</label> -->
                             <select class="countrySelect custom-select browser-default" id="country" name="country">
-                                    {{range .Site.Data.countryCode}}
-                                    <option value="{{.unicode}} - {{.name}}">{{.emoji}} {{.name}} ({{.unicode}})</option>
-                                    {{end}}
-                                </select>
+                                {{range .Site.Data.countryCode}}
+                                <option value="{{.unicode}} - {{.name}}">{{.emoji}} {{.name}} ({{.unicode}})</option>
+                                {{end}}
+                            </select>
                             <!-- <input type="text" class="form-control" name="country" id="country" value=""
                                     v-model="country" required /> -->
                         </div>
@@ -57,7 +59,8 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="form-group">
                                 <!-- <label for="message">Phone number</label> -->
-                                <input type="number" class="form-control" name="phoneNumber" id="phoneNumber" placeholder="Phone number" required>
+                                <input type="number" class="form-control" name="phoneNumber" id="phoneNumber"
+                                    placeholder="Phone number" required>
                             </div>
                         </div>
                     </div>
@@ -65,13 +68,15 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="form-group">
                                 <!-- <label for="email">Email</label> -->
-                                <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email"
+                                    required>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="form-group">
                                 <!-- <label for="email">Password</label> -->
-                                <input type="password" class="form-control" name="password" id="password" placeholder="Password" required>
+                                <input type="password" class="form-control" name="password" id="password"
+                                    placeholder="Password" required>
                             </div>
                         </div>
 
@@ -80,7 +85,8 @@
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <!-- <label for="email">Category</label> -->
-                            <select class="form-control custom-select browser-default" id="companyType" name="companyType" required>
+                            <select class="form-control custom-select browser-default" id="companyType"
+                                name="companyType" required>
                                 <option value selected disabled hidden>Category</option>
                                 <option value="OFFICE">Office</option>
                                 <option value="HOSPITAL">Hospital</option>
@@ -98,7 +104,8 @@
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12 signup-input-ph">
                             <!-- <label for="email">How did you hear about us?</label> -->
-                            <select class="form-control custom-select browser-default" id="hearAbout" name="hearAbout" required>
+                            <select class="form-control custom-select browser-default" id="hearAbout" name="hearAbout"
+                                required>
                                 <option value selected disabled hidden>How did you hear about us?</option>
                                 <option value="SOCIAL_MEDIA" style="padding: 20px;">Social media</option>
                                 <option value="REFERRAL">Referral</option>
@@ -117,8 +124,10 @@
                             <div class="form-group">
                                 <div class="form-check">
                                     <div>
-                                        <input class="form-check-input" type="checkBox" value="" id="invalidCheck" required>
-                                        <p>By creating an account you agree to our <a href="/terms" target="_blank" class="terms-Privacy">Terms</a></p>
+                                        <input class="form-check-input" type="checkBox" value="" id="invalidCheck"
+                                            required>
+                                        <p>By creating an account you agree to our <a href="/terms" target="_blank"
+                                                class="terms-Privacy">Terms</a></p>
                                         <!-- <br>
                                         <div>
                                             <p class="form-check-label" for="invalidCheck">
@@ -133,8 +142,10 @@
                     </div>
                     <div class="row mb-5">
                         <div class="col-md-12 ">
-                            <button type="submit" name="signup" value="Sign Up" style="outline: none;" onclick="myFunctionss()">Sign Up</button>
-                            <p>Already have an account? <a href="https://dashboard.vizitorapp.com/#/login" target="_blank" class="terms-Privacy"><b>LOGIN</b></a></p>
+                            <button type="submit" name="signup" value="Sign Up" style="outline: none;"
+                                onclick="myFunctionss()">Sign Up</button>
+                            <p>Already have an account? <a href="https://dashboard.vizitorapp.com/#/login"
+                                    target="_blank" class="terms-Privacy"><b>LOGIN</b></a></p>
                         </div>
                     </div>
                 </form>
@@ -144,7 +155,8 @@
                 </div>
             </div>
             <div class="col-md-5 col-sm-5 col-xs-12 ">
-                <img style="width: 100%; border-radius: 20px 20px 0px 0px;" src="/images/vizitor/snapdeal-signup.svg" alt="signup-img">
+                <img style="width: 100%; border-radius: 20px 20px 0px 0px;" src="/images/vizitor/snapdeal-signup.svg"
+                    alt="signup-img">
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
                     <!-- <div class="carousel " data-ride="carousel"> -->
                     <ol class="carousel-indicators">
@@ -157,10 +169,13 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="testimonial">
-                                <p style="color: #687888;">100% satisfied after using the application for the past 3 weeks. It does everything it says, Customer Service by email is great, and they are much more affordable than any other competitors. <br></p>
+                                <p style="color: #687888;">100% satisfied after using the application for the past 3
+                                    weeks. It does everything it says, Customer Service by email is great, and they are
+                                    much more affordable than any other competitors. <br></p>
                             </div>
                             <div class="media">
-                                <img src="/images/vizitor/testimonials/Tony-Losacco.png" class="mr-3" alt="Tony-Losacco">
+                                <img src="/images/vizitor/testimonials/Tony-Losacco.png" class="mr-3"
+                                    alt="Tony-Losacco">
                                 <div class="media-body">
                                     <div class="overview">
                                         <div class="name"><b style="color: #687888;">Tony Losacco</b></div>
@@ -171,7 +186,8 @@
                         </div>
                         <div class="carousel-item">
                             <div class="testimonial">
-                                <p style="color: #687888;">Very good app for Visitor Management System & amazing customer service! <br><br><br><br>
+                                <p style="color: #687888;">Very good app for Visitor Management System & amazing
+                                    customer service! <br><br><br><br>
                                 </p>
                             </div>
                             <div class="media">
@@ -187,10 +203,13 @@
                         </div>
                         <div class="carousel-item">
                             <div class="testimonial">
-                                <p style="color: #687888;">Using this visitors management system from past 4 months. Amazing experience. Best part is they customised it for my requirements.<br><br><br></p>
+                                <p style="color: #687888;">Using this visitors management system from past 4 months.
+                                    Amazing experience. Best part is they customised it for my requirements.<br><br><br>
+                                </p>
                             </div>
                             <div class="media">
-                                <img src="/images/vizitor/testimonials/Shubham-Chugh.png" class="mr-3" alt="Shubham-Chugh">
+                                <img src="/images/vizitor/testimonials/Shubham-Chugh.png" class="mr-3"
+                                    alt="Shubham-Chugh">
                                 <div class="media-body">
                                     <div class="overview">
                                         <div class="name"><b style="color: #687888;">Shubham Chugh</b></div>
@@ -201,10 +220,13 @@
                         </div>
                         <div class="carousel-item">
                             <div class="testimonial">
-                                <p style="color: #687888;">Great App. Very usefull for my Institute. Giving a wonderfull user expeience to visitors. If any one looking for an automated Reception then this app will fullfill all your needs. Customer support is also wonderful</p>
+                                <p style="color: #687888;">Great App. Very usefull for my Institute. Giving a wonderfull
+                                    user expeience to visitors. If any one looking for an automated Reception then this
+                                    app will fullfill all your needs. Customer support is also wonderful</p>
                             </div>
                             <div class="media">
-                                <img src="/images/vizitor/testimonials/Think-Tek-Media.png" class="mr-3" alt="Think-Tek-Media">
+                                <img src="/images/vizitor/testimonials/Think-Tek-Media.png" class="mr-3"
+                                    alt="Think-Tek-Media">
                                 <div class="media-body">
                                     <div class="overview">
                                         <div class="name"><b style="color: #687888;">Think Tek Media</b></div>
@@ -225,12 +247,13 @@
             <!-- ------------------------------------------------- -->
         </div>
     </div>
-    <div class="container singup-page">
-        <div style="margin-top: -15px;">
-            <p class="center-content"><b>Trusted by :</b></p>
-        </div>
-        <div>{{- partial "clients.html" . -}}</div>
+</div>
+
+<div class="container mt-5">
+    <div style="margin-top: -15px;">
+        <p class="center-content"><b>Trusted by :</b></p>
     </div>
+    <div>{{- partial "clients.html" . -}}</div>
 </div>
 
 
