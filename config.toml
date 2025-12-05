@@ -1,26 +1,6 @@
 baseURL = "https://www.vizitorapp.com/"
 title = "World #NO. 1 Visitor Management System | Check-in Software | Vizitor"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-
-######################## LANGUAGES CONFIG ##############################
-
-[languages]
-
-# 🌍 Global English (default)
-[languages.en]
-languageCode = "en"
-languageName = "English"
-weight = 1
-contentDir = "content"
-
-# 🇺🇸 USA Version (/us/)
-[languages.us]
-languageCode = "en-us"
-languageName = "English (US)"
-weight = 2
-contentDir = "content/us"
 
 ########################################################################
 
@@ -46,9 +26,6 @@ image= "/images/vizitor/playstore-footer.svg"
 title = "IOSapp"
 url = "https://apps.apple.com/us/app/vizitor/id1408560525?ls=1"
 image= "/images/vizitor/appstore-footer.svg"
-
-uglyURLs = true
-enableRobotsTXT = true
 
 [markup]
   [markup.goldmark]

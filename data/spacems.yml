@@ -17,4 +17,10 @@ items:
               Utilization Tracking"
   - question: "What software is used for space planning? "
     answer: "Space planning software is employed to streamline the allocation and utilization of physical spaces in organizations. The software like Vizitor Space Management options spans from general space planning tools to specialized solutions."
+  - question: "Can employees book their own desks or rooms"
+    answer: "Yes, Vizitor offers smart desk and meeting room booking to prevent conflicts and improve productivity."
+  - question: "Is this useful for hybrid work environments?"
+    answer: "Absolutely. It helps admins predict attendance, plan seating, and maintain optimal capacity."
+  - question: "Does it work for large organizations?"
+    answer: "Yes. Vizitor is highly scalable and ideal for multi-floor and multi-location businesses."
        

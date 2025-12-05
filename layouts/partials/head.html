@@ -12,12 +12,7 @@
   <!-- =====================================
        AUTOMATIC HREFLANG FOR ALL LANGUAGES
        ===================================== -->
-  {{ if .IsTranslated }}
-    {{ range .AllTranslations }}
-      <link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Lang }}">
-    {{ end }}
-  {{ end }}
-  <link rel="alternate" href="{{ .Site.BaseURL }}" hreflang="x-default">
+ 
 
   <!-- ✅ Open Graph -->
   <meta property="og:title" content="{{ .Title }}" />
@@ -209,4 +204,24 @@
       font-display: swap;
     }
   </style>
+
+
+<script>
+fetch("https://ipapi.co/json/")
+  .then(response => response.json())
+  .then(data => {
+      if (data.country_code === "US") {
+          
+          // Agar user U.S. me hai aur URL me /us/ nahi hai
+          if (!window.location.pathname.startsWith("/us/")) {
+              
+              // Current path ko /us/ version me convert karo
+              let newPath = "/us" + window.location.pathname;
+
+              window.location.href = newPath;
+          }
+      }
+  })
+  .catch(err => console.log("GeoIP error:", err));
+</script>
 </head>
