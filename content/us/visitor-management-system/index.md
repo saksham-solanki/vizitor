@@ -5,5 +5,5 @@ keywords:
   - visitor management US
   - visitor check-in software US
 draft: false
-language: "us"
+lang: "us"
 ---
