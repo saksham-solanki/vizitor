@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}"> 
+    {{ partial "hreflang.html" . }}
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}

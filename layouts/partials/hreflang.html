@@ -1,0 +1,9 @@
+{{- $base := .Site.BaseURL -}}
+
+{{- range .Translations }}
+<link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Site.LanguageCode }}" />
+{{- end }}
+
+<link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Site.LanguageCode }}" />
+
+<link rel="alternate" href="{{ $base }}" hreflang="x-default" />
