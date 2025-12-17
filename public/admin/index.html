@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>World #NO. 1 Visitor Management System | Check-in Software | Vizitor</title>
+    <link rel="shortcut icon" href="/images/vizitor/favicon.ico" type="image/png">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+</head>
+
+<body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+
+        CMS.registerEditorComponent({
+            id: "button-download",
+            label: "Button Download",
+            fields: [{
+                    name: "heading",
+                    label: "Heading",
+                    widget: "string"
+                }, {
+                    name: "formid",
+                    label: "Form ID",
+                    widget: "string"
+                },
+
+                {
+                    name: "postion",
+                    label: "Position of Button",
+                    widget: "string"
+                }
+
+            ],
+            pattern: /{{< button-download ([a-zA-Z0-9]+) ([a-zA-Z0-9]+) ?\s+>}}/,
+            fromBlock: function(match) {
+                return {
+                    heading: match[1],
+                    formid: match[2],
+                    postion: match[3],
+                };
+            },
+            toBlock: function(obj) {
+                return `{{< button-download ${obj.heading} ${obj.formid}  ${obj.postion} />}}`;
+            },
+            toPreview: function(obj) {
+                // return `<img src="https://i3.ytimg.com/vi/${obj.id}/hqdefault.jpg" alt="Youtube Video"/>`;
+                return `{{< button-download ${obj.heading} ${obj.formid}  ${obj.postion} />}}`;
+            },
+        });
+    </script>
+</body>
+
+</html>
