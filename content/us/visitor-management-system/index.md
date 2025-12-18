@@ -1,6 +1,6 @@
 ---
-title: "visitor Management System for US Businesses"
-description: "Automated visitor management software designed for US companies. Track employee hours, manage shifts, PTO, and compliance with ease."
+title: "Best Visitor Management System for US Workplaces"
+description: "Deliver faster check-ins, fewer interruptions, and a more secure workplace with our modern visitor management system for US organizations."
 layout: "visitor-management-system"
 draft: false
 ---
