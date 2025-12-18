@@ -12,7 +12,21 @@
                 {{ range (.Paginator 3).Pages.ByPublishDate.Reverse }}
                 <div class="col-lg-4 col-md-4 col-12  mt-4">
                     <div>
-                        {{ .Render "li"}}
+                        <div class="card-deck">
+                            <a href="{{ .RelPermalink }}">
+                                <div class="card" style="background: #fef9f4;;border-radius: 20px;">
+                                    <div class="card-body">
+                                        <p maxlength="50" class="card-text-blog titleclear">{{ .Title }} </p>
+                                        <p class="card-text" style="font-size: 14px;">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+                                        <p maxlength="100" class="card-text descriptionclear mb-2">{{ .Description }} </p>
+                                        <a class="blog-btn-arrow " href="{{ .RelPermalink }}"
+                                            style="color: #ED5C18;">Know more <img style="margin-left: 5px;"
+                                                src="/images/vizitor/Icon.svg" alt="Icon"></a>
+                                    </div>
+                                </div>
+                            </a>
+
+                        </div>
                     </div>
                 </div>
                 {{ end }}
