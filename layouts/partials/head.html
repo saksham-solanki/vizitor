@@ -12,7 +12,7 @@
   <!-- =====================================
        AUTOMATIC HREFLANG FOR ALL LANGUAGES
        ===================================== -->
- 
+
 
   <!-- ✅ Open Graph -->
   <meta property="og:title" content="{{ .Title }}" />
@@ -23,8 +23,8 @@
   <meta property="og:image" content="https://www.vizitorapp.com/images/vizitor/vizitor2.png" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="article:modified_time" content="{{ now.Format "2006-01-02T15:04:05-07:00" }}" />
-  
+  <meta property="article:modified_time" content="{{ now.Format " 2006-01-02T15:04:05-07:00" }}" />
+
 
   <!-- ✅ Canonical & Robots -->
   <link rel="canonical" href="{{ .Permalink }}" />
@@ -85,12 +85,12 @@
   </style>
 
   <!-- ✅ Preload Non-Critical CSS -->
- <link rel="stylesheet" rel="preload" href="/css/others.css" as="style">
- <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
+  <link rel="stylesheet" rel="preload" href="/css/others.css" as="style">
+  <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
 
   <noscript>
     <link rel="stylesheet" rel="preload" href="/css/others.css" as="style">
- <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
+    <link rel="stylesheet" rel="preload" href="/css/custom.css" as="style">
   </noscript>
 
   <!-- ✅ Preload JS -->
@@ -157,8 +157,8 @@
     window.addEventListener('load', loadGTM);
   </script>
 
-<!-- -------------------------------------------------------------------- -->
-<script type="application/ld+json">
+  <!-- -------------------------------------------------------------------- -->
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
@@ -174,7 +174,7 @@
 </script>
 
 
-<script type="application/ld+json">
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "SoftwareApplication",
@@ -206,20 +206,28 @@
   </style>
 
 
-<!-- <script>
-fetch("https://ipapi.co/json/")
-  .then(response => response.json())
-  .then(data => {
-      if (data.country_code === "US") {
-          
-          if (!window.location.pathname.startsWith("/us/")) {
-              
-              let newPath = "/us" + window.location.pathname;
+  <script>
+    fetch("https://ipapi.co/json/")
+      .then(res => res.json())
+      .then(data => {
 
-              window.location.href = newPath;
-          }
-      }
-  })
-  .catch(err => console.log("GeoIP error:", err));
-</script> -->
+        if (data.country_code !== "US") return;
+
+        const path = window.location.pathname;
+
+        // Agar already /us/ me hai → kuch mat karo
+        if (path === "/us/" || path.startsWith("/us/")) return;
+
+        // Homepage
+        if (path === "/" || path === "") {
+          window.location.replace("/us/");
+          return;
+        }
+
+        // Inner pages → /us + path
+        window.location.replace("/us" + path);
+
+      })
+      .catch(err => console.log("GeoIP error:", err));
+  </script>
 </head>
