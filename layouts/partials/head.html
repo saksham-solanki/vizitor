@@ -13,15 +13,6 @@
        AUTOMATIC HREFLANG FOR ALL LANGUAGES
        ===================================== -->
   <!-- ✅ HREFLANG FIX -->
-  {{ if eq .RelPermalink "/" }}
-  <link rel="alternate" hreflang="x-default" href="https://www.vizitorapp.com/" />
-  <link rel="alternate" hreflang="en-in" href="https://www.vizitorapp.com/" />
-  <link rel="alternate" hreflang="en-us" href="https://www.vizitorapp.com/us/" />
-  {{ else if hasPrefix .RelPermalink "/us/" }}
-  <link rel="alternate" hreflang="x-default" href="https://www.vizitorapp.com/" />
-  <link rel="alternate" hreflang="en-in" href="https://www.vizitorapp.com/" />
-  <link rel="alternate" hreflang="en-us" href="{{ .Permalink }}" />
-  {{ end }}
 
   <!-- ✅ Open Graph -->
   <meta property="og:title" content="{{ .Title }}" />
