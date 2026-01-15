@@ -13,7 +13,8 @@ authors:
   - Sukriti
 image: /images/blog/group-107.webp
 ---
-# Why Waiting Is a Dealbreaker (And How Vizitor Helps You Fix It)
+
+## Why Waiting Is a Dealbreaker (And How Vizitor Helps You Fix It)
 
 We live in an era of instant gratification. We can stream movies in seconds, order dinner with a single tap, and get groceries delivered to our door in under an hour. Because of this, human patience has fundamentally changed. We no longer view "waiting" as a neutral part of life; we view it as a waste of our most precious resource: time.
 
