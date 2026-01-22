@@ -174,7 +174,26 @@ Vizitor’s a champ, but how does it stack up against the big players? We’ve d
 
 **Vizitor vs. iLobby:** Vizitor covers core safety needs (tracking, alerts) at a lower cost. iLobby’s analytics and emergency tools are next-level, but Vizitor’s simplicity suits most.
 
-### 4. SwipedOn
+### 4. Archie
+
+* **Overview:** A visitor and workplace management platform with quick setup and clear, upfront pricing.
+* **Standout Features:**
+
+  * Self-service check-ins on iOS and Android tablets.
+  * Custom sign-in flows with e-signatures.
+  * Real-time “who’s on-site” lists with evacuation support.
+
+**Pricing:** Starts at $109/month/location.
+
+* **Pros:** Great value for the feature set, easy to roll out across sites.
+
+* **Cons:** Not as focused on ultra-high security needs like watchlist screening or advanced identity proofing.
+
+* **Best For:** Mid-sized and large offices that want powerful visitor management without enterprise costs and complexity.
+
+* **Vizitor vs. Archie:** [Archie](https://archieapp.co/) adds broader workplace tools (like desk and room booking) and more “all-in-one” space management, while Vizitor is a more affordable, visitor-first alternative.
+
+### 5. SwipedOn
 
 * **Overview:** A no-frills VMS for small to mid-sized businesses.
 * **Standout Features:**
@@ -189,7 +208,7 @@ Vizitor’s a champ, but how does it stack up against the big players? We’ve d
 
 **Vizitor vs. SwipedOn:** Vizitor’s $20/month beats SwipedOn’s $59, plus it adds analytics and branding. Both nail QR check-ins, but Vizitor’s extras make it a steal.
 
-### 5. Greetly
+### 6. Greetly
 
 * **Overview:** A modern VMS with a visitor-first focus.
 * **Standout Features:**
@@ -213,8 +232,9 @@ Here’s a juicy rundown of 15 VMS options, categorized for your browsing pleasu
 1. **Vizitor (vizitorapp.com)** - Affordable, scalable, branding-focused.
 2. **Envoy** - Integration-heavy for big players.
 3. **Proxyclick** - Security and compliance champ.
-4. **iLobby** - Safety and analytics beast.
-5. **Sign In Enterprise** - Custom workflows, multi-site ready (custom pricing).
+4. **Archie** - Easy-to-run visitor management with transparent pricing.
+5. **iLobby** - Safety and analytics beast.
+6. **Sign In Enterprise** - Custom workflows, multi-site ready (custom pricing).
 
 ### SMB Superstars
 
@@ -264,15 +284,15 @@ Vizitor’s already on it with touchless tech and integrations—stay tuned for 
 
 ## Comparison Table: Vizitor vs. The Rest
 
-| **Feature**            | **Vizitor** | **Envoy** | **Proxyclick** | **iLobby** | **SwipedOn** |
-| ---------------------- | ----------- | --------- | -------------- | ---------- | ------------ |
-| Touchless Check-In     | ✅           | ✅         | ✅              | ✅          | ✅            |
-| Custom Branding        | ✅           | ✅         | ✅              | ✅          | ❌            |
-| Real-Time Alerts       | ✅           | ✅         | ✅              | ✅          | ✅            |
-| Advanced Security      | ✅           | ✅         | ✅              | ✅          | ❌            |
-| Analytics              | ✅           | ✅         | ✅              | ✅          | ❌            |
-| Starting Price (Month) | $28         | $109      | $100           | $199       | $59          |
-| Ease of Use            | High        | Medium    | Medium         | Low        | High         |
+| **Feature**            | **Vizitor** | **Envoy** | **Proxyclick** | **iLobby** | **SwipedOn** |   **Archie**  |
+| ---------------------- | ----------- | --------- | -------------- | ---------- | ------------ | ------------  |
+| Touchless Check-In     | ✅          | ✅        | ✅             | ✅         | ✅           |  ✅           |           
+| Custom Branding        | ✅          | ✅        | ✅             | ✅         | ❌           |  ✅           | 
+| Real-Time Alerts       | ✅          | ✅        | ✅             | ✅         | ✅           |  ✅           | 
+| Advanced Security      | ✅          | ✅        | ✅             | ✅         | ❌           |  ✅           | 
+| Analytics              | ✅          | ✅        | ✅             | ✅         | ❌           |  ✅           | 
+| Starting Price (Month) | $28         | $109      | $100           | $199       | $59           |  $109        |
+| Ease of Use            | High        | Medium    | Medium         | Low        | High          |  High        |
 
 Vizitor’s the sweet spot—features, price, and usability in one.
 
