@@ -225,7 +225,7 @@ Yes, Offices with frequent visitors, interviews, vendors, or shared reception de
 
 ### What is the difference between physical queues and virtual queues?
 
-Physical queues require visitors to wait in line at the reception, while virtual queues allow visitors to wait remotely or comfortably while receiving updates on their position in the queue.
+Physical queues require visitors to wait in line at the reception, while [virtual queues](https://www.vizitorapp.com/blog/what-is-virtual-queuing-and-how-does-it-work/) allow visitors to wait remotely or comfortably while receiving updates on their position in the queue.
 
 ### Can digital queue management work with visitor management systems?
 
