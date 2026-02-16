@@ -114,8 +114,6 @@ A digital visitor management system:
 
 This level of control is also an expectation for organizations working with clients, vendors, consultants, or auditors. Not optional.
 
-
-
 ## Why Visitor Management Systems Are Growing Rapidly in India
 
 The rise of the visitor management system in India is not based on trends; it is based on scale.
@@ -130,8 +128,6 @@ The rise of the visitor management system in India is not based on trends; it is
 Those manual reception processes, while acceptable for 20 visitors a day, cannot now cope at 200.
 
 Digital systems provide predictability where there was friction.
-
-
 
 ## What Changes for Reception Teams?
 
@@ -184,8 +180,6 @@ But the real value shows up in:
 * Stronger security posture
 
 These improvements compound over time.
-
-
 
 ## The Bottom Line
 
