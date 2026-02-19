@@ -206,9 +206,9 @@ With [Vizitor](https://www.vizitorapp.com/), you can:
 
 If your front desk still relies on paper logs, manual calls, or trust-based access, it’s time to upgrade.
 
-**Explore how Vizitor can help you fortify your workplace security, starting at the front desk.** [](https://www.vizitorapp.com/contact/)
+**[Explore how Vizitor can help you fortify your workplace security, starting at the front desk.](https://www.vizitorapp.com/contact/)** 
 
-**[B﻿OOK A DEMO](https://www.vizitorapp.com/contact/)**
+**[BOOK A DEMO](https://www.vizitorapp.com/contact/)**
 
 **[TRY FOR FREE](https://www.vizitorapp.com/pricing/)**
 
