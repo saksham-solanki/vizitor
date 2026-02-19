@@ -99,7 +99,7 @@ Not all visitor management systems are created equal. Here are the features that
 
 [E﻿xplore Visitor Management System](https://www.vizitorapp.com/visitor-management-system/)
 
-## [](https://www.vizitorapp.com/visitor-management-system/)4. Types of Visitor Management Systems
+## 4. Types of Visitor Management Systems
 
 Visitor management solutions come in different deployment models. The right choice depends on your organization’s size, security requirements, budget, and IT infrastructure.
 
