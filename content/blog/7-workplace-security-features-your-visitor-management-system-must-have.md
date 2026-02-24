@@ -142,8 +142,6 @@ If your current visitor management setup: paper, digital, or somewhere in betwee
 
 [TRY VIZITOR FOR FREE](https://www.vizitorapp.com/signup/)
 
-[](https://www.vizitorapp.com/signup/)
-
 ## Frequently Asked Questions
 
 ### What is workplace security in the context of visitor management?
