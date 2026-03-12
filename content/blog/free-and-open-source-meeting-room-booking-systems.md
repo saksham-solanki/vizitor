@@ -236,7 +236,7 @@ Vizitor is not open-source but offers a cloud-based SaaS model with enterprise-g
 
 Whether you're a startup seeking a lightweight solution like Roombelt or a large organization needing the power of Vizitor or SuperSaas, there’s a room booking system for every use case.
 
-Free and open-source options offer flexibility and control, but they may require more setup and ongoing management. On the other hand, platforms like Vizitor deliver plug-and-play convenience, real-time data, and secure scalability—ideal for future-ready workplaces.
+Free and open-source options offer flexibility and control, but they may require more setup and ongoing management. On the other hand, platforms like Vizitor deliver plug-and-play convenience, real-time data, and secure scalability -ideal for future-ready workplaces.
 
 Ditch manual scheduling, avoid double bookings, and streamline your office with the right tool.
 

@@ -253,7 +253,7 @@ The future of virtual reception is set to be shaped by cutting-edge technologies
 
 * **Enhanced Security:** Biometric authentication, such as fingerprint scanning, facial recognition, and retinal scanning, ensures that only authorized individuals gain access to the premises. This provides a higher level of security compared to traditional methods.
 
-* **Touchless Check-Ins:** With biometric systems, visitors can check in without physical contact, reducing the spread of germs—a crucial feature in a post-pandemic world.
+* **Touchless Check-Ins:** With biometric systems, visitors can check in without physical contact, reducing the spread of germs -a crucial feature in a post-pandemic world.
 
 * **Speed and Efficiency:** Biometric authentication speeds up the check-in process. For example, facial recognition can verify identities in seconds, reducing wait times and enhancing the visitor experience.
 

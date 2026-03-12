@@ -79,7 +79,7 @@ Vizitor offers a range of features that transform how businesses handle visitor 
 
 **1. Easy Check-In and Check-Out**
 
-With Vizitor, you can breeze through check-ins and check-outs using self-service kiosks or mobile apps. No more long waits or tedious paperwork—just a quick and smooth process that saves you time and hassle.
+With Vizitor, you can breeze through check-ins and check-outs using self-service kiosks or mobile apps. No more long waits or tedious paperwork -just a quick and smooth process that saves you time and hassle.
 
 **2. Top-Notch Security**
 
@@ -266,7 +266,7 @@ Visitor Management Systems are traditionally used in lobby settings to manage an
 
 
 
-With their versatility and ability to enhance security, streamline processes, and improve visitor experiences, Visitor management systems can be utilized in various industries and settings to meet specific needs and requirements. If you are planning to get a management system for your company premises, contact vizitor.— an efficient visitor management system provider for service and reliable performance. [Try For Free Today](https://www.vizitorapp.com/signup/)!
+With their versatility and ability to enhance security, streamline processes, and improve visitor experiences, Visitor management systems can be utilized in various industries and settings to meet specific needs and requirements. If you are planning to get a management system for your company premises, contact vizitor. - an efficient visitor management system provider for service and reliable performance. [Try For Free Today](https://www.vizitorapp.com/signup/)!
 
 ## Frequently Asked Questions
 

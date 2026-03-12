@@ -11,7 +11,7 @@ image: /images/blog/how-workplace-analytics-help-businesses-grow.png
 ---
 Have you ever wondered how some companies seem to have the perfect balance between employee productivity, office space efficiency, and overall business growth? 
 
-The answer lies in [workplace analytics](https://www.vizitorapp.com/visitor-analytics/) — a powerful tool that transforms raw data into actionable insights.
+The answer lies in [workplace analytics](https://www.vizitorapp.com/visitor-analytics/)  - a powerful tool that transforms raw data into actionable insights.
 
 
 
@@ -47,7 +47,7 @@ Workplace analytics refers to the collection and analysis of data from various w
 
 
 
-It involves [gathering data](https://www.vizitorapp.com/visitor-analytics/) from numerous touchpoints — like employee surveys, digital collaboration tools, office sensors, and communication patterns — to generate insights that drive smarter decisions.
+It involves [gathering data](https://www.vizitorapp.com/visitor-analytics/) from numerous touchpoints  - like employee surveys, digital collaboration tools, office sensors, and communication patterns  - to generate insights that drive smarter decisions.
 
 
 
@@ -349,6 +349,6 @@ Implementing workplace analytics is the first step towards creating a more effic
 
  With [Vizitor’s powerful analytics tools,](https://www.vizitorapp.com/features/) you can track space utilization, monitor visitor traffic, and enhance overall workplace management.
 
-Take the next step towards optimizing your office environment—Start using Vizitor today and experience the difference. Need assistance? Our team is here to guide you through every step of the process!
+Take the next step towards optimizing your office environment -Start using Vizitor today and experience the difference. Need assistance? Our team is here to guide you through every step of the process!
 
 **[Contact us](https://www.vizitorapp.com/contact/) now to schedule a [demo](https://www.vizitorapp.com/demo/) or learn more about how Vizitor’s analytics can transform your workplace operations!**

@@ -168,7 +168,7 @@ As technology continues to evolve, [smart office solutions](https://www.vizitora
 
 
 
-For instance, imagine being able to easily switch between working from home and the office, or having a desk that adjusts automatically to your height. These aren’t just futuristic ideas—they’re happening now.
+For instance, imagine being able to easily switch between working from home and the office, or having a desk that adjusts automatically to your height. These aren’t just futuristic ideas -they’re happening now.
 
 
 

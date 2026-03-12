@@ -133,7 +133,7 @@ Unauthorized visitors can pose a risk to workplace security, making it essential
 
 
 
-If someone arrives without proper authorization, the situation should be handled professionally—politely denying entry and explaining the reason. 
+If someone arrives without proper authorization, the situation should be handled professionally -politely denying entry and explaining the reason. 
 
 
 

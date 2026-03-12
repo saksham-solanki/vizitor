@@ -18,7 +18,7 @@ Traditionally, the reception area has been managed by human receptionists who ma
 
 As businesses evolve and the need for stringent security measures becomes paramount, organizations are turning to technological solutions to enhance their front desk operations.
 
- Use [digital reception software](https://www.vizitorapp.com/office-receptionist-software/)—a modern approach that automates visitor management, ensuring a seamless and secure experience for both visitors and employees.
+ Use [digital reception software](https://www.vizitorapp.com/office-receptionist-software/) -a modern approach that automates visitor management, ensuring a seamless and secure experience for both visitors and employees.
 
 Let’s explore how digital reception software strengthens workplace security and why every business should consider implementing it.
 
@@ -327,7 +327,7 @@ Businesses should:
 
 ## The Future of Workplace Security: Smarter, Safer, and More Efficient
 
-[Workplace security](https://www.vizitorapp.com/blog/workplace-security-and-access-control-with-vizitor/) is no longer just about locks and security guards—it’s about intelligent automation, seamless visitor management, and proactive threat prevention.
+[Workplace security](https://www.vizitorapp.com/blog/workplace-security-and-access-control-with-vizitor/) is no longer just about locks and security guards -it’s about intelligent automation, seamless visitor management, and proactive threat prevention.
 
  [Digital reception software](https://www.vizitorapp.com/office-receptionist-software/) has redefined how businesses protect their premises, employees, and sensitive data. 
 

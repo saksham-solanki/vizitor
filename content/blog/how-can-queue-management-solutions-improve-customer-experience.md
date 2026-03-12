@@ -116,7 +116,7 @@ Queue management systems are essential tools designed to enhance the efficiency 
 
 * When customers can see exactly how long they might wait or get notifications about their turn, it helps reduce their anxiety. 
 
-* For example, if a system shows that it will be 10 minutes until it’s their turn, customers can use that time more effectively—perhaps finishing a phone call or grabbing a coffee—rather than just standing around feeling impatient. This clear communication makes the wait feel shorter and less frustrating.
+* For example, if a system shows that it will be 10 minutes until it’s their turn, customers can use that time more effectively -perhaps finishing a phone call or grabbing a coffee -rather than just standing around feeling impatient. This clear communication makes the wait feel shorter and less frustrating.
 
 
 
@@ -209,7 +209,7 @@ Queue management systems are essential tools designed to enhance the efficiency 
 
 * Queue management systems change this by offering remote options, such as joining a queue via a mobile app or digital kiosk. For instance, customers can check in for a service or reserve a spot in line without having to physically wait in a crowded area. 
 
-* This means they can use their time more effectively—whether that’s shopping, working, or simply relaxing—while they wait. 
+* This means they can use their time more effectively -whether that’s shopping, working, or simply relaxing -while they wait. 
 
 * Reducing the need for physical waiting not only makes the experience more comfortable but also shows that the business values the customer’s time.
 
@@ -226,7 +226,7 @@ Queue management systems are essential tools designed to enhance the efficiency 
 
 **Loyalty**
 
-* Positive queue experiences are closely linked to customer loyalty. When customers have a good experience—such as minimal wait times, clear communication, and efficient service—they are more likely to return and recommend the business to others. 
+* Positive queue experiences are closely linked to customer loyalty. When customers have a good experience -such as minimal wait times, clear communication, and efficient service -they are more likely to return and recommend the business to others. 
 * Conversely, long waits and poor management can drive customers away. A queue management system that consistently delivers a positive experience can help build strong customer relationships.
 * For example, if a customer repeatedly finds that a business handles queues well and values their time, they are more likely to become a loyal customer. Building this kind of trust and reliability can lead to increased customer retention and a stronger reputation.
 

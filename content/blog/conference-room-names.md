@@ -11,7 +11,7 @@ authors:
 image: /images/blog/coolmeeting.png
 authorsImage: /images/authors/author.svg
 ---
-Conference room names are more than just labels—they set the tone for collaboration, creativity, and productivity in the workplace. A well-named meeting space can inspire employees, reinforce company culture, and make meetings more engaging.
+Conference room names are more than just labels -they set the tone for collaboration, creativity, and productivity in the workplace. A well-named meeting space can inspire employees, reinforce company culture, and make meetings more engaging.
 
 In this guide, we explore:
 
@@ -25,7 +25,7 @@ Let’s dive into how a simple name change can transform your meeting spaces.
 
 ## **What Makes a Great Conference Room Name?**
 
-You might not think much about it, but the names of your conference rooms can have a big impact on your workplace. A conference room name isn’t just a label—it’s a small detail that can affect team morale, productivity, and even creativity.
+You might not think much about it, but the names of your conference rooms can have a big impact on your workplace. A conference room name isn’t just a label -it’s a small detail that can affect team morale, productivity, and even creativity.
 
 Firstly, unique and engaging names for conference rooms can make the workplace more enjoyable. Imagine walking into a room called “The Innovation Hub” or “The Brainstorm Bay” instead of a generic “Meeting Room 1.” These creative names can lift the mood, making meetings feel less like a chore and more like an exciting opportunity.
 
@@ -140,7 +140,7 @@ Virtual meetings can also benefit from engaging names that set the right atmosph
 
 ## **Practical Tips to Make Conference Room Names More Impactful**
 
-Simply naming a room isn’t enough—here’s how to make the most of them:
+Simply naming a room isn’t enough -here’s how to make the most of them:
 
 ### **1. Use Clear Signage**
 
@@ -247,6 +247,6 @@ While conference room names don’t need to change frequently, businesses may co
 
 ## **Conclusion: Transform Your Workplace with Creative Conference Room Names**
 
-A well-chosen conference room name does more than just label a space—it fosters creativity, teamwork, and productivity. Whether you opt for a theme, inject humor, or align names with company culture, the right naming strategy can make meetings more engaging and effective.
+A well-chosen conference room name does more than just label a space -it fosters creativity, teamwork, and productivity. Whether you opt for a theme, inject humor, or align names with company culture, the right naming strategy can make meetings more engaging and effective.
 
 If you're looking to enhance office collaboration and optimize meeting spaces, start by renaming your conference rooms with creative, meaningful names. Small changes like this can have a lasting impact on workplace dynamics and team morale.

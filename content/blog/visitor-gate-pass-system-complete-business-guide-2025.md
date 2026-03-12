@@ -225,7 +225,7 @@ Vizitor’s pricing is flexible and transparent, you only pay for the features y
 
 ### 6. Real-Time Analytics & Reports
 
-Gain instant insights into visitor flow, busiest hours, repeat visitors, and compliance records—all from a single dashboard.
+Gain instant insights into visitor flow, busiest hours, repeat visitors, and compliance records -all from a single dashboard.
 
 ### 7. Trusted Worldwide
 

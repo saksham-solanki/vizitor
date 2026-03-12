@@ -13,7 +13,7 @@ In today’s fast-paced world, ensuring apartment security has become a signific
 
 So, how secure is your apartment building? Are you confident that unauthorized individuals can’t gain entry into your premises?
 
-A Visitor Management System (VMS) is the most effective solution to modern security concerns. It enhances security by keeping digital records of visitors, verifying identities in real-time, and restricting unauthorized access—all in a seamless, automated process.
+A Visitor Management System (VMS) is the most effective solution to modern security concerns. It enhances security by keeping digital records of visitors, verifying identities in real-time, and restricting unauthorized access -all in a seamless, automated process.
 
 ***So, what steps are you talking about your office security? How are you ensuring that your office is safe from an unauthorized visitor?***
 

@@ -41,7 +41,7 @@ A [Visitor Pass](https://www.vizitorapp.com/vizitor-pass/) Management System is 
 
 ### 1. Visitor Registration
 
-One of the primary features of a Visitor Gate Pass Management System is the ability to register visitors efficiently. When a visitor arrives, their details—such as name, contact information, purpose of visit, and the host they are visiting—are captured and stored in the system. This registration process often includes taking a photograph of the visitor and scanning their ID for verification. By digitizing this process, organizations can reduce wait times, minimize errors, and ensure that all necessary information is accurately recorded.
+One of the primary features of a Visitor Gate Pass Management System is the ability to register visitors efficiently. When a visitor arrives, their details -such as name, contact information, purpose of visit, and the host they are visiting -are captured and stored in the system. This registration process often includes taking a photograph of the visitor and scanning their ID for verification. By digitizing this process, organizations can reduce wait times, minimize errors, and ensure that all necessary information is accurately recorded.
 
 ### 2. Pre-Registration
 

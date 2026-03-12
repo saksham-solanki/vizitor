@@ -10,7 +10,7 @@ authors:
 image: /images/blog/work-safety.png
 authorsImage: /images/authors/author.svg
 ---
-Workplace security is the foundation of a safe and productive environment. With cyber threats and physical risks on the rise, businesses must implement comprehensive security strategies to protect employees, data, and assets. This guide explores the best practices in workplace security, covering everything from access control systems to cybersecurity awareness—ensuring a safe workplace for all.
+Workplace security is the foundation of a safe and productive environment. With cyber threats and physical risks on the rise, businesses must implement comprehensive security strategies to protect employees, data, and assets. This guide explores the best practices in workplace security, covering everything from access control systems to cybersecurity awareness -ensuring a safe workplace for all.
 
 ## What is Workplace Security & Why Does It Matter?
 

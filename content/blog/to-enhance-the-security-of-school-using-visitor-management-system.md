@@ -12,7 +12,7 @@ authorsImage: /images/authors/author.svg
 ---
 ### **School Security – A Growing Concern for Parents & Administrators**
 
-Ensuring school security is no longer optional—it’s a necessity. With rising threats such as unauthorized access, safety breaches, and health risks, schools must implement modern security solutions to safeguard students and staff.
+Ensuring school security is no longer optional -it’s a necessity. With rising threats such as unauthorized access, safety breaches, and health risks, schools must implement modern security solutions to safeguard students and staff.
 
 A Visitor Management System (VMS) offers a seamless way to track, verify, and manage visitors while preventing unauthorized access. From parent check-ins to monitoring staff and volunteers, a VMS is an essential tool for creating a safe learning environment.
 

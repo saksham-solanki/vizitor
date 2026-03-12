@@ -113,7 +113,7 @@ Organizers can send and [print custom invitations](https://www.adobe.com/express
 
 ## How Digital Check-Ins Help Event Organizers
 
-Digital check-ins aren’t just about providing convenience for attendees—they also provide valuable data for event organizers.
+Digital check-ins aren’t just about providing convenience for attendees -they also provide valuable data for event organizers.
 
  From tracking attendee demographics to measuring peak check-in times, the data collected from virtual check-ins helps improve future event planning. For example:
 

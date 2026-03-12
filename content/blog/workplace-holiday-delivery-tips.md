@@ -103,7 +103,7 @@ Generate detailed delivery reports to analyze latest trends and patterns to opti
 ## Upgrade Your Mailroom with Vizitor's Delivery Management System 
 
 **[Vizitor’s delivery management system](/delivery-management-system/)** is the perfect solution for organizations looking to modernize their mailroom processes.
-Implementing an automated Delivery Management System assures your employees that their holiday packages will arrive securely at the workplace and give them  worry-free workdays and lets your employees focus on what they do best—being productive.
+Implementing an automated Delivery Management System assures your employees that their holiday packages will arrive securely at the workplace and give them  worry-free workdays and lets your employees focus on what they do best -being productive.
 
 
 • Free up your front desk staff from the time consuming and tedious task of managing the flood of holiday packages.Let them greet their visitors and guests rather than spending time on managing deliveries.

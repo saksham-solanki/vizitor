@@ -613,7 +613,7 @@ Place kiosks in high-traffic areas where customers can easily access them withou
 
 
 
-So, as industries evolve and customer expectations continue to rise, [digital kiosks](https://www.vizitorapp.com/blog/guide-to-visitor-management-system-kiosk-based/) will only grow in their importance. The future is digital, and integrating kiosks into your operations is no longer a luxury—it’s a necessity for growth and customer satisfaction.
+So, as industries evolve and customer expectations continue to rise, [digital kiosks](https://www.vizitorapp.com/blog/guide-to-visitor-management-system-kiosk-based/) will only grow in their importance. The future is digital, and integrating kiosks into your operations is no longer a luxury -it’s a necessity for growth and customer satisfaction.
 
 
 

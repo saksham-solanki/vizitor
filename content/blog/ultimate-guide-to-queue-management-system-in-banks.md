@@ -13,7 +13,7 @@ image: /images/blog/group-1-2-.png
 
 To solve this, leading banks are adopting [Queue Management Systems (QMS)](https://www.vizitorapp.com/queue-management-system/)a digital solution that automates queue handling, reduces wait times, and enhances customer experience. By streamlining queue flow, banks can increase efficiency, enhance security, and eliminate overcrowding.
 
-In an industry where every second counts, offering a frictionless banking experience is no longer optional—it’s essential.
+In an industry where every second counts, offering a frictionless banking experience is no longer optional -it’s essential.
 
 ### **Is Your Bank Facing These Challenges?**
 
@@ -78,9 +78,9 @@ Impact: Overcrowding leads to poor customer experiences and employees stress, wh
 
 These statistics show how important it is for banks to reduce wait times. They should also provide a good experience for their customers.
 
-### **Your Customers Won’t Wait—Why Should You?**
+### **Your Customers Won’t Wait -Why Should You?**
 
-Long queues don’t just frustrate customers—they cost your bank valuable business.
+Long queues don’t just frustrate customers -they cost your bank valuable business.
 
 1. **50% of customers leave** due to long wait times.
 2. **Overcrowding creates security and compliance risks.**

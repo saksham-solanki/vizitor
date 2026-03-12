@@ -164,7 +164,7 @@ While traditional queue managers using physical posts and ropes have long been a
 ![Virtual Queuing](/images/blog/10-12.png)
 
 **Queue managers:** might seem simple, but they're powerful tools  of business transformation.
-They don't just manage lines—they manage expectations, emotions, and entire customer journeys.
+They don't just manage lines -they manage expectations, emotions, and entire customer journeys.
 
 **Are you ready to turn waiting time into winning time?**
 

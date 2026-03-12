@@ -1,0 +1,85 @@
+<!-- ROI Impact Metrics Section -->
+<div class="vz-metrics">
+    <div class="container">
+        <div class="vz-metrics__grid">
+            <div class="vz-metrics__item vz-reveal">
+                <span class="vz-metrics__number" data-count-to="80" data-count-suffix="%">0%</span>
+                <span class="vz-metrics__label">Faster Check-ins</span>
+                <span class="vz-metrics__context">vs. paper logbooks</span>
+            </div>
+            <div class="vz-metrics__divider"></div>
+            <div class="vz-metrics__item vz-reveal vz-reveal-delay-1">
+                <span class="vz-metrics__number" data-count-to="5" data-count-suffix=" min">0 min</span>
+                <span class="vz-metrics__label">Setup Time</span>
+                <span class="vz-metrics__context">No hardware needed</span>
+            </div>
+            <div class="vz-metrics__divider"></div>
+            <div class="vz-metrics__item vz-reveal vz-reveal-delay-2">
+                <span class="vz-metrics__number" data-count-to="100" data-count-suffix="%">0%</span>
+                <span class="vz-metrics__label">Digital Records</span>
+                <span class="vz-metrics__context">Audit-ready compliance</span>
+            </div>
+            <div class="vz-metrics__divider"></div>
+            <div class="vz-metrics__item vz-reveal vz-reveal-delay-3">
+                <span class="vz-metrics__number-static">1/5th</span>
+                <span class="vz-metrics__label">The Cost</span>
+                <span class="vz-metrics__context">vs. Envoy & enterprise tools</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .vz-metrics {
+        padding: 40px 0;
+        background: var(--vz-bg-alt);
+        border-bottom: 1px solid var(--vz-border);
+    }
+    .vz-metrics__grid {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .vz-metrics__item {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 8px 16px;
+    }
+    .vz-metrics__number,
+    .vz-metrics__number-static {
+        font-family: var(--vz-font-display);
+        font-size: 36px;
+        font-weight: 800;
+        color: var(--vz-navy);
+        letter-spacing: -0.03em;
+        line-height: 1;
+    }
+    .vz-metrics__label {
+        font-family: var(--vz-font-display);
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--vz-navy);
+        margin-top: 6px;
+    }
+    .vz-metrics__context {
+        font-size: 12px;
+        color: var(--vz-muted);
+        margin-top: 2px;
+    }
+    .vz-metrics__divider {
+        width: 1px;
+        height: 56px;
+        background: var(--vz-border);
+        flex-shrink: 0;
+    }
+    @media (max-width: 767px) {
+        .vz-metrics { padding: 32px 0; }
+        .vz-metrics__grid { flex-wrap: wrap; }
+        .vz-metrics__item { flex: 0 0 50%; padding: 12px 8px; }
+        .vz-metrics__divider { display: none; }
+        .vz-metrics__number, .vz-metrics__number-static { font-size: 28px; }
+    }
+</style>

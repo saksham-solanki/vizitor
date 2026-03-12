@@ -17,13 +17,13 @@ Of course, the same scenarios……
 
 The lines are long, the staff is struggling to keep up, and customers are visibly frustrated. You glance at the clock, wondering if you’ll even have time to grab your meal before heading back to work. 
 
-Now, imagine the same restaurant with [self-service kiosks](https://www.vizitorapp.com/blog/how-to-reduce-queue-times-with-self-service-kiosks/), [digital queue apps](https://www.vizitorapp.com/blog/what-is-virtual-queuing-and-how-does-it-work/), and real-time order tracking. Suddenly, the chaos disappears—lines move faster, orders are accurate, and customers leave with smiles.
+Now, imagine the same restaurant with [self-service kiosks](https://www.vizitorapp.com/blog/how-to-reduce-queue-times-with-self-service-kiosks/), [digital queue apps](https://www.vizitorapp.com/blog/what-is-virtual-queuing-and-how-does-it-work/), and real-time order tracking. Suddenly, the chaos disappears -lines move faster, orders are accurate, and customers leave with smiles.
 
 This highlights how adopting the right tools can transform the Quick Serve Restaurant (QSR) experience for both customers and staff.
 
 
 
-In the fast-paced world of Quick Serve Restaurants (QSRs), where every second counts, using digital technology is no longer optional—it’s essential.
+In the fast-paced world of Quick Serve Restaurants (QSRs), where every second counts, using digital technology is no longer optional -it’s essential.
 
 
 
@@ -376,7 +376,7 @@ This system not only [streamlines operations](https://www.vizitorapp.com/blog/st
 
 
 
-Technology tools like queue management systems, self-service kiosks, and digital signage are no longer optional for Quick Serve Restaurants—they’re essential for staying competitive. 
+Technology tools like queue management systems, self-service kiosks, and digital signage are no longer optional for Quick Serve Restaurants -they’re essential for staying competitive. 
 
 
 
@@ -488,7 +488,7 @@ So, the future of Quick Serve restaurants lies in the ability to adapt swiftly t
 
 
 
-Don’t wait for the future to arrive—create it. With the right tools, your restaurant can rise to meet new challenges, delight your customers, and ensure long-term growth in the competitive world of quick service dining. 
+Don’t wait for the future to arrive -create it. With the right tools, your restaurant can rise to meet new challenges, delight your customers, and ensure long-term growth in the competitive world of quick service dining. 
 
 
 

@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-**Meeting room booking systems** are what they sound like — tools for reserving conference rooms and other shared spaces within an office or coworking space. These systems help ensure that meeting organisers and attendees can secure meeting space and the accessories or accommodations they need for their meetings. Many users use meeting room booking systems to plan and schedule one-on-ones,confidential meetings, and other important announcements. Some booking systems provide digital signage features to display outside of conference rooms. 
+**Meeting room booking systems** are what they sound like  - tools for reserving conference rooms and other shared spaces within an office or coworking space. These systems help ensure that meeting organisers and attendees can secure meeting space and the accessories or accommodations they need for their meetings. Many users use meeting room booking systems to plan and schedule one-on-ones,confidential meetings, and other important announcements. Some booking systems provide digital signage features to display outside of conference rooms. 
 
 
 ## The Meeting Room Booking Challenge

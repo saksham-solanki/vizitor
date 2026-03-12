@@ -11,7 +11,7 @@ image: /images/blog/what-is-regulatory-compliance.png
 ---
 In today's digital workplace environment, ensuring a [safe and secure workplace](https://www.vizitorapp.com/blog/compliance-management-top-10-must-have-features/) is more important than ever. 
 
-Organizations are required to follow various laws and standards—a practice known as [regulatory compliance](https://www.vizitorapp.com/blog/4-common-compliance-standards-businesses-should-know-about/)—to protect their employees, visitors, and assets. Failing to meet these regulations can lead to severe consequences, including hefty fines, damage to reputation, and legal issues.
+Organizations are required to follow various laws and standards -a practice known as [regulatory compliance](https://www.vizitorapp.com/blog/4-common-compliance-standards-businesses-should-know-about/) -to protect their employees, visitors, and assets. Failing to meet these regulations can lead to severe consequences, including hefty fines, damage to reputation, and legal issues.
 
 
 

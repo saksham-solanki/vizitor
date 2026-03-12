@@ -137,7 +137,7 @@ The more a system integrates with your team’s existing tools, the smoother the
 
 ## 6. Provides Detailed Analytics and Usage Reports
 
-Great conference room scheduling system  doesn't just book rooms—it also provides insights into how the spaces are being used. 
+Great conference room scheduling system  doesn't just book rooms -it also provides insights into how the spaces are being used. 
 
 
 

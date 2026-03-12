@@ -164,6 +164,6 @@ Experience the future of equipment management with Vizitor.
 
 Virtual equipment booking software is shaping the modern workplace by optimizing resource utilization, enhancing collaboration, and reducing operational costs. As businesses continue to adapt to hybrid models and dynamic environments, tools like Vizitor provide the flexibility and efficiency required for success.
 
-**Don’t wait—invest in smarter equipment management today with Vizitor!**
+**Don’t wait -invest in smarter equipment management today with Vizitor!**
 
 [![save](/images/blog/premium-save.svg)](/demo)

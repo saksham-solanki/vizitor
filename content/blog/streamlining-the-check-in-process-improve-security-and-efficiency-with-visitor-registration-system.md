@@ -170,7 +170,7 @@ Yes. Most modern systems, like Vizitor, use cloud-based encryption, secure data 
 
 ### **Q3. Can visitors check in using their phones?**
 
-Absolutely! Visitors can scan a QR code, use pre-registration links, or receive digital invites to complete check-in via their smartphones—making the process completely touch-free and efficient.
+Absolutely! Visitors can scan a QR code, use pre-registration links, or receive digital invites to complete check-in via their smartphones -making the process completely touch-free and efficient.
 
 ### **Q4. How does a VMS help with workplace safety?**
 
@@ -188,7 +188,7 @@ Yes! Visitor Registration Systems like Vizitor are **scalable and affordable**, 
 
 ### **Q6. Does it support compliance and audits?**
 
-Definitely. A digital VMS maintains **detailed logs of all entries and exits**, timestamps, visitor declarations, and health screenings—making compliance reporting quick and effortless.
+Definitely. A digital VMS maintains **detailed logs of all entries and exits**, timestamps, visitor declarations, and health screenings -making compliance reporting quick and effortless.
 
 ### **Q7. What hardware do I need to run a VMS?**
 

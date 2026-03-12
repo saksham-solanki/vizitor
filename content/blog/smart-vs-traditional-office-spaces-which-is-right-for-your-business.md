@@ -43,7 +43,7 @@ Let’s break it down and see how both options compare across several key areas.
 
 ## 1. Traditional Office Spaces: Stability but Limited Flexibility
 
-A traditional office space is what most people are familiar with—think private offices, cubicles, and fixed layouts. These spaces usually come with basic infrastructure like desks, chairs, and shared common areas.
+A traditional office space is what most people are familiar with -think private offices, cubicles, and fixed layouts. These spaces usually come with basic infrastructure like desks, chairs, and shared common areas.
 
 ### ✓Fixed Layouts, Inefficient Use of Space
 
@@ -81,7 +81,7 @@ This inefficiency has led to a growing concern about office space overheads, esp
 
 ## 2. Smart Office Spaces : Modern, Efficient and Dynamic Workspaces
 
-A [smart office](https://www.vizitorapp.com/blog/top-4-workplace-design-tips-for-your-business-success/) use smart and digital technology solutions to enhance the workplace experience. These offices are flexible, adaptive, and connected—offering a more dynamic environment that evolves with the needs of the business.
+A [smart office](https://www.vizitorapp.com/blog/top-4-workplace-design-tips-for-your-business-success/) use smart and digital technology solutions to enhance the workplace experience. These offices are flexible, adaptive, and connected -offering a more dynamic environment that evolves with the needs of the business.
 
 ### ✓Provides Real-Time Space Utilization
 

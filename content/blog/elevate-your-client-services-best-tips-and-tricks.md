@@ -188,13 +188,13 @@ Vizitor helps businesses streamline client relationships by offering a seamless 
 
 With [digital check-ins](https://www.vizitorapp.com/visitor-check-in-systems/), automated notifications, and secure access, it ensures a smooth, efficient, and professional client experience from arrival to departure. 
 
-Simplify scheduling, enhance security, and personalize visits—all in one platform!
+Simplify scheduling, enhance security, and personalize visits -all in one platform!
 
 
 
 ## Final Thoughts: Are You Ready to Elevate Your Client Services?
 
-Client experience isn't just about greeting visitors with a smile—it's about ensuring every interaction is seamless, efficient, and memorable.
+Client experience isn't just about greeting visitors with a smile -it's about ensuring every interaction is seamless, efficient, and memorable.
 
 
 

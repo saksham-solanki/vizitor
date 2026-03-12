@@ -12,7 +12,7 @@ We are living in a converging world where the digital revolution in offices is m
 
 ## Virtual Receptionist Services
 
-Every day you need to answer thousands of calls, so you require full time receptionist. The **[MyOperator ](https://myoperator.com/virtual-receptionist)**is the best solution for you.Virtual receptionist is a cloud based IVR system which routes all the customer calls to the right department. It stays available to your customers 24*7 and hence caters to the needs of the customers even after office hours.They also aren’t traditional call centers — they have specialized knowledge about your company.
+Every day you need to answer thousands of calls, so you require full time receptionist. The **[MyOperator ](https://myoperator.com/virtual-receptionist)**is the best solution for you.Virtual receptionist is a cloud based IVR system which routes all the customer calls to the right department. It stays available to your customers 24*7 and hence caters to the needs of the customers even after office hours.They also aren’t traditional call centers  - they have specialized knowledge about your company.
 
 ## Tablet Based Kiosks
 

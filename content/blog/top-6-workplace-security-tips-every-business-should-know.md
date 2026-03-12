@@ -38,7 +38,7 @@ Let’s ensure your workplace becomes a safe haven for productivity and growth:
 
 ## 1.Establish Strong Visitor Management Policies
 
-[Visitors](https://www.vizitorapp.com/faq/)—whether vendors, contractors, or clients—pose a unique security challenge. Managing their access with outdated sign-in sheets can lead to errors and loopholes.
+[Visitors](https://www.vizitorapp.com/faq/) -whether vendors, contractors, or clients -pose a unique security challenge. Managing their access with outdated sign-in sheets can lead to errors and loopholes.
 
 Effective visitor management is critical for maintaining workplace security.A robust [visitor management policy](https://www.vizitorapp.com/blog/workplace-visitor-policy/) helps you monitor, control, and secure their presence within your facility, minimizing potential threats.
 
@@ -83,7 +83,7 @@ Knowing who is on your premises at any given time is a cornerstone of workplace 
 
 Without proper monitoring, your workplace becomes vulnerable to unauthorized access, compliance violations, and potential security breaches.
 
- By maintaining a real-time record of everyone on-site—employees, visitors, contractors, or vendors—you can enhance safety and accountability.
+ By maintaining a real-time record of everyone on-site -employees, visitors, contractors, or vendors -you can enhance safety and accountability.
 
 ### How to Monitor On-Site Presence Effectively
 

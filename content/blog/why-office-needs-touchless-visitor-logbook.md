@@ -25,7 +25,7 @@ Paper-based visitor logs are not only cumbersome to maintain but also prone to e
 
 Embracing touchless technology in your workplace offers a myriad of benefits. Along with minimizing physical contact and reducing the risk of spreading germs and viruses it also enhances the overall visitor experience by eliminating the need for manual paperwork and long wait times.  Let's look into a few more reasons below:
 
-**1. Safer Environment:** Touchless tech means less touching, which lowers the risk of spreading germs like viruses. This is super important nowadays because businesses want to keep everyone—employees, visitors, and customers—healthy.
+**1. Safer Environment:** Touchless tech means less touching, which lowers the risk of spreading germs like viruses. This is super important nowadays because businesses want to keep everyone -employees, visitors, and customers -healthy.
 
 **2. Faster and Smoother:** With touchless systems, checking in visitors happens automatically without filling out papers or waiting in long lines. This makes things quicker and more enjoyable for visitors and lets employees focus on important work instead of paperwork.
 

@@ -12,7 +12,7 @@ image: /images/blog/what-is-a-ticketing-kiosk-guide.png
 ---
 Imagine you’re at a busy railway station with a long queue at the ticket counter. You’re running short on time and need a quick solution. 
 
-In moments like these, a self-service ticketing system—where you can quickly buy your ticket, choose your seat, and pay without waiting—feels like a lifesaver.
+In moments like these, a self-service ticketing system -where you can quickly buy your ticket, choose your seat, and pay without waiting -feels like a lifesaver.
 
 
 
@@ -88,7 +88,7 @@ Indian Railways has installed thousands of ticket vending machines or ticket dis
 
 ### Entertainment Venues:
 
-Ticket kiosk systems in movie theaters and entertainment venues provide customers with an easy way to buy tickets, select seats, and make payments—all without waiting in long queues. 
+Ticket kiosk systems in movie theaters and entertainment venues provide customers with an easy way to buy tickets, select seats, and make payments -all without waiting in long queues. 
 
 
 

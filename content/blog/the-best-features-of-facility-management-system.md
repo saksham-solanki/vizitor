@@ -180,7 +180,7 @@ Additionally, platforms focusing on work orders, space optimization, and mainten
 
 ## Conclusion
 
-Facility management software is no longer optional—it’s a necessity for businesses aiming to streamline operations, save costs, and enhance productivity. With the right facility management software features, your organization can optimize spaces, manage assets effectively, and stay ahead of the curve.
+Facility management software is no longer optional -it’s a necessity for businesses aiming to streamline operations, save costs, and enhance productivity. With the right facility management software features, your organization can optimize spaces, manage assets effectively, and stay ahead of the curve.
 
 Whether you’re exploring advanced platforms or lighter SaaS options, facility management tools can revolutionize how you manage your business. Start your journey today and unlock the potential of your facilities.
 

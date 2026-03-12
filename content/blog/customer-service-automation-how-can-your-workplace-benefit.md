@@ -76,7 +76,7 @@ Customers don’t operate on business hours, and neither should your support tea
 
 ## Why Customer Service Automation Matters
 
-Customer Service Automation is no longer a luxury—it’s a necessity. It saves time, reduces costs, and delivers the seamless experiences that modern customers expect.
+Customer Service Automation is no longer a luxury -it’s a necessity. It saves time, reduces costs, and delivers the seamless experiences that modern customers expect.
 
 By combining cx automation with your existing robust [Queue Management System](https://www.vizitorapp.com/queue-management-system/), businesses can achieve:
 
@@ -286,7 +286,7 @@ Service Automation tools  not only reduces common workplace challenges but also
 
 
 
-Don’t wait—start automating today and see the difference it makes for your customers and your business!
+Don’t wait -start automating today and see the difference it makes for your customers and your business!
 
 
 

@@ -41,7 +41,7 @@ It might surprise you to learn that 25% of all emissions come from residential s
 
 • One of the biggest movements in the beauty industry is developing better green technology for packaging. Some of these changes include using biodegradable materials, using less plastic.
 
-• Be wise when choosing products for your salon — there are products out there that support your business in doing the right thing.
+• Be wise when choosing products for your salon  - there are products out there that support your business in doing the right thing.
 
 ![](https://lh6.googleusercontent.com/gZqgUyYPSCgtGgv-FOsb19vbRcC-9uohkS_yBpbENnSbpfKlOjLGehD4nisXg8u0GxKOab-IE8xg4VODico2i8nAivOop_y_y-lzG8jTAdJZNHBarI3X7tfDw_GJrDRj-8I7CbQB)
 Salons have a certain fragrance. No surprise, since nearly 5000 chemicals are listed as products for hair care, including 3300 synthetic compounds.   Beyond the shampoo and conditioner, there are hair dyes, oils, propellants, and various sprays to keep hair in place. This is the main reason for Air Pollution.

@@ -123,7 +123,7 @@ In addition to the management of visitors and guests, Visitor Management App off
 Visitor Management App is one of the best visitor management solutions for the organizations which wants to increase their overall productivity and security. Its main aim is  to efficiently process and track all visitors. It is not  just only a visitor management application but a complete featured solution.
 
 
-### Advanced digital signing-in and  managing visitors  using mobile app— really make a difference
+### Advanced digital signing-in and  managing visitors  using mobile app - really make a difference
 
 • Offers a straightforward and quick identification of guests 
 
@@ -137,7 +137,7 @@ Visitor Management App is one of the best visitor management solutions for the o
 
 • Pre-registering effectively reduces screening and check-in times
 
-### Advanced Security App — ensured workplace safety 
+### Advanced Security App  - ensured workplace safety 
 
 • Instantly notifies about any unrecognized person trying to stroll your premises
 
@@ -165,7 +165,7 @@ environment for students.
 
 ![One App](/images/blog/16jan23-7.png)
 
-### Looking for a Comprehensive result — just go for a Convenient Visitor Management App like Vizitor 
+### Looking for a Comprehensive result  - just go for a Convenient Visitor Management App like Vizitor 
 
 • Present a more creative and personalized brand image installing mobile android App-Vizitor.
 
@@ -175,7 +175,7 @@ environment for students.
 
 • It prioritizes your company security and guest safety at its top 
 
-• It is an all-in-one solution to establish professionalism at your front desk—which really matters.
+• It is an all-in-one solution to establish professionalism at your front desk -which really matters.
 
 • Installing an android Visitor Tracking App is the provident and economical  solution for faster and best service and work well with low cost.
 

@@ -253,7 +253,7 @@ Choosing the right **Business Management System** can significantly improve effi
 
 For businesses seeking a **comprehensive and cost-effective visitor management system**, Vizitor is an excellent choice. Contact us today for a free trial.
 
-Investing in a Business Management System is no longer optional—it’s essential for staying competitive. Whether you choose[ **Vizitor**](https://www.vizitorapp.com/) for visitor management or **Odoo** for its all-in-one ERP capabilities, these tools can help businesses operate smarter, save costs, and create a more efficient work environment.
+Investing in a Business Management System is no longer optional -it’s essential for staying competitive. Whether you choose[ **Vizitor**](https://www.vizitorapp.com/) for visitor management or **Odoo** for its all-in-one ERP capabilities, these tools can help businesses operate smarter, save costs, and create a more efficient work environment.
 
 **Need help finding the perfect BMS for your business?[ Let’s discuss how we can help!](https://www.vizitorapp.com/signup/)**
 

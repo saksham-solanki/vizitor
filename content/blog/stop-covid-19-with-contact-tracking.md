@@ -22,7 +22,7 @@ The businesses are able to resume, which has come with new challenges and includ
 
 ## Manage the wave of COVID-19 with the contact tracing system
 
-- The Indian government Searches for ways to exit lockdown and manage the wave of COVID-19 cases. In April, the Indian government used technology for a COVID-19 and released its contact tracing app, called **Aarogya Setu — “a bridge to health**”became the world’s fastest app to cross 50 million downloads when it achieved the feat in a fortnight.
+- The Indian government Searches for ways to exit lockdown and manage the wave of COVID-19 cases. In April, the Indian government used technology for a COVID-19 and released its contact tracing app, called **Aarogya Setu  - “a bridge to health**”became the world’s fastest app to cross 50 million downloads when it achieved the feat in a fortnight.
 - During my research, I came across two big tech rivals [**Google And Apple**](https://www.geospatialworld.net/blogs/google-apple-contact-tracing/)joined hands to developcontact tracing to their mobile operating systems as well.
 
 - The Indian government announced on Friday that all workers, both in the public and private sectors, are required to install the nation's[**COVID-19 contact tracing app**](https://www.zdnet.com/article/india-orders-mandatory-use-of-covid-19-contact-tracing-app-for-all-workers/)

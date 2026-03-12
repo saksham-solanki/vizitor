@@ -47,7 +47,7 @@ Data privacy laws, like GDPR, require something called data minimisation.
 
 *“Personal data must be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed.”*
 
-                                                                                                    — GDPR, Article 5, 1(c)
+                                                                                                     - GDPR, Article 5, 1(c)
 
 ## Start a free Plan
 

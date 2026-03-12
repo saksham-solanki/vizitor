@@ -208,7 +208,7 @@ The Vizitor Smart Meeting Room Booking System ensures your spaces are managed ef
 
 ### 6. Predictive Analytics: Planning for the Future
 
-Advanced meeting room analytics doesn’t just look at past data—it uses machine learning to predict future needs:
+Advanced meeting room analytics doesn’t just look at past data -it uses machine learning to predict future needs:
 
 
 
@@ -219,7 +219,7 @@ Advanced meeting room analytics doesn’t just look at past data—it uses machi
 
 ## Key Benefits of Using Smart Meeting Room Analytics for Office Space
 
-Smart meeting room analytics isn’t just about booking rooms—it’s about creating a more efficient, productive, and cost-effective office environment. 
+Smart meeting room analytics isn’t just about booking rooms -it’s about creating a more efficient, productive, and cost-effective office environment. 
 
 
 
@@ -299,7 +299,7 @@ After implementing an automated meeting room system that required attendees to c
 
 ### 5. Improve Energy Efficiency
 
-Unused meeting rooms mean unnecessary energy consumption—lights, air conditioning, and heating systems remain on even when rooms are vacant. 
+Unused meeting rooms mean unnecessary energy consumption -lights, air conditioning, and heating systems remain on even when rooms are vacant. 
 
 
 

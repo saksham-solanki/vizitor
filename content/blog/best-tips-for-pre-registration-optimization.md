@@ -21,7 +21,7 @@ In this blog post, we'll explore some proven tips to optimize your pre-registrat
 Pre-registration allows you to plan and organize your participation in advance, making it easier to manage your schedule, appointments, or bookings, and ensuring a smooth experience without last-minute hassles.
 But,some think pre registration is critical only for healthcare services. Still,it can be useful for a wide range of visitors, including event enthusiasts, deal seekers and others depending on the specific opportunities aavailable. No doubt, businesses can ensure more versatility and efficiency at their workplaces by just adopting similar yet powerful pre-registration process.
 If you are not currently implementing it, then you must think once again.
-There are numerous benefits pre-registration offers not only to specific individuals but it also reap various industries such as engineering, hospitals etc. with rich and enhanced benefits.Some of them are as—
+There are numerous benefits pre-registration offers not only to specific individuals but it also reap various industries such as engineering, hospitals etc. with rich and enhanced benefits.Some of them are as -
 
 ### Providing Information in advance 
 

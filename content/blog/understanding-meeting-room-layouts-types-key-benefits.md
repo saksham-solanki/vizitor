@@ -19,7 +19,7 @@ The [design of a meeting room](https://www.vizitorapp.com/blog/meeting-room-desi
 
 
 
-The right setup ensures clear communication, encourages interaction, and aligns perfectly with the meeting’s purpose—whether it's a brainstorming session, a training workshop, or an important client presentation.
+The right setup ensures clear communication, encourages interaction, and aligns perfectly with the meeting’s purpose -whether it's a brainstorming session, a training workshop, or an important client presentation.
 
 
 
@@ -57,7 +57,7 @@ However, choosing the right layout depends on the meeting’s objective, the num
 
 ## What should you look for while selecting the right Meeting Room layout? 
 
-Selecting the [ideal meeting room layout](https://www.vizitorapp.com/blog/meeting-room-design/) isn’t just about aesthetics—it directly impacts engagement, communication, and productivity. 
+Selecting the [ideal meeting room layout](https://www.vizitorapp.com/blog/meeting-room-design/) isn’t just about aesthetics -it directly impacts engagement, communication, and productivity. 
 
 
 

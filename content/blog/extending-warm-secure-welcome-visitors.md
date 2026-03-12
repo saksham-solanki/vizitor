@@ -15,7 +15,7 @@ The pandemic has taken a toll on people's emotional well-being. So, a warm and w
 
 Some customers prefer a welcoming atmosphere that is warm and secure. So simply greet them with a smart visitor management system to relieve them of stressful paperwork, and explain why they’ve come and what they require from you.
 
-**Some effective ways to welcome the visitors warmly and securely—**
+**Some effective ways to welcome the visitors warmly and securely -**
 
 ## 1. Greet them warmly 
 

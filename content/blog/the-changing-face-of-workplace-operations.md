@@ -19,7 +19,7 @@ Many organisations and businesses are facing the financial impact due to the glo
 
 In the past, many organizations relied on paper-based visitor management systems to track guest entries and exits. While these methods were once adequate, they now fall short in terms of efficiency, security, and safety, especially in a world where contactless interactions are a necessity. The pandemic has forced businesses to rethink their entire approach to visitor management, from the moment a visitor arrives at the premises to the time they leave. The shift from manual systems to automated, digital solutions has never been more crucial.
 
-The need for a robust, scalable, and secure visitor management system has led to the rise of Touchless Visitor Management Systems like Vizitor. This system integrates seamlessly into your workplace operations, ensuring that visitors can check-in safely, securely, and efficiently—without the need for physical contact with reception staff or shared devices. Let's take a closer look at some of the key features of a modern visitor management system that can help safeguard your workplace.
+The need for a robust, scalable, and secure visitor management system has led to the rise of Touchless Visitor Management Systems like Vizitor. This system integrates seamlessly into your workplace operations, ensuring that visitors can check-in safely, securely, and efficiently -without the need for physical contact with reception staff or shared devices. Let's take a closer look at some of the key features of a modern visitor management system that can help safeguard your workplace.
 
 
 Here are some of the main features  in  Visitor Management solution which will protect  your workplace:

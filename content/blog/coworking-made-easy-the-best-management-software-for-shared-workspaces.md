@@ -199,7 +199,7 @@ Customize workflows and processes to align perfectly with the unique culture and
 
 ### Why Vizitor Is the Future of Coworking Spaces
 
-Adopting Vizitor’s Touchless Visitor Management System is more than just a tech upgrade—it’s an investment in safety, efficiency, and exceptional experiences. It positions your coworking space as forward-thinking, ensuring you stand out in a competitive market.
+Adopting Vizitor’s Touchless Visitor Management System is more than just a tech upgrade -it’s an investment in safety, efficiency, and exceptional experiences. It positions your coworking space as forward-thinking, ensuring you stand out in a competitive market.
 
 #### **Ready to take your coworking space to the next level?**
 

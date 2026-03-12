@@ -21,7 +21,7 @@ Sounds like chaos, doesn't it?
 
 
 
-This is the reality of many workplaces that still rely on manual processes. In today’s digital business world, automation is no longer a luxury—it’s a necessity.
+This is the reality of many workplaces that still rely on manual processes. In today’s digital business world, automation is no longer a luxury -it’s a necessity.
 
  Companies that fail to adapt are losing valuable time, resources, and [productivity](https://www.vizitorapp.com/blog/customer-service-automation-how-can-your-workplace-benefit/).
 
@@ -41,7 +41,7 @@ But where should you start?
 
 To create a highly efficient, secure, and seamless workplace, the best approach is to automate key operational processes. 
 
-Below, we’ll explore the five most critical workplace processes that should be automated—and how [Vizitor’s smart workplace solutions](https://www.vizitorapp.com/) can help.
+Below, we’ll explore the five most critical workplace processes that should be automated -and how [Vizitor’s smart workplace solutions](https://www.vizitorapp.com/) can help.
 
 
 
@@ -99,7 +99,7 @@ A leading IT company in India switched from manual visitor logs to an automated 
 
 ## 2. Employee Attendance & Check-In process 
 
-Let’s face it—manual attendance tracking is a nightmare. HR teams waste hours on attendance records, employees forget to sign in, and errors in payroll calculations are common.
+Let’s face it -manual attendance tracking is a nightmare. HR teams waste hours on attendance records, employees forget to sign in, and errors in payroll calculations are common.
 
 
 

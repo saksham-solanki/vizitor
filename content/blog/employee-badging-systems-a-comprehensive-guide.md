@@ -104,7 +104,7 @@ It’s useful for attendance, visitor tracking, and incident response.
 
 ### **4. Emergency Response Support**
 
-During fire drills or evacuations, the system instantly shows who’s still in the building — making safety management faster and more accurate.
+During fire drills or evacuations, the system instantly shows who’s still in the building  - making safety management faster and more accurate.
 
 ### **5. Reduced Costs on Security Operations**
 

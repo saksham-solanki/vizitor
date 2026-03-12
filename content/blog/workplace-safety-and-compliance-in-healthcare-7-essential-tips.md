@@ -17,7 +17,7 @@ In the demanding environment of healthcare, the safety and well-being of both pa
 
 
 
-From unauthorized visitors wandering into restricted areas to violent outbursts in emergency rooms, the risks are real and growing. And it’s not just external threats—poor compliance with safety regulations can lead to legal consequences, data breaches, and operational shutdowns.
+From unauthorized visitors wandering into restricted areas to violent outbursts in emergency rooms, the risks are real and growing. And it’s not just external threats -poor compliance with safety regulations can lead to legal consequences, data breaches, and operational shutdowns.
 
 
 
@@ -29,7 +29,7 @@ The key lies in proactive security measures, a [robust visitor management system
 
 
 
- In Melbourne, public hospitals reported over 680 "code black" incidents—situations involving violent or armed threats—in a single financial year, averaging one every 12.8 hours.
+ In Melbourne, public hospitals reported over 680 "code black" incidents -situations involving violent or armed threats -in a single financial year, averaging one every 12.8 hours.
 
 These alarming statistics underscore the urgent need for comprehensive safety and compliance strategies in healthcare settings. 
 
@@ -253,7 +253,7 @@ This is where [Vizitor's Visitor Management System (VMS)](https://www.vizitorapp
 
 ### 1. Digital Visitor Check-In & Pre-Registration
 
-🔹 Say goodbye to outdated manual logbooks—[Vizitor](https://www.vizitorapp.com/) provides a contactless, digital check-in system for patients, visitors, and vendors.
+🔹 Say goodbye to outdated manual logbooks -[Vizitor](https://www.vizitorapp.com/) provides a contactless, digital check-in system for patients, visitors, and vendors.
 
 🔹 Pre-appointment scheduling allows hospitals to screen visitors before they arrive, ensuring compliance with safety protocols.
 

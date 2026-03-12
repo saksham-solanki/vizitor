@@ -30,7 +30,7 @@ With the paper based visitor log book, everyone who comes to your office can see
 
 ## Importance of office security
 
-For the perfect world, every office worker should come back home in good health. Oftentimes, employees disregard poor physical conditions in the office that expose them to increased risk of long-term injuries and diseases—factors that can not only threaten their livelihood, but also how they live for the years to come. This is the main reason why companies should commit to sustaining proper office safety to ensure the well being of their employees.
+For the perfect world, every office worker should come back home in good health. Oftentimes, employees disregard poor physical conditions in the office that expose them to increased risk of long-term injuries and diseases -factors that can not only threaten their livelihood, but also how they live for the years to come. This is the main reason why companies should commit to sustaining proper office safety to ensure the well being of their employees.
 
 ## Increases Productivity
 Companies who devote resources to their employees’ safety and health can help reduce employee turnover, which can have a serious impact on productivity and profits. On the other hand, product and service quality is also improved when employees are in good health because they are motivated to do better at their jobs.

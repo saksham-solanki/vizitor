@@ -29,7 +29,7 @@ Think of a team brainstorming session getting delayed because no one knows which
 
 This is where an online room reservation system steps in as a game-changer. 
 
-By simplifying the process of booking, managing, and tracking office spaces, businesses can avoid such hassles and focus on what truly matters—productivity and collaboration.
+By simplifying the process of booking, managing, and tracking office spaces, businesses can avoid such hassles and focus on what truly matters -productivity and collaboration.
 
 
 
@@ -53,7 +53,7 @@ A Quick Look Back
 
 ## What is an Online Room Reservation System?
 
-An online room reservation system is a digital platform that allows employees to book, manage, and optimize office spaces with ease. It’s not just for booking meeting rooms—it’s a comprehensive solution for managing shared resources.
+An online room reservation system is a digital platform that allows employees to book, manage, and optimize office spaces with ease. It’s not just for booking meeting rooms -it’s a comprehensive solution for managing shared resources.
 
 ## Why Your Office Needs an Online Room Reservation System
 
@@ -337,7 +337,7 @@ With detailed analytics, Vizitor helps identify underused meeting rooms, allowin
 
 ### Conclusion: Invest in Efficiency and Professionalism
 
-An online room reservation system is more than just a scheduling tool—it’s a solution that enhances productivity, saves time, and optimizes office space. 
+An online room reservation system is more than just a scheduling tool -it’s a solution that enhances productivity, saves time, and optimizes office space. 
 
 
 

@@ -55,7 +55,7 @@ Modern booking software allows you to book rooms in advance, track usage, and ev
 
 
 
- Using a [Conference Room Booking System like Vizitor,](https://www.vizitorapp.com/meeting-room-booking-system/) employees can easily check real-time availability, avoid overbooking, and seamlessly schedule their meetings—saving time and reducing stress.
+ Using a [Conference Room Booking System like Vizitor,](https://www.vizitorapp.com/meeting-room-booking-system/) employees can easily check real-time availability, avoid overbooking, and seamlessly schedule their meetings -saving time and reducing stress.
 
 
 

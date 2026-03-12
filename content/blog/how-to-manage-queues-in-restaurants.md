@@ -13,13 +13,13 @@ Have you ever waited so long at a restaurant that your stomach starts growling l
 
 Imagine slashing your wait time from an average of **23 minutes to just a few.** Sounds great, right? Studies show that by cutting down wait times, restaurants could see a revenue boost of up to 15%! So, what's the secret sauce to making queues disappear?
 
-Enter the Restaurant Queue Management System—a game changer that uses the latest technology to whisk you to your table faster than ever. This system isn't just about cutting down the wait. It's about enhancing your dining experience, from the moment you step in, to the time you leave, all smiles and satisfied.
+Enter the Restaurant Queue Management System -a game changer that uses the latest technology to whisk you to your table faster than ever. This system isn't just about cutting down the wait. It's about enhancing your dining experience, from the moment you step in, to the time you leave, all smiles and satisfied.
 
 ![gotime](/images/blog/gottime.png)
 
 **Got Time for a Quick Bite?**
 
-What if you could get a text telling you your table is ready while you enjoy a stroll nearby? Or check in with a single tap on your smartphone? That’s the magic of modern queue systems—they keep things moving smoothly so you can enjoy more of what you love—great food and good times.
+What if you could get a text telling you your table is ready while you enjoy a stroll nearby? Or check in with a single tap on your smartphone? That’s the magic of modern queue systems -they keep things moving smoothly so you can enjoy more of what you love -great food and good times.
 
 Restaurants are now turning wait time into a breeze with smart technology that ensures you're not just standing around. Isn’t it time your favorite restaurant got smarter with their queues?
 

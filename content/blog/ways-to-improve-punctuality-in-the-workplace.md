@@ -247,7 +247,7 @@ Don’t let lateness hurt productivity.\
 
 In summary, being on time is important at work because it helps everything run smoothly and makes us more efficient. When companies make it clear that punctuality matters, use tools to track time, and offer flexible work options, it creates a culture where being on time is valued. 
 
-Benjamin Franklin's quote, "Lost time is never found again," reminds us how valuable time is and why we should use it wisely. Being punctual doesn't just help us as individuals—it makes the whole workplace better and more successful.
+Benjamin Franklin's quote, "Lost time is never found again," reminds us how valuable time is and why we should use it wisely. Being punctual doesn't just help us as individuals -it makes the whole workplace better and more successful.
 
 ## Frequently Asked Questions
 

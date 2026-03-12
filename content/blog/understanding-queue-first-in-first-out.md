@@ -1,6 +1,6 @@
 ---
 title: Understanding Queue First In First Out (FIFO)
-description: Dive deep into the Queue First In First Out (FIFO) methodology—a
+description: Dive deep into the Queue First In First Out (FIFO) methodology -a
   cornerstone inefficient queue management across various sectors. Learn how
   implementing FIFO can streamline operations, enhance customer satisfaction,
   and maintain fairness with our comprehensive guide.

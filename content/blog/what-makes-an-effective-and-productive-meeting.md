@@ -61,7 +61,7 @@ How many times have you walked into a meeting room and realized there wasn’t e
 
 
 
-With [Meeting Room Booking System](https://www.vizitorapp.com/blog/the-meeting-room-reservation-software-guide/), you can select rooms that are properly equipped with all the necessary tech—whether it’s video conferencing tools, projectors, or whiteboards. It’s all about setting the stage for a great meeting.
+With [Meeting Room Booking System](https://www.vizitorapp.com/blog/the-meeting-room-reservation-software-guide/), you can select rooms that are properly equipped with all the necessary tech -whether it’s video conferencing tools, projectors, or whiteboards. It’s all about setting the stage for a great meeting.
 
 
 

@@ -439,7 +439,7 @@ Hospitals adopting smart queue systems will gain a competitive edge in patient s
 
 ## **Conclusion**
 
-Implementing a modern hospital queue management system is no longer optional—it’s a necessity.\
+Implementing a modern hospital queue management system is no longer optional -it’s a necessity.\
 It reduces wait times, improves patient satisfaction, and streamlines hospital operations.
 
 For hospitals seeking an easy-to-use, efficient solution, Vizitor’s Queue Management System is designed to simplify patient check-ins, manage queues, and enhance overall patient experience.
@@ -471,7 +471,7 @@ Discover **how Vizitor can improve your patient flow** in **just 60 seconds**.\
 ## **Final Note:**
 
 A hospital’s success is closely tied to patient satisfaction.\
-A robust queue management system is the first step toward ensuring every patient feels cared for—right from the waiting room.
+A robust queue management system is the first step toward ensuring every patient feels cared for -right from the waiting room.
 
 Ready to **transform patient experiences**?\
 **Try Vizitor Today**.

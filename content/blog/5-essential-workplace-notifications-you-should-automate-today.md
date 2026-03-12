@@ -20,7 +20,7 @@ These everyday workplace inefficiencies can disrupt operations and reduce effici
 
 
 
-What if your office could instantly notify the right people at the right time—without manual intervention?
+What if your office could instantly notify the right people at the right time -without manual intervention?
 
 
 
@@ -44,7 +44,7 @@ Yet, many offices still rely on outdated manual Despite these advantages, many o
 
 Wasted time, communication gaps, and frustrated employees.
 
-By [automating workplace notifications](https://www.vizitorapp.com/blog/need-of-visitor-management-at-your-workplace/), businesses can ensure seamless visitor check-ins, secure employee tracking, instant emergency alerts, and more—all while enhancing productivity and security.
+By [automating workplace notifications](https://www.vizitorapp.com/blog/need-of-visitor-management-at-your-workplace/), businesses can ensure seamless visitor check-ins, secure employee tracking, instant emergency alerts, and more -all while enhancing productivity and security.
 
 In this post, we’ll explore the five most critical office notifications that should be automated for smoother workflows, improved coordination, and an overall smarter workplace.
 
@@ -68,7 +68,7 @@ How It Works:
 
 When a visitor arrives and completes check-in using Vizitor:\
 ✓The host instantly receives an SMS, email, or app notification.\
-✓ The visitor's details—name, company, purpose of visit—are included for quick identification.\
+✓ The visitor's details -name, company, purpose of visit -are included for quick identification.\
 ✓ If the host is unavailable, an auto-reply or alternate contact notification can be triggered.
 
 This removes the need for manual calls or messages from the reception desk, saving valuable time and ensuring a seamless guest experience.
@@ -224,4 +224,4 @@ The future of workplace communication is here, and it's automated!
 
 
 
-Start automating now—for a smarter, safer, and more productive workplace!
+Start automating now -for a smarter, safer, and more productive workplace!

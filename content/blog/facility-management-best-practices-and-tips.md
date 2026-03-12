@@ -17,7 +17,7 @@ image: /images/blog/facility-management-best-practices-and-tips.png
 
 
 
-Everyone imagines to walk into a workplace where everything operates smoothly—the air conditioning is just right, the lights are on but not blinding, and the building is clean, secure, and functioning efficiently. 
+Everyone imagines to walk into a workplace where everything operates smoothly -the air conditioning is just right, the lights are on but not blinding, and the building is clean, secure, and functioning efficiently. 
 
 
 
@@ -100,7 +100,7 @@ It involves everything from daily operations and maintenance to long-term planni
 
 How much time do you spend addressing minor issues that could be easily avoided with proactive management? 
 
-Facility management Systems such as Vizitor doesn’t just solve problems—it prevents them from happening in the first place.
+Facility management Systems such as Vizitor doesn’t just solve problems -it prevents them from happening in the first place.
 
 
 
@@ -148,7 +148,7 @@ It also automates the check-in process, saving time and reducing human error. By
 
 ### 3.Embrace Preventive Maintenance for Both Facilities and Visitors
 
-Preventive maintenance isn’t just about equipment and infrastructure—it also includes systems that affect visitors' experience. From restrooms to elevators, ensuring these are always in top condition creates a welcoming atmosphere for your visitors.
+Preventive maintenance isn’t just about equipment and infrastructure -it also includes systems that affect visitors' experience. From restrooms to elevators, ensuring these are always in top condition creates a welcoming atmosphere for your visitors.
 
 
 
@@ -172,7 +172,7 @@ Statistic: Buildings that focus on energy management can reduce energy costs by 
 
 
 
-💡Use your facility management software to automate energy-efficient practices in visitor spaces—such as adjusting lighting and temperature settings in meeting rooms and waiting areas—ensuring visitor comfort and reducing energy wastage.
+💡Use your facility management software to automate energy-efficient practices in visitor spaces -such as adjusting lighting and temperature settings in meeting rooms and waiting areas -ensuring visitor comfort and reducing energy wastage.
 
 
 

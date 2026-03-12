@@ -28,7 +28,7 @@ Whether it’s an [unverified visitor or an underutilized meeting room](https://
 
 
 
-In this blog, we’ll uncover the top workplace threats that often go unnoticed—and how you can tackle them effectively to create a safer, smarter, and more productive workplace.
+In this blog, we’ll uncover the top workplace threats that often go unnoticed -and how you can tackle them effectively to create a safer, smarter, and more productive workplace.
 
 
 
@@ -104,7 +104,7 @@ Unmanaged visitor access is a silent threat that can lead to serious consequence
 
 
 
- Investing in a [Visitor Management System (VMS)](https://www.vizitorapp.com/best-visitor-management-system-in-india/) is not just about tracking visitors—it’s about ensuring the safety and security of everyone in the workplace.
+ Investing in a [Visitor Management System (VMS)](https://www.vizitorapp.com/best-visitor-management-system-in-india/) is not just about tracking visitors -it’s about ensuring the safety and security of everyone in the workplace.
 
 
 

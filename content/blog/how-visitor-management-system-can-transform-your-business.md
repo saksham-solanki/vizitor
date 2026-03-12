@@ -22,7 +22,7 @@ A good Visitor Management System can make a big difference for your business. Fi
 
 
 
-In short, a good Visitor Management System isn't just a helpful tool—it's a smart investment that protects your business, makes it run better, and shows you're serious about professionalism. To learn more about why a digital visitor management system is so important and how it can improve your business, check out our detailed blog below.
+In short, a good Visitor Management System isn't just a helpful tool -it's a smart investment that protects your business, makes it run better, and shows you're serious about professionalism. To learn more about why a digital visitor management system is so important and how it can improve your business, check out our detailed blog below.
 
 
 

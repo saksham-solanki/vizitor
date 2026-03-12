@@ -27,7 +27,7 @@ Precious time is lost, the team’s energy dips, and the pitch doesn’t go as p
 
 
 
-According to a [Gartner](https://www.gartner.com/en) report, inefficient meeting room management results in up to 40% of office space going unused, costing businesses thousands of dollars annually in wasted resources. But this isn’t just about money—it’s about productivity, employee satisfaction, and creating a workplace that drives innovation.
+According to a [Gartner](https://www.gartner.com/en) report, inefficient meeting room management results in up to 40% of office space going unused, costing businesses thousands of dollars annually in wasted resources. But this isn’t just about money -it’s about productivity, employee satisfaction, and creating a workplace that drives innovation.
 
 
 
@@ -211,7 +211,7 @@ Data-driven utilization becomes easier with tools like Vizitor’s Meeting Room 
 
 ## Pillar 3: Enhancing the User Experience
 
-The modern workplace is no longer just about productivity—it’s about creating an environment where employees and visitors feel comfortable, efficient, and empowered.
+The modern workplace is no longer just about productivity -it’s about creating an environment where employees and visitors feel comfortable, efficient, and empowered.
 
 
 
@@ -334,7 +334,7 @@ Fun Fact: By 2030, smart offices are expected to save businesses up to $300 bill
 
 As we've explored, the future of workplace efficiency lies in smart office room management. 
 
-By embracing the three essential pillars—efficient [room scheduling](https://www.vizitorapp.com/blog/how-a-meeting-room-scheduler-can-reduce-workplace-stress/), data-driven utilization, and enhancing user experience—you can unlock your office’s true potential, fostering collaboration, productivity, and satisfaction.
+By embracing the three essential pillars -efficient [room scheduling](https://www.vizitorapp.com/blog/how-a-meeting-room-scheduler-can-reduce-workplace-stress/), data-driven utilization, and enhancing user experience -you can unlock your office’s true potential, fostering collaboration, productivity, and satisfaction.
 
 
 

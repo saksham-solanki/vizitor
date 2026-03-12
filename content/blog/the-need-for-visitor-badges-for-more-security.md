@@ -12,7 +12,7 @@ authorsImage: /images/authors/author.svg
 ---
 *Did you know that **70% of security breaches** in workplaces occur due to **unauthorized access**?*
 
-*One security loophole can lead to data breaches, loss of assets, and even legal liability. In today's digital era, companies cannot afford to compromise on security. This is where visitor badges come in—acting as a first line of defense against security risks."*
+*One security loophole can lead to data breaches, loss of assets, and even legal liability. In today's digital era, companies cannot afford to compromise on security. This is where visitor badges come in -acting as a first line of defense against security risks."*
 
 ***"But are visitor badges really necessary? How do they improve security? And which type of badge works best for your business?"***
 
@@ -31,7 +31,7 @@ This is why visitor management systems are becoming more and more efficient for 
 It is extremely tough to keep an eye on everyone at the same time if done manually.But, it is crucial. 
 Having a reliable and robust visitor badge system is one of the simplest ways to identify your visitors at a glance without any need to manually track them.
 
-Badges are used within workplaces, healthcare facilities and schools to easily identify visitors. Visitor badges — also commonly referred to as security badges.
+Badges are used within workplaces, healthcare facilities and schools to easily identify visitors. Visitor badges  - also commonly referred to as security badges.
 
 ## Enhanced security level
 

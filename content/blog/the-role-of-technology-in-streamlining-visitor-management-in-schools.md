@@ -11,7 +11,7 @@ Technology has revolutionized almost every aspect of our lives, changing how we 
 
 2022 has been a great year in  providing the world  with many technology advancements. And the same is to be continued in 2023 also.
 
-## Clearly, the thing that’s transforming is not the technology — it’s the technology that is transforming you. — Jeanne W. Ross 
+## Clearly, the thing that’s transforming is not the technology  - it’s the technology that is transforming you.  - Jeanne W. Ross 
 
 Almost every sector in the present times needs technology to streamline their operational tasks. Its use in the educational sector is also significant. 
 
@@ -65,7 +65,7 @@ The Visitor Sign-in System is a cloud based Visitor Management solution built fo
 It delivers value to almost every sector by handing over many benefits to an organization. It eliminates the need for a receptionist and complicated registration paperwork.
 
 
-## Integration of digital and smart technologies in Visitor Sign-in Systems that makes up a difference in providing seamless visiting experience— 
+## Integration of digital and smart technologies in Visitor Sign-in Systems that makes up a difference in providing seamless visiting experience - 
 
 With the evolving technology trends, the outdated method of manually using  paper and pen for registration have been gradually replaced by electronic options for visitor sign-in systems at the reception such as Vizitor.
 
@@ -93,7 +93,7 @@ How are you managing visitors and guests' arrivals in your schools? Are you stil
 
 Are you not aware of smart  and innovative technologies that can lift up your old visitor management strategies to the next level of enhancement?
 
-If not, then let's take a close look at how technology based smart visitor Sign-in solutions streamline your visitor handling processes— 
+If not, then let's take a close look at how technology based smart visitor Sign-in solutions streamline your visitor handling processes - 
 
 ### • Emergence of Touchless Check-ins replace outdated and time-consuming paper and pen methods– 
 

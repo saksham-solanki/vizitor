@@ -10,10 +10,10 @@ authorsImage: /images/authors/author.svg
 
 In the span of just a few weeks, the way we work, communicate, and navigate daily life has drastically changed. With coronavirus spreading panic and fear, across the world has caused companies to enable work from home for employees in an effort to halt the spread.
 The ongoing COVID-19 outbreak has created a new demand for global shared workspace providers, a boost. 
-Companies of all sizes and industries — members and nonmembers – have been reaching out for alternative workplace options, as part of their proactive precautionary measure against COVID-19.
+Companies of all sizes and industries  - members and nonmembers – have been reaching out for alternative workplace options, as part of their proactive precautionary measure against COVID-19.
 To weather this uncertain storm, coworking operators are under pressure to reevaluate their operations and come up with new business models, sanitation practices, and flexible solutions for their members as quickly as possible.
 
-According to the survey found the opposite to be true as— 71.67% of spaces said they have witnessed a significant drop in the number of people working from their space since the outbreak.
+According to the survey found the opposite to be true as - 71.67% of spaces said they have witnessed a significant drop in the number of people working from their space since the outbreak.
 
 Along with a dwindling in-person workforce, 40.8% of coworking spaces reported a negative impact on membership and contract renewals since the outbreak. And, 67% of spaces have experienced a drop in the number of new membership enquiries.
 

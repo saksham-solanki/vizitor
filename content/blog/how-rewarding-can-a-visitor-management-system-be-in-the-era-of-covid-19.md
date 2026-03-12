@@ -53,7 +53,7 @@ These systems serve a variety of functions:
 
 **Testing:** Once the system is up and running, set aside some time to put it through its paces. This encompasses all aspects of the system, including pre-registration, touchless interaction, and staff notifications.
 
-**Health and Safety Tools:** Today's cutting-edge visitor management systems include COVID-critical features like health questionnaires, and temperature checks. Some systems include — or integrate with — employee COVID screenings, which include personal protective equipment inventory and allocation management, employee scheduling for staggered shifts, and capacity planning for social distance enforcement.
+**Health and Safety Tools:** Today's cutting-edge visitor management systems include COVID-critical features like health questionnaires, and temperature checks. Some systems include  - or integrate with  - employee COVID screenings, which include personal protective equipment inventory and allocation management, employee scheduling for staggered shifts, and capacity planning for social distance enforcement.
 
 #### **In conclusion**
 

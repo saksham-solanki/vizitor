@@ -49,7 +49,7 @@ Did you know that 70% of customers prefer leaving a store rather than waiting in
 
 
 
- A [queue management system](https://www.vizitorapp.com/best-queue-management-system/) that isn’t optimized can cost you more than just customer complaints—it can lead to lost sales and poor brand perception.
+ A [queue management system](https://www.vizitorapp.com/best-queue-management-system/) that isn’t optimized can cost you more than just customer complaints -it can lead to lost sales and poor brand perception.
 
 
 

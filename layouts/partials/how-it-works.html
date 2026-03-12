@@ -1,0 +1,138 @@
+<!-- How Vizitor Works Section -->
+<div class="vz-steps">
+    <div class="container">
+        <div class="text-center mb-4 vz-reveal">
+            <span class="vz-section-label">HOW IT WORKS</span>
+            <h2 class="vz-section-title">From Arrival to Check-Out in 4 Simple Steps</h2>
+            <p class="vz-section-subtitle">Replace your paper logbook with a digital workflow that runs itself.</p>
+        </div>
+        <div class="vz-steps__grid">
+            <div class="vz-steps__connector"></div>
+            <div class="vz-steps__card vz-reveal vz-reveal-delay-1">
+                <div class="vz-steps__num">1</div>
+                <div class="vz-steps__icon-wrap">
+                    <img src="/images/vizitor/touchless-Check-ins-vizitor.svg" alt="Visitor pre-registration and check-in" />
+                </div>
+                <h4 class="vz-steps__title">Visitor Checks In</h4>
+                <p class="vz-steps__desc">Visitors register on a tablet, kiosk, or via QR code. Pre-registered guests skip the queue entirely.</p>
+            </div>
+            <div class="vz-steps__card vz-reveal vz-reveal-delay-2">
+                <div class="vz-steps__num">2</div>
+                <div class="vz-steps__icon-wrap">
+                    <img src="/images/vizitor/host-Notifications-vizitor.svg" alt="Automatic host notification via SMS and email" />
+                </div>
+                <h4 class="vz-steps__title">Host Gets Notified</h4>
+                <p class="vz-steps__desc">The host receives an instant alert via SMS, email, Slack, or the Vizitor Pass app.</p>
+            </div>
+            <div class="vz-steps__card vz-reveal vz-reveal-delay-3">
+                <div class="vz-steps__num">3</div>
+                <div class="vz-steps__icon-wrap">
+                    <img src="/images/vizitor/badge-Printinges-vizitor.svg" alt="Visitor badge printing with photo and QR code" />
+                </div>
+                <h4 class="vz-steps__title">Badge Printed</h4>
+                <p class="vz-steps__desc">A professional visitor badge with name, photo, and access details is printed automatically.</p>
+            </div>
+            <div class="vz-steps__card vz-reveal vz-reveal-delay-4">
+                <div class="vz-steps__num">4</div>
+                <div class="vz-steps__icon-wrap">
+                    <img src="/images/vizitor/customized-Form-vizitor.svg" alt="Digital visitor log and audit trail" />
+                </div>
+                <h4 class="vz-steps__title">Audit Trail Saved</h4>
+                <p class="vz-steps__desc">Every visit is recorded digitally with check-in/out times, photos, and signed documents.</p>
+            </div>
+        </div>
+        <div class="text-center mt-4 vz-reveal">
+            <a href="/signup" class="vz-btn vz-btn--primary">
+                Try It Free
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .vz-steps {
+        padding: 72px 0 56px;
+        background: var(--vz-bg);
+        position: relative;
+    }
+    .vz-steps__grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        position: relative;
+    }
+    .vz-steps__connector {
+        position: absolute;
+        top: 28px;
+        left: calc(12.5% + 10px);
+        right: calc(12.5% + 10px);
+        height: 2px;
+        background: linear-gradient(90deg, var(--vz-orange) 0%, rgba(237,92,24,0.2) 100%);
+        z-index: 0;
+    }
+    .vz-steps__card {
+        text-align: center;
+        padding: 28px 16px;
+        position: relative;
+        z-index: 1;
+        background: var(--vz-bg);
+        border-radius: var(--vz-radius);
+        transition: all 0.4s var(--vz-transition);
+    }
+    .vz-steps__card:hover {
+        background: var(--vz-bg-alt);
+        box-shadow: var(--vz-shadow-md);
+        transform: translateY(-4px);
+    }
+    .vz-steps__num {
+        width: 36px;
+        height: 36px;
+        background: linear-gradient(135deg, var(--vz-orange) 0%, #e04d0d 100%);
+        color: #fff;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-family: var(--vz-font-display);
+        font-size: 15px;
+        font-weight: 800;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 12px rgba(237,92,24,0.25);
+        position: relative;
+    }
+    .vz-steps__icon-wrap {
+        margin-bottom: 16px;
+    }
+    .vz-steps__icon-wrap img {
+        width: 48px;
+        height: 48px;
+        transition: transform 0.4s var(--vz-transition);
+    }
+    .vz-steps__card:hover .vz-steps__icon-wrap img {
+        transform: scale(1.1);
+    }
+    .vz-steps__title {
+        font-family: var(--vz-font-display);
+        font-size: 17px;
+        font-weight: 700;
+        color: var(--vz-navy);
+        margin-bottom: 8px;
+        letter-spacing: -0.01em;
+    }
+    .vz-steps__desc {
+        font-size: 14px;
+        line-height: 1.6;
+        color: var(--vz-muted);
+        margin: 0;
+    }
+    @media (max-width: 991px) {
+        .vz-steps__grid { grid-template-columns: repeat(2, 1fr); }
+        .vz-steps__connector { display: none; }
+    }
+    @media (max-width: 767px) {
+        .vz-steps { padding: 48px 0 40px; }
+        .vz-steps__grid { grid-template-columns: 1fr; gap: 12px; }
+        .vz-steps__card { padding: 20px 16px; }
+    }
+</style>

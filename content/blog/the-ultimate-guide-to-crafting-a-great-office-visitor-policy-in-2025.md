@@ -91,7 +91,7 @@ A well-defined [visitor management system](https://www.vizitorapp.com/best-visit
 
 2. Workplace Safety
 
-Controlling [visitor access](https://www.vizitorapp.com/blog/access-control-systems-for-workplace-security-a-complete-business-guide/) plays a crucial role in maintaining a safe work environment. Industries with strict safety protocols—such as manufacturing, healthcare, and IT—must monitor and regulate guest entry to prevent accidents, hazards, or policy violations.
+Controlling [visitor access](https://www.vizitorapp.com/blog/access-control-systems-for-workplace-security-a-complete-business-guide/) plays a crucial role in maintaining a safe work environment. Industries with strict safety protocols -such as manufacturing, healthcare, and IT -must monitor and regulate guest entry to prevent accidents, hazards, or policy violations.
 
 
 

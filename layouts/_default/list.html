@@ -36,99 +36,73 @@
 <div class="clearfix"></div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
-<script type="">
-     window.store = {
-        // You can specify your blog section only:
-        {{ range where .Pages.ByPublishDate.Reverse "Section" "blog" }}
-        // For all pages in your site, use "range .Site.Pages"
-        // You can use any unique identifier here
-        "{{ .Permalink }}": {
-            // You can customize your searchable fields using any .Page parameters
-            "title": "{{ .Title  }}",
-            "url": "{{ .Permalink }}",
-            "image": "{{ .Params.image  }}",
-            "date": '{{ .Date | time.Format "Mon Jan 2 2006" }}',
-            "Description": "{{ .Description }}",
-            
-        },
-        
-        {{ end }}
-    }
-        function displayResults (results, store) {
-        const searchResults = document.getElementById('showresults');
-        if (results.length) {
-            let resultList = '';
-            // Iterate and build result list elements
-            for (const key in store) {
-                for (const n in results) {
-                    if(store[key].title == results[n].ref){
-                        const item = store[key];
-                            resultList += '<div class="col-lg-4 col-md-6 col-12 phone-fast mt-4 filter '+item.categories+'">' 
-        		    resultList += '<div class="grids blog-shadow"><div style="background: #FCFCFC;border-radius: 20px;">' 
-            		    resultList += '<a href="'+item.url+'" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">'
-			    resultList += '<img class="card-img-top" loading="lazy" src="'+item.image+'" alt="'+item.title+'" />'
-			    resultList += '<div style="padding: 15px 15px 15px 15px;">'
-			    resultList += '<h4 class="mt-2 f3 b lh-title mb1 primary">'+item.title+'</h4>'
-			    resultList += '<p class="mt-2 mid-gray lh-title mb2">'+item.date+'</p>'
-			    resultList += '<p class="mt-2 mb0">'+item.Description+'</p><br>'
-                            resultList += '<p class="link b dib black mb0 color5" style="color: #ED5C18;">Know more →</p></div></a></div></div></div>';
-                    }
-                }
-            }
-            searchResults.innerHTML = resultList;
-        } else {
-            searchResults.innerHTML = '<div class="noresult">No results found.</div>'
-        }
+<script>
+    window.store = {
+      {{ range where .Pages.ByPublishDate.Reverse "Section" "blog" }}
+      "{{ .Permalink }}": {
+        "title": {{ .Title | jsonify }},
+        "url": "{{ .Permalink }}",
+        "image": {{ .Params.image | jsonify }},
+        "date": {{ .Date | time.Format "Mon Jan 2 2006" | jsonify }},
+        "Description": {{ .Description | jsonify }}
+      },
+      {{ end }}
+    };
+</script>
+<script>
+    function buildCard(item) {
+      return '<div class="col-lg-4 col-md-6 col-12 phone-fast mt-4">' +
+        '<div class="grids blog-shadow"><div style="background: #FCFCFC;border-radius: 20px;">' +
+        '<a href="'+item.url+'" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">' +
+        '<img class="card-img-top" loading="lazy" src="'+item.image+'" alt="'+item.title+'" />' +
+        '<div style="padding: 15px;">' +
+        '<h4 class="mt-2 f3 b lh-title mb1 primary">'+item.title+'</h4>' +
+        '<p class="mt-2 mid-gray lh-title mb2">'+item.date+'</p>' +
+        '<p class="mt-2 mb0">'+item.Description+'</p><br>' +
+        '<p class="link b dib black mb0 color5" style="color: #ED5C18;">Know more &rarr;</p>' +
+        '</div></a></div></div></div>';
     }
 
-    function showSearchResults(){
-        const query = document.getElementById('search-input').value;
-        // const params = new URLSearchParams(window.location.search);
-        // const query = params.get('query');
-        // Perform a search if there is a query
-        if (query) {
-        // Retain the search input in the form when displaying results
-        const idx = lunr(function () {
-            this.ref('title')
-            this.field('title', {
-            boost: 15
-            })
-            for (const key in window.store) {
-            this.add({
-                title: window.store[key].title,
-                url:window.store[key].url
-            })
+    function displayResults(results, store) {
+      var searchResults = document.getElementById('showresults');
+      if (results.length) {
+        var resultList = '';
+        for (var key in store) {
+          for (var n in results) {
+            if (store[key].title === results[n].ref) {
+              resultList += buildCard(store[key]);
             }
-        })
-        // Perform the search
-        let results = '';
-        results = idx.search(query+'*');
-        if(results.length == 0){
-        results = idx.search(query);
+          }
         }
-        // Update the list with results
-        displayResults(results, window.store)
-        }else{
-            const searchResults = document.getElementById('showresults');
-            let resultList = '';
-            // Iterate and build result list elements
-            for (const key in store) {
-                        const item = store[key];
-                        resultList += '<div class="col-lg-4 col-md-6 col-12 phone-fast mt-4 filter '+item.categories+'">' 
-        		    resultList += '<div class="grids blog-shadow"><div style="background: #FCFCFC;border-radius: 20px;">' 
-            		    resultList += '<a href="'+item.url+'" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">'
-			    resultList += '<img class="card-img-top" loading="lazy" src="'+item.image+'" alt="'+item.title+'" />'
-			    resultList += '<div style="padding: 15px 15px 15px 15px;">'
-			    resultList += '<h4 class="mt-2 f3 b lh-title mb1 primary">'+item.title+'</h4>'
-			    resultList += '<p class="mt-2 mid-gray lh-title mb2">'+item.date+'</p>'
-			    resultList += '<p class="mt-2 mb0">'+item.Description+'</p><br>'
-                            resultList += '<p class="link b dib black mb0 color5" style="color: #ED5C18;">Know more →</p></div></a></div></div></div>';
-            }
-            searchResults.innerHTML = resultList;
+        searchResults.innerHTML = resultList;
+      } else {
+        searchResults.innerHTML = '<div class="noresult">No results found.</div>';
+      }
+    }
+
+    function showSearchResults() {
+      var query = document.getElementById('search-input').value;
+      if (query) {
+        var idx = lunr(function () {
+          this.ref('title');
+          this.field('title', { boost: 15 });
+          for (var key in window.store) {
+            this.add({ title: window.store[key].title, url: window.store[key].url });
+          }
+        });
+        var results = idx.search(query + '*');
+        if (results.length === 0) {
+          results = idx.search(query);
         }
-}
-
-
-   
+        displayResults(results, window.store);
+      } else {
+        var searchResults = document.getElementById('showresults');
+        var resultList = '';
+        for (var key in window.store) {
+          resultList += buildCard(window.store[key]);
+        }
+        searchResults.innerHTML = resultList;
+      }
+    }
 </script>
 {{end}}

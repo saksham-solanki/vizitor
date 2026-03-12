@@ -27,12 +27,12 @@ Vizitor is a user-friendly and easy-to-use **[Visitor Management solution](/visi
 
 ### Reduces Costs
 
-The costs associated with paper—such as printing, ink, storage, and disposal—can quickly add up. The average office worker uses about 10,000 sheets of paper per year, and businesses spend a staggering $8 billion annually managing paper documents. By adopting a paperless approach, businesses can eliminate or reduce the need for physical documents and their associated costs.
+The costs associated with paper -such as printing, ink, storage, and disposal -can quickly add up. The average office worker uses about 10,000 sheets of paper per year, and businesses spend a staggering $8 billion annually managing paper documents. By adopting a paperless approach, businesses can eliminate or reduce the need for physical documents and their associated costs.
 With a digital document management system, businesses can store one copy of each document centrally, accessible to authorized personnel, thereby eliminating the need for multiple physical copies. Additionally, digital systems allow for data storage and retrieval that is both easier and more cost-effective than traditional paper filing systems.
 
 ### Ensure Better Security and Compliance
 
-Security is a primary concern for businesses of all sizes. Paper-based processes are inherently less secure—documents can be misplaced, lost, or destroyed. Digital systems provide enhanced security by ensuring sensitive data is encrypted and protected from unauthorized access.
+Security is a primary concern for businesses of all sizes. Paper-based processes are inherently less secure -documents can be misplaced, lost, or destroyed. Digital systems provide enhanced security by ensuring sensitive data is encrypted and protected from unauthorized access.
 With digital systems, businesses can control who accesses specific documents based on roles and permissions, and even set up password protection for additional layers of security. Regular data backups ensure that information remains secure and can be easily recovered in case of unforeseen circumstances, safeguarding business continuity.
 
 ### Streamline Your Business Processes

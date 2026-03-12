@@ -31,7 +31,7 @@ But here’s the good news: An [Education Queue Management System (QMS)](https:/
 
 
 
-With technology tailored to streamline queues, reduce waiting times, and improve service efficiency, schools and colleges can transform their operations and focus on what truly matters—education.
+With technology tailored to streamline queues, reduce waiting times, and improve service efficiency, schools and colleges can transform their operations and focus on what truly matters -education.
 
 
 
@@ -327,7 +327,7 @@ Vizitor’s Queue Management System is an affordable and scalable solution that 
 
 Different university or college departments have different service needs. 
 
-[Vizitor's Queue Management System](https://www.vizitorapp.com/queue-management-system/) can be tailored to meet the specific requirements of various departments—be it admissions, student health services, or academic counseling. 
+[Vizitor's Queue Management System](https://www.vizitorapp.com/queue-management-system/) can be tailored to meet the specific requirements of various departments -be it admissions, student health services, or academic counseling. 
 
 
 

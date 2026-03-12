@@ -9,11 +9,11 @@ authors:
 image: /images/blog/frontdesksoftware.png
 authorsImage: /images/authors/author.svg
 ---
-Long queues at reception, missed visitor appointments, and cluttered paper logbooks—these issues can harm your business’s first impression. The front desk is your first point of contact, and a poor experience can damage customer perception.
+Long queues at reception, missed visitor appointments, and cluttered paper logbooks -these issues can harm your business’s first impression. The front desk is your first point of contact, and a poor experience can damage customer perception.
 
 The Solution? A Digital Front Desk System.
 
-A Front Desk System streamlines visitor check-ins, automates guest tracking, and enhances security—all while saving time for your reception staff.
+A Front Desk System streamlines visitor check-ins, automates guest tracking, and enhances security -all while saving time for your reception staff.
 
 Let’s explore how a modern front desk system can revolutionize your workplace reception.
 

@@ -9,7 +9,7 @@ authors:
   - Ritika
 image: /images/blog/business-casual-men-featured.webp
 ---
-Your front office is more than just a functional space—it’s the gateway to your brand. From the reception area design to how employees present themselves, every detail contributes to the impression visitors form about your organization. While tools like **Vizitor’s visitor management system** help create a seamless check-in experience, the way your front office staff dresses adds a personal touch that speaks volumes about your brand identity.
+Your front office is more than just a functional space -it’s the gateway to your brand. From the reception area design to how employees present themselves, every detail contributes to the impression visitors form about your organization. While tools like **Vizitor’s visitor management system** help create a seamless check-in experience, the way your front office staff dresses adds a personal touch that speaks volumes about your brand identity.
 
 A well-thought-out dress code not only projects professionalism but also fosters trust and confidence in your business. Here’s how you can implement a dress code that reflects your values and leaves a lasting impression.
 

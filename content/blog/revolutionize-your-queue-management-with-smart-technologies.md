@@ -86,7 +86,7 @@ Vizitor’s cloud-based platform allows businesses to manage queues remotely, in
 
 #### 4. Mobile Queueing for Customers
 
-With Vizitor’s mobile app, customers can join queues remotely, receive notifications, and track their wait times—all from their smartphones. This provides customers with a seamless and convenient experience, allowing them to make the most of their time.
+With Vizitor’s mobile app, customers can join queues remotely, receive notifications, and track their wait times -all from their smartphones. This provides customers with a seamless and convenient experience, allowing them to make the most of their time.
 
 #### 5. Personalized Experience for Loyal Customers
 

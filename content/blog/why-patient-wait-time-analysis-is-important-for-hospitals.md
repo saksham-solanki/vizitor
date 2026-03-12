@@ -15,7 +15,7 @@ In today’s digital era, where digital services offer instant access, patients 
 
 
 
-In hospitals and medical facilities where time and quality of care are crucial, [understanding and managing wait times](https://www.vizitorapp.com/blog/how-queue-management-systems-transform-hospitals/) is not just a matter of convenience—it’s a key factor in improving healthcare outcomes.
+In hospitals and medical facilities where time and quality of care are crucial, [understanding and managing wait times](https://www.vizitorapp.com/blog/how-queue-management-systems-transform-hospitals/) is not just a matter of convenience -it’s a key factor in improving healthcare outcomes.
 
 
 

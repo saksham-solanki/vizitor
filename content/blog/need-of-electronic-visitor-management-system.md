@@ -93,7 +93,7 @@ By investing in an electronic visitor management system like Vizitor, you not on
 
 ## Wrap Up!
 
-Managing visitors efficiently is no longer optional—it’s essential for businesses looking to stay competitive, enhance security, and create a professional environment. **Switching to an electronic visitor management system like Vizitor can transform your reception into a smart, seamless, and secure space.**
+Managing visitors efficiently is no longer optional -it’s essential for businesses looking to stay competitive, enhance security, and create a professional environment. **Switching to an electronic visitor management system like Vizitor can transform your reception into a smart, seamless, and secure space.**
 
 From ensuring data privacy to reducing operational overheads, **electronic visitor management systems empower businesses to adapt to modern challenges.** With features like pre-registration, temporary badges, and real-time analytics, your organization can achieve greater efficiency and safety.
 

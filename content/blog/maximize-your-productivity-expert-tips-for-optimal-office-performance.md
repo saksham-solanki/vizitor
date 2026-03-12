@@ -65,7 +65,7 @@ Well, we all can't deny the fact that business growth is vital to meet its oblig
 ### 4. Achieving set  goals– 
 
 Every workplace's topmost consideration is to achieve its goal of becoming a successful and reputed enterprise. One of the main and essential steps in its way of succession is to improve its workplace production and performance. When employees within the workplace are organized, it usually leads to focus, commitment, and engagement thus committed to achieving the business’s goals.
-Enhance Customer services— Productivity is crucial for the well being of the company and the society as well. It enhances customer services by providing them with fantastic visiting experience and peaceful atmosphere within premises. Increased productivity levels give more time and attention, systems run better, and the customer feels the benefit.
+Enhance Customer services - Productivity is crucial for the well being of the company and the society as well. It enhances customer services by providing them with fantastic visiting experience and peaceful atmosphere within premises. Increased productivity levels give more time and attention, systems run better, and the customer feels the benefit.
 
 ### 5. Improved  well being and profitability– 
 
@@ -84,9 +84,9 @@ What are some main impediments to better productivity and increased  efficiency?
 What strategies can you adopt to take your production to the next level? 
 Let's get right to it!!
 
-**Some expert tips for improving productivity and office performance—**
+**Some expert tips for improving productivity and office performance -**
 
-### 1. Create Uncongested and Seamless Front Desk Environment—
+### 1. Create Uncongested and Seamless Front Desk Environment -
 
 Front desk is the first and the foremost area presenting your unique brand image before guests. An uncongested and peaceful environment in your lobby area offer your guests a fantastic and memorable visiting experience. If your lobbies are congested and remain full of visitors checking in and waiting in queues, then of course, it will adversely affect your office productivity. 
 Your front desk must provide your guests with hassle free and seamless visiting experience into your premises.
@@ -124,14 +124,14 @@ Some of the powerful productivity apps are Elink, ProofHub, Stayfocusd etc.
 
 ![Productivity](/images/blog/Productivity.jpg)
 
-### 5. Lower noise distractions—
+### 5. Lower noise distractions -
 
 One of the major distractions in improving productivity levels is making excessive use of noise making systems which results in lower productivity, more illness, more stress, lower job satisfaction and morale, and other negative effects.
 Always try to use sound masking systems within workplaces to improve employee engagement and reduce unwanted distractions.
 
 ### 6. Ensuring proper lightening system– 
 
-If your workplace is not having proper visible light to see properly, then you can't work properly. Poor lighting causes eye strain, headaches, fatigue, stress, and a host of many other problems. To improve productivity, first of all there is need to improve lightening system. If possible, provide access to natural light—it’s bright, it makes people happy and more comfortable than artificial lights.
+If your workplace is not having proper visible light to see properly, then you can't work properly. Poor lighting causes eye strain, headaches, fatigue, stress, and a host of many other problems. To improve productivity, first of all there is need to improve lightening system. If possible, provide access to natural light -it’s bright, it makes people happy and more comfortable than artificial lights.
 It obviously increases your office productivity.
 
 
@@ -139,7 +139,7 @@ Practicing above discussed strategies will definitely take your office productio
 Establishing proper methods of planning and creating work strategies is the best way to hold adequate productivity levels.
 Maximized Productivity levels offer numerous key benefits to workplaces which help make them more competitive and consistent.
 
-**Major benefits you get by improving your productivity levels—**
+**Major benefits you get by improving your productivity levels -**
 
 • Increased Prosperity and Economic Growth
 

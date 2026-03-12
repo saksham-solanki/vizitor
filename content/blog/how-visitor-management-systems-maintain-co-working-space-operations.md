@@ -9,7 +9,7 @@ authorsImage: /images/authors/author.svg
 
 > Maintenance and discipline are the keys to success. Organizations need software that maintains their co-working area. Maintenance is starting from the front-desk area. Manual system doesn’t manage the reception area efficiently, there is a need for a digital system. [Visitor management system for a co-working space ](https://www.vizitorapp.com/visitor-management-system-for-co-working)is a software that automates the reception area. This type of system brings multiple benefits to those who use it.
 
-In this article, we will learn more on the subject —
+In this article, we will learn more on the subject  -
 
 - Why do we need a visitor management system for your co-working space?
 
@@ -30,7 +30,7 @@ In this article, we will learn more on the subject —
 3. Digital check-in systems  can work 24/7 because registration becomes a matter of minutes no matter of visitors coming time.
 4. A visitor management system automatically notifies the host about guest arrival.
 5. A visitor management system allows your visitors to pre-register their visit and enter all the relevant details. So that you can quickly process their details.
-6. Visitor management system offers e-pass with —visitor name, photograph, contact details, organization name, and escort name.
+6. Visitor management system offers e-pass with  -visitor name, photograph, contact details, organization name, and escort name.
 7. With VMS you can see the live status of visitors. Visitor dashboard displays the current status of the visitors.
 
 ## How to Choose a Visitor Management Software for Co-working Space?

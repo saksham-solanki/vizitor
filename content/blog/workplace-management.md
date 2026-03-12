@@ -72,7 +72,7 @@ By embracing workspace planning software, you step into the future. It's similar
 
 **• Office Space Booking System**
 
- With an **office space booking system,** team members can reserve desks, meeting rooms, or collaborative spaces. It's like having a personal assistant ensuring everyone has designated spots—encouraging hassle-free space without traditional sign-up sheets or awkward desk disputes.
+ With an **office space booking system,** team members can reserve desks, meeting rooms, or collaborative spaces. It's like having a personal assistant ensuring everyone has designated spots -encouraging hassle-free space without traditional sign-up sheets or awkward desk disputes.
 
 **• Meeting Scheduler**
 

@@ -37,7 +37,7 @@ Unlike traditional security measures such as ID badges, fingerprint scanning, an
 
 1. A camera scans the visitor’s face.
 2. The system matches it against a secure database.
-3. If a match is found, access is granted—no manual intervention needed.
+3. If a match is found, access is granted -no manual intervention needed.
 
 This ensures only authorized personnel enter, reducing security risks and operational inefficiencies.
 
@@ -144,7 +144,7 @@ Businesses today are replacing manual check-ins with AI-powered facial recogniti
 ### **1. Instant Identity Verification**
 
 * Visitors check in within seconds, eliminating long queues and manual verification delays.
-* No need to carry ID cards or remember passwords—the system verifies in real-time.
+* No need to carry ID cards or remember passwords -the system verifies in real-time.
 
 ### **2. Enhanced Security Against Identity Fraud**
 

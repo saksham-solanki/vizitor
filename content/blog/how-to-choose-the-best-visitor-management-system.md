@@ -125,7 +125,7 @@ Real-time dashboards showing visitor flow, busiest hours, and trends help optimi
 
 ### 8. **Customization & Branding**
 
-Your visitor management solution should reflect your company’s brand — from customized welcome screens to branded badges.
+Your visitor management solution should reflect your company’s brand  - from customized welcome screens to branded badges.
 
 ### 9. **Integration with Other Workplace Systems**
 

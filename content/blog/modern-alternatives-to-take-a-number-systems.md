@@ -151,7 +151,7 @@ The era of traditional take-a-number systems is rapidly fading. With customer ex
 
 In an age where 73% of customers say waiting in line negatively affects their experience, businesses can no longer afford to rely on inefficient, paper-based systems. 
 
-[Modern queue management systems](https://www.vizitorapp.com/blog/2024-top-12-queue-management-tools-solutions/) are not just an investment in technology—they’re an investment in customer satisfaction, operational efficiency, and long-term growth. By adopting these solutions, businesses can build loyalty, enhance their reputation, and ensure success in a Competitive world.
+[Modern queue management systems](https://www.vizitorapp.com/blog/2024-top-12-queue-management-tools-solutions/) are not just an investment in technology -they’re an investment in customer satisfaction, operational efficiency, and long-term growth. By adopting these solutions, businesses can build loyalty, enhance their reputation, and ensure success in a Competitive world.
 
 ## Top Modern Alternatives to Traditional Take-a-Number Systems
 
@@ -197,7 +197,7 @@ Customers can join the queue remotely via their mobile phones, tablets, or compu
 
 • Speeds up the check-in process.
 
-• Beyond ticket issuance, kiosks handle tasks like booking appointments, managing payments, and providing service information—all in one place.
+• Beyond ticket issuance, kiosks handle tasks like booking appointments, managing payments, and providing service information -all in one place.
 
 • Improves the customer experience by offering a user-friendly interface.
 

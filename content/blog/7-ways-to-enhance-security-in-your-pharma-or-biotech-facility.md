@@ -132,7 +132,7 @@ One of the most effective ways to enhance [workplace security in pharmaceutical 
 
 
 
- Security isn’t just the responsibility of the IT department or security personnel—it’s something every employee must actively participate in to ensure the facility remains protected from internal and external threats.
+ Security isn’t just the responsibility of the IT department or security personnel -it’s something every employee must actively participate in to ensure the facility remains protected from internal and external threats.
 
  A [well-trained workforce](https://www.vizitorapp.com/vizitor-pass/) can act as a first line of defense against security breaches.
 

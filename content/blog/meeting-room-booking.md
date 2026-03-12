@@ -104,7 +104,7 @@ Once you've chosen a meeting room booking software, connect it with your existin
 2. Select “New Meeting”
 3. Add attendees and time
 4. Choose a room via “Location”
-5. Hit “Send”—everyone’s calendar is updated
+5. Hit “Send” -everyone’s calendar is updated
 
 Pro Tip: Platforms like **Vizitor** offer Teams & Outlook integrations and allow mobile or kiosk-based booking in just a few taps.
 

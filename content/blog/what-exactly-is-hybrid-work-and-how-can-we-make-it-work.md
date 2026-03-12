@@ -13,7 +13,7 @@ First and foremost, we must understand how hybrid works. Let's get started! Hybr
 
 ### What is a hybrid work model?
 
-Hybrid work is a people-first approach to managing the workforce that drives increased productivity and job satisfaction while addressing the major challenges of remote work, such as isolation and lack of community. A hybrid work model provides employees with greater flexibility and the option to work from home or anywhere they can be productive. With hybrid work, the workplace is no longer inside the four walls of the corporate office—it’s an ecosystem of employees working from home, in coworking spaces, and the office. Team members can migrate between various locations depending on the work they need to get done.
+Hybrid work is a people-first approach to managing the workforce that drives increased productivity and job satisfaction while addressing the major challenges of remote work, such as isolation and lack of community. A hybrid work model provides employees with greater flexibility and the option to work from home or anywhere they can be productive. With hybrid work, the workplace is no longer inside the four walls of the corporate office -it’s an ecosystem of employees working from home, in coworking spaces, and the office. Team members can migrate between various locations depending on the work they need to get done.
 
 
 

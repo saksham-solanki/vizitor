@@ -111,7 +111,7 @@ Over 70% of security professionals agree that training employees on security pro
 
 ### **\#Foster a Culture of Security Awareness**
 
-Workplace security is not just about policies—it’s about mindset. A culture of security ensures that every employee actively participates in maintaining a secure work environment.
+Workplace security is not just about policies -it’s about mindset. A culture of security ensures that every employee actively participates in maintaining a secure work environment.
 
 #### **How to Create a Security-First Culture:**
 

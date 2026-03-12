@@ -1,18 +1,168 @@
-<div class="casestudies">
+<!-- Case Studies Section -->
+<div class="vz-case">
     <div class="container">
+        <div class="text-center mb-4 vz-reveal">
+            <span class="vz-section-label">CASE STUDIES</span>
+            <h2 class="vz-section-title">Trusted by Industry Leaders Worldwide</h2>
+        </div>
 
-        <div class="row mt-5 align-items-center">
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <img src="/images/case-studies/retina-centre.jpeg" alt="retina-centre">
-            </div>
-            <div class="col-md-6 col-sm-6 col-xs-12">
-                <p><span class="Digitize">CASE STUDIES</span></p>
-                <h3 class=" mb-4" style="font-size: 30px;line-height: 35px;">Enhancing Patient Experience: Retina Centre Optimizes Appointment Management with Vizitor</h3>
-                <p>Vizitor has revolutionized our appointment management process, enabling us to provide a seamless and efficient experience for our patients.</p>
-                <p>“Farhad Ahmed, Retina Centre”</p>
-                <br>
-                <a class="blog-btn-arrow " href="/case-studies" style="color: #ED5C18;">Know more  <img style="margin-left: 5px;" src="/images/vizitor/Icon.svg" alt="Icon"></a>
+        <div class="vz-case__card vz-reveal">
+            <div class="row align-items-center">
+                <div class="col-md-5 col-12">
+                    <div class="vz-case__img-wrap">
+                        <img src="/images/case-studies/retina-centre.jpeg" alt="Retina Centre visitor management case study" class="vz-case__img" />
+                    </div>
+                </div>
+                <div class="col-md-7 col-12">
+                    <div class="vz-case__body">
+                        <div class="vz-case__quote-mark">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="var(--vz-orange-light)"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg>
+                        </div>
+                        <blockquote class="vz-case__quote">
+                            "Vizitor has revolutionized our appointment management process, enabling us to provide a seamless and efficient experience for our patients."
+                        </blockquote>
+                        <div class="vz-case__author">
+                            <div class="vz-case__author-info">
+                                <span class="vz-case__author-name">Farhad Ahmed</span>
+                                <span class="vz-case__author-role">Retina Centre</span>
+                            </div>
+                        </div>
+                        <div class="vz-case__stats">
+                            <div class="vz-case__stat">
+                                <span class="vz-case__stat-num">60%</span>
+                                <span class="vz-case__stat-label">Faster check-ins</span>
+                            </div>
+                            <div class="vz-case__stat">
+                                <span class="vz-case__stat-num">Zero</span>
+                                <span class="vz-case__stat-label">Paper forms</span>
+                            </div>
+                            <div class="vz-case__stat">
+                                <span class="vz-case__stat-num">100%</span>
+                                <span class="vz-case__stat-label">Digital records</span>
+                            </div>
+                        </div>
+                        <a class="vz-case__link" href="/case-studies">
+                            Read more case studies
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
+
     </div>
 </div>
+
+<style>
+    .vz-case {
+        padding: 72px 0 56px;
+        background: var(--vz-bg-alt);
+    }
+    .vz-case__card {
+        background: #fff;
+        border-radius: 16px;
+        box-shadow: var(--vz-shadow-lg);
+        overflow: hidden;
+        border: 1px solid var(--vz-border);
+    }
+    .vz-case__img-wrap {
+        height: 100%;
+        min-height: 320px;
+        overflow: hidden;
+    }
+    .vz-case__img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.6s var(--vz-transition);
+    }
+    .vz-case__card:hover .vz-case__img {
+        transform: scale(1.04);
+    }
+    .vz-case__body {
+        padding: 36px 32px;
+        position: relative;
+    }
+    .vz-case__quote-mark {
+        margin-bottom: 12px;
+        opacity: 0.6;
+    }
+    .vz-case__quote {
+        font-family: var(--vz-font-display);
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 1.5;
+        color: var(--vz-navy);
+        letter-spacing: -0.01em;
+        border: none;
+        margin: 0 0 20px 0;
+        padding: 0;
+    }
+    .vz-case__author {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 24px;
+    }
+    .vz-case__author-info {
+        display: flex;
+        flex-direction: column;
+    }
+    .vz-case__author-name {
+        font-family: var(--vz-font-display);
+        font-weight: 700;
+        font-size: 14px;
+        color: var(--vz-navy);
+    }
+    .vz-case__author-role {
+        font-size: 12px;
+        color: var(--vz-muted);
+    }
+    .vz-case__stats {
+        display: flex;
+        gap: 28px;
+        padding-top: 20px;
+        border-top: 1px solid var(--vz-border);
+        margin-bottom: 20px;
+    }
+    .vz-case__stat {
+        display: flex;
+        flex-direction: column;
+    }
+    .vz-case__stat-num {
+        font-family: var(--vz-font-display);
+        font-size: 22px;
+        font-weight: 800;
+        color: var(--vz-orange);
+        letter-spacing: -0.02em;
+    }
+    .vz-case__stat-label {
+        font-size: 12px;
+        color: var(--vz-muted);
+        margin-top: 2px;
+    }
+    .vz-case__link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        font-family: var(--vz-font-display);
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--vz-orange) !important;
+        text-decoration: none !important;
+        transition: gap 0.3s ease;
+    }
+    .vz-case__link:hover {
+        gap: 12px;
+        color: var(--vz-orange-dark) !important;
+    }
+
+    @media (max-width: 767px) {
+        .vz-case { padding: 48px 0 40px; }
+        .vz-case__body { padding: 24px 20px; }
+        .vz-case__quote { font-size: 17px; }
+        .vz-case__stats { gap: 16px; }
+        .vz-case__img-wrap { min-height: 200px; }
+    }
+</style>

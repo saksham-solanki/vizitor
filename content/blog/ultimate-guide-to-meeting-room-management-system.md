@@ -116,7 +116,7 @@ The meeting room management system offers a comprehensive range of features. The
 
 ## **The Role of Meeting Room B**ooking **Management in a Smart Office**
 
-A **conference room manager** is not just about scheduling—it’s about **creating an efficient, seamless, and productive workspace**. When integrated with:
+A **conference room manager** is not just about scheduling -it’s about **creating an efficient, seamless, and productive workspace**. When integrated with:
 
 Visitor management systems, it ensures smooth guest handling\
 Smart office automation, it helps reduce energy waste in unused rooms\

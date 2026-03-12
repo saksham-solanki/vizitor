@@ -19,7 +19,7 @@ Have you ever thought about how many unverified visitors step into your office d
 
 
 
-Every [visitor](https://www.vizitorapp.com/visitor-security/) is a potential opportunity—or a risk. Whether it’s a business partner, delivery personnel, or an unfamiliar guest, ensuring that each individual is properly screened is critical for workplace safety and efficiency.
+Every [visitor](https://www.vizitorapp.com/visitor-security/) is a potential opportunity -or a risk. Whether it’s a business partner, delivery personnel, or an unfamiliar guest, ensuring that each individual is properly screened is critical for workplace safety and efficiency.
 
 
 
@@ -37,7 +37,7 @@ Did you know that 75% of visitors judge a company’s professionalism by their c
 
 
 
-Don’t let these risks go unnoticed—implement a solution that puts safety first.
+Don’t let these risks go unnoticed -implement a solution that puts safety first.
 
 
 
@@ -61,7 +61,7 @@ From collecting visitor details to checking government IDs, and even conducting 
 
 ## Why Every Workplace Needs Visitor Screening: Addressing the Hidden Risks
 
-In a world where workplace security is more critical than ever, visitor screening is no longer optional—it's essential.
+In a world where workplace security is more critical than ever, visitor screening is no longer optional -it's essential.
 
  Without it, businesses risk compromising their safety, reputation, and efficiency. Here’s why visitor screening is crucial and the pain points it addresses:
 
@@ -240,7 +240,7 @@ The experience visitors have upon entering your building matters. Vizitor provid
 
 
 
-With Vizitor, guest visitor screening is no longer a tedious process—it’s an intelligent, automated, and secure system designed to make workplaces safer and more efficient.
+With Vizitor, guest visitor screening is no longer a tedious process -it’s an intelligent, automated, and secure system designed to make workplaces safer and more efficient.
 
 
 

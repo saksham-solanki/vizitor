@@ -328,7 +328,7 @@ Stay Compliant & Secure with Vizitor!
 
 Ensuring regulatory compliance doesn’t have to be complex. 
 
-With [Vizitor’s Compliance Management](https://www.vizitorapp.com/blog/compliance-and-data-privacy-the-role-of-visitor-management-in-meeting-regulations/), you can automate compliance workflows, enhance security, and maintain audit-ready records—all in one seamless platform.
+With [Vizitor’s Compliance Management](https://www.vizitorapp.com/blog/compliance-and-data-privacy-the-role-of-visitor-management-in-meeting-regulations/), you can automate compliance workflows, enhance security, and maintain audit-ready records -all in one seamless platform.
 
 
 

@@ -9,7 +9,7 @@ authorsImage: /images/authors/author.svg
 
 ## Introduction
 
-Did you know that businesses lose billions annually due to inefficient visitor management systems? According to recent studies, manual visitor tracking can lead to inaccuracies, security breaches, and wasted time—issues that can significantly impact a company's operations and reputation.
+Did you know that businesses lose billions annually due to inefficient visitor management systems? According to recent studies, manual visitor tracking can lead to inaccuracies, security breaches, and wasted time -issues that can significantly impact a company's operations and reputation.
 
 In today's digital age, embracing an Automated Visitor Management System (AVMS) is no longer just a trend but a necessity for businesses aiming to streamline operations and enhance security. An AVMS automates the entire visitor registration process, from pre-registration to check-out, using technologies like self-service kiosks, QR codes, and facial recognition. This not only improves efficiency but also ensures a seamless experience for visitors and employees alike.
 
@@ -139,7 +139,7 @@ Automated Reception Systems (ARS) encompass various tools and technologies desig
 
 **1. Self-Service Kiosks**
 
-These touchscreen kiosks allow visitors to check themselves in by entering their information, selecting their host, and printing visitor badges—all without the need for manual assistance.
+These touchscreen kiosks allow visitors to check themselves in by entering their information, selecting their host, and printing visitor badges -all without the need for manual assistance.
 
 **2. Digital Signage**
 

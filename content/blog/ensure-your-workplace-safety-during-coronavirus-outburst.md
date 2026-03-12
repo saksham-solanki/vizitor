@@ -18,7 +18,7 @@ While it’s daunting for sure, a visitor management system ensures to help you 
 ![](https://lh3.googleusercontent.com/OSgfWrTBsgWu4LBGOMgMZQ8-w84kS4H_2JSvDdh3CPPZZjy296LHUv4fIwbeRKYgP3v8rQALPLfLxnZo5hRDn-0l1_Tf9Km6SJBbCxzVI1BDZM7B3Nu8sVaYsEK9LksVLrfY-HLk)
 Now more than ever, there’s a crucial need to take precautions during these combat issues like the spread of serious infections in the workplace. Aside from handling such unexpected natural disasters, companies need an efficient way to relay health and safety procedures to visitors.
 
-A **[visitor management system](https://www.vizitorapp.com/)** can quickly and efficiently enforce health and safety regulations—before visitors ever step foot on the premises*.*
+A **[visitor management system](https://www.vizitorapp.com/)** can quickly and efficiently enforce health and safety regulations -before visitors ever step foot on the premises*.*
 
 ## Custom workflows and health screening digital questionnaires
 

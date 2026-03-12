@@ -19,7 +19,7 @@ Think about some common scenarios:
 
 
 
-These aren't just inconveniences—they’re barriers to growth.These are the hidden inefficiencies that cost businesses time, money, and productivity every single day. But what if there was a way to fix this?
+These aren't just inconveniences -they’re barriers to growth.These are the hidden inefficiencies that cost businesses time, money, and productivity every single day. But what if there was a way to fix this?
 
 
 
@@ -29,7 +29,7 @@ These aren't just inconveniences—they’re barriers to growth.These are the hi
 
 [Workspace Management System (WMS)](https://www.vizitorapp.com/space-management-software/) is the perfect tool for optimizing 21st century workspaces. 
 
-It’s not just about managing desks or booking rooms—it’s about creating a workplace that’s efficient, adaptive, and built for success.
+It’s not just about managing desks or booking rooms -it’s about creating a workplace that’s efficient, adaptive, and built for success.
 
 
 
@@ -71,7 +71,7 @@ With detailed analytics, you can:
 
 
 
-When every square foot is maximized, your office becomes not just a workspace—but a strategic asset that boosts productivity and reduces costs.
+When every square foot is maximized, your office becomes not just a workspace -but a strategic asset that boosts productivity and reduces costs.
 
 
 
@@ -88,7 +88,7 @@ Creating an environment where employees can work efficiently and collaborate sea
 
 
 
-A [Workspace Management Software](https://www.vizitorapp.com/blog/how-workplace-analytics-help-businesses-grow/) does more than just help employees find desks or meeting rooms—it makes the entire workspace smarter, more flexible, and better suited to the needs of the team.
+A [Workspace Management Software](https://www.vizitorapp.com/blog/how-workplace-analytics-help-businesses-grow/) does more than just help employees find desks or meeting rooms -it makes the entire workspace smarter, more flexible, and better suited to the needs of the team.
 
 
 
@@ -132,7 +132,7 @@ A [Space Management System](https://www.vizitorapp.com/blog/what-is-space-manage
 
 ## 4. Optimize Your Workspace for a Greener Future
 
-In today’s world, sustainability is no longer a choice—it's a responsibility. A Workspace Management Software not only helps you optimize your office space but also plays a significant role in making your business more environmentally friendly. 
+In today’s world, sustainability is no longer a choice -it's a responsibility. A Workspace Management Software not only helps you optimize your office space but also plays a significant role in making your business more environmentally friendly. 
 
 
 

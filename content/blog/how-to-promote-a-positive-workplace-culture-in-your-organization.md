@@ -84,11 +84,11 @@ By incorporating your brand's colours or adding design elements that showcase yo
 
 ### 2 – Make certain that it is free of clutter.
 
-When you have guests, treat your lobby as if it were your home. A clean, well-organized lobby reflects positively on your entire organisation. A cluttered, disorganised environment, on the other hand, can make a bad first impression. Clean the lobby every day—or several times a day, if necessary—to set the right tone.
+When you have guests, treat your lobby as if it were your home. A clean, well-organized lobby reflects positively on your entire organisation. A cluttered, disorganised environment, on the other hand, can make a bad first impression. Clean the lobby every day -or several times a day, if necessary -to set the right tone.
 
 ### 3 – Improve your waiting room
 
-The lobby is the first room your candidates will enter. As a result, it should not be an afterthought. Aside from comfortable seating, offer refreshments, Wi-Fi, and company swag to take home. Finally, don't underestimate the value of good lighting in creating a welcoming environment—no one wants to wait in a dingy and dark room.
+The lobby is the first room your candidates will enter. As a result, it should not be an afterthought. Aside from comfortable seating, offer refreshments, Wi-Fi, and company swag to take home. Finally, don't underestimate the value of good lighting in creating a welcoming environment -no one wants to wait in a dingy and dark room.
 
 ### 4 – Impress your visitors with the modern workplace
 

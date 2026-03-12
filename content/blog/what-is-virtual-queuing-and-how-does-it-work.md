@@ -17,7 +17,7 @@ From Offices to banks, all need smart solutions to enhance customer experiences 
 
 
 
-That’s where [virtual queuing](https://www.vizitorapp.com/queue-management-system/) makes a difference—a smart and easy way to manage queues without the need for physical lines.
+That’s where [virtual queuing](https://www.vizitorapp.com/queue-management-system/) makes a difference -a smart and easy way to manage queues without the need for physical lines.
 
 With virtual queuing, businesses now offer a smarter, more efficient way for people to wait. 
 
@@ -203,7 +203,7 @@ Whether you run a retail store, restaurant, or healthcare facility, our Virtual 
 
 
 
-Say goodbye to long lines and frustrated customers—explore Vizitor’s queue management solutions today and deliver a seamless, stress-free experience!
+Say goodbye to long lines and frustrated customers -explore Vizitor’s queue management solutions today and deliver a seamless, stress-free experience!
 
 ![Virtual queuing](/images/blog/group-7.png)
 

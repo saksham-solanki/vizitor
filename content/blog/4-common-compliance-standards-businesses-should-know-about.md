@@ -251,7 +251,7 @@ Implementing [smart visitor management systems](https://www.vizitorapp.com/) and
 
 
 
-Staying ahead in compliance isn’t just about meeting standards—it's about setting your organization up for long-term success.
+Staying ahead in compliance isn’t just about meeting standards -it's about setting your organization up for long-term success.
 
 
 

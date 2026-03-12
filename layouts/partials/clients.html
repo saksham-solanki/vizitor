@@ -1,112 +1,81 @@
-<!-- test -->
-<!-- <div id="clientscroll">
-    <section class="owl-carousel-featuredin owl-theme slider">
-        {{ range .Site.Data.clients.items }}
-        <div class="slide">
-            <div class="client-slide grayscale"><img src="{{ .image | absURL }}" alt="{{.brand}}" class="img-fluid"></div>
+<!-- Scrolling Client Logo Marquee -->
+<div class="vz-clients">
+    <div class="vz-clients__track">
+        <div class="vz-clients__slide">
+            <img src="/images/vizitor/vizitor-clint/hardrock.webp" alt="Hard Rock Cafe" />
+            <img src="/images/vizitor/vizitor-clint/hng.webp" alt="HNG" />
+            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="Veolia" />
+            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="Digicel" />
+            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="ShipRocket" />
+            <img src="/images/vizitor/vizitor-clint/axio.webp" alt="Axio" />
         </div>
-        {{end}}
-    </section>
-</div> -->
-
-<!-- <div class="container">
-    <div class="slider-logo">
-        <div class="slide-track">
-            {{ range .Site.Data.clients.items }}
-            <div class="slidelogo">
-                <img src="{{ .image | absURL }}" alt="{{.brand}}"  >
-            </div>
-            {{end}}
-        </div>
-    </div>
-</div> -->
-
-<div class="container text-center mb-5">
-    <h2>Trusted by secure workplaces worldwide</h2>
-</div>
-
-<div class="slider-logo">
-    <div class="slide-track">
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/hardrock.webp" alt="hardrock" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/hng.webp" alt="hng" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="veolia" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="digicel" />
-        </div>
-        <!-- <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/nestie.webp" alt="nestie" />
-        </div> -->
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="shiprocket" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/axio.webp" alt="axio" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/hardrock.webp" alt="hardrock" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/hng.webp" alt="hng" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="veolia" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="digicel" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="shiprocket" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/axio.webp" alt="axio" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="digicel" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="veolia" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="shiprocket" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="shiprocket" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/axio.webp" alt="axio" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/hardrock.webp" alt="hardrock" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/hng.webp" alt="hng" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="veolia" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="digicel" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="shiprocket" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/axio.webp" alt="axio" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="digicel" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="veolia" />
-        </div>
-        <div class="slidelogo">
-            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="shiprocket" />
+        <div class="vz-clients__slide" aria-hidden="true">
+            <img src="/images/vizitor/vizitor-clint/hardrock.webp" alt="Hard Rock Cafe" />
+            <img src="/images/vizitor/vizitor-clint/hng.webp" alt="HNG" />
+            <img src="/images/vizitor/vizitor-clint/veolia.webp" alt="Veolia" />
+            <img src="/images/vizitor/vizitor-clint/digicel.webp" alt="Digicel" />
+            <img src="/images/vizitor/vizitor-clint/shiprocket.webp" alt="ShipRocket" />
+            <img src="/images/vizitor/vizitor-clint/axio.webp" alt="Axio" />
         </div>
     </div>
 </div>
+
+<style>
+    .vz-clients {
+        padding: 32px 0;
+        background: var(--vz-bg);
+        overflow: hidden;
+        border-bottom: 1px solid var(--vz-border);
+        position: relative;
+    }
+    .vz-clients::before,
+    .vz-clients::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100px;
+        z-index: 2;
+        pointer-events: none;
+    }
+    .vz-clients::before {
+        left: 0;
+        background: linear-gradient(90deg, var(--vz-bg) 0%, transparent 100%);
+    }
+    .vz-clients::after {
+        right: 0;
+        background: linear-gradient(270deg, var(--vz-bg) 0%, transparent 100%);
+    }
+    .vz-clients__track {
+        display: flex;
+        width: max-content;
+        animation: vz-marquee 35s linear infinite;
+    }
+    .vz-clients__slide {
+        display: flex;
+        align-items: center;
+        gap: 72px;
+        padding: 0 36px;
+    }
+    .vz-clients__slide img {
+        height: 48px;
+        opacity: 0.5;
+        filter: grayscale(100%);
+        transition: all 0.3s ease;
+        flex-shrink: 0;
+    }
+    .vz-clients__slide img:hover {
+        opacity: 1;
+        filter: grayscale(0%);
+    }
+    @keyframes vz-marquee {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+    }
+    @media (max-width: 767px) {
+        .vz-clients { padding: 24px 0; }
+        .vz-clients__slide { gap: 48px; }
+        .vz-clients__slide img { height: 36px; }
+        .vz-clients::before, .vz-clients::after { width: 40px; }
+    }
+</style>

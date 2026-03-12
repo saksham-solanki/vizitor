@@ -49,7 +49,7 @@ Every access attempt is recorded, helping track employee movement and detect sec
 
 4. Custom Access Rules
 
-Businesses can define access levels—restricting certain areas to specific personnel or setting time-based entry permissions.
+Businesses can define access levels -restricting certain areas to specific personnel or setting time-based entry permissions.
 
 5. Remote Access Control
 

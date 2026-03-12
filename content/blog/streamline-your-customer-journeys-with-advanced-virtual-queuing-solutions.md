@@ -2,7 +2,7 @@
 title: Streamline your customer journeys with advanced virtual queuing solutions
 description: In a world where customer experience is king, businesses must go
   beyond merely providing quality products and services. The customer
-  journey—from initial interaction to the end of service—plays a vital role in
+  journey -from initial interaction to the end of service -plays a vital role in
   shaping brand perceptions and customer loyalty. Virtual queuing solutions have
   emerged as a powerful tool in this context, enabling businesses to streamline
   the customer journey, reduce wait times, and improve the overall service

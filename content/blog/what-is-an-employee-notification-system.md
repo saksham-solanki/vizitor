@@ -142,7 +142,7 @@ An [effective employee notification system](https://www.vizitorapp.com/visitor-m
 
 
 
-Multi-Channel Communication: The ability to send messages through various channels—such as emails, text messages, mobile push notifications, and phone calls—ensures that employees receive important information promptly, regardless of their location or device.
+Multi-Channel Communication: The ability to send messages through various channels -such as emails, text messages, mobile push notifications, and phone calls -ensures that employees receive important information promptly, regardless of their location or device.
 
 
 

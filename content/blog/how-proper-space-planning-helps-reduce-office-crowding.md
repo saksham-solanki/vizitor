@@ -36,7 +36,7 @@ Ready to create a workplace that works for everyone? Let’s get started!
 
 ## The Problem of Office Crowding: More Than Just a Tight Space
 
-Office crowding isn’t just about the lack of room—it affects your company's productivity, employee satisfaction, and even your bottom line. 
+Office crowding isn’t just about the lack of room -it affects your company's productivity, employee satisfaction, and even your bottom line. 
 
 
 
@@ -201,7 +201,7 @@ Surveys by [Workplace Trends](https://www.deel.com/blog/workplace-trends-2025/) 
 
 ## A Comfortable Workspace Leads to Better Results
 
-Proper space planning is not just about avoiding overcrowded offices—it’s about creating an environment where employees can thrive, collaborate, and contribute to the company’s success. 
+Proper space planning is not just about avoiding overcrowded offices -it’s about creating an environment where employees can thrive, collaborate, and contribute to the company’s success. 
 
 
 

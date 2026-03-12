@@ -53,7 +53,7 @@ Also explore: [The ultimate guide to Office Space Management ](https://www.vizi
 
 ## Key Benefits of Office Space Planning
 
-Effective office space planning is more than just arranging desks and chairs—it’s about creating an environment that fosters productivity, collaboration, and employee well-being. 
+Effective office space planning is more than just arranging desks and chairs -it’s about creating an environment that fosters productivity, collaboration, and employee well-being. 
 
 Here’s how a well-planned workspace benefits your business:
 
@@ -102,7 +102,7 @@ Poor space utilization can lead to high real estate costs without delivering pro
 
 ### 4. Supports Employee Well-Being
 
-The modern office is more than a workplace—it’s an experience. Employee comfort influences job satisfaction, mental well-being, and retention rates.
+The modern office is more than a workplace -it’s an experience. Employee comfort influences job satisfaction, mental well-being, and retention rates.
 
 
 
@@ -276,7 +276,7 @@ Selecting the right layout ensures that employees can work efficiently, whether 
 
 ### 3. Invest in Smart Office Technology
 
-A modern office isn’t just about furniture and layout—it must also be tech-enabled for seamless operations. Here’s what to prioritize: 
+A modern office isn’t just about furniture and layout -it must also be tech-enabled for seamless operations. Here’s what to prioritize: 
 
 
 

@@ -113,7 +113,7 @@ A Workplace Management System (WMS) is a software solution that centralizes and 
 
 ### **Q2. Who needs a WMS?**
 
-Any organization with a physical workspace can benefit from a WMS — including corporate offices, hospitals, schools, co-working spaces, and government facilities. Whether you manage 20 employees or 2,000, a WMS can scale to meet your needs.
+Any organization with a physical workspace can benefit from a WMS  - including corporate offices, hospitals, schools, co-working spaces, and government facilities. Whether you manage 20 employees or 2,000, a WMS can scale to meet your needs.
 
 ### **Q3. What are the core modules of a WMS?**
 
@@ -145,7 +145,7 @@ These measures help protect sensitive information and ensure compliance.
 
 ### **Q6. Can a WMS support hybrid or flexible work models?**
 
-Absolutely. WMS systems are built to support hot desking, hoteling, remote coordination, and space usage analysis — making them perfect for today’s evolving workplace models.
+Absolutely. WMS systems are built to support hot desking, hoteling, remote coordination, and space usage analysis  - making them perfect for today’s evolving workplace models.
 
 ### **Q7. What’s the ROI of implementing a WMS?**
 
@@ -176,7 +176,7 @@ Start by:
 4. Looking for integration options
 5. Ensuring strong support and data security
 
-Try a few demos or trials — like Vizitor’s Workplace Management System — to see what fits best.
+Try a few demos or trials  - like Vizitor’s Workplace Management System  - to see what fits best.
 
 ### **Q10. Can small businesses use a WMS?**
 

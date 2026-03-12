@@ -1,17 +1,39 @@
 {{ define "main" }}
 <div>
+    <!-- 1. Hero: Outcome headline + dual CTAs + inline trust stats + logos above fold -->
     <div>{{- partial "hero.html" . -}}</div>
+
+    <!-- 2. Scrolling logo marquee: reinforces trust immediately -->
     <div class="container-fluid">{{- partial "clients.html" . -}}</div>
-    <div>{{- partial "leaders.html" . -}}</div>
-    <div>{{- partial "features.html" . -}}</div>
-    <div>{{- partial "benefits.html" . -}}</div>
-    <!-- <div>{{- partial "users.html" . -}}</div> -->
+
+    <!-- 3. How It Works: Step-by-step workflow (CRO: was missing, enterprise buyers need to understand flow) -->
+    <div>{{- partial "how-it-works.html" . -}}</div>
+
+    <!-- 5. Case Study: Social proof early (CRO: previously only 10.7% saw this) -->
     <div>{{- partial "case-studies.html" . -}}</div>
-    <div>{{- partial "efficient-applicable.html" . -}}</div>
+
+    <!-- 6. Products: Workplace platform modules -->
+    <div>{{- partial "leaders.html" . -}}</div>
+
+    <!-- 7. Mid-page CTA: Capture at scroll midpoint -->
+    <div>{{- partial "mid-cta.html" . -}}</div>
+
+    <!-- 8. Features: For Visitor / For Employee tabs -->
+    <div>{{- partial "features.html" . -}}</div>
+
+    <!-- 9. Security & Compliance: Trust section for enterprise buyers -->
+    <div>{{- partial "security.html" . -}}</div>
+
+    <!-- 10. Industries: Use case cards -->
     <div>{{- partial "Industries.html" . -}}</div>
+
+    <!-- 11. Benefits: Key advantages + email capture -->
+    <div>{{- partial "benefits.html" . -}}</div>
+
+    <!-- 12. Blog: Latest posts -->
     <div>{{- partial "blog.html" . -}}</div>
+
+    <!-- 13. Final CTA -->
     <div>{{- partial "subscribesection.html" . -}}</div>
-
-
 </div>
 {{end}}

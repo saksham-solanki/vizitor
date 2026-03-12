@@ -85,7 +85,7 @@ Upon scanning the QR code, the system sends real-time notifications to the host,
 
 ### 3. Seamless Visitor Check-In Process
 
-Upon arrival, visitors can easily check in using their smartphones and the QR code provided. At the check-in point—whether it's a dedicated kiosk or a mobile device—the visitor simply scans the QR code. This action instantly logs their arrival in the system, eliminating the need for manual data entry and minimizing potential errors. The entire check-in process takes just seconds, enhancing efficiency and providing a seamless experience for visitors.
+Upon arrival, visitors can easily check in using their smartphones and the QR code provided. At the check-in point -whether it's a dedicated kiosk or a mobile device -the visitor simply scans the QR code. This action instantly logs their arrival in the system, eliminating the need for manual data entry and minimizing potential errors. The entire check-in process takes just seconds, enhancing efficiency and providing a seamless experience for visitors.
 
 ### 4. Integration with Access Control Systems
 

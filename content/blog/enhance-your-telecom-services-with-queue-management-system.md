@@ -252,7 +252,7 @@ In the world of telecom, where speed and customer satisfaction are everything, n
 
 
 
-By adopting a [smart queue system](https://www.vizitorapp.com/best-queue-management-system/), you're offering a smoother, faster, and more pleasant experience—whether it's in a retail store or on the phone. With real-time updates, reduced wait times, and an easy-to-use interface, your customers will feel valued from start to finish.
+By adopting a [smart queue system](https://www.vizitorapp.com/best-queue-management-system/), you're offering a smoother, faster, and more pleasant experience -whether it's in a retail store or on the phone. With real-time updates, reduced wait times, and an easy-to-use interface, your customers will feel valued from start to finish.
 
 
 

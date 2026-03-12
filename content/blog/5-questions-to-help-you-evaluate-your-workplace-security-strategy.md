@@ -35,7 +35,7 @@ A paper logbook is outdated and ineffective in today’s security landscape. Imp
 
  Such systems enhance security by improving control and visibility of visitors, ensuring only authorized individuals gain access to specific areas.
 
-Our [Visitor Management System Vizitor](https://www.vizitorapp.com/) offers a digital check-in system that records visitor details, captures photos, and even issues digital badges—ensuring that every visitor is accounted for.
+Our [Visitor Management System Vizitor](https://www.vizitorapp.com/) offers a digital check-in system that records visitor details, captures photos, and even issues digital badges -ensuring that every visitor is accounted for.
 
 💡Using a cloud-based visitor management system allows you to track and monitor visitor data in real time, enhancing workplace security and compliance.
 
@@ -85,7 +85,7 @@ For Employees:
 
 Regular Training Sessions: Conduct periodic training to familiarize staff with security procedures, including visitor management protocols. This ensures that employees are equipped to enforce policies effectively.
 
-Clear Communication Channels: Utilize internal communications—such as emails, newsletters, or intranet postings—to disseminate updates or changes in security policies promptly.
+Clear Communication Channels: Utilize internal communications -such as emails, newsletters, or intranet postings -to disseminate updates or changes in security policies promptly.
 
 Accessible Policy Documentation: Maintain easily accessible records of all security policies, allowing employees to reference them as needed.
 

@@ -71,7 +71,7 @@ Listening to customers allows businesses to gather specific, [real-time feedback
 
 According to a survey by Zendesk, 62% of customers stop doing business with brands due to poor customer service, often tied to feeling unheard.
 
- Listening to clients is not just about resolving issues—it’s about creating a connection. When customers feel valued, they’re more likely to return and recommend your business.
+ Listening to clients is not just about resolving issues -it’s about creating a connection. When customers feel valued, they’re more likely to return and recommend your business.
 
 
 
@@ -350,6 +350,6 @@ So, take the first step today and start listening to your customers actively.
 
 
 
-Ready to revolutionize your customer experience? Schedule a demo with [Vizitor](https://www.vizitorapp.com/) today and discover how our Queue Management System can help your business listen, adapt, and thrive. Don't wait—your customers are ready for a better experience!
+Ready to revolutionize your customer experience? Schedule a demo with [Vizitor](https://www.vizitorapp.com/) today and discover how our Queue Management System can help your business listen, adapt, and thrive. Don't wait -your customers are ready for a better experience!
 
 **[Contact Us Now](https://www.vizitorapp.com/contact/) | [Book a Demo](https://www.vizitorapp.com/demo/)**

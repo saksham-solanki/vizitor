@@ -116,7 +116,7 @@ While traditional systems remain essential for personalized assistance,modern ai
 
 **Studies shown that:**
 
-At [Changi Airport in Singapore](https://www.changiairport.com/), self-service kiosks equipped with facial recognition technology allow travelers to check in, clear immigration, and board flights—all without interacting with airport staff. This has reduced check-in time by 40%, enhancing passenger satisfaction.
+At [Changi Airport in Singapore](https://www.changiairport.com/), self-service kiosks equipped with facial recognition technology allow travelers to check in, clear immigration, and board flights -all without interacting with airport staff. This has reduced check-in time by 40%, enhancing passenger satisfaction.
 
 ![How To Use Self- service Kiosks at Airport](/images/blog/how-to-use-self-service-kiosks-at-airport-.jpeg)
 
@@ -201,7 +201,7 @@ How Vizitor Helps?
 
 At busy times, travelers often look for the best kiosk that offers their required services. 
 
-[Vizitor’s queue management system](https://www.vizitorapp.com/queue-management-system/) ensures that passengers are efficiently guided to kiosks that can handle their specific requests—whether it’s checking in, upgrading seats, or modifying a booking.
+[Vizitor’s queue management system](https://www.vizitorapp.com/queue-management-system/) ensures that passengers are efficiently guided to kiosks that can handle their specific requests -whether it’s checking in, upgrading seats, or modifying a booking.
 
  This system prevents overcrowding and long lines at service points, keeping the airport experience efficient and organized.
 
@@ -243,7 +243,7 @@ This improves the efficiency of the check-in process and ensures that passengers
 ## Tips for Using Self-Service Airport Kiosks
 
 * Have Your Documents Ready: Keep your booking reference or passport handy for quick check-in.
-* Follow On-Screen Instructions: The kiosk will guide you step-by-step—just follow the prompts.
+* Follow On-Screen Instructions: The kiosk will guide you step-by-step -just follow the prompts.
 * Check Your Seat Selection: Make sure you choose your preferred seat before confirming.
 * Print Your Boarding Pass: After check-in, don’t forget to print your boarding pass.
 * Drop Your Bag Quickly: Use the self-service baggage drop to avoid waiting in long lines.
@@ -278,7 +278,7 @@ Airports are increasingly looking to integrate self-service kiosks with other in
 
 #### **What are self-service check-in kiosks at airports?**
 
-A self-service check-in kiosk is a digital machine that allows passengers to check in, select seats, print boarding passes, and even tag their luggage—without staff assistance.
+A self-service check-in kiosk is a digital machine that allows passengers to check in, select seats, print boarding passes, and even tag their luggage -without staff assistance.
 
 #### **Which airlines use self-service kiosks?**
 

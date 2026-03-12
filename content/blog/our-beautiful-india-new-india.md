@@ -36,7 +36,7 @@ India needs the effective role of civil society in the making of new India. All 
 
 ## Optimal Water Use
 
-India is facing one of its major and most serious water crisis. After two consecutive years of weak monsoons, 330 million people — a quarter of the country’s population — are [affected](https://www.circleofblue.org/indiawater/) by a severe drought. With nearly 50 per cent of India grappling with drought-like conditions, the situation has been particularly grim this year in [western and southern states](https://www.thehindu.com/sci-tech/energy-and-environment/nearly-50-per-cent-of-india-currently-facing-drought-say-iit-gandhinagar-scientists/article26396033.ece) that received below average rainfall.
+India is facing one of its major and most serious water crisis. After two consecutive years of weak monsoons, 330 million people  - a quarter of the country’s population  - are [affected](https://www.circleofblue.org/indiawater/) by a severe drought. With nearly 50 per cent of India grappling with drought-like conditions, the situation has been particularly grim this year in [western and southern states](https://www.thehindu.com/sci-tech/energy-and-environment/nearly-50-per-cent-of-india-currently-facing-drought-say-iit-gandhinagar-scientists/article26396033.ece) that received below average rainfall.
 
 ## Digital India Program
 

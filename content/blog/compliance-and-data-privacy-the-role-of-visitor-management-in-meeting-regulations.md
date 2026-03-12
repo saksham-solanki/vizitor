@@ -27,7 +27,7 @@ With most large organizations which encounter a variety of different guests,digi
 ## Role of Visitor Management System in meeting compliance and data privacy standards
 
 Visitor management system has come with various best practices across a number of regulatory standards and laws.
-For companies in many industries, visitor management  helps meeting compliance regulations. Meeting regulatory compliance—like **GDPR,C-TPAT, ITAR and FSMA—**is important to avoid major penalties for any organization.
+For companies in many industries, visitor management  helps meeting compliance regulations. Meeting regulatory compliance -like **GDPR,C-TPAT, ITAR and FSMA -**is important to avoid major penalties for any organization.
 
  In this post, we’ll discuss how you can and stay in compliance with data laws and standards using  a visitor management solution.
 
